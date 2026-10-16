@@ -280,9 +280,11 @@ python -m pip install pyinstaller
 python build_exe.py
 ```
 
-- 成品：`../软件/SZ_MetroEditor.exe`（单文件，约 45 MB）
+- 成品：`../软件/SZ_MetroEditor.exe`（单文件，约 47 MB）
 - 打包时会把 `data/` 下的普通文件塞进 exe 作为**初始数据**
   （首启动只复制 `stations.json` / `lines.json` / `schema.json`）
+- ★ 官方底图 `underlay.png` 与 `*.bak*` 调试备份**不打包**（版权 + 体积，见
+  `build_exe.py` 的 `_bundle_skip()`）；本机 `data/` 里已有底图，功能照常
 - 脚本会先关掉正在运行的旧 exe、只清理输出目录里的**旧文件**（`data/` `logs/` 绝不碰）
 
 ---

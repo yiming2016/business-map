@@ -114,7 +114,8 @@ def _bundle_skip(name: str) -> bool:
 
 
 def _stage_data_for_bundle() -> Path:
-    """给 PyInstaller 准备一份 data 快照，**排除子目录（covers/）**。
+    """给 PyInstaller 准备一份 data 快照，**排除子目录（covers/ 等）与不该入包的文件**
+    （后者见 `_bundle_skip()`：官方底图 + 调试备份）。
 
     ★ 为什么不能直接 `--add-data data;data`：
       data/covers/ 是用户给站点加的封面图，属于用户数据。
@@ -141,7 +142,7 @@ def _stage_data_for_bundle() -> Path:
             continue
         shutil.copy2(item, staged / item.name)
         kept += 1
-    print(f"[DATA] 打包数据快照：{kept} 个文件，跳过 {skipped} 个子目录 → {staged}")
+    print(f"[DATA] 打包数据快照：{kept} 个文件入库，{skipped} 项跳过 → {staged}")
     return staged
 
 
