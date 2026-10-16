@@ -1,0 +1,141 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "906、M229、M466、M570",
+     "busName": "华乐社区"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "906、M229、莞781",
+     "busName": "康乐五区"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B916、M208、M229、莞781",
+     "busName": "四联地铁站"
+    }
+   ],
+   "chukou": "E1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:34",
+   "mobanchexia": "23:50",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:14",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "906、M229、M466、M570",
+     "busName": "Hua Le community"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "906、M229、莞781",
+     "busName": "Kangle zone 5"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B916、M208、M229、莞781",
+     "busName": "Silian subway station"
+    }
+   ],
+   "chukou": "Exit E1"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:34",
+   "mobanchexia": "00:50",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:14",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "横岗一号路东侧、信义锦绣花园、卓越城市中心花园"
+  },
+  {
+   "outt": "                  B出入口",
+   "textt": "红棉路南侧（西）、康乐五区"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "红棉路南侧（东）、贤合小区"
+  },
+  {
+   "outt": "                                   E1出入口",
+   "textt": "红棉路北侧、龙岗区横岗街道职工新村、康乐花园、康乐幼儿园、怡锦社区便民服务站"
+  },
+  {
+   "outt": "                   E2出入口",
+   "textt": "恒心路西侧、怡锦社区退役军人服务站"
+  }
+ ],
+ "siteCode": "1407",
+ "siteIntroduce": "四联站位于红棉路与横岗一号路、恒心路交叉口。该站为地下站。",
+ "siteName": "四联站",
+ "siteNameen": "Silian",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:35",
+   "mobanchexia": "23:50",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

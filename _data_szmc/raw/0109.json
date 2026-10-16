@@ -1,0 +1,277 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3路、64路、B709路、E25路、E38路、M183路、M194路、M224路、M441路、M454路、M588路、高峰专线23路、高峰专线59路、P204/P204A",
+     "busName": "购物公园地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3路、E1路、E25路、E38路、M183路、M224路、M588路、高峰专线23路",
+     "busName": "购物公园地铁公交接驳站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3路、64路、B709路、E25路、M183路、M194路、M224路、M441路、M454路、M588路、高峰专线23路、高峰专线59路、P204/P204A",
+     "busName": "购物公园地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M417",
+     "busName": "中海华庭"
+    },
+    {
+     "busInfo": "M417、M459",
+     "busName": "民田路公交总站"
+    },
+    {
+     "busInfo": "M519",
+     "busName": "城中雅苑"
+    },
+    {
+     "busInfo": "观光巴士红线（人文历史）、观光巴士蓝线（科技生态）",
+     "busName": "购物公园（中海华庭）"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3路、64路、B709路、E10路、E25路、E38路、K5路、M183路、M194路、M224路、M441路、M454路、M459路、M519路、M588路、高峰专线23路、高快巴士10号线",
+     "busName": "购物公园地铁站"
+    },
+    {
+     "busInfo": "3路、3路大站快车、E10路、E1路、E25路、E38路、M183路、M224路、M588路、福田欢乐购免费接驳专线2路、高峰专线23路、高快巴士10号线",
+     "busName": "购物公园地铁公交接驳站"
+    },
+    {
+     "busInfo": "M441、购物公园",
+     "busName": "民田路中"
+    }
+   ],
+   "chukou": "H出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:52",
+   "mobanchexia": "23:16",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "00:23",
+   "mobanchexia": "23:06",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、64、B709、E25、E38、M183、M194、M224、M441、M454、M588、Peak Express Line23、Peak Express Line59、P204/P204A",
+     "busName": "Shopping park subway station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、E1、E25、E38、M183、M224、M588、Peak Express Line23",
+     "busName": "Shopping Park Metro bus station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、64、B709、E25、M183、M194、M224、M441、M454、M588、Peak Express Line23、Peak Express Line59、P204/P204A",
+     "busName": "Shopping park subway station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M417",
+     "busName": "Zhonghaihuating"
+    },
+    {
+     "busInfo": "M417、M459",
+     "busName": "Mintian Road Bus Terminal"
+    },
+    {
+     "busInfo": "M519",
+     "busName": "Chengzhongyayuan"
+    },
+    {
+     "busInfo": "Sightseeing Bus Red Line (Human History)、Sightseeing Bus Blue Line (Technology Ecology)",
+     "busName": "Shopping Park (Zhonghai Huating)"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、64、B709、、E10、E25、E38、K5、M183、M194、M224、M441、M454、M459、M519、M588、Peak Express Line23、Express bus 10",
+     "busName": "Shopping park subway station"
+    },
+    {
+     "busInfo": "3、Rapid 3 E10、E1、E25、E38、M183、M224、M588、Futian Happy purchase free connection 2、Peak Express Line23、Express Bus 10",
+     "busName": "Shopping Park Metro bus station"
+    },
+    {
+     "busInfo": "M441、Shopping Park",
+     "busName": "Mintian Road Middle"
+    }
+   ],
+   "chukou": "Exit H"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:52",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "01:06",
+   "mobanchexia": "00:06",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "福华路北侧（东）、益田路（北）、福田高铁站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "福华路北侧（西）、民田路（北）、购物公园、连城新天地会购区间"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "福华路南侧（西）、民田路（南）、福田星河COCO PARK"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "福华路南侧（东）、益田路（南）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "福华二路、福华三路、民田路东侧、民田路公交总站"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "福田星河COCO PARK"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "福田星河COCO PARK"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "福华路南侧（西）、新洲路东侧、民田路西侧"
+  }
+ ],
+ "siteCode": "0109",
+ "siteIntroduce": "购物公园站位于福田区民田路与福华路交汇处，为1、3号线的换乘站。该站为地下站。",
+ "siteName": "购物公园站",
+ "siteNameen": "Shopping Park",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:52",
+   "mobanchexia": "23:16",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:36",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "2～3分钟",
+   "gaofenjiangeen": "2～3m钟",
+   "mobanche": "00:23",
+   "mobanchexia": "23:06",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

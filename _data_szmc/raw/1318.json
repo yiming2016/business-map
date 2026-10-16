@@ -1,0 +1,74 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:19",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:49",
+   "shoubanchexia": "07:04",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:19",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:49",
+   "shoubanchexia": "07:04",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "outAndText": [],
+ "siteCode": "1318",
+ "siteIntroduce": "",
+ "siteName": "德雅路站",
+ "siteNameen": "Deya Rd",
+ "workDay": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:19",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:49",
+   "shoubanchexia": "07:04",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ]
+}

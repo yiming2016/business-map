@@ -1,0 +1,74 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:21",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:43",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:21",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:43",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  }
+ ],
+ "outAndText": [],
+ "siteCode": "0414",
+ "siteIntroduce": "暂无数据",
+ "siteName": "龙华站",
+ "siteNameen": "Longhua",
+ "workDay": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:21",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:43",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  }
+ ]
+}

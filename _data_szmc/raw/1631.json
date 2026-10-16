@@ -1,0 +1,135 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "939、E17、M151",
+     "busName": "深圳高级中学东校区"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M189",
+     "busName": "技术大学地铁站东"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M189",
+     "busName": "技术大学地铁站东"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线655",
+     "busName": "技术大学地铁站D出口"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:02",
+   "mobanchexia": "00:03",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:47",
+   "shoubanchexia": "06:44",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:02",
+   "mobanchexia": "01:03",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:45",
+   "shoubanchexia": "06:44",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "创景路西侧、深圳高级中学东校区公交站、深圳高级中学(集团)东校区高中部、深圳市第三职业技术学校"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "兰田路南侧(东)、深圳市公安局坪山分局石井派出所、深圳市坪山区人民法院石井人民法庭、深圳高级中学(集团)东校区小学部初中部"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "兰田路北侧(东)、技术大学地铁站东公交站、城市交通与物流学院"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "兰田路北侧(西)、深圳技术大学"
+  }
+ ],
+ "siteCode": "1631",
+ "siteIntroduce": "技术大学站位于兰田路与创景路交叉口、沿兰田路东西向布置，该站为地下站。",
+ "siteName": "技术大学站",
+ "siteNameen": "Technology University",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:02",
+   "mobanchexia": "00:03",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:41",
+   "shoubanchexia": "06:35",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

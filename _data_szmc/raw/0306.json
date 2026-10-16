@@ -1,0 +1,181 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10路、M183路、M105路、M213路",
+     "busName": "中心书城北"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10路、 M105路、M183路、 M213路",
+     "busName": "中心书城北"
+    }
+   ],
+   "chukou": "F1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "111路、M262路、M555路、M588路",
+     "busName": "少年宫"
+    }
+   ],
+   "chukou": "F2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "00:18",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:47",
+   "mobanchexia": "23:07",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:30",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10、M183、M105、M213",
+     "busName": "Central Book City North"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10、M105、M183、M213",
+     "busName": "Central Book City North"
+    }
+   ],
+   "chukou": "Exit F1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "111、M262、M555、M588",
+     "busName": "Children's Palace"
+    }
+   ],
+   "chukou": "Exit F2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "01:02",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:47",
+   "mobanchexia": "23:07",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:30",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "E出入口",
+   "textt": "红荔路（南）、益田路东侧、鹏程三路东侧、深圳市儿童医院、深圳音乐厅、深圳中心书城、深圳图书馆、地铁大厦、全力滑板"
+  },
+  {
+   "outt": "F1出入口",
+   "textt": "红荔路北侧（西）、莲花山公园、中心书城北公交站"
+  },
+  {
+   "outt": "F2出入口",
+   "textt": "红荔路北侧（东）、关山月美术馆、少年宫公交站"
+  }
+ ],
+ "siteCode": "0306",
+ "siteIntroduce": "少年宫站位于福田区红荔路下方，为3、4号线换乘站。该站为地下站。",
+ "siteName": "少年宫站",
+ "siteNameen": "Children's Palace",
+ "workDay": [
+  {
+   "gaofenjiange": "2～3分钟",
+   "gaofenjiangeen": "2～3m钟",
+   "mobanche": "00:18",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:47",
+   "mobanchexia": "23:07",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:30",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  }
+ ]
+}

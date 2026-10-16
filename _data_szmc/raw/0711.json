@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "71路、73路、326路、M312路、M398路",
+     "busName": "高级中学南校区"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B611路、B968路、M500路",
+     "busName": "东海实验小学"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "71路、B611路、M500路、B907路",
+     "busName": "东海实验小学"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73路、326路、328路、B611路、B907路、M312路、M500路、M398路",
+     "busName": "农林地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:38",
+   "mobanchexia": "23:23",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:36",
+   "shoubanchexia": "05:48",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "71、73、326、M312、M398",
+     "busName": "Shenzhen Senior High School South Campus"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B611、B968、M500",
+     "busName": "Donghai Experimental Primary School"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "71、B611、M500、B907",
+     "busName": "Donghai Experimental Primary School"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73、326、328、B611、B907、M312、M500、M398",
+     "busName": "Nonglin Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:38",
+   "mobanchexia": "00:23",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:36",
+   "shoubanchexia": "05:48",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "红荔西路南侧（西）、农林路东侧（南）、深圳高级中学（集团）南校区、福田区风湿病专科医院、深南中学小区、竹园小区、鑫竹苑、建业小区"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "红荔西路南侧（东）、农轩路西侧（南）、农科商务办公楼"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "红荔西路北侧（东）、农轩路西侧（北）、深圳高级中学（集团）中心校区、深圳市福田区东海实验小学、香蜜公园、荔林苑、俊安苑、龙溪花园、深业香荔花园、香榭里花园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": " 农林路东侧（北）、红荔西路北侧（西）、深圳市眼科医院、荔翠阁"
+  }
+ ],
+ "siteCode": "0711",
+ "siteIntroduce": "农林站位于农林路和红荔西路交叉路口东侧。该站为地下站。",
+ "siteName": "农林站",
+ "siteNameen": "Nonglin",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:38",
+   "mobanchexia": "23:23",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "05:39",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

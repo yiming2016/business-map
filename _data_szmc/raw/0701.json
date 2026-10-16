@@ -1,0 +1,151 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B818、M176",
+     "busName": "深大总医院"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B818、M176",
+     "busName": "深大总医院总站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "43、74、81、122、B818、B617、M176、M459",
+     "busName": "深大总医院站南"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "43、74、81、B617、高峰专线59、高快巴士23",
+     "busName": "中科院深圳先进院:"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "--",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B818、M176",
+     "busName": "Shenzhen University General Hospital"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B818、M176",
+     "busName": "Shenzhen University General Hospital Bus Termnal"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "43、74、81、122、B818、B617、M176、M459",
+     "busName": "Shenzhen University General Hospital Souht"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "43、74、81、B617、Peak Express Line 59、High-Speed Express Bus Line 23",
+     "busName": "Shenzhen Institutes of Advanced Technology Chinese Academy of Science"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "--",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "幽兰路、深圳大学总医院、深圳大学丽湖校区惟品门"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "南科路、学康路、学苑大道、大沙河生态长廊、深圳市南方科技大学教育集团（南山）实验一小、水木丹华、塘朗新村、塘朗大厦"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "柳荫路、笃学路、崇文花园、深圳大学丽湖校区惟理门、中国科学院深圳先进技术研究院、南方科技大学附属实验学校、深圳大学附属教育集团实验学校"
+  }
+ ],
+ "siteCode": "0701",
+ "siteIntroduce": "深大丽湖站位于位于南山区位于幽兰路和学康路之间。该站为地下站。",
+ "siteName": "深大丽湖站",
+ "siteNameen": "SZU Lihu Campus",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

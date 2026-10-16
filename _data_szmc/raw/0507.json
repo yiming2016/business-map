@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B683 、M176、M562",
+     "busName": "万象前海"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B683 、M176、M158、M418",
+     "busName": "桂湾地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M562、M158",
+     "busName": "万象前海"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M158、M418",
+     "busName": "桂湾地铁站"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B683 、M176、M562",
+     "busName": "Mix C Qianhai"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B683 、M176、M158、M418",
+     "busName": "Guiwan Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M562、M158",
+     "busName": "Mix C Qianhai"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M158、M418",
+     "busName": "Guiwan Metro Station"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "01:00",
+   "mobanchexia": "00:26",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "桂湾四路南侧（东）、听海大道东侧（南）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "桂湾四路北侧（东）、听海大道东侧（北）、前海交易广场"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "桂湾四路北侧（西）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "桂湾四路南侧（西）、听海大道西侧（南）、前海社区便民服务站、国家税务总局深圳市前海税务局"
+  }
+ ],
+ "siteCode": "0507",
+ "siteIntroduce": "桂湾站位于南山区听海大道与桂湾四路交叉口下方。该站为地下站。",
+ "siteName": "桂湾站",
+ "siteNameen": "Guiwan",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒/4-5分16秒",
+   "gaofenjiangeen": "2-2m38s/4-5m16s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

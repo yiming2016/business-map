@@ -1,0 +1,147 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "69、85、111、312、381、M133、M383、M146",
+     "busName": "新秀小学"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "85、111、M133、M146",
+     "busName": "罗芳小学"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "69、381、M383",
+     "busName": "罗芳新秀路口"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M146",
+     "busName": "新秀地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:36",
+   "mobanchexia": "23:50",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "69、85、111、312、381、M133、M383、M146",
+     "busName": "Xinxiu Primary School"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "85、111、M133、M146",
+     "busName": "Xinxiu Primary School"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "69、381、M383",
+     "busName": "Luofang Xinxiu Intersection"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M146",
+     "busName": "Xinxiu Station"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:36",
+   "mobanchexia": "00:50",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "新秀路（西）、罗芳路、罗湖外语实验学校、罗芳小学、古玩城、南方大厦、新秀村、新秀小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "新秀路（东）、罗坊西山、华兴花园、通发花园、金枫花园"
+  }
+ ],
+ "siteCode": "0229",
+ "siteIntroduce": "新秀站位于罗湖区新秀路与罗芳路交汇处东侧。该站为地下站。",
+ "siteName": "新秀站",
+ "siteNameen": "Xinxiu",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:36",
+   "mobanchexia": "23:50",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

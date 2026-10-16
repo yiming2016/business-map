@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、923、M422、M317、M361、M446",
+     "busName": "回龙埔"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、923、M422、M317、M361、M446",
+     "busName": "回龙埔"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:38",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、923、M422、 M317、 M361、 M446",
+     "busName": "HuiLongpu"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、923、M422、 M317、 M361、 M446",
+     "busName": "HuiLongpu"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:38",
+   "mobanchexia": "00:28",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙平西路南侧（西）、深圳市龙岗区妇幼保健院、深圳市龙岗区人民医院、回龙埔地铁站（公交站）、瑞华园、熙和园、深圳市龙岗区实验学校、学府道花园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙平西路南侧（东）、吉祥中路、城市花园、深圳福田银座村镇银行、深圳市龙岗区妇幼保健院"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙平西路北侧（东）、回龙埔地铁站（公交站）、深圳中学龙岗学校（集团）兰著学校、长江花园、华业玫瑰郡、回龙埔公园、全盛紫悦龙庭"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙平西路北侧（西）、回龙埔第一幼儿园、回龙埔肉菜街市、万科翰邻城、深圳市.龙岗区.龙城街道.回龙埔社区、深圳市龙岗区人民医院翰邻城社区健康服务中心、中国工商银行、深圳中学龙岗学校"
+  }
+ ],
+ "siteCode": "1614",
+ "siteIntroduce": "回龙埔站位于龙平西路与吉祥中路交叉口西侧，沿龙平西路东西向布置，该站为地下站。",
+ "siteName": "回龙埔站",
+ "siteNameen": "Huilongpu",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:38",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M558、M526、M335、M511、高峰专线265",
+     "busName": "钟屋南地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M511、M526、M558、高峰专线265、603、707、M210、M250、M335、M470、汇江三路口",
+     "busName": "钟屋南地铁站"
+    }
+   ],
+   "chukou": "E1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M246、603、707、E36、M210、M470、高峰专线95",
+     "busName": "汇江三路口"
+    }
+   ],
+   "chukou": "E2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:44",
+   "mobanchexia": "23:42",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M558、M526、M179、M511Peak Direct Connect265Exit E1",
+     "busName": "ZhongWuNan Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M246、603、707、E36、M210、M470、Direct Connect95",
+     "busName": "Huijiang Third Road Intersection"
+    }
+   ],
+   "chukou": "Exit E2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:44",
+   "mobanchexia": "00:42",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "洲石路东北侧、钟屋南地铁站公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "洲石路东北侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "洲石路西北侧、深圳市宝安区中心医院智荟城社区健康服务中心"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "洲石路西北侧"
+  },
+  {
+   "outt": "E1出入口",
+   "textt": "洲石路东南侧、钟屋南地铁站公交站"
+  },
+  {
+   "outt": "E2出入口",
+   "textt": "洲石路西南侧"
+  }
+ ],
+ "siteCode": "1221",
+ "siteIntroduce": "钟屋南站位于洲石路和前进二路的交叉口处、沿前进二路南北向敷设。该站为地下站。",
+ "siteName": "钟屋南站",
+ "siteNameen": "Zhongwu South",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:44",
+   "mobanchexia": "23:42",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

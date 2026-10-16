@@ -1,0 +1,347 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、 62",
+     "busName": "福民地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、62、63、M133、M134",
+     "busName": "皇岗创新实验学校"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "63、73、303、M102、M133、M138、M169",
+     "busName": "福田保健院"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、 62、M102、M576",
+     "busName": "福民地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "377、M102、M103、M476、高峰专线52",
+     "busName": "福民新村站"
+    }
+   ],
+   "chukou": "H出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73、303、377、M102、M103、M138、M169、M476、高峰专线52",
+     "busName": "高训大厦"
+    }
+   ],
+   "chukou": "J1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73、303、377、M102、M103、M138、M169、M476、N68、高峰专线52",
+     "busName": "高训大厦"
+    }
+   ],
+   "chukou": "J3出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "377、M102、M103、M476、N68、高峰专线52",
+     "busName": "福民新村站"
+    }
+   ],
+   "chukou": "K出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:52",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:35",
+   "shoubanchexia": "06:32",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:25",
+   "mobanchexia": "23:36",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:41",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:53",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、 62",
+     "busName": "Fumin Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、62、63、M133、M134",
+     "busName": "Huanggang Innovative Experimental School"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "63、73、303、M102、M133、M138、M169",
+     "busName": "Futian Healthcare Hospital"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、 62、M102、M576",
+     "busName": "Fumin Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "377、M102、M103、M476、Peak Express Line 52",
+     "busName": "Fumin New Village"
+    }
+   ],
+   "chukou": "Exit H"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73、303、377、M102、M103、M138、M169、M476、Peak Express Line 52",
+     "busName": "Gaoxun Building"
+    }
+   ],
+   "chukou": "Exit J1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73、303、377、M102、M103、M138、M169、M476、N68、Peak Express Line 52",
+     "busName": "Gaoxun Building"
+    }
+   ],
+   "chukou": "Exit J3"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "377、M102、M103、M476、N68、Peak Express Line 52",
+     "busName": "Fumin New Village"
+    }
+   ],
+   "chukou": "Exit K"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:52",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:35",
+   "shoubanchexia": "06:32",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:25",
+   "mobanchexia": "00:36",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:41",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  },
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:53",
+   "mobanchexia": "00:02",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "金田路东侧（南）、福田区劳动技术教育中心、福民佳园、福涛东园、深港城市候机楼"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "金田路东侧（北）、金秋路南侧（西）、皇岗中学、知本大厦、辛盛苑"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "福民路北侧（西）、皇安大厦、皇岗村"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "福民路南侧（西）、金田路西侧（西）、福田妇幼保健院门诊部、银庄大厦、水围村、福田区水围小学"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "福民路南侧（东）、绿谷路、时代星居、福雅园"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "福民路北侧、龙秋一街西侧、金秋路南侧（东）、福田妇幼保健院住院部、知本大厦、皇福裕苑"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "福民路北侧（西）、金田路东侧"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "福强路东侧（南）、福民大厦、福民新村"
+  },
+  {
+   "outt": "J出入口",
+   "textt": "福强路（北）、吉龙三街、深圳中山泌尿外科医院、深圳鹏城技师学院、富强花园、恒福花园、福安阁"
+  },
+  {
+   "outt": "K出入口",
+   "textt": "福强路西侧（南）、皇庭居、紫光名苑、景源华庭"
+  }
+ ],
+ "siteCode": "0717",
+ "siteIntroduce": "福民站车站位于深圳市福田区福强路和福民路交叉路口以北，为10、7、4号线换乘站。该站为地下站。",
+ "siteName": "福民站",
+ "siteNameen": "Fumin",
+ "workDay": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:52",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:35",
+   "shoubanchexia": "06:32",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:25",
+   "mobanchexia": "23:36",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:36",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:52",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:18",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

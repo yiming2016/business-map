@@ -1,0 +1,142 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "624路、882路、M244路、M262路、M301路、M310路、M352路、M378路、M379路、M415路、M420路、M462路、M548路、高峰专线43路、大浪时尚小镇阳台山地铁站定制线、高峰专线116路、E34路、E36路、E40路、M193路、M233路",
+     "busName": "阳台山东地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B906路、M504",
+     "busName": "阳台山东地铁站①"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "624路、882路、E12路、M244路、M262路、M301路、M310路、M352路、M378路、M379路、M415路、M420路、M462路、M548路、高峰专线43路、E34路、E36路、E40路、M193路、M233路、624路、M301路、M352路、M462路、高峰专线122、高峰专线116、E34路大站快线",
+     "busName": "阳台山东地铁站"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "882路、E12路、E16路、E34路、E36路",
+     "busName": "阳台山东地铁站①"
+    }
+   ],
+   "chukou": "C1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:44",
+   "mobanchexia": "23:31",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "624、882、E12、M244、M262、M301、M310、M352、M378、M379、M415、M420、M462、M548、High Speed Bus No.43、Tailored Line of Yangtaishan Subway Station in Dalang Fashion Town、High Speed Bus No.116、E34、E36、E40、M193、M233",
+     "busName": "Yangtai Mountain  East Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B906、E16",
+     "busName": "Yangtai Mountain East Metro Station①"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "624、882、E12、M244、M262、M301、M310、M352、M378、M379、M415、M420、M462、M548、High Speed Bus No.43、E34、E36、E40、M193、M233、624、M301、M352、M462、High Speed Bus No.122、High Speed Bus No.116、E34 Grand Station Express Line",
+     "busName": "Yangtai Mountain East Metro Station"
+    }
+   ],
+   "chukou": "Exit C1/C2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "01:13",
+   "mobanchexia": "00:29",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "布龙路南侧(西)、阳台山公园、宝山新村、纳瓦新疆音乐餐厅(大浪店)、魅KTV(后浪新天地店）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "布龙路南侧(东)"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "布龙路北侧(西)、谭罗新一村、赖屋山新村、琼珠花园、桂冠华庭、龙华区妇幼保健中心、鹤祥宫（大浪店）、森栖吊炉火锅（大浪商业中心店）、 海胖子超鲜•湘菜(大浪店)、汐里bar·日咖夜酒(龙华店）"
+  }
+ ],
+ "siteCode": "0612",
+ "siteIntroduce": "阳台山东站位于布龙路与华繁路交叉以西、沿布龙路呈东西走向。该站为高架站",
+ "siteName": "阳台山东站",
+ "siteNameen": "Yangtai Mountain East",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒",
+   "gaofenjiangeen": "2m20s-3m12s",
+   "mobanche": "23:44",
+   "mobanchexia": "23:31",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

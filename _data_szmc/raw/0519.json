@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、B617、 B638、M217、M299、M393、高峰专线46（原M460）、高峰专线55（原M554）、高峰专线119、高峰专线120",
+     "busName": "塘朗地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、M217、M299、M393、高峰专线46（原M460）、高峰专线55（原M554）、高峰专线119、高峰专线120",
+     "busName": "塘朗车辆段北"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:30",
+   "mobanchexia": "23:55",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、B617、 B638、M217、M299、M393、Peak Special Line46 （OriginalM460）、 Peak Special Line55（OriginalM554） Peak Special Line 119、 Peak Special Line 120",
+     "busName": "Tanglang Metro Staion"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、M217、 M299、M393、Peak Special Line46 （OriginalM460）、 Peak Special Line55（OriginalM554） Peak Special Line 119、 Peak Special Line 120",
+     "busName": "Tanglang Metro Depot North"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:30",
+   "mobanchexia": "00:55",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "留仙大道南侧（西）、塘朗城"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "留仙大道南侧（东）、深圳地铁运营集团客运一分公司、塘朗地铁车辆段、南方科技大学教育集团（南山）第二实验学校、朗麓家园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "留仙大道北侧（东）、塘开路、深圳大学总医院、南方科技大学、深圳大学城（东）、华晖云门"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "留仙大道北侧（西）、深圳大学城（西）、深圳大学附属教育集团实验小学、中国科学院深圳先进技术研究院、深圳大学丽湖校区、塘朗村、福光新村、宝能环球汇购物中心"
+  }
+ ],
+ "siteCode": "0519",
+ "siteIntroduce": "塘朗站位于深圳市南山区留仙大道呈东西走向布设。该站为高架站。",
+ "siteName": "塘朗站",
+ "siteNameen": "Tanglang",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:30",
+   "mobanchexia": "23:55",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:49",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

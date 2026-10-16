@@ -1,0 +1,207 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "223、320、323、324、338、M191、M194、M358、M372、M413、M435、高峰专线165号、高快巴士32号；科技园②",
+     "busName": "科技园①"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "101、19、21、81、M200、204、N4、RC261；深大地铁站接驳站",
+     "busName": "科技园③"
+    }
+   ],
+   "chukou": "A3出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E9、M209、高峰专线35、高快巴士42、高快巴士43  高快巴士48、高快巴士50、高快巴士53、高快巴士56、高快巴士58；深南科苑立交北②",
+     "busName": "深南科苑立交北"
+    }
+   ],
+   "chukou": "A4出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "236、325、334、49、E19、E39、E9、M209、M299、M313、M355、M528、高峰专线36、高峰专线55、325路区间、高峰专线150、高峰专线92、高快巴士41、高快巴士43、高快巴士50、高快巴士53；深大地铁站南",
+     "busName": "高科技中心"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:32",
+   "mobanchexia": "23:36",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:54",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "223、320、323、324、338、M191、M194、M358、M372、M413、M435、 Peak Express165、Express Bus32；Science Park②",
+     "busName": "Science Park①"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "101、19、21、81、M200、204、N4、RC261；Shenzhen University Metro Station Transfer Station",
+     "busName": "Science Park③"
+    }
+   ],
+   "chukou": "Exit A3"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E9、M209、Peak Express35、Express Bus42、Express Bus43  Express Bus48、Express Bus50、Express Bus53、Express Bus56、Express Bus58；Shennan Keyuan Interchange North②",
+     "busName": "Shennan Keyuan Interchange North"
+    }
+   ],
+   "chukou": "Exit A4"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "236、32、334、49、E19、E39、E9、M209、M299、M313、M355、M528、Peak Express 36、Peak Express 55、325 Interva、Peak Express 150、Peak Express 92、 Express Bus 41、Express Bus 43、Express Bus 50、Express Bus 53；South of Shenzhen Unversity Station",
+     "busName": "High-tech center"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:32",
+   "mobanchexia": "00:36",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:54",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A2出入口",
+   "textt": "深南大道南侧（北）、深圳大学北门"
+  },
+  {
+   "outt": "A3出入口",
+   "textt": "深南大道北侧（西）、科技中三路、科技园文化广场"
+  },
+  {
+   "outt": "A4出入口",
+   "textt": "深南大道北侧（东）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "科技南一路、深圳大学、深圳市高科技产业园区、香港理工大学产学研基地"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "科苑南路、科技南一路、深圳深铁皇冠假日酒店 、深铁金融科技大厦"
+  }
+ ],
+ "siteCode": "0118",
+ "siteIntroduce": "深大站位于深南大道与科苑南路交界处，为1、13号线的换乘站。该站为地下站。",
+ "siteName": "深大站",
+ "siteNameen": "Shenzhen University",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:32",
+   "mobanchexia": "23:36",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:54",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ]
+}

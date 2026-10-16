@@ -1,0 +1,127 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "328、612、621、E22、M263、M282A、M300、M383、M385、M448、M521、M566",
+     "busName": "五和雅南路口"
+    }
+   ],
+   "chukou": "C2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M491、982",
+     "busName": "雅宝地铁站"
+    }
+   ],
+   "chukou": "C2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:37",
+   "mobanchexia": "23:18",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "328、612、621、E22、M263、Route M282A、M300、M383、M385、M448、M521、M566",
+     "busName": "Wuhe Yanan Crossing"
+    }
+   ],
+   "chukou": "Exit C2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M491、982",
+     "busName": "Yabao Metro Station"
+    }
+   ],
+   "chukou": "Exit C2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:37",
+   "mobanchexia": "00:18",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "五和大道南侧、星河WORLD F座、G座"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "雅星路东侧、星河双子塔"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "雅星路西侧"
+  },
+  {
+   "outt": "                                 C2出入口",
+   "textt": "雅南路南侧、星河WORLD（A座、C座、D座、E座）、星河WORLD·COCO Park"
+  },
+  {
+   "outt": "E1出入口",
+   "textt": "五和大道北侧(东)、星河WORLD B座"
+  },
+  {
+   "outt": "E2出入口",
+   "textt": "五和大道北侧(西)"
+  }
+ ],
+ "siteCode": "1008",
+ "siteIntroduce": "雅宝站位于深圳市龙岗区坂田街道雅星路。该站为地下站。",
+ "siteName": "雅宝站",
+ "siteNameen": "Yabao",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:36",
+   "mobanchexia": "23:18",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

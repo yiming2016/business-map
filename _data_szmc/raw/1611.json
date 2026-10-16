@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M360、M446",
+     "busName": "阳光天健城"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高快巴士81路、E25、E27、M139、M386、M230、M318、M320、M369",
+     "busName": "龙城公园地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M446、M345、M360、M229、M320、M386、M369、莞782",
+     "busName": "第三高级中学"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M360、M446",
+     "busName": "阳光天健城"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:45",
+   "mobanchexia": "23:21",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M360、M446",
+     "busName": "Sunshine Tianjian City"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "high-speed bus No.81、 E25、E27、M139、M230、M318、M320、M386、M447",
+     "busName": "Longcheng Park Metro Ststion"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M360、M446 、M320",
+     "busName": "The NO.Three Senior High School"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M360、M446",
+     "busName": "Sunshine Tianjian City"
+    }
+   ],
+   "chukou": "ExitD"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:45",
+   "mobanchexia": "00:21",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "黄阁路东侧（南）、阳光天健城公交站、奥林华府、阳光天建城、华讯商厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "如意路北侧（东）、深圳市第三高级中学、龙城公园地铁站公交站、龙城公园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "黄阁路西侧（北）、北京中医药大学深圳医院、第三高级中学公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "黄阁路西侧（南）、阳光天健城公交站"
+  }
+ ],
+ "siteCode": "1611",
+ "siteIntroduce": "龙城公园站位于深圳市龙岗区黄阁路与如意路交叉口处、车站主体沿黄阁路南北向布置，该站为地下站。",
+ "siteName": "龙城公园站",
+ "siteNameen": "Longcheng Park",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:45",
+   "mobanchexia": "23:21",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:45",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

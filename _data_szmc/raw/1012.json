@@ -1,0 +1,111 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "312、 328、334、M137、 M180、 M233、 M244、 M269、 M271、M383、 M408、 M421、M448、M453、 M505、 M567、M568、 M578",
+     "busName": "坂田北地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "312、 328、334、M137、 M180、 M233、 M244、 M269、 M271、M383、 M408、 M421、M448、M453、 M505、 M567、M568、 M578",
+     "busName": "坂田北地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:29",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:35",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "312、 328、334、M137、 M180、 M233、 M244、 M269、 M271、M383、 M408、 M421、M448、M453、 M505、 M567、M568、 M578",
+     "busName": "Bantian North Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "312、 328、334、M137、 M180、 M233、 M244、 M269、 M271、M383、 M408、 M421、M448、M453、 M505、 M567、M568、 M578",
+     "busName": "Bantian North Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:29",
+   "mobanchexia": "00:26",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:35",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "吉华路南侧、坂田北地铁站公交站、长发新村、水牛城小区、坂田天虹"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "吉华路北侧、坂田北地铁站公交站、黄金山小区"
+  }
+ ],
+ "siteCode": "1012",
+ "siteIntroduce": "坂田北站位于吉华路下方。该站为地下站。",
+ "siteName": "坂田北站",
+ "siteNameen": "Bantian North",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:28",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:31",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

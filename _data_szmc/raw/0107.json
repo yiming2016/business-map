@@ -1,0 +1,251 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、377、3、14、38、62、63、M138、M194、M224、M102、M103、高峰专线29",
+     "busName": "福华新村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、38、62、M198、M224、高峰专线23、高峰专线29、高快巴士27",
+     "busName": "岗厦地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线29、高快巴士27、3、38、62、63、M224、M198、高峰专线23",
+     "busName": "岗厦地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、377、M138、M476、M102、M103",
+     "busName": "岗厦村"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M476、377、M138、303、 M102、 M103",
+     "busName": "岗厦村"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M224、高峰专线29、377、M138、3、14、38、62、63",
+     "busName": "福华新村"
+    }
+   ],
+   "chukou": "G出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:55",
+   "mobanchexia": "23:13",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:51",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、 377、3、14、38、62、63、M138、M194、M224、M102、M103、Peak Express Line29",
+     "busName": "Fuhua Xincun"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、38、62、M198、M224、Peak Express Line23、Peak Express Line29、 Express Bus 27",
+     "busName": "Gangxia Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Express Line29、Express Bus 27、3、38、62、63、M224、M198、Peak Express Line23",
+     "busName": "Gangxia Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、377、M138、M476、M102、M103",
+     "busName": "Gangxiacun"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M476、377、M138、 303、 M102、 M103",
+     "busName": "Gangxiacun"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M224、Peak Express Line29、377、M138、3、14、38、62、63",
+     "busName": "Fuhua Xincun"
+    }
+   ],
+   "chukou": "Exit G"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:55",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:51",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "福华路北侧（东）、深圳中心公园、岗厦村、深圳岗厦小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "福华路北侧（西）、岗厦一路（东）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "福华路南侧（西）、莲花中学、连城新天地岗会区间"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "彩田路西侧（南）"
+  },
+  {
+   "outt": "                                      E出入口",
+   "textt": "彩田路东侧（南)、深圳市社会保险基金管理局福田分局、福华小学"
+  },
+  {
+   "outt": "                                F出入口",
+   "textt": "彩田路东侧（北）"
+  },
+  {
+   "outt": "                                            G出入口",
+   "textt": "福华路南侧（东）、福华新村"
+  }
+ ],
+ "siteCode": "0107",
+ "siteIntroduce": "岗厦站位于深圳市福田区福华路与彩田路交汇处，为1、10号线的换乘站。该站为地下站。",
+ "siteName": "岗厦站",
+ "siteNameen": "Gangxia",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:55",
+   "mobanchexia": "23:13",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:50",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、M276、M556",
+     "busName": "尚景欣园"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、M276、M556",
+     "busName": "尚景欣园"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M276、802、M319、M317",
+     "busName": "盛平地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M276、802、M319、M317",
+     "busName": "盛平地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M306",
+     "busName": "盛平地铁站D口"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:34",
+   "mobanchexia": "23:31",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、M276、M556",
+     "busName": "Shangjing Xinyuan"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、M276、M386、M556",
+     "busName": "Shangjing Xinyuan"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M276、802、M319、M317",
+     "busName": "Shengping Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M276、802、M319、M317",
+     "busName": "Shengping Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M306",
+     "busName": "Exit D Shengping Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:34",
+   "mobanchexia": "00:31",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙平西路南侧（西）、尚景欣园公交站、非凡空间、尚景欣园、兴泰实验学校、御府名筑"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙城大道东侧（南）、尚景欣园公交站、盛平地铁站公交站、阳光广场、汇龙天下、盛平小学"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙平东路北侧（东）、盛平地铁站公交站、禾田小筑、深圳市龙岗区龙盛学校、新龙岗花园、欧意轩花园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙城大道西侧（北）、盛平地铁站D口公交站、荔枝园院区式小区、悦澜山花园、志达工业园"
+  }
+ ],
+ "siteCode": "1616",
+ "siteIntroduce": "盛平站位于龙平西、东路与龙城大道交叉口、沿龙平西、东路东西向布置，该站为地下站。",
+ "siteName": "盛平站",
+ "siteNameen": "Shengping",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:34",
+   "mobanchexia": "23:31",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

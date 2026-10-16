@@ -1,0 +1,169 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、高峰专线36路、49路、M118",
+     "busName": "丽山路北"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "101路、104路、226路、36路、49路、66路、M118路、M492路、高峰专线36路",
+     "busName": "动物园"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "101路、104路、226路、高峰专线36路、M118",
+     "busName": "西丽动物园总站（公交站）"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M176路",
+     "busName": "西丽湖地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M176路",
+     "busName": "西丽湖地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:58",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、Peak Express Line 36、49、M118",
+     "busName": "Lishan North"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "101、104、226、36、49、66、M118、M492、Peak Express Line 36",
+     "busName": "Zoo"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "101、104、226、Peak Express Line 36、M118",
+     "busName": "Xili zoo terminal (bus station)"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M176",
+     "busName": "Xilihu Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M176",
+     "busName": "xilihu Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:58",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "丽水路北侧（东）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "丽水路北侧（西）、丽山路、西丽湖路、深圳野生动物园、深圳野生动物园宠物医院、丽山学校、西丽湖公交总站、西丽公交总站、鹤祥苑、西丽湖度假村、丽湖花园、西丽山庄、紫荆山庄、平丽花园、德意名居、学城绿园、硅谷公寓、桑泰丹华园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "丽水路南侧、西湖林语、学城绿园、清华大学深圳国际研究生院、深圳大学城（北区）"
+  }
+ ],
+ "siteCode": "0703",
+ "siteIntroduce": "西丽湖站位于丽水路下。该站为地下站。",
+ "siteName": "西丽湖站",
+ "siteNameen": "Xili Lake",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:58",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:17",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

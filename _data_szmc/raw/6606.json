@@ -1,0 +1,131 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B929",
+     "busName": "中大地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B929",
+     "busName": "中大地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:03",
+   "mobanchexia": "23:17",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:36",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B929",
+     "busName": "Zhongda Station"
+    }
+   ],
+   "chukou": "A Exit"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B929",
+     "busName": "Zhongda Station"
+    }
+   ],
+   "chukou": "C Exit"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "00:03",
+   "mobanchexia": "00:17",
+   "pingjunjiange": "8-16分钟",
+   "pingjunjiangeen": "8-16m钟",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:36",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "公常路南侧（西）、圳美一路 、光侨路"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "荔美北街东侧（北）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "公常路北侧（东）、中山大学深圳校区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "中山大学深圳校区"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "中山大学深圳校区"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "光明区艾科智能产业园"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "万代恒高新科技园"
+  }
+ ],
+ "siteCode": "6606",
+ "siteIntroduce": "中大站位于公常路和荔美北街交叉口、沿公常路东西向跨路口布置。该站为地下站。",
+ "siteName": "中大站",
+ "siteNameen": "Sun Yat-sen University",
+ "workDay": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:03",
+   "mobanchexia": "23:17",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:36",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ]
+}

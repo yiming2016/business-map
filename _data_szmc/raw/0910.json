@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "49、E39、M355",
+     "busName": "高新南地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E39",
+     "busName": "科技生态园公交首末站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72、236、339",
+     "busName": "高新花园"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:51",
+   "mobanchexia": "23:18",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "49、E39、M355",
+     "busName": "Gaoxin South Metro Stop"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E39",
+     "busName": "Eco-Technology Park Bus Terminal"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72、236、339",
+     "busName": "Gaoxin Garden"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:52",
+   "mobanchexia": "00:18",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:12",
+   "shoubanchexia": "06:26",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "白石路南侧（西）、科技南路东侧（南)、深圳湾科技生态园三、四区"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "白石路南侧（东）、高新南环路东侧、深圳湾科技生态园二区、深圳市南山区政务服务中心创新广场服务厅、金地威新中心"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "白石路北侧（东）、科技南八路东侧、沙河西路西侧、工勘大厦、粤美特大厦"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "白石路北侧（西）、科技南路东侧（北）、深圳国家工程实验室大楼、深圳市数字技术园、安居高新花园"
+  }
+ ],
+ "siteCode": "0910",
+ "siteIntroduce": "高新南站位于白石路与科技南路交叉口东侧。该站为地下站。",
+ "siteName": "高新南站",
+ "siteNameen": "Hi-tech South",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:51",
+   "mobanchexia": "23:18",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

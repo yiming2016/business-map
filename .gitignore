@@ -1,0 +1,57 @@
+# ============================================================
+# 深圳地铁线路图编辑器 —— 只收录「能复现这个项目」的东西
+# ★ 注意：.gitignore **不支持行尾注释**（写了会被当成 pattern 的一部分），
+#   所以每条规则的说明都单独占一行、写在规则上面。
+# ============================================================
+
+# ---------- Python / 打包 ----------
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+
+# PyInstaller 每次打包自动生成
+*.spec
+
+# ---------- 开发过程产物 ----------
+# 7.4G：每次改动前的源码备份 + 历史 exe
+_backup/
+# 303M 运行日志（*.log 兜住）
+logs/
+# 遗留的嵌套源码目录
+_source_old/
+*.log
+# data/ 里自动生成的 JSON 备份（116 个，20M）
+*.bak
+*.bak_*
+*.bad_snap_*
+
+# ---------- 根目录散落的对照截图 / 临时文件 ----------
+# 开发时在官方原图上裁的对照图（23M）
+/*.png
+/_tmp_*
+/_shots/
+/对照*.png
+/偏差*.png
+
+# ---------- tools 里的探针输出 ----------
+tools/__pycache__/
+tools/*.png
+tools/*.txt
+
+# ---------- data/ 里的缓存与导出 ----------
+# 看图模式的离屏缓存（每次重新烘）
+data/_view_image.png
+data/_view_image_meta.json
+data/_removed_orphans_*.json
+data/导出/
+
+# ---------- ★ 版权：官方线路图不入库 ----------
+# 版权归深圳地铁（szmc.net）。仓库里不放。需要"原图对照 / 吸附到原图 /
+# 偏差检查"这几个功能的话，自己把官方图放到下面两个位置即可：
+#     data/underlay.png          4000×4000 及以上
+#     assets/shenzhen_metro.png  同一张图（工具脚本按它算坐标）
+assets/shenzhen_metro.png
+assets/shenzhen_metro.jpg
+data/underlay.png

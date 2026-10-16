@@ -1,0 +1,122 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:11",
+   "mobanchexia": "00:03",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:06",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:36",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:41",
+   "mobanchexia": "01:01",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:06",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:36",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "outAndText": [],
+ "siteCode": "1323",
+ "siteIntroduce": "",
+ "siteName": "公明广场站",
+ "siteNameen": "Gongming Square",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:11",
+   "mobanchexia": "00:03",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:06",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:36",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ]
+}

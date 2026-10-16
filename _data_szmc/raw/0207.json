@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M177、M430、N73",
+     "busName": "海月地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M177、M418、M430、N73",
+     "busName": "海月地铁站②"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M418、M493",
+     "busName": "海月地铁站①公交站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:27",
+   "mobanchexia": "22:58",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:36",
+   "shoubanchexia": "05:34",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M177、M430、N73",
+     "busName": "Haiyue Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M177、M418、M430、N73",
+     "busName": "Haiyue Metro Station 2"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M418、M493",
+     "busName": "Haiyue Metro Station 1"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:27",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:36",
+   "shoubanchexia": "05:34",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "后海滨路东侧（南）、工业八路南侧（东）、宝能all city购物中心（南区）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "后海滨路东侧（北）、工业八路北侧（东）、深圳湾口岸、海月地铁站公交站、宝能all city购物中心（北区）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "后海滨路西侧（北）、工业八路北侧（西）、东滨路南侧、海月地铁站②公交站、深圳大学附属教育集团后海小学"
+  },
+  {
+   "outt": "                                           D出入口",
+   "textt": "后海滨路西侧（南）、工业八路南侧（西）、海月地铁站①公交站、天骄华庭、海月花园三期"
+  }
+ ],
+ "siteCode": "0207",
+ "siteIntroduce": "海月站位于南山区后海滨路与工业八路交汇处。该站为地下站。",
+ "siteName": "海月站",
+ "siteNameen": "Haiyue",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:27",
+   "mobanchexia": "22:58",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:36",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

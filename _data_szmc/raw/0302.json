@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M500路、377路、26路、71路、M103路、M120路、M168路",
+     "busName": "益田村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M500路、377路、26路、71路、M103路、M120路、M168路、362路",
+     "busName": "益田村"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、377、M103、M120、M168、M500",
+     "busName": "市妇幼保健院福强院区"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "00:27",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M500、377、26、71、M103、M120、M168",
+     "busName": "YiTian Village"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M500、377、26、71、M103、M120、M168、362",
+     "busName": "YiTian Village"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、377、M103、M120、M168、M500",
+     "busName": "Fuqiang Branch of Shenzhen Maternity & Child Healthcare Hospital"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "01:10",
+   "mobanchexia": "00:02",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "福强路南侧（东）、益田路西侧（南）、深圳市人才安居服务大厅、益田村公交站、市第三高级中学（初中部）、福强小学、益田小学、益田花园学校、益田村、益田豪园居、益田大厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "福强路北侧(东)、益田路西侧(北)、皇岗公园、福田星空剧场、益田村公交站、红岭中学(石厦校区)、益强小学、中港城大厦"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "福强路北侧(西)、新洲路东侧(北)、深圳市妇幼保健院(福强院区)、深圳市福田区荔园小学（众孚校区）、益田名园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "福强路南侧(西)、新洲路东侧(南)、福田外国语高级中学、全海小学、益田村、福田花园大厦、深圳文化创意园、美丽星辰（同创汇店）"
+  }
+ ],
+ "siteCode": "0302",
+ "siteIntroduce": "益田站位于福田区福强路与石厦北二街交汇处。该站为地下站。",
+ "siteName": "益田站",
+ "siteNameen": "Yitian",
+ "workDay": [
+  {
+   "gaofenjiange": "2～3分钟",
+   "gaofenjiangeen": "2～3m钟",
+   "mobanche": "00:27",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

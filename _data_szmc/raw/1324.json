@@ -1,0 +1,74 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:04",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:34",
+   "shoubanchexia": "06:43",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:04",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:34",
+   "shoubanchexia": "06:43",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "outAndText": [],
+ "siteCode": "1324",
+ "siteIntroduce": "",
+ "siteName": "上村站",
+ "siteNameen": "Shangcun",
+ "workDay": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:04",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:34",
+   "shoubanchexia": "06:43",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ]
+}

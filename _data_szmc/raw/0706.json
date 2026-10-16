@@ -1,0 +1,111 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "N8、19路、104路、201路、326路、235路、高峰专线49路、高峰专线69路、M369路",
+     "busName": "珠光地铁站①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72路、M203路、M234路、M474路、334路、高峰专线26路、高峰专线62路、高峰专线166路",
+     "busName": "珠光地铁站②"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:51",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:12",
+   "shoubanchexia": "06:26",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "N8、19、104、201、 326、235、 Peak Express Line 49、Peak Express Line 69、M369",
+     "busName": "Zhuguang Station ①"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72、 M203、  M234、 M474、334、Peak Express Line 26、 Peak Express Line 62、Peak Express Line 166",
+     "busName": "Zhuguang Station ②"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:51",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:12",
+   "shoubanchexia": "06:26",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "C出入口",
+   "textt": "龙珠大道北侧（东）、龙珠二路东侧、龙珠大道南侧、珠光小学、汇文苑、珠光花半里、珠光村、龙祥苑"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙珠大道北侧（西）、龙珠二路西侧、龙都花园、润城花园、宝珠花园、张云祥眼镜店（珠光店）"
+  }
+ ],
+ "siteCode": "0706",
+ "siteIntroduce": "珠光站位于龙珠大道路中沿龙珠大道下。该站为地下站。",
+ "siteName": "珠光站",
+ "siteNameen": "Zhuguang",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:51",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

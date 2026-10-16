@@ -1,0 +1,101 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M308、M367",
+     "busName": "吉祥教育路口"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-6分",
+   "gaofenjiangeen": "3m-6m",
+   "mobanche": "23:04",
+   "mobanchexia": "00:25",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M308、M367",
+     "busName": "Jixiang Jiao Rd Crossing"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:04",
+   "mobanchexia": "01:25",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "吉祥路南侧（西）、福照街、兰陵学校、鼎尚华庭、坪达雅园、融富花园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "振兴路南侧（西）、发展路、坪地公园、荔园新村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "吉祥路北侧（西）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "吉祥路北侧（西）、教育北路、金水桥工业区"
+  }
+ ],
+ "siteCode": "0336",
+ "siteIntroduce": "白石塘站位于吉祥路与益民路交叉口。该站为地下站。",
+ "siteName": "白石塘站",
+ "siteNameen": "Baishitang",
+ "workDay": [
+  {
+   "gaofenjiange": "4～7分",
+   "gaofenjiangeen": "4～7m",
+   "mobanche": "23:04",
+   "mobanchexia": "00:25",
+   "pingjunjiange": "7分钟/14分钟",
+   "pingjunjiangeen": "7m钟/14m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

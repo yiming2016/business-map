@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720、B975",
+     "busName": "楼村地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720、B975、高峰专线146",
+     "busName": "楼村地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:17",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:24",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720 、B975",
+     "busName": "LoucunMetro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720 、B975、Peak Special Line146",
+     "busName": "LoucunMetro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:47",
+   "mobanchexia": "00:56",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:37",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "科学大道北侧（东）、楼村社区"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "科学大道北侧（西）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "科学大道南侧（西）"
+  },
+  {
+   "outt": "               D出入口",
+   "textt": "科学大道南侧（东）、科学公园、深圳理工大学附属实验高级中学"
+  }
+ ],
+ "siteCode": "0620",
+ "siteIntroduce": "楼村站位于科学大道与楼明路交汇处。该站为高架站。",
+ "siteName": "楼村站",
+ "siteNameen": "Loucun",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:17",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:24",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

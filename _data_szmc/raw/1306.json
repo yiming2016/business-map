@@ -1,0 +1,122 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:32",
+   "mobanchexia": "23:36",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:54",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:32",
+   "mobanchexia": "00:36",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:54",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "outAndText": [],
+ "siteCode": "1306",
+ "siteIntroduce": "暂无数据",
+ "siteName": "深大站",
+ "siteNameen": "Shenzhen University",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:32",
+   "mobanchexia": "23:36",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:54",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、79、90、N90、101、204、223、N4、M123、M191、M487、高峰专线36号",
+     "busName": "白石洲①"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "70、113、320、323、324、328、369、M222、M191、M194、M413、M435、M448​",
+     "busName": "白石洲②"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、42、43、66、235、392、M109、M132、M312、M425、M435、M535",
+     "busName": "白石洲③"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、42、43、66、235、392、M109、M132、M312、M425、M435、M486、M535",
+     "busName": "白石洲③"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、79、90、N90、101、204、223、N4、M123、M191、M487、高峰专线 36 号",
+     "busName": "白石洲①"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "70、113、320、323、324、328、369、M222、M191、M194、M413、M435、M448、M486",
+     "busName": "白石洲②"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:36",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21, 79, 90, N90, 101, 204, 223, N4, M123, M191, M487, 高峰专线36号",
+     "busName": "Baishizhou ①"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "70, 113, 320, 323, 324, 328, 369, M222, M191, M194, M413, M435, M448",
+     "busName": "Baishizhou ②"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26, 42, 43, 66, 235, 392, M109, M132, M312, M425, M435, M535",
+     "busName": "Baishizhou ③"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26, 42, 43, 66, 235, 392, M109, M132, M312, M425, M435, M486, M535",
+     "busName": "Baishizhou ③"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21, 79, 90, N90, 101, 204, 223, N4, M123, M191, M487, 高峰专线36号",
+     "busName": "Baishizhou ①"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "70, 113, 320, 323, 324, 328, 369, M222, M191, M194, M413, M435, M448, M486",
+     "busName": "Baishizhou ②"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:36",
+   "mobanchexia": "00:32",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深南大道北侧（东）、下白石村、深圳市南山外国语学校（集团）沙河小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南大道北侧（西）、沙河东路（北）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深南大道南侧（西）、深圳市南山实验教育集团白石洲学校、深圳市不动产登记中心南山登记所、沙河东路（南）"
+  },
+  {
+   "outt": "D出入口（临时关闭）",
+   "textt": "深南大道南侧（东）、石洲中路"
+  }
+ ],
+ "siteCode": "0116",
+ "siteIntroduce": "白石洲站位于南山区石洲中路与深南大道交汇处。该站为地下站。",
+ "siteName": "白石洲站",
+ "siteNameen": "Baishizhou",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:36",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:59",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M218路、M337路、M525路、M532路、M366路、B911路、M462路、M532区间线",
+     "busName": "光明城站公交站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M218路",
+     "busName": "茶林路口公交站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M218路、M337路、M525路、M532路、M366路、B911路、M462路、M532区间线、M416路、M595路",
+     "busName": "光明城站公交站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "--",
+   "mobanchexia": "23:05",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:21",
+   "mobanchexia": "23:43",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:51",
+   "shoubanchexia": "07:02",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M218、M337、M525、M532、M366、B911、M462、M532 Branch Line",
+     "busName": "Guangming Town  Station Bus Stop"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M218",
+     "busName": "Chalin Rd Crossing Bus Stop"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M218、M337、M525、M532、M366、B911、M462、M532 Branch Line、M416、M595",
+     "busName": "Guangming Town  Station Bus Stop"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "--",
+   "mobanchexia": "00:05",
+   "pingjunjiange": "8-16分钟",
+   "pingjunjiangeen": "8-16m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:21",
+   "mobanchexia": "23:43",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:51",
+   "shoubanchexia": "07:02",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "茶林路东侧（南）、凤兴路北侧、城站东路西侧（南）、凤恩路西侧（南）、光明城高铁站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "茶林路东侧（北）、侨凯路南侧（东）、城站东路西侧（北）、凤恩路西侧（北）、光明城高铁站、光明城站公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "茶林路西侧（北）、侨凯路南侧（西）、科林路东侧、茶林路口公交站、光明城站公交站"
+  }
+ ],
+ "siteCode": "6601",
+ "siteIntroduce": "光明城站位于侨凯路与茶林路交叉路口南侧，沿茶林路南北向布置。为6支、13号线换乘站。该站为地下站。",
+ "siteName": "光明城站",
+ "siteNameen": "Guangmingcheng",
+ "workDay": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "--",
+   "mobanchexia": "23:05",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:21",
+   "mobanchexia": "23:43",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:51",
+   "shoubanchexia": "07:02",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ]
+}

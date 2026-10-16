@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "610、606、605、704、M330、M209、B834、M242、M375、M436",
+     "busName": "凤凰岗村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "395、603、707、M250、M355、M210、E36、高快巴士47",
+     "busName": "宝田一路地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "704、606、M355",
+     "busName": "流塘派出所"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:50",
+   "mobanchexia": "23:35",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "610、606、605、704、M330、M209、B834、M242、M375、M436",
+     "busName": "Fenghuanggang Village"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "395、603、707、M250、M355、M210、E36、Peak Express Bus 47",
+     "busName": "Baotian 1st Road  Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "704、606、M355",
+     "busName": "Liutang Police Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:50",
+   "mobanchexia": "00:35",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前进二路北侧（东）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "前进二路西侧、流塘派出所、西乡城管局"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "前进二路西侧、臣田公园"
+  }
+ ],
+ "siteCode": "1218",
+ "siteIntroduce": "宝田一路站位于前进二路和宝田一路交叉口、沿前进二路呈南北方向建设、为地下二层车站、地下一层为站厅层、地下二层为站台层、站台形式为岛式站台。该站为地下站。",
+ "siteName": "宝田一路站",
+ "siteNameen": "Baotian 1st Road",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:50",
+   "mobanchexia": "23:35",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

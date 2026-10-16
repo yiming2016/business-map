@@ -1,0 +1,217 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M141，M203，M224，M281，M363，M585，高峰专线73",
+     "busName": "健康花城"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "322，977，M192，M273，M300，M324，M329，M380，M385，M402，M491，M508，M547，M155，M498，M565，M589，高峰专线107，高快巴士32",
+     "busName": "石芽岭地铁站"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M300，M324，高峰专线183",
+     "busName": "石芽岭地铁站B口"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M155，M203，M301，M311，M380，M385，M404，M498",
+     "busName": "盛宝布澜路口"
+    }
+   ],
+   "chukou": "H出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M273，M311，M329，M402，M403，M491，M547，977，B828，B931，M155，M224，M585，M589",
+     "busName": "石芽岭地铁站①"
+    }
+   ],
+   "chukou": "J出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "322，M192，M281，M301，M363，M404，M508",
+     "busName": "石芽岭地铁站②"
+    }
+   ],
+   "chukou": "J出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M141，M203，M224，M281，M363，M403，M585",
+     "busName": "健康花城"
+    }
+   ],
+   "chukou": "K出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:41",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M141，M203，M224，M281，M363，M585，Peak Line 73",
+     "busName": "Healthy&Happy"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "322，977，M192，M273，M300，M324，M329，M380，M385，M402，M491，M508，M547，M155，M498，M565，M589，Peak Line 107，Express Bus 32",
+     "busName": "Shiyaling Metro Station"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M300，M324，Peak Line 183",
+     "busName": "B Exit to Shiyaling Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M155，M203，M301，M311，M380，M385，M404，M498",
+     "busName": "Shengbao Bulan Rd Crossing"
+    }
+   ],
+   "chukou": "Exit H"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M273，M311，M329，M402，M403，M491，M547，977，B828，B931，M155，M224，M585，M589",
+     "busName": "Shiyaling Metro Station①"
+    }
+   ],
+   "chukou": "Exit J"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "322，M192，M281，M301，M363，M404，M508",
+     "busName": "Shiyaling Metro Station②"
+    }
+   ],
+   "chukou": "Exit J"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M141，M203，M224，M281，M363，M403，M585",
+     "busName": "Healthy&Happy"
+    }
+   ],
+   "chukou": "Exit K"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:41",
+   "mobanchexia": "00:44",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "科技园路南侧、石芽岭学校、承翰·慢城"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "布澜路西侧（南）、石芽岭幼儿园、南湾实验小学、宇宏健康花城"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "布澜路东侧（南）、南湾学校、丹翠欣苑"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "盛宝路北侧"
+  },
+  {
+   "outt": "J出入口",
+   "textt": "布澜路东侧（北）、深圳市公安局交通警察支队龙岗大队布吉中队、钱江艺术中心"
+  },
+  {
+   "outt": "K出入口",
+   "textt": "布澜路西侧（北）、康利乾城"
+  }
+ ],
+ "siteCode": "1405",
+ "siteIntroduce": "石芽岭站位于盛宝路和科技园路与布澜路交叉口处。该站为地下站。",
+ "siteName": "石芽岭站",
+ "siteNameen": "Shiyaling",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:42",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

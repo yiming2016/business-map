@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "357",
+     "busName": "三角龙"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "907",
+     "busName": "万俊隆路口"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "357",
+     "busName": "东满莱商业城"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "357",
+     "busName": "三角龙"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "00:02",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:07",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "357",
+     "busName": "Sanjiaolong"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "907",
+     "busName": "Wanjunlong Rd Crossing"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "907",
+     "busName": "Dongmanlai Commercial City"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "357",
+     "busName": "Sanjiaolong"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "01:02",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "沙荷路南侧（西）、安业路"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "沙荷路南侧（东）、安康路、梅花山公园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "沙荷路北侧（东）、莘塘东区、莘塘西区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "沙荷路北侧（西）、炮台顶"
+  }
+ ],
+ "siteCode": "1603",
+ "siteIntroduce": "福坑站位于沙荷路与安业路交叉口。该站为地下站。",
+ "siteName": "福坑站",
+ "siteNameen": "Fukeng",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:02",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "05:46",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

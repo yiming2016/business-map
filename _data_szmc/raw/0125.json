@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M350、M375、M377、M470、M473",
+     "busName": "宝安体育馆"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M470、M473、 M250、M330、M350、M375、M377",
+     "busName": "君逸世家"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "C70、 M330、M371",
+     "busName": "幸福海岸"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M350、M371、M375、M377、M470 、M473",
+     "busName": "宝安体育馆"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:15",
+   "mobanchexia": "23:53",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M350、M375、M377、M470、M473",
+     "busName": "Bao'an Stadium"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M470、M473、M250、M330、M350、M375、M377",
+     "busName": "Aristocrastic Family"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "C70、 M330、M371",
+     "busName": "Fortune Coast"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M350、M371、M375、M377、M470 、M473",
+     "busName": "Bao'an Stadium"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:15",
+   "mobanchexia": "00:53",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "新湖路北侧（东）、宝安体育中心游泳馆、宝安体育中心体育馆"
+  },
+  {
+   "outt": "      B出入口",
+   "textt": "新湖路北侧（西）、罗田路、宝安公安分局出入境接待大厅"
+  },
+  {
+   "outt": "   C出入口",
+   "textt": "新湖路南侧（西）、宝安区妇幼保健院"
+  },
+  {
+   "outt": "    D出入口",
+   "textt": "新湖路南侧（东）、宝安区体育中心体育场"
+  }
+ ],
+ "siteCode": "0125",
+ "siteIntroduce": "宝体站位于深圳市宝安区新湖路与罗田路的交汇处。该站为地下站。",
+ "siteName": "宝体站",
+ "siteNameen": "Bao'an Stadium",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:15",
+   "mobanchexia": "23:53",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

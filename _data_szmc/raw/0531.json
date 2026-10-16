@@ -1,0 +1,101 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "29、M559、64、62、83、M172、M329、2",
+     "busName": "翠园东晓中学"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "29、83、M329、M140、M559、M172",
+     "busName": "东湖路"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "22:58",
+   "mobanchexia": "00:27",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:18",
+   "shoubanchexia": "05:55",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:58",
+   "mobanchexia": "01:27",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:18",
+   "shoubanchexia": "05:55",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "东湖路北侧、今日家园、阳光明居、一致春晓苑、深圳市翠园东晓中学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "东晓路西侧、深圳市东晓小学、深圳市罗湖区妇幼保健院、深圳市公安局罗湖区公安分局东湖派出所、布心广场、深圳天河城购物中心、太白居西门、海鹰大厦"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "东湖路南侧、罗湖区东晓社区健康服务中心、东湖街道办事处、深圳市布心中学、太白居北门、景亿山庄、心怡花园"
+  }
+ ],
+ "siteCode": "0531",
+ "siteIntroduce": "布心站位于罗湖区东晓路和东湖路交叉口南侧、沿东晓路布置。该站为地下站。",
+ "siteName": "布心站",
+ "siteNameen": "Buxin",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "22:58",
+   "mobanchexia": "00:27",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:13",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

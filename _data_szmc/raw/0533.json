@@ -1,0 +1,123 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "13、17、57、104、218、229",
+     "busName": "荷花市场"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "113、308、M102、M199、M207、M348、M437、M526、高峰专线191",
+     "busName": "怡景地铁站①"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "113、223、308、M102、M199、M207、M348、M437、M526",
+     "busName": "怡景地铁站①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "17、23、113、M102、M199、M207、M348、M437",
+     "busName": "怡景花园"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "22:53",
+   "mobanchexia": "00:32",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:53",
+   "mobanchexia": "01:32",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "黄贝路、荷花市场"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "怡景路南侧（西）、怡景社区便民服务站、怡景地铁站①公交站、深圳市景贝小学"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "怡景路南侧（东）、罗湖区中医院康复分院、怡景地铁站①公交站、深圳市碧波小学、深圳市罗湖区翠园中学初中部"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "怡景路北侧、罗湖港人子弟学校、湖滨新村"
+  }
+ ],
+ "siteCode": "0533",
+ "siteIntroduce": "怡景站位于怡景路与黄贝路交汇处。该站为地下站。",
+ "siteName": "怡景站",
+ "siteNameen": "Yijing",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "22:53",
+   "mobanchexia": "00:32",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:08",
+   "shoubanchexia": "05:55",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

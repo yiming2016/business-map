@@ -1,0 +1,364 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M190、高峰专线49",
+     "busName": "海关综合大楼"
+    }
+   ],
+   "chukou": "1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高快巴士27、高峰专线23",
+     "busName": "彩福大厦"
+    }
+   ],
+   "chukou": "7出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线3、113、326、M133、M106、223",
+     "busName": "海关综合大楼"
+    }
+   ],
+   "chukou": "7出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "113、303、M103、M133、M447、M448、高快巴士47号、高快巴士60号",
+     "busName": "岗厦北地铁站①"
+    }
+   ],
+   "chukou": "12出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "101、223、326、高峰专线221、M102",
+     "busName": "岗厦北地铁站②"
+    }
+   ],
+   "chukou": "12出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "113、326、M133、M106、M447、M448、M190、223、101、高峰专线119、高峰专线221、高快巴士60",
+     "busName": "岗厦北地铁站①"
+    }
+   ],
+   "chukou": "19出入口"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:51",
+   "mobanchexia": "23:35",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:48",
+   "mobanchexia": "23:06",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:18",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  },
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "00:39",
+   "mobanchexia": "23:25",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "06:14",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "--",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "--",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M190、Peak Special Line 49",
+     "busName": "Customs General Bldg"
+    }
+   ],
+   "chukou": "Exit 1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Bus No.27、Peak Special Line 23",
+     "busName": "Caifu Building"
+    }
+   ],
+   "chukou": "Exit 7"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 3、113、326、M133、M106、223",
+     "busName": "Customs General Bldg"
+    }
+   ],
+   "chukou": "Exit 7"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "113、303、M103、M133、M447、M448、Express Bus No. 47、Express Bus No.60",
+     "busName": "Gangxia North Metro Station ①"
+    }
+   ],
+   "chukou": "Exit 12"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "101、223、326、Peak Special Line 221、M102",
+     "busName": "Gangxia North Metro Station ②"
+    }
+   ],
+   "chukou": "Exit 12"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "113、326、M133、M106、M447、M448、M190、223、101、Peak Special Line 119、Peak Special Line 221、Express Bus No.60",
+     "busName": "Gangxia North Metro Station ①"
+    }
+   ],
+   "chukou": "Exit 19"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "101、223、M106、M133、M448、Peak Special Line 47、Peak Special Line 221、Express Bus No.60",
+     "busName": "Gangxia North Metro Station ①"
+    }
+   ],
+   "chukou": "Exit 16"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:51",
+   "mobanchexia": "00:35",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:48",
+   "mobanchexia": "00:06",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:18",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  },
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "01:37",
+   "mobanchexia": "00:25",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "06:12",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "--",
+   "mobanchexia": "00:30",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "--",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "1号出入口",
+   "textt": "深南大道北侧（西）、彩田路西侧（北）、中心八路、深圳海关、雅颂居"
+  },
+  {
+   "outt": "2-6号出入口",
+   "textt": "深圳之眼•西区、金田路、海田路、中国移动深圳信息大厦"
+  },
+  {
+   "outt": "7号出入口",
+   "textt": "深南大道南侧（西）、彩田路西侧（南）、嘉麟豪庭"
+  },
+  {
+   "outt": "8-11号出入口",
+   "textt": "深圳之眼•南区、岗厦村、星河世纪、卓悦中心"
+  },
+  {
+   "outt": "12号出入口",
+   "textt": "深南大道南侧（东）、彩田路东侧（南）"
+  },
+  {
+   "outt": "13-15号出入口",
+   "textt": "深圳之眼•东区、福田派出所、深大新村、大中华金融中心希尔顿酒店"
+  },
+  {
+   "outt": "16-18号出入口",
+   "textt": "深南大道北侧、福田区政务服务中心、深圳市第一职业技术学校、深圳国际创新中心"
+  },
+  {
+   "outt": "19号出入口",
+   "textt": "深南大道北侧（东）、彩田路东侧（北）"
+  }
+ ],
+ "siteCode": "1104",
+ "siteIntroduce": "岗厦北站位于深南大道与彩田路交汇处，2&8号线车站位于深南大道与彩田路交叉口，为2&8、10、11、14号线的换乘站。该站为地下站。",
+ "siteName": "岗厦北站",
+ "siteNameen": "Gangxia North",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:51",
+   "mobanchexia": "23:35",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:48",
+   "mobanchexia": "23:06",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:14",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  },
+  {
+   "gaofenjiange": "早2分15秒、晚3分07秒。",
+   "gaofenjiangeen": "早2m15s、晚3m07s。",
+   "mobanche": "00:39",
+   "mobanchexia": "23:25",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "--",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

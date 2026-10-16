@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、M331、M387、M395、M530",
+     "busName": "永福苑"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M334、M419、B875",
+     "busName": "福围地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M334、M419、B875",
+     "busName": "下十围立新路口"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:33",
+   "mobanchexia": "23:52",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "05:59",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、M331、M387、M395、M530",
+     "busName": "Yongfuyuan"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M334、M419、B875",
+     "busName": "Fuwei Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M334、M419、B875",
+     "busName": "Xiashiwei Lixin Rd Crossing"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:33",
+   "mobanchexia": "00:52",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "05:59",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "下十围路西南侧、下十围小学、福围地铁站公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "下十围路东北侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "立新南路东南侧、新安中学（集团）第二外国语学校"
+  }
+ ],
+ "siteCode": "1225",
+ "siteIntroduce": "福围站位于立新南路与下十围路交叉口、沿下十围路呈南北方向布置。车站为地下两层车站、其中地下一层是站厅层、地下二层为站台层。",
+ "siteName": "福围站",
+ "siteNameen": "Fuwei",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒/6分36秒、晚3分48秒/7分36秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:33",
+   "mobanchexia": "23:52",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "05:59",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

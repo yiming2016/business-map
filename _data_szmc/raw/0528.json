@@ -1,0 +1,163 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "306、956、M265、M428、M463",
+     "busName": "西环吉华路口"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、956、303、308、312、307、M402、M265、M428、M271",
+     "busName": "布吉中学"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、61、306、307、308、312、369、956、980、M428、M265、M267、M271、M272、M402、M415、M463、M565",
+     "busName": "布吉中学"
+    }
+   ],
+   "chukou": "C2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:05",
+   "mobanchexia": "00:20",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "306、 956、 M265、 M428、 M463",
+     "busName": "Xihuan Jihua Rd Crossing"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、956、303、308、312、307、M402、M265、M428、M271",
+     "busName": "Buji Middle School Crossing"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、61、306、307、308、312、369、956、980、M428、M265、M267、M271、M272、M402、M415、M463、M565",
+     "busName": "布吉中学"
+    }
+   ],
+   "chukou": "C2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、61、306、307、308、312、369、956、980、M428、M265、M267、M271、M272、M402、M415、M463、M565",
+     "busName": "Buji Middle School"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、61、306、307、308、312、369、956、980、M428、M265、M267、M271、M272、M402、M415、M463、M565",
+     "busName": "Buji Middle School"
+    }
+   ],
+   "chukou": "Exit C2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:05",
+   "mobanchexia": "01:20",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "吉华路西侧（北）、西环路西侧、丽廷豪苑、布吉一村工业区、文博宫、大坡头村、大坡头村办公楼"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "吉华路西侧（南）、龙岗区第二人民医院、布吉老干部活动中心、汇洋大厦、龙岭学校、宝龙花园"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "吉华路北侧"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "吉华路南侧、布吉中学、布吉公园、德兴城、长龙新村、金鹏大厦、深圳市场监督管理局龙岗分局布吉监管所"
+  }
+ ],
+ "siteCode": "0528",
+ "siteIntroduce": "长龙站位于吉华路路中、沿吉华路布置。该站为地下站。",
+ "siteName": "长龙站",
+ "siteNameen": "Changlong",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:05",
+   "mobanchexia": "00:20",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:52",
+   "shoubanchexia": "05:53",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

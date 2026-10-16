@@ -1,0 +1,115 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "939、M440、138B",
+     "busName": "田心地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "939、M440、138B",
+     "busName": "田心地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:45",
+   "shoubanchexia": "--",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "939、M440、138B",
+     "busName": "Tianxin Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "939、M440、138B",
+     "busName": "Tianxin Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:43",
+   "shoubanchexia": "--",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "金田路南侧（东）、头陂公园、田心地铁站公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "金田路北侧（东）、田心地铁站公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "金田路北侧（西）、田心车辆段"
+  }
+ ],
+ "siteCode": "1632",
+ "siteIntroduce": "田心站位于坪山金田路与新田路交叉口、沿坪山金田路东北-西南向布置，该站为地下站。",
+ "siteName": "田心站",
+ "siteNameen": "Tianxin",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:39",
+   "shoubanchexia": "--",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

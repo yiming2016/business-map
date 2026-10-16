@@ -1,0 +1,115 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "深中跨市公交T01A线、深中跨市公交T01B线",
+     "busName": "前海深港青年梦工场北区"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M176、M562、B683",
+     "busName": "基金小镇"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:24",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "T01A、T01B",
+     "busName": "Qianhai Shenzhen-Hong Kong Youth Innovation and Entrepreneur Hub North Area"
+    }
+   ],
+   "chukou": "Exit  A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M176、M562、B683",
+     "busName": "Fund town"
+    }
+   ],
+   "chukou": "Exit  D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:24",
+   "mobanchexia": "00:44",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "六号路北侧、梦海大道、桂湾三路、桂湾四路、桂湾五路、十一号路西侧、龙海家园、深圳地铁前海车辆段"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "六号路南侧（西）、深圳改革开放干部学院、深圳前海君璞书院、前海深港基金小镇"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "暂停服务"
+  }
+ ],
+ "siteCode": "0121",
+ "siteIntroduce": "鲤鱼门站位于深圳市南山区桂湾四路与十一号路交汇处。该站为地下站。",
+ "siteName": "鲤鱼门站",
+ "siteNameen": "Liyumen",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:24",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:47",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

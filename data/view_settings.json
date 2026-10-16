@@ -1,0 +1,22 @@
+{
+  "font_mul": 1.8,
+  "font_lock_px": null,
+  "icon_visibility": {
+    "cat_on": {
+      "mall": true,
+      "transport": true,
+      "hotel": true,
+      "mansion": true
+    },
+    "level_on": {}
+  },
+  "image_mode": {
+    "auto_on_enter": true,
+    "interval_min": 0,
+    "ask_on_exit": true,
+    "png_path": "",
+    "auto_on_start": true,
+    "info_panel_w": 440,
+    "pan_pad_scene": 1500
+  }
+}

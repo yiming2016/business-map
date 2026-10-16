@@ -1,0 +1,187 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "978、B675、M295、M384、M427、M478",
+     "busName": "坑梓街道办"
+    },
+    {
+     "busInfo": "366、E34、M361",
+     "busName": "龙田路口"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "978、B675、M295、M384、M427、M478",
+     "busName": "坑梓街道办"
+    },
+    {
+     "busInfo": "366、E34、M361、B938、M136",
+     "busName": "坑梓地铁站"
+    },
+    {
+     "busInfo": "M396、M427、M478、978、B675、M295、M384",
+     "busName": "金田购物广场"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、M136、M361、E34",
+     "busName": "坑梓地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、E34、M361、高峰专线175",
+     "busName": "龙田路口"
+    },
+    {
+     "busInfo": "978、B675、M195、M293、M384、M396 M136、M327",
+     "busName": "坪山妇幼"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:03",
+   "mobanchexia": "00:22",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:52",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "978、B675、M295、M384、M427、M478",
+     "busName": "Kengzi Sub-district Office"
+    },
+    {
+     "busInfo": "366、E34、M361",
+     "busName": "Longtian Rd Crossing"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "978、B675、M295、M384、M427、M478",
+     "busName": "Kengzi Sub-district Office"
+    },
+    {
+     "busInfo": "366、E34、M361、 B938、M136",
+     "busName": "Kengzi Metro Station"
+    },
+    {
+     "busInfo": "M396、M427、M478、978、B675、M295、M384",
+     "busName": "Jintian Shopping Plaza"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、E34、M136、M361",
+     "busName": "Kengzi Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、E34、M361、Peak Line175",
+     "busName": "Longtian Rd Crossing"
+    },
+    {
+     "busInfo": "978、B675、M195、M293、M384、M396、M136、M327",
+     "busName": "Pingshan Maternity&Child Healthcare Hospital"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:03",
+   "mobanchexia": "01:22",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:52",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坪山大道南侧（西）、光祖北路东侧、坪山区坑梓街道办事处、坪山区光祖中学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坪山大道南侧（东）、梓兴路西侧、金田风华苑"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "坪山大道北侧（东）、龙田世居"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "坪山大道北侧（西）、龙兴南路东侧、坪山区妇幼保健院"
+  }
+ ],
+ "siteCode": "1417",
+ "siteIntroduce": "坑梓站位于坪山区坪山大道与吉祥路交叉口处。该站为地下站。",
+ "siteName": "坑梓站",
+ "siteNameen": "Kengzi",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:03",
+   "mobanchexia": "00:22",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:52",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

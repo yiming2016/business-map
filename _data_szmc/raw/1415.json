@@ -1,0 +1,194 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E22、E28、E34、M295、M361、366、833、915、941、963、978、M439、M575、坪梅假日快线",
+     "busName": "飞东村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M175、939、M295、M439、M575、941、M489、M571",
+     "busName": "坪慧坪山大道口"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、978、M175、E34、M325、M361",
+     "busName": "坪山广场地铁站"
+    }
+   ],
+   "chukou": "C2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M325、M440、M479、M489、坪梅假日快线、915、939、963、B923、E28、M293",
+     "busName": "坪山中心公园"
+    }
+   ],
+   "chukou": "D1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "915、939、963、B923、M293、E28、M440、M325、M479、M489、坪梅假日快线",
+     "busName": "坪山中心公园"
+    }
+   ],
+   "chukou": "D2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E34、M361、M439、M571、M575、366、978",
+     "busName": "坪山广场地铁站"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:09",
+   "mobanchexia": "00:15",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:45",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E22、E28、E34、M295、M361、366、833、915、941、963、978、M439、M575、坪梅假日快线",
+     "busName": "Feidong Vil"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M175、939、M295、M439、M575、941、M489、M571",
+     "busName": "Pinghui Pingshan Blvd Junction"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、978、M175、E34、M325、M361",
+     "busName": "Pingshan Square"
+    }
+   ],
+   "chukou": "Exit C2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M325、M440、M479、M489、坪梅假日快线、915、939、963、B923、E28、M293Exit D2",
+     "busName": "Pingshan Central Park"
+    }
+   ],
+   "chukou": "Exit D1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E34、M361、M439、M571、M575、366、978",
+     "busName": "Pingshan Square"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:09",
+   "mobanchexia": "01:15",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:45",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坪山大道东侧（南）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坪山大道东侧（北）"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "坪慧路南侧、坪山公安分局、未来城站（云巴站）"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "坪慧路北侧、深圳市规划和自然资源局坪山管理局"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "和安路北侧、坪山区中心广场、坪山大剧院、深圳市坪山实验学校、中国光大银行深圳坪山支行"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "和安路南侧"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "坪山大道西侧、正山甲村"
+  }
+ ],
+ "siteCode": "1415",
+ "siteIntroduce": "坪山广场站位于坪山区坪山大道与行政八路交叉口处。该站为地下站。",
+ "siteName": "坪山广场站",
+ "siteNameen": "Pingshan Square",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:09",
+   "mobanchexia": "00:15",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:46",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

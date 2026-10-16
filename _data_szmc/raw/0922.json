@@ -1,0 +1,217 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M581",
+     "busName": "青年学院"
+    },
+    {
+     "busInfo": "M581",
+     "busName": "梅东五路"
+    },
+    {
+     "busInfo": "334、339、M112、M202、M222、M392、M398、M401、M448、高峰专线47、高峰专线96、高快巴士27",
+     "busName": "梅龙天桥"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M581",
+     "busName": "艺丰花园"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324、M134、M383、M437、高峰专线21、高峰专线57、高快巴士6",
+     "busName": "福田党校"
+    },
+    {
+     "busInfo": "328",
+     "busName": "孖岭社康中心"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:21",
+   "mobanchexia": "23:48",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:42",
+   "mobanchexia": "23:13",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M581",
+     "busName": "Youth Academy"
+    },
+    {
+     "busInfo": "M581",
+     "busName": "Meidong 5th Road"
+    },
+    {
+     "busInfo": "334、339、M112、M202、M222、M392、M398、M401、M448、Peak-hour Special Line 47、 Peak-hour Special Line 96、 Express Bus 27",
+     "busName": "Meilong Overpass"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M581",
+     "busName": "Yifeng Garden"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324、M134、M383、M437、Peak-hour Special Line 21、Peak-hour Special Line 57、Express Bus 6",
+     "busName": "Futian Party School"
+    },
+    {
+     "busInfo": "328",
+     "busName": "Maling Community health Center"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:21",
+   "mobanchexia": "00:48",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:42",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "深圳市不动产登记中心"
+  },
+  {
+   "outt": "A2出入口（临时关闭）",
+   "textt": "彩田路东侧（南）、深圳市革命烈士陵园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "梅林路南侧（东）、深圳市团校、青年学院、深圳市福田区委党校、深圳市清真寺（9号线）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "梅东五路、机电大厦、鹏运大厦、福田轨道交通派出所、深圳市残疾人综合服务中心、青年学院站公交站（9号线）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "彩田路东侧（北）、艺丰花园（9号线）"
+  },
+  {
+   "outt": "           E出入口",
+   "textt": "梅林路南侧（西）、斯达大厦"
+  }
+ ],
+ "siteCode": "0922",
+ "siteIntroduce": "10号线孖岭站位于深圳市彩田路与梅林路交叉口、彩田路西侧。9号线孖岭站位于彩梅立交东侧的梅林路上。该站为9、10号线的换乘站。该站为地下站。",
+ "siteName": "孖岭站",
+ "siteNameen": "Maling",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:20",
+   "mobanchexia": "23:48",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:41",
+   "mobanchexia": "23:13",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

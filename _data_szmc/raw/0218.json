@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M148、M169",
+     "busName": "景田沃尔玛"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "38、B666、M148、M312、M398、M441、高快巴士28",
+     "busName": "福田外国语学校西"
+    }
+   ],
+   "chukou": "B3出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M169、M312、高快巴士28",
+     "busName": "景田沃尔玛"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:03",
+   "mobanchexia": "23:24",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "05:59",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M148、M169",
+     "busName": "Jingtian Wal-Mart"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "38、B666、M148、M312、M398、M441、Express Bus 28",
+     "busName": "Futian Foreign Languange School West"
+    }
+   ],
+   "chukou": "Exit B3"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M169、M312、Express Bus 28",
+     "busName": "Jingtian Wal-Mart"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:03",
+   "mobanchexia": "00:24",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "05:59",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B1出入口",
+   "textt": "侨香路东侧、景田沃尔玛公交站"
+  },
+  {
+   "outt": "B2出入口（临时关闭）",
+   "textt": "侨香路南侧、香梅路西侧"
+  },
+  {
+   "outt": "B3出入口",
+   "textt": "香梅路北侧、景田北街、福田外国语学校西公交站、深圳市福田区外国语学校（景田校区）、天然居"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "侨香路西侧、景田沃尔玛公交站、特发小区"
+  }
+ ],
+ "siteCode": "0218",
+ "siteIntroduce": "香梅北站位于香梅路与侨香路交叉路口。该站为地下站。",
+ "siteName": "香梅北站",
+ "siteNameen": "Xiangmei North",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:03",
+   "mobanchexia": "23:24",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:20",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

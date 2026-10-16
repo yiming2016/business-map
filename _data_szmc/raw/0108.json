@@ -1,0 +1,215 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、M588、64、E38、M134、M390、M454、M459、M500、高快巴士47号",
+     "busName": "大中华国际广场"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、64、E25、M194、M224、M454、M459、M588、高峰专线23号、高峰专线29号、高快巴士10号",
+     "busName": "会展中心地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M390、M519、M198、M500",
+     "busName": "会展中心"
+    },
+    {
+     "busInfo": "M519、M198、高快巴士27号",
+     "busName": "皇庭广场总站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "62、M134、M133、60、M390、M500",
+     "busName": "福华三路口"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:54",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:50",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、M588、64、E38、M134、M390、M454、M459、M500、Express Bus47",
+     "busName": "Great China International Trade Plaza"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、64、E25、M194、M224、M454、M459、M588、Peak Express Line23、Peak Express Line29、Express Bus 10",
+     "busName": "Metro Station of Convention&Exhibition Center"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M390、M519、M198、M500",
+     "busName": "Convention&Exhibition Center"
+    },
+    {
+     "busInfo": "M390、M519、M198、M500、M198、M519、Express Bus 27",
+     "busName": "Wongtee Plaza Bus Terminal"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "62、M134、M133、60、M390、M500",
+     "busName": "Fuhua 3rd Road Cross"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:54",
+   "mobanchexia": "00:15",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:50",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "福华路北侧（东）、金田路（北）、深南大道"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "福华路北侧（西）、中心五路西侧、福华一路"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "中心四路、福华路南侧（西）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "中心五路（南）、福华三路北侧、会展中心"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "福华路南侧（东）、中心五路（北）、金田路（南）"
+  }
+ ],
+ "siteCode": "0108",
+ "siteIntroduce": "会展中心站位于深圳市中心区福华路与中心五路交汇处，为1、4号线的换乘站。该站为地下站。",
+ "siteName": "会展中心站",
+ "siteNameen": "Convention & Exhibition Center",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:54",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:35",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:50",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  }
+ ]
+}

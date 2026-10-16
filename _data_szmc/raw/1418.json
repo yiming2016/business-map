@@ -1,0 +1,163 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "惠阳7路、惠阳168B、深惠1线、深惠2线、深惠2支线",
+     "busName": "沙田地铁站A口"
+    },
+    {
+     "busInfo": "M136、大亚湾263快线、大亚湾266、大亚湾268",
+     "busName": "沙田地铁站1"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B961、M142、M187、M361、M427、M151、M434、M478、M481、M497、M425",
+     "busName": "沙田地铁站2"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B961、B142、M151、M187、M434、M478、M481、M497、大亚湾263快线、惠州大亚湾266、惠州大亚湾268、惠阳7路、深惠2线",
+     "busName": "沙田地铁站2"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M136、M361、M427、惠阳168B、深惠1线",
+     "busName": "沙田地铁站1"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "05:50",
+   "shoubanchexia": "--",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "HuiYang Bus NO.7、HuiYang168B、Shenhui Line1、Shenhui Line2、Shenhui Branch Line2",
+     "busName": "Shatian Metro StationA"
+    },
+    {
+     "busInfo": "M136、Daya Bay  263、 Daya Bay 266、 Daya Bay  268",
+     "busName": "Shatian Metro Station1"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B961、M142、M187、M361、M427、M151、M425、M434、M478、M481、     M497、M425",
+     "busName": "Shatian Metro Station2"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M425、 B961、B142、M151、M187、M434、M478、M481、M497、Daya Bay  263、 Daya Bay  266、 Daya Bay  268、HuiYang Bus NO.7、Shenhui Line2、Shenhui Branch Line2",
+     "busName": "Shatian Metro Station2"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M136、M361、M427、Huiyang 168B、Shenhui Line1",
+     "busName": "Shatian Metro Station1"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "05:50",
+   "shoubanchexia": "--",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坪山大道南侧（西）、金康路西侧"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坪山大道南侧（东）、金康路东侧、深圳市第一职业技术学校（坪山校区）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "坪山大道北侧（东）、坑梓沙田路西侧、沙田社区居委会"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "坪山大道北侧（西）、金沙市场"
+  }
+ ],
+ "siteCode": "1418",
+ "siteIntroduce": "沙田站位于坪山区坪山大道和金康路交叉口。该站为地下站。",
+ "siteName": "沙田站",
+ "siteNameen": "ShaTian",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "--",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

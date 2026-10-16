@@ -1,0 +1,187 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939路",
+     "busName": "碧眼村口公交站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939路、M206路",
+     "busName": "碧眼地铁站公交站"
+    },
+    {
+     "busInfo": "B869路",
+     "busName": "滑草场路口公交站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M206路、B869路、M596路",
+     "busName": "碧眼社康公交站"
+    },
+    {
+     "busInfo": "M206路、B869路、M596路",
+     "busName": "翠湖社区公交站"
+    },
+    {
+     "busInfo": "B939路",
+     "busName": "碧眼地铁站公交站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M206路、B869路",
+     "busName": "碧眼社康公交站"
+    },
+    {
+     "busInfo": "M206路、B869路",
+     "busName": "翠湖社区公交站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:11",
+   "mobanchexia": "23:09",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:37",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939",
+     "busName": "Entrance to Biyancun Bus Stop"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939、M206",
+     "busName": "Biyan Metro Station Bus Stop"
+    },
+    {
+     "busInfo": "B869",
+     "busName": "Huacaochang Rd Crossing Bus Stop"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M206、B869、M596",
+     "busName": "Biyan Community Healthcare Center Bus Stop"
+    },
+    {
+     "busInfo": "M206、B869、M596",
+     "busName": "Cuihu Communitiy Bus Stop"
+    },
+    {
+     "busInfo": "B939、M206",
+     "busName": "Biyan Metro Station Bus Stop"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M206、B869",
+     "busName": "Biyan Community Healthcare Center Bus Stop"
+    },
+    {
+     "busInfo": "M206、B869",
+     "busName": "Cuihu Communitiy Bus Stop"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "00:11",
+   "mobanchexia": "00:09",
+   "pingjunjiange": "8-16分钟",
+   "pingjunjiangeen": "8-16m钟",
+   "shoubanche": "06:37",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "光侨路东侧（南）、碧果路南侧、竹塘路北侧、碧眼村口公交站、碧眼旧村"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "光侨路东侧(北)、体育公园路南侧、碧眼地铁站公交站、滑草场路口公交站、深圳光明国家农业科技园区"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "光侨路西侧(北)、光明大街、翠湖社区党群服务中心、碧眼社康公交站、碧眼地铁站公交站、翠湖社区公交站、"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "光侨路西侧(南)、碧眼社区党群服务中心、碧眼社区健康服务中心、碧眼社康公交站、翠湖社区公交站、碧眼新村"
+  }
+ ],
+ "siteCode": "6603",
+ "siteIntroduce": "碧眼站位于光侨路与光明大街交叉路口，该站为地下站。",
+ "siteName": "碧眼站",
+ "siteNameen": "BiYan",
+ "workDay": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:11",
+   "mobanchexia": "23:09",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:37",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ]
+}

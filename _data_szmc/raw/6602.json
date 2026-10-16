@@ -1,0 +1,171 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939路、720路、M368路、M532路、M411路、大顶岭绿道接驳假日专线",
+     "busName": "虹桥公园北广场公交站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939路",
+     "busName": "虹桥公园地铁站公交站"
+    },
+    {
+     "busInfo": "B939路",
+     "busName": "碧眼村口公交站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939路、M368路",
+     "busName": "碧眼村口公交站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720路、B939路、M411路、M532路、M549路、大顶岭绿道接驳假日专线",
+     "busName": "虹桥公园地铁站公交站"
+    },
+    {
+     "busInfo": "720路、M532路、M411路",
+     "busName": "光明区人民医院东院区公交站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:12",
+   "mobanchexia": "23:07",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:38",
+   "shoubanchexia": "06:32",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939、720、M368、M532、M411、大顶岭绿道接驳假日专线",
+     "busName": "Hongqiao Park North Square Bus Stop"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939",
+     "busName": "Hongqiao Park Metro Station Bus Stop"
+    },
+    {
+     "busInfo": "B939",
+     "busName": "Entrance to Biyancun Bus Stop"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B939、M368",
+     "busName": "Entrance to Biyancun Bus Stop"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720、B939、M411、M462、M532、M549、大顶岭绿道接驳假日专线",
+     "busName": "Hongqiao Park Metro Station Bus Stop"
+    },
+    {
+     "busInfo": "720、M532、M411",
+     "busName": "East Branch of Guangming District People's Hospital Bus Stop"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "00:12",
+   "mobanchexia": "00:07",
+   "pingjunjiange": "8-16分钟",
+   "pingjunjiangeen": "8-16m钟",
+   "shoubanche": "06:38",
+   "shoubanchexia": "06:32",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "光侨路东侧（南）、虹桥公园、虹桥公园北广场公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "光侨路东侧（北）、面前路南侧、虹桥公园地铁站公交站、碧眼村口公交站、深圳市光明区外国语学校碧湖幼儿园、碧眼社区"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "光侨路西侧（北）、华夏路北侧、河心南路南侧、河心北路南侧、碧眼村口公交站、深圳市光明区第一幼教集团明荟幼儿园、中国电建洺悦鹏著、富安花园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "光侨路西侧（南）、华夏路南侧、深圳理工大学总医院（东院区）、光明区群众体育中心、光明新城公园、虹桥公园地铁站公交站、光明区人民医院东院区公交站"
+  }
+ ],
+ "siteCode": "6602",
+ "siteIntroduce": "虹桥公园站位于光明区光侨路和华夏路交叉口，沿光侨路南北向布置。该站为地下站。",
+ "siteName": "虹桥公园站",
+ "siteNameen": "Hongqiao Park",
+ "workDay": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:12",
+   "mobanchexia": "23:07",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:38",
+   "shoubanchexia": "06:32",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ]
+}

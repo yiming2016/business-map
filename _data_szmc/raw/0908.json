@@ -1,0 +1,111 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72、M109、M562、高峰专线150路、高快巴士42号、高快巴士43号、高快巴士51号、高快巴士53号、B728、高峰专线128路、高快巴士41号、高快巴士48号",
+     "busName": "软件产业基地"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M209、M528、观光巴士科技生态蓝线",
+     "busName": "深大南站"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:56",
+   "mobanchexia": "23:13",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72、M109、M562、Peak Line No.150、Highway Express Bus No.42、Highway Express Bus No.43、Highway Express Bus No.51、Highway Express Bus No.53、B728、Summit Line No.128、Highway Express Bus No.41、Highway Express Bus number 48",
+     "busName": "Software Industry Base"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M209、M528、Sightseeing Bus Science and Technology Ecological Blue Line",
+     "busName": "Shenzhen University South Station"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:56",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "高新南十道、•几言推拿·spa·采耳(深大南店)"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "白石路、桂庙新村、海滨小区、锦隆花园、深圳大学南校区实验楼"
+  }
+ ],
+ "siteCode": "0908",
+ "siteIntroduce": "深大南站位于白石路与学府路交叉路口东北侧。该站为地下站。",
+ "siteName": "深大南站",
+ "siteNameen": "Shenzhen University South",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:55",
+   "mobanchexia": "23:13",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

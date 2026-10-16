@@ -1,0 +1,177 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E27、E33、M139、M229、M593、810、818、833、862、M369、E25、M589、高快巴士81",
+     "busName": "黄阁坑地铁站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "810、818、833、862、E27、M369、莞782、高快巴士81、M139、M229、M317、M360、M446、M593",
+     "busName": "龙岗中专"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M317、M360、M446、M589、龙岗儿童公园假日专线",
+     "busName": "龙岗天安数码城①"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M185、M317、M360、M446、M589、龙岗儿童公园假日专线",
+     "busName": "龙岗天安数码城①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "810、862、E27、M139、M229、M317、M446、M593、M369、高快巴士81、莞782",
+     "busName": "龙岗中专"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:42",
+   "mobanchexia": "23:23",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:48",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Huanggekeng Station",
+     "busName": ""
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Longgang Secondary School",
+     "busName": ""
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Longgang Tian 'an Digital City ①",
+     "busName": ""
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Longgang Tian 'an Digital City ①",
+     "busName": ""
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Longgang Secondary School",
+     "busName": ""
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:42",
+   "mobanchexia": "00:23",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:48",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "清林路南侧、黄阁坑地铁站（公交站）、深圳市龙岗中等专业学校/深圳市龙岗职业技术学校、龙岗区教育局、深圳市龙岗区委党校"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "黄阁路东侧（南）、龙岗中专（公交站）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "黄阁路东侧（北）、深圳市龙岗区耳鼻咽喉医院、龙岗天安数码城①（公交站）、天健现代城"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "黄阁路西侧（北）、龙岗天安数码城①（公交站）、龙岗创投大厦、天安数码城、深圳市龙岗区教育科学研究院"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "黄阁路西侧（南）、龙岗中专（公交站）、大运湾东中心、黄阁翠苑"
+  }
+ ],
+ "siteCode": "1612",
+ "siteIntroduce": "黄阁坑站位于龙岗区黄阁路与清林路交叉口处、车站主体沿黄阁路呈南北走向布置，该站为地下站。",
+ "siteName": "黄阁坑站",
+ "siteNameen": "Huanggekeng",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:42",
+   "mobanchexia": "23:23",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:43",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

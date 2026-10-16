@@ -1,0 +1,159 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、358、358（快线）、E26、E28、M191、M199、M205、M437、M520、云海专线A",
+     "busName": "盐田港西地铁站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M199、M205、M437、M444、M520、68、308",
+     "busName": "周大福大厦"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "大华兴寺祈福专线",
+     "busName": "盐田港西地铁站东"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、358、358（快线）、E26、E28、M191、M199、M205、M437、M520、云海专线A",
+     "busName": "盐田港西地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:17",
+   "mobanchexia": "00:08",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、358、358 (express line) E26、E28、M191、M199、M205、M437、M520、Yunhai Special Line A",
+     "busName": "Yantian Port West Subway Station"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M199、M205、M437、M444、M520、M520 (interval line)、68、308、308 (interval line)、M196 (interval line)",
+     "busName": "Chow Tai Fook Building"
+    }
+   ],
+   "chukou": "Exit B2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "J26、Prayer Line",
+     "busName": "Yantian Port West Subway Station East"
+    }
+   ],
+   "chukou": "Exit B2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、 358、358 (express line) E26、E28、M191、M199、M205、M437、M520、Yunhai Special Line A",
+     "busName": "Yantian Port West Subway Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:17",
+   "mobanchexia": "01:08",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "深盐路南侧（西）、深圳盐田综合保税区沙头角片区、海山街道保税区文化活动中心"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "深盐路南侧（东）、深圳盐田天主之母堂"
+  },
+  {
+   "outt": "B1出入口",
+   "textt": "盐田海事局、海景二路东侧（南）、协和路"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "盐田海事局、海景二路东侧（南）、协和路"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深圳市公安局盐田分局、深圳广播电视大学沙头角分校、中共深圳市盐田区委党校、深盐路北侧（西）"
+  }
+ ],
+ "siteCode": "0805",
+ "siteIntroduce": "盐田港西站位于深圳市盐田区梧桐路与下梧桐路之间的深盐路下方、车站沿深盐路西南至东北方向布置。该站为地下站。",
+ "siteName": "盐田港西站",
+ "siteNameen": "Yantian Port West",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒/5分36秒",
+   "gaofenjiangeen": "2m48s/5m36s",
+   "mobanche": "23:17",
+   "mobanchexia": "00:08",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:51",
+   "shoubanchexia": "06:28",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

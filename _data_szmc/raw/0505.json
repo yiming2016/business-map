@@ -1,0 +1,83 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:04",
+   "mobanchexia": "23:22",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "01:04",
+   "mobanchexia": "00:22",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前湾四路北侧（东）、听海大道东侧（南）、前湾河、前海泰康医院、前海天境"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "广深高速公路、前湾三路南侧（西）、听海大道西侧（北）、临海大道、科创六街、诚信三街"
+  }
+ ],
+ "siteCode": "0505",
+ "siteIntroduce": "前湾公园站位于南山区前湾三路和听海大道交汇处。该站为地下站。",
+ "siteName": "前湾公园站",
+ "siteNameen": "Qianwan Park",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒/4-5分16秒",
+   "gaofenjiangeen": "2-2m38s/4-5m16s",
+   "mobanche": "00:04",
+   "mobanchexia": "23:22",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

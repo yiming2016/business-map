@@ -1,0 +1,241 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M134路",
+     "busName": "丰泽湖山庄总站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324路、334路、339路、M152路、M193路、M202路、M222路、M392路、M401路、M112路、M383路、高快巴士27号、高快巴士6号",
+     "busName": "民乐地铁站1"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60路、M398路、M405路、M500路、M392路、高峰专线57号、高峰专线96号",
+     "busName": "民乐地铁站2"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324路、334路、M222路、M448路、高峰专线22号、高峰专线47号、高快巴士27号、高快巴士6号",
+     "busName": "民乐地铁站3"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M383路、M152路、高峰专线75号、高快巴士14号",
+     "busName": "民乐地铁站4"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M398路、高快巴士14号",
+     "busName": "民乐地铁站5"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M263路、M510路",
+     "busName": "梅林关北广场公交首末站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M437路、M134路",
+     "busName": "梅林关南广场公交首末站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "328路、M112路、M207路、M262路、高峰专线23号、高峰专线21号、高峰专线59号",
+     "busName": "新彩隧道口"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "23:14",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:12",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M134",
+     "busName": "Fengzehu Shanzhuang Bus Terminal"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324，334，339，M152，M193，M202，M222，M392，M401，M112，M383，Express Bus 27，Express Bus 6",
+     "busName": "Minle Metro Station 1"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60，M398，M405，M500，M392，Peak-hour Express Line 75，Peak-hour Express Line 96",
+     "busName": "Minle Metro Station 2"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324，334，M222，M448，Peak-hour Express Line 22，Peak-hour Express Line 47，Express Bus 27，Express Bus 6",
+     "busName": "Minle Metro Station 3"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M383，M152，Peak-hour Express Line 75，Express Bus 14",
+     "busName": "Minle Metro Station 4"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M398，Express Bus 14",
+     "busName": "Minle Metro Station 5"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M263，M510",
+     "busName": "Meilinguan North Plaza Bus Terminal"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M437，M134",
+     "busName": "Meilinguan South Plaza Bus Terminal"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "328，M112，M207，M262，Peak-hour Express Line 23，Peak-hour Express Line 21，Peak-hour Express Line 59",
+     "busName": "Xincai Tunnel Entrance"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "01:28",
+   "mobanchexia": "00:14",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:12",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "梅观路东侧（南）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "梅观路东侧（北）、民乐村、丰泽湖山庄"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "星丰路、星河丹堤"
+  }
+ ],
+ "siteCode": "0607",
+ "siteIntroduce": "梅林关站位于梅观路东侧、丰泽湖山庄西侧。该站为地下站。",
+ "siteName": "梅林关站",
+ "siteNameen": "Meilinguan",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒",
+   "gaofenjiangeen": "2m20s-3m12s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:14",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

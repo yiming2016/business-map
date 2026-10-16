@@ -1,0 +1,159 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "42、201、223、M364、M375、M483、M484、M507、M518、E40",
+     "busName": "大新小学"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M562、M176、B683",
+     "busName": "南山双拥"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "42、58、M364、M375、M483、M484、M492、M507、M518",
+     "busName": "大新村"
+    }
+   ],
+   "chukou": "C2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、201、223、M562、M176、M492、E40",
+     "busName": "大新地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:26",
+   "mobanchexia": "23:42",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "42、201、223、M364、M375、M483、M484、M507、M518、E40",
+     "busName": "Daxin  Primary School"
+    }
+   ],
+   "chukou": "Exit  A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M562、M176、B683",
+     "busName": "Nanshan Shuangyong"
+    }
+   ],
+   "chukou": "Exit  B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "42、58、M364、M375、M483、M484、M492、M507、M518、M518",
+     "busName": "Daxincun"
+    }
+   ],
+   "chukou": "Exit C2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、201、223、M562、M176、M492、E40",
+     "busName": "Daxin Metro Station"
+    }
+   ],
+   "chukou": "Exit  D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:26",
+   "mobanchexia": "00:42",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前海路东侧、南新路、大新小学、南头街道办事处、大新新村、一甲海边新村、大新社区工作站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "前海路西侧（北）、前海小学、深圳市南山机关幼儿园"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "桃园路南侧(西）、月亮湾大道、前海学校、南山区退役军人服务中心"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "前海路西侧（南）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "桃园路南侧（东)、大新村"
+  }
+ ],
+ "siteCode": "0120",
+ "siteIntroduce": "大新站位于深圳市南山区前海路与桃园路交汇处。该站为地下站。",
+ "siteName": "大新站",
+ "siteNameen": "Daxin",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:26",
+   "mobanchexia": "23:42",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:49",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M394、M161、M386",
+     "busName": "坳一村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M167、M229、M394、M161、M386",
+     "busName": "坳背地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M394、M161、M386",
+     "busName": "坳一村"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:30",
+   "mobanchexia": "23:54",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M394、M161、M386",
+     "busName": "Aoyi Village"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M167、M229、M394、M161、M386",
+     "busName": "Aobei subway Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M394、M161、M386",
+     "busName": "Aoyi Village"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:30",
+   "mobanchexia": "00:54",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "红棉路东侧"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坳背路北侧、坳背市场、德园春酒店（坳背店）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "红棉路西侧、坳二村"
+  },
+  {
+   "outt": "                                     D出入口",
+   "textt": "坳背路南侧、坳一村、坳中小区"
+  }
+ ],
+ "siteCode": "1408",
+ "siteIntroduce": "坳背站位于龙岗区红棉路与坳背路交叉口处。该站为地下站。",
+ "siteName": "坳背站",
+ "siteNameen": "Aobei",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:31",
+   "mobanchexia": "23:54",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

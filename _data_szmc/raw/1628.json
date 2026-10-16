@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、E17、M279、M426、M546",
+     "busName": "沙壆地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、E17、M279、M426、M546",
+     "busName": "沙壆地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:09",
+   "mobanchexia": "23:56",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:38",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、E17、M279、M426、M546",
+     "busName": "Shabo Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、E17、M279、M426、M546",
+     "busName": "Shabo Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:09",
+   "mobanchexia": "00:56",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:38",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "东纵路南侧（西）、国家税务总局深圳市坪山区税务局、南方医科大学深圳口腔医院(坪山）、东北师范大学附属中学深圳学校"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "东纵路南侧（东）、坪山区医疗健康集团沙壆社区健康服务中心、深圳市坪山区东纵小学、沙壆地铁站公交站、豪方东园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "东纵路北侧（东）、坪山燕子湖国际会展中心、深圳市龙翔学校、深圳市坪山区乐庭幼儿园 、富润·乐庭"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "东纵路北侧（西）、深圳自然博物馆、沙壆地铁站公交站、深圳市坪山区精致实验学校"
+  }
+ ],
+ "siteCode": "1628",
+ "siteIntroduce": "沙壆站位于东纵路与沙新路交汇处、车站沿东纵路东西向布置，该站为地下站。",
+ "siteName": "沙壆站",
+ "siteNameen": "Shabo",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:09",
+   "mobanchexia": "23:56",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:48",
+   "shoubanchexia": "06:28",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、E34、 M266、 M277、M279、M361",
+     "busName": "万泉工业区"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、E34、M277、M279、M361",
+     "busName": "宝龙同乐地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、E34、M277、M279、M361",
+     "busName": "宝龙同乐地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、E34、M266、M277、M27、M361",
+     "busName": "万泉工业区"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:22",
+   "mobanchexia": "23:43",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、E34、 M266、 M277、M279、M361",
+     "busName": "Wanquan Industrial Area"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、E34、M277、M279、M361",
+     "busName": "Baolong Tongle Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、E34、M277、M279、M361",
+     "busName": "Baolong Tongle Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、E34、M266、M277、M27、M361",
+     "busName": "Wanquan Industrial Area"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:22",
+   "mobanchexia": "00:43",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深汕路南侧（西）、同乐派出所、同乐社区党群服务中心、万泉工业区公交站、同乐第一幼儿园、果尔佳职业技能培训学校、企岭院区式小区C区"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深汕路南侧（东）、宝龙同乐地铁站公交站、企岭村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深汕路北侧（东）、宝龙同乐地铁站公交站、丰顺村院区式管理小区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "深汕路北侧（西）、万泉工业区公交站、同乐幼儿园"
+  }
+ ],
+ "siteCode": "1621",
+ "siteIntroduce": "宝龙同乐站位于汕公路与同力路交叉口、沿深汕公路路中呈东西向跨路中布置，该站为地下站。",
+ "siteName": "宝龙同乐站",
+ "siteNameen": "Baolongtongle",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:22",
+   "mobanchexia": "23:43",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M182、M378",
+     "busName": "灵芝地铁站1"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M395、M518、高快巴士33、606、610、E23、M197、M249、M250",
+     "busName": "灵芝地铁站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线95、M206、M249",
+     "busName": "宝安税务局"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "610、629、M182、M245、M206、M378、M395、高峰专线121",
+     "busName": "灵芝公园北"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615、629、M245、M206、M378、M395",
+     "busName": "灵芝公园北"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M245、M250、M518、606、615、629、M197、高峰专线95",
+     "busName": "公园路西一巷"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M197、629、M245、M250、M518、高峰专线95",
+     "busName": "公园路西一巷"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E23、M197、M249、M250、M378、M395、M518、高快巴士33号",
+     "busName": "灵芝地铁站"
+    }
+   ],
+   "chukou": "F出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:48",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:58",
+   "mobanchexia": "23:27",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M182、 M378",
+     "busName": "Lingzhi Metro Station 1"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M395、M518、 Express Bus 33、606、610、E23、M197、M249、M250",
+     "busName": "Lingzhi Metro Station"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak line 95、M206、M249",
+     "busName": "Bao'an Tax Bureau"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "610、629、M182、M245、M206、M378、M395、Peak line 121",
+     "busName": "North Side of Lingzhi Park"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615、629、M245、M206、M378、M395",
+     "busName": "North Side of Lingzhi Park"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M245、M250、M518、606、615、629、M197、Peak line 95",
+     "busName": "Park Road West Lane1"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M197、629、M245、M250、M518、Peak line 95",
+     "busName": "Park Road West Lane1"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E23、M197、M249、M250、M378、M395、M518、Express Bus 33",
+     "busName": "Lingzhi Metro Station"
+    }
+   ],
+   "chukou": "Exit F"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:48",
+   "mobanchexia": "00:38",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:58",
+   "mobanchexia": "00:27",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "创业二路南侧(西)、新安中学、宝安汽车站"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "前进一路南侧、冠城世家、新安湖小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "创业二路南侧（东）、灵芝公园、深圳市宝安公证处、深圳市宝安区司法局"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "创业二路北侧（东）、中洲购物中心"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "前进一路北侧、宝安26区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "前进一路北侧"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "前进一路南侧、宝安中医院"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "创业二路北侧（西）、大悦城购物中心"
+  }
+ ],
+ "siteCode": "0513",
+ "siteIntroduce": "灵芝站是5号线与12号线的换乘站、车站位于前进一路和创业二路的交叉口路口、5号线车站沿创业二路布置、12号线车站沿前进一路布置。该站为地下站。",
+ "siteName": "灵芝站",
+ "siteNameen": "Lingzhi",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:48",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:51",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:58",
+   "mobanchexia": "23:27",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

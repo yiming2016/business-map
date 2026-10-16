@@ -1,0 +1,171 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "23、308、376、M140",
+     "busName": "市慢病防治中心"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "23、308、M140、M536",
+     "busName": "布心花园"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "22:56",
+   "mobanchexia": "00:29",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:16",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:16",
+   "shoubanchexia": "--",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "23、308、376、M140",
+     "busName": "Shenzhen Center for Chronic Disease Control"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "23、308、M140、M536",
+     "busName": "Buxin Garden"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:56",
+   "mobanchexia": "01:29",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:16",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:16",
+   "shoubanchexia": "--",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "东晓路西侧、布心路南侧（西）、深圳市公安局罗湖区公安分局翠竹派出所、深圳市职业病防治院、深圳市慢性病防治中心、深圳天河城购物中心"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "太安路西侧、百仕达小学、东湖中学、粤海新村、百仕达花园、百仕达二期"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "东晓路东侧、太安路北侧、水库小学、东乐花园、东安花园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "布心路东侧（南）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "布心路东侧（北）、深圳市公安局罗湖区公安局东湖派出所、罗湖区妇幼保健院、布心小学、深圳天河城购物中心"
+  }
+ ],
+ "siteCode": "0729",
+ "siteIntroduce": "太安站位于东晓路与布心路交汇处，为5、7号线的换乘站。该站为地下站。",
+ "siteName": "太安站",
+ "siteNameen": "Tai'an",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "22:56",
+   "mobanchexia": "00:29",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:11",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "--",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

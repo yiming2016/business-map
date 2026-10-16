@@ -1,0 +1,140 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M468",
+     "busName": "鹏兴实验学校南"
+    }
+   ],
+   "chukou": "A1、A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "27、57、M146",
+     "busName": "鹏兴实验学校"
+    }
+   ],
+   "chukou": "B1、B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M146、57、113、M102、M182",
+     "busName": "罗湖外语学校"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M182、M102、RS20",
+     "busName": "仙湖路地铁站"
+    }
+   ],
+   "chukou": "C2、C3出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:31",
+   "mobanchexia": "23:55",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:51",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M468",
+     "busName": "Exit A1、A2丨Pengxing Experimental School South"
+    },
+    {
+     "busInfo": "27、57、M146",
+     "busName": "Exit B1、B2丨Pengxing Experimental School"
+    },
+    {
+     "busInfo": "M146、57、113、M102、M182",
+     "busName": "Exit C1丨Luohu Foreign Languages School"
+    },
+    {
+     "busInfo": "M182、M102、RS20",
+     "busName": "Exit C2、C3丨Xianhu Rd Metro Station"
+    }
+   ],
+   "chukou": ""
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:31",
+   "mobanchexia": "00:55",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:51",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1、A2出入口",
+   "textt": "仙湖路东侧（南）、聚财路、深圳市鹏兴实验学校、鹏兴花园2期、鹏兴花园3期"
+  },
+  {
+   "outt": "B1、B2出入口",
+   "textt": "国威路北侧（东）、莲塘街道办、深圳市莲塘小学、聚宝华府、祥和花园2期、坳下村"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "国威路北侧（西）、罗湖外语学校、昊德宸中心幼儿园、鹏兴花园1期"
+  },
+  {
+   "outt": "                                                         C2、C3出入口",
+   "textt": "仙湖路西侧（北）、深圳仙湖植物园"
+  }
+ ],
+ "siteCode": "0231",
+ "siteIntroduce": "仙湖路站位于罗湖区国威路与仙湖路交汇处。该站为地下站。",
+ "siteName": "仙湖路站",
+ "siteNameen": "Xianhu Rd",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:31",
+   "mobanchexia": "23:55",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

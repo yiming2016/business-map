@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811、高峰专线167号",
+     "busName": "香园路口"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811",
+     "busName": "香园新村"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线167号、D25路",
+     "busName": "高桥工业区"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线17号（单环线）",
+     "busName": "低碳城地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-6分",
+   "gaofenjiangeen": "3m-6m",
+   "mobanche": "23:06",
+   "mobanchexia": "00:23",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811、Peak line 167",
+     "busName": "Xiangyuan Rd Crossing"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811",
+     "busName": "Xiangyuan Xincun"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak line 167、D25 Road",
+     "busName": "Gaoqiao Industrial Area"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak line 17 （Single Ring Road）",
+     "busName": "Ditancheng metro station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:06",
+   "mobanchexia": "01:22",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:31",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "香吉路西侧（南）、坪西中路南侧（东）、深圳市龙岗区坪地坪西学校、香园工业区"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "香吉路东侧（南）、吉祥二路、青顶背工业区、香元居民小组党群服务站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "吉祥二路南侧（西）、高桥居民小组、香元新村、高桥新村、金桥工业区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "香吉路西侧（北）、坪西中路南侧（西）"
+  }
+ ],
+ "siteCode": "0335",
+ "siteIntroduce": "低碳城站位于坪西路与环城西路交叉路口。该站为地下站。",
+ "siteName": "低碳城站",
+ "siteNameen": "Low-carbon City",
+ "workDay": [
+  {
+   "gaofenjiange": "4～7分",
+   "gaofenjiangeen": "4～7m",
+   "mobanche": "23:06",
+   "mobanchexia": "00:23",
+   "pingjunjiange": "7分钟/14分钟",
+   "pingjunjiangeen": "7m钟/14m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

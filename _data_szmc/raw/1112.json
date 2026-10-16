@@ -1,0 +1,150 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M197、M377、M382、M400、M488、M469、高峰专线190",
+     "busName": "碧海湾地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M313、M473",
+     "busName": "碧海湾地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718路、320路、M197、M200、M473、B641、M313",
+     "busName": "榕湾汇商业广场"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320路、718路、M197、B641、M469、M400、M200、M488、高峰专线192",
+     "busName": "碧海湾地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "00:09",
+   "mobanchexia": "23:56",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "05:44",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M197、M377、M382、M400、M488、M469、高峰专线190Exit B",
+     "busName": "Bihaiwan Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718路、320路、M197、M200、M473、B641、M313",
+     "busName": "Rongwanhui Commercial Plaza"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320路、718路、M197、B641、M469、M400、M200、M488、高峰专线192",
+     "busName": "Bihaiwan Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "01:08",
+   "mobanchexia": "00:55",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "05:43",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "宝源路南侧（西）、松茂御龙湾、深圳恒生医院、碧海君庭、、碧海湾地铁站公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "宝源路南侧(东)、海港小学、泰华阳光海、中信湾上六座花园、碧海湾站地铁站①公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "宝源路北侧（东）、碧海湾花园、海湾明珠花园、中熙香缇湾花园、深圳宝安区中心医院永丰社区健康服务站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "金海路、宝源路北侧、深圳西湾小学、深圳市海湾中学、碧海湾地铁站公交站"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "西乡体育中心、锦明花园、锦欣花园、宝源路北侧（西）"
+  }
+ ],
+ "siteCode": "1112",
+ "siteIntroduce": "碧海湾站位于深圳市宝安区宝源路与金海路交叉处下方。该站为地下站。",
+ "siteName": "碧海湾站",
+ "siteNameen": "Bihaiwan",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分15秒、晚3分07秒。",
+   "gaofenjiangeen": "早2m15s、晚3m07s。",
+   "mobanche": "00:09",
+   "mobanchexia": "23:56",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "05:43",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ]
+}

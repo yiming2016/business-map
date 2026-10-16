@@ -1,0 +1,163 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、 818、E34、M230、M266、M277、M279、M320、M361",
+     "busName": "石湖龙居民小组站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、 818、E34、M266、M277、M279、M304、M361",
+     "busName": "石湖龙居民小组站"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M277",
+     "busName": "龙东地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M230",
+     "busName": "赤石岗小区东站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:26",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、 818、 E34、 M230、 M266、 M277、 M279、  M320、  M361",
+     "busName": "Shihulong Resident Group Station"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、 818、 E34、 M266、 M277、 M279、  M304、 M361",
+     "busName": "Shihulong Resident Group station"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M277",
+     "busName": "Longdong Subway Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M230",
+     "busName": "Chishigang Xiaoqu East Bus Stop"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:26",
+   "mobanchexia": "00:40",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "深汕路北侧（西）、石湖龙居民小组公交站、赤石岗村、鸿景春天"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "深汕路南侧（西）、石湖龙居民小组公交站、育贤学校、深圳仁安医院、石湖龙小区、赤石岗综合楼"
+  },
+  {
+   "outt": "A3出入口",
+   "textt": "爱南路东侧（南）、龙岗名星学校、新田新村"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深汕路南侧（东）、同乐高速路口、新大坑小区、银龙工业科技园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深汕路北侧（西）、龙东地铁站公交站、同心实验学校、中骏四季阳光小区、中海新都荟小区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "爱南路东侧（北）、赤石岗小区东公交站、中信龙盛广场、恒裕嘉城"
+  }
+ ],
+ "siteCode": "1620",
+ "siteIntroduce": "龙东站位于龙岗区深汕路与爱南路交叉口处、车站主体沿深汕路呈东西走向布置，该站为地下站。",
+ "siteName": "龙东站",
+ "siteNameen": "Longdong",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:26",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

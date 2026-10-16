@@ -1,0 +1,122 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:53",
+   "mobanchexia": "23:16",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:55",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:38",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:53",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:14",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:55",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:38",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "outAndText": [],
+ "siteCode": "1305",
+ "siteIntroduce": "暂无数据",
+ "siteName": "粤海门站",
+ "siteNameen": "Yuehaimen",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:53",
+   "mobanchexia": "23:16",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:55",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:38",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ]
+}

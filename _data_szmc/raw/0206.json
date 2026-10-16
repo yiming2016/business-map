@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "N73、M493",
+     "busName": "湾厦地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M493",
+     "busName": "湾厦地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:30",
+   "mobanchexia": "22:56",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:39",
+   "shoubanchexia": "05:32",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "N73、M493",
+     "busName": "Wanxia Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M493",
+     "busName": "Wanxia Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:30",
+   "mobanchexia": "23:56",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:39",
+   "shoubanchexia": "05:32",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "后海滨路东侧（南）、招商东路南侧（东）、绿海湾花园、阳光海滨花园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "后海滨路东侧（北）、招商东路北侧（东）、湾厦地铁站公交站、恒裕滨城"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "后海滨路西侧（北）、招商东路北侧（西）、深圳市蛇口育才教育集团深圳育才三中、深圳市蛇口育才教育集团第四小学、后海公馆"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "招商东路南侧（西）、后海滨路西侧（南）、湾厦中心"
+  }
+ ],
+ "siteCode": "0206",
+ "siteIntroduce": "湾厦站位于后海滨路和招商东路交接处后海滨路的下方。该站为地下站。",
+ "siteName": "湾厦站",
+ "siteNameen": "Wanxia",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:30",
+   "mobanchexia": "22:56",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:39",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

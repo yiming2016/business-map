@@ -1,0 +1,111 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M138、M105、M267、M271、M272、M414、M415、303、307、308、312、381、980",
+     "busName": "下水径"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、307、308、312、381、980、M138、M414、M415、M267、M271、M272、M105、M565",
+     "busName": "下水径"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:07",
+   "mobanchexia": "00:18",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:49",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M138、M105、 M267、 M271、 M272、 M414、 M415、 303、 307、 308、 312、 381、 980",
+     "busName": "Xiashuijing"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、 307、 308、 312、 381、 980、M138、 M414、 M415、 M267、 M271、 M272、M105、M565",
+     "busName": "Xiashuijing"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:07",
+   "mobanchexia": "01:18",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:49",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "吉华路西侧、下水径社康服务中心、大靓花园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "吉华路东侧、启元学校、水径派出所、水径村委大楼、下水径大厦、长龙苑、阳光花园、景华·春天家园"
+  }
+ ],
+ "siteCode": "0527",
+ "siteIntroduce": "下水径站位于深圳布吉镇吉华路北水径村路段地下。该站为地下站。",
+ "siteName": "下水径站",
+ "siteNameen": "Xiashuijing",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:07",
+   "mobanchexia": "00:18",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:54",
+   "shoubanchexia": "05:51",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、M113、226、M106、M475、M527",
+     "busName": "南山书城地铁站②"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "19、37、M113、226、M483、M527",
+     "busName": "南山书城地铁站②"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M106、M242",
+     "busName": "南山书城地铁站①"
+    }
+   ],
+   "chukou": "F出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "19、M242",
+     "busName": "南山书城地铁站①"
+    }
+   ],
+   "chukou": "G出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:58",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、M113、226、M106、M475、M527",
+     "busName": "Nanshan Book Mall Metro Station ②"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "19、37、M113、226、M483、M527",
+     "busName": "Nanshan Book Mall Metro Station ②"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M106、M242",
+     "busName": "Nanshan Book Mall Metro Station ①"
+    }
+   ],
+   "chukou": "Exit F"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "19、M242",
+     "busName": "Nanshan Book Mall Metro Station ①"
+    }
+   ],
+   "chukou": "Exit G"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:58",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "南海大道东侧（南）、海德二道南侧（东）、金钟大厦、华彩天成、青春家园、天悦园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "南海大道东侧（北）、海德二道北侧（东）、文心公园、南山书城"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "海德二道北侧（西）、南海大道西侧（北）、山东大厦、缤纷假日小区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "海德二道南侧（西）、学府中学西校区、海典居"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "深铁汇坊"
+  }
+ ],
+ "siteCode": "0907",
+ "siteIntroduce": "南山书城站位于深圳市南山区海德二道与南海大道交叉口的东侧。该站为地下站。",
+ "siteName": "南山书城站",
+ "siteNameen": "Nanshan Book Mall",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:57",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

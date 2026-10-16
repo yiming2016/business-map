@@ -1,0 +1,115 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M372、M364、M375、42、81、M347、M409、 M467",
+     "busName": "前海兴海路口"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M372、M364、M375、42、81、M347、M409、M467、青青世界公园接驳专线",
+     "busName": "南山花园"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:09",
+   "mobanchexia": "23:16",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M372、 M364、 M375、 42、81、 M347、 M409、 M467",
+     "busName": "Qianhai Xinghai Crossing"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M372、 M364、 M375、 42、 81、 M347、 M409、 M467、 Qingqing World Park connection line",
+     "busName": "Nanshan Garden"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "01:09",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前海港湾花园、深大附中高中部、观峰阁、泛海拉菲花园二期、蛇口港派出所、前海路西侧（南）、港前路南侧、德尚世家"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "泛海.拉菲花园、恒立心海湾花园、深大附中初中部、月亮湾公园、南山花园、前海路西侧（北）、港前路北侧（东）、青青世界"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "荔湾小学、月亮湾大道、港前路北侧（西）"
+  }
+ ],
+ "siteCode": "0502",
+ "siteIntroduce": "荔湾站位于南山区港前路与前海路路口下方。该站为地下站。",
+ "siteName": "荔湾站",
+ "siteNameen": "Liwan",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒/4-5分16秒",
+   "gaofenjiangeen": "2-2m38s/4-5m16s",
+   "mobanche": "00:09",
+   "mobanchexia": "23:16",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

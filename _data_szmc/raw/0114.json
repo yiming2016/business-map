@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M487、101、323、324、M113",
+     "busName": "华侨城地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、324、M487、M113",
+     "busName": "华侨城地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:40",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M487、101、323、324、M113",
+     "busName": "OCT  Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、324、M487、M113",
+     "busName": "OCT Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:40",
+   "mobanchexia": "00:28",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深南大道北侧（东）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南大道北（西）、华侨城中学、华夏艺术中心"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深南大道南侧（西）、何香凝美术馆"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "深南大道南侧（东）、中国民俗文化村、锦绣中华"
+  }
+ ],
+ "siteCode": "0114",
+ "siteIntroduce": "华侨城站位于深圳市南山区深南大道。该站为地下站。",
+ "siteName": "华侨城站",
+ "siteNameen": "OCT",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:40",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M494路、M512路、M513路、M580路",
+     "busName": "松岗人民医院南站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M513路、M512路、M494",
+     "busName": "溪头地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M513路、M512路、M494",
+     "busName": "溪头地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M512路、M580路、M494路",
+     "busName": "松岗人民医院南站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:01",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M494、M512、M513、M580",
+     "busName": "Songgang People's Hospital south station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M494、M512、M513",
+     "busName": "Xitou Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M494、M512、M513",
+     "busName": "Xitou Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M494、M512、M580",
+     "busName": "Songgang People's Hospital south station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:31",
+   "mobanchexia": "01:11",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "沙江路北侧（东）、深圳市松岗人民医院、松岗人民医院南公交站、坑尾村"
+  },
+  {
+   "outt": " B出入口",
+   "textt": "沙江路北侧（西）、溪头地铁站公交站、沙溪小学"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": ""
+  },
+  {
+   "outt": " C2出入口",
+   "textt": "沙江路南侧（西）、溪头地铁站公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "沙江路南侧（东）、松岗人民医院南公交站"
+  }
+ ],
+ "siteCode": "0626",
+ "siteIntroduce": "溪头站位于宝安区沙江路与溪头路交叉口以西、沿沙江路路中（偏北）呈东西向布置，该站为地下站。",
+ "siteName": "溪头站",
+ "siteNameen": "Xitou",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:01",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

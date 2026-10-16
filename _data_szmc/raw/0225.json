@@ -1,0 +1,97 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、M202、高峰专线29",
+     "busName": "深圳教育研修院"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:46",
+   "mobanchexia": "23:39",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、M202、Peak Special Line 29",
+     "busName": "Shenzhen Institute of Education"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:46",
+   "mobanchexia": "00:39",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "燕南路西侧、宝树里购物中心"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "振华路南侧、深圳市市府二办工务署、深圳市住房和建设局、深圳市住房建设信息中心、深圳市第二人民医院中西医结合医院、深圳教育研修院、深圳教育研修院公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "兰光路东侧、振华路北侧"
+  }
+ ],
+ "siteCode": "0225",
+ "siteIntroduce": "燕南站位于深圳市福田区、车站沿振华路布置、位于振华路与燕南路交叉路口的西侧、自西向东与燕南路垂直相交。该站为地下站。",
+ "siteName": "燕南站",
+ "siteNameen": "Yannan",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:46",
+   "mobanchexia": "23:39",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

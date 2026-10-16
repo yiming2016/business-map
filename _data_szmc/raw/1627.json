@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M279、M479、M143",
+     "busName": "东纵纪念馆地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M479、M575、818、964、M143、M279",
+     "busName": "东纵纪念馆地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:10",
+   "mobanchexia": "23:54",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:36",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M279、M479、M143",
+     "busName": "Dongzong Column Memorial Hall Merto Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M479、M575、818、964、M143、M279",
+     "busName": "Dongzong Column Memorial Hall Merto Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:10",
+   "mobanchexia": "00:54",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:36",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "东纵路南侧（西）、深圳市社会保障基金管理局坪山分局、江岭社区居民委员会、江岭社区退役军人服务站、江岭社区综治中心、江岭文化广场"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "东纵路南侧（东）、坪山区马峦街道办事处江岭社区网格管理中队、坪山新区弘新幼儿园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "东纵路北侧（东）、龙背站(坪山云巴)、深圳市坪山区龙背小学、深圳市中新中学"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "东纵路北侧（西）、坪山区医疗健康集团三洋湖社区健康服务中心、深圳市坪山区人民医院、东江纵队纪念馆、坪山社区党群服务中心、东门小学、三洋湖幼儿园"
+  }
+ ],
+ "siteCode": "1627",
+ "siteIntroduce": "东纵纪念馆站位于三洋湖路与东纵路交叉口、沿东纵路东西向布置，该站为地下站。",
+ "siteName": "东纵纪念馆站",
+ "siteNameen": "Dongjiang Column Memorial \nHall",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:10",
+   "mobanchexia": "23:54",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、高快巴士21、旅游9线、B888、M194、M245、M247环线、M259、M433、M473、M527Q2、M527Q1、M527、M528Q、M528、M530、M558",
+     "busName": "固戍地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、B887、B888、B976、M194、M245、M247环线、M259、M393Q、M393、M433、M473、M527Q1、M527Q2、M528Q、M528、M530、M558、旅游9线、高快巴士21",
+     "busName": "固戍地铁站"
+    }
+   ],
+   "chukou": "F出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、B887、B888、B976、M194、M245、M247环线、M259、M433、M473、M527Q1、M527Q2、M527、M528、M530、M558",
+     "busName": "华丰工业区公交站①"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、B887、B888、B976、M194、M245、M247环线、M259、M393、M433、M473、M527Q1、M527Q2、M527、M528Q、M528、M530、M558",
+     "busName": "华丰工业区公交站②"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:07",
+   "mobanchexia": "00:01",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、Express Bus 21、Tour Line 9、B888、M194、M245、Loop Line M247、M259、M433、M473、M527Q2、M527Q1、M527、M528Q、M528、M530、M558",
+     "busName": "Gushu Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、B887、B888、B976、M194、M245、Loop Line M247、M259、M393Q、M393、M433、M473、M527Q1、M527Q2、M528Q、M528、M530、M558、Tour Line 9、Express Bus 21",
+     "busName": "Gushu Station"
+    }
+   ],
+   "chukou": "Exit F"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、B887、B888、B976、M194、M245、Loop Line M247、M259、M433、M473、M527Q1、M527Q2、M527、M528、M530、M558",
+     "busName": "Huafeng Industrial Park ①"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、615、B887、B888、B976、M194、M245、Loop Line  M247、M259、M393、M433、M473、M527Q1、M527Q2、M527、M528Q、M528、M530、M558",
+     "busName": "Huafeng Industrial Park ②"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:07",
+   "mobanchexia": "01:01",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "宝安大道东侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "宝安大道东侧"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "航城大道"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "固戍二路北侧、宝安大道西侧、航城大道南侧"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "宝安大道西侧"
+  }
+ ],
+ "siteCode": "0128",
+ "siteIntroduce": "固戍站位于深圳市宝安区宝安大道与固戍二路交汇处。该站为地下站。",
+ "siteName": "固戍站",
+ "siteNameen": "Gushu",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟/4分钟",
+   "gaofenjiangeen": "2m钟/4m钟",
+   "mobanche": "23:07",
+   "mobanchexia": "00:01",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:28",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

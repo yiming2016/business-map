@@ -1,0 +1,115 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、707、E36、M210、M246、M250、M355、高峰专线95号",
+     "busName": "平峦山地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、707、E36、M210、M246、M250、M355、高峰专线95号",
+     "busName": "平峦山地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:48",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、707、E36、M210、M246、M250、M355、Direct Connect95",
+     "busName": "Pingluan Hill Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、707、E36、M210、M246、M250、M355、Direct Connect95",
+     "busName": "Pingluan Hill Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:48",
+   "mobanchexia": "00:38",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前进二路东侧、平峦山公园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "前进二路东侧、西乡实验学校、深圳市宝安纯中医治疗医院"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "前进二路西侧"
+  }
+ ],
+ "siteCode": "1219",
+ "siteIntroduce": "平峦山站位于前进二路和宝田三路交叉口的西北侧、沿着前进二路方向敷设、呈东西方向布置、车站设置有3个出入口、为地下站。",
+ "siteName": "平峦山站",
+ "siteNameen": "Pingluan Hill",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:48",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

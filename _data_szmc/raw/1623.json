@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B923",
+     "busName": "新和地铁站公交站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M564、M426、M479、B923、915、939、E28、坪梅假日快线",
+     "busName": "大东城"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M564、M325、M426",
+     "busName": "财富城"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:18",
+   "mobanchexia": "23:47",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B923",
+     "busName": "Xinhe Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M564、M426、M479、B923、915、939、E28、Pingmei Holiday Express",
+     "busName": "Dadongcheng"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M564、M325、M426",
+     "busName": "Caifucheng"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:18",
+   "mobanchexia": "00:47",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "昌盛路西侧（北）、新和路、新和地铁站（公交站）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "昌盛路西侧（南）、宝山第二工业区、埔桥工业区"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "昌盛路东侧（南）、佳华领悦广场、财富城、万科金域缇香、和城里、坪山实验未来幼儿园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "昌盛路东侧（北）、大东城"
+  }
+ ],
+ "siteCode": "1623",
+ "siteIntroduce": "新和站位于昌盛路与兰竹西路交叉口、沿昌盛路路中呈南北向布置，该站为地下站。",
+ "siteName": "新和站",
+ "siteNameen": "Xinhe",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:18",
+   "mobanchexia": "23:47",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

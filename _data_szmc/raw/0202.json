@@ -1,0 +1,93 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "22、226、M105、M400、R10",
+     "busName": "蛇口港地铁站"
+    }
+   ],
+   "chukou": "D1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:38",
+   "mobanchexia": "22:47",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:47",
+   "shoubanchexia": "05:51",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "22、226、M105、M400、R10",
+     "busName": "Shekou Port Station"
+    }
+   ],
+   "chukou": "Exit D1"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:38",
+   "mobanchexia": "23:47",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:47",
+   "shoubanchexia": "05:51",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "C出入口",
+   "textt": "港湾大道东侧、南海大道西侧"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "港湾大道西侧、蛇口港地铁站公交站、深圳市蛇口育才教育集团山海学校、深圳招商力宝太子湾医院"
+  }
+ ],
+ "siteCode": "0202",
+ "siteIntroduce": "蛇口港站位于港湾大道与南海大道交汇处。该站为地下站。",
+ "siteName": "蛇口港站",
+ "siteNameen": "Shekou Port",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:38",
+   "mobanchexia": "22:47",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:48",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

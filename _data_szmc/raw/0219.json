@@ -1,0 +1,247 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、328、M392",
+     "busName": "福田区外国语学校景秀校区"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、M148",
+     "busName": "妇儿大厦"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、328、M392、M148、B602",
+     "busName": "景新花园①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、38、104、B602",
+     "busName": "景新花园②"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、21、38、104",
+     "busName": "监控中心"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、328、M392",
+     "busName": "福田区外国语学校景秀校区"
+    }
+   ],
+   "chukou": "F出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:31",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、328、M392",
+     "busName": "Science & Technology Middle School"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、M148",
+     "busName": "Fu`er Building"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、328、M392、M148、B602",
+     "busName": "Jingxin Garden ①"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、38、104、B602",
+     "busName": "Jingxin Garden ②"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、21、38、104",
+     "busName": "Monitoring Center"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、328、M392",
+     "busName": "Science & Technology Middle School"
+    }
+   ],
+   "chukou": "Exit F"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:00",
+   "mobanchexia": "00:26",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:31",
+   "mobanchexia": "00:38",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "景田路西侧（南）、莲花路南侧（西）、碧景园、万托家园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "景田路东侧、深圳市司法局、福田图书馆、妇儿大厦"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "莲花路南侧（东）、深圳商报社大厦、深圳市财政委员会（市财政委）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "莲花路北侧（东）、景田东路、万科金色家园、北大医院、广州中医药大学深圳医院（福田）、福景外国语学校、华强高职专业学院、景新花园"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "景田东一街、深圳市福田区外国语小学(景秀）、福田区文化馆、中国茶宫茗香苑"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "莲花路北侧（西）、景田路西侧（北）、深圳市福田区外国语学校（景秀）、深圳市交通监控中心、深圳华夏眼科医院"
+  }
+ ],
+ "siteCode": "0219",
+ "siteIntroduce": "景田站位于莲花西路与景田路的交叉路口的北侧，为2、9号线换乘站。该站为地下站。",
+ "siteName": "景田站",
+ "siteNameen": "Jingtian",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:17",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:31",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

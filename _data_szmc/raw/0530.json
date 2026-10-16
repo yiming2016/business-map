@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B741、M281、M272、M428、B954、377、82、323",
+     "busName": "百鸽笼地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "82、B896、M272、M281、M428、323、377、822、B954",
+     "busName": "百鸽笼公交接驳站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:00",
+   "mobanchexia": "00:25",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B741、M281、M272、M428、B954、377、82、323",
+     "busName": "Baigelong Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "82、B896、M272、M281、M428、323、377、822、B954",
+     "busName": "Baigelong Bus Interchange Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "01:25",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "翔鸽路西侧、万科·红、锦龙路"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "罗岗居委会、百鸽笼公交接驳站、信义荔山公馆、信义荔山公园、罗岗路南侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "创富南路南侧、佳兆业可园、深圳万象汇、深圳市龙岗区第二人民医院"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "华中师范大学龙岗附属中学(集团)木棉湾学校、翔鸽路东侧"
+  }
+ ],
+ "siteCode": "0530",
+ "siteIntroduce": "百鸽笼站位于龙岗区企岭北路东侧、沿翔鸽路南北布置。该站为地下站。",
+ "siteName": "百鸽笼站",
+ "siteNameen": "Baigelong",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:00",
+   "mobanchexia": "00:25",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "05:47",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

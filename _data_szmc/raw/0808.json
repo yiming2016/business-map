@@ -1,0 +1,190 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358快线、M199",
+     "busName": "鸿安围地铁站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358快线、M199、M205、M205大站快车、M227",
+     "busName": "盐田双拥公园"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68、358、B676、M125、M205、M227、M205大站快车、M380、云海专线C",
+     "busName": "庚子首义学校"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358快线、M199",
+     "busName": "鸿安围地铁站"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68、358、358快线、M125、M205、M205大站快车、 M227、M348、云海专线C",
+     "busName": "盐田派出所"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M199、358快线",
+     "busName": "鸿安围村"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:10",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358 express、M199",
+     "busName": "Honganwei Metro Station"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358 express、M199、M205、M205 Grand Station Express、M227",
+     "busName": "Yantian Shuangyong Park"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68/358、B676、M125、M205、M227、M196、M205 Grand Station Express、M380、Yuhai Line C",
+     "busName": "Gengzi Shouyi  School"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358 express、M199、M227",
+     "busName": "Honganwei Metro Station"
+    }
+   ],
+   "chukou": "Exit B2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68、358、358 express、M215、M205、M227、M205 Grand Station Express、M348、Yuhai Line C",
+     "busName": "Yantian Police Station."
+    }
+   ],
+   "chukou": "Exit B2"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:10",
+   "mobanchexia": "01:16",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "盐田北山工业区"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "盐田区消防救援大队、盐田双拥公园、东海丽景花园、庚子首义中山纪念学校、盐田港九号住宅小区"
+  },
+  {
+   "outt": "B1出入口",
+   "textt": "华侨新村、倚山时代、盐田派出所"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "鸿安围、星港名苑、深圳市盐港中学、深圳市盐港小学"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "南苑小区、华大基因"
+  }
+ ],
+ "siteCode": "0808",
+ "siteIntroduce": "鸿安围站位于北山道与洪安路交汇处，东接盐田墟站、西接盐田路站。该站为地下站。",
+ "siteName": "鸿安围站",
+ "siteNameen": "Honganwei",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒/5分36秒",
+   "gaofenjiangeen": "2m48s/5m36s",
+   "mobanche": "23:10",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:55",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

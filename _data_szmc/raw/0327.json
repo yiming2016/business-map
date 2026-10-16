@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、 811、 833、 E23、 E33、 A4、E34、M239、M266、M319、 M320、 M322、M359、M396 、358快线",
+     "busName": "爱联地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M322、M359、M396、358、358快线、811、833、E23、E33、E34、M239、M266、M319、M320",
+     "busName": "爱联地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:25",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、 811、 833、 E23、 E33、 A4、E34、M239、M266、M319、 M320、 M322、M359、M396 、358 Express",
+     "busName": "Ailian Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M322、M359、M396、358、358Express、811、833、E23、E33、E34、M239、M266、M319、M320",
+     "busName": "Ailian Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:09",
+   "mobanchexia": "01:02",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙岗大道东侧(南）、如意南路、爱联天桥、爱联第二市场、爱联派出所、中国邮政（爱联代办所）、爱联股份大厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙岗大道东侧(北）、蒲排路、新屯村、牛仔园新村、恒大城市之光"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道西侧(北）、龙岗区外国语学校（集团）爱联小学、晨光路、保利上城、翡翠明珠花园、田寮村、爱联社区工作站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙岗大道西侧（南）、龙城华府、龙岗区老干部活动中心、爱联天桥、建新村、如意小区"
+  }
+ ],
+ "siteCode": "0327",
+ "siteIntroduce": "爱联地铁站位于龙岗大道中与如意路交汇处，该站为高架站。",
+ "siteName": "爱联站",
+ "siteNameen": "Ailian",
+ "workDay": [
+  {
+   "gaofenjiange": "平均3分",
+   "gaofenjiangeen": "平均3m",
+   "mobanche": "23:25",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

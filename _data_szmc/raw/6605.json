@@ -1,0 +1,127 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线177、325、B952、M596、B950",
+     "busName": "圳美地铁站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线147、325、M490、M596",
+     "busName": "圳美路口"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线177、325、B952、M596",
+     "busName": "圳美地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:05",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 177、325、B952、M596、B950",
+     "busName": "Zhenmei station"
+    },
+    {
+     "busInfo": "Peak Special Line 147、325、M490、M596",
+     "busName": "Exit B2｜Zhenmei Rd Crossing"
+    },
+    {
+     "busInfo": "Peak Special Line 177、325、B952、M596",
+     "busName": "Exit D｜Zhenmei Station"
+    }
+   ],
+   "chukou": "Exit A1"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "00:05",
+   "mobanchexia": "00:15",
+   "pingjunjiange": "8-16分钟",
+   "pingjunjiangeen": "8-16m钟",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "光侨路东侧（南）、中山大学附属第七医院"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "光侨路东侧（北）、冠得利工业园、海鑫光高新技术工业园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "光侨路西侧（北）、凯里亚德酒店"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "光侨路西侧（南）、城佳科技园"
+  }
+ ],
+ "siteCode": "6605",
+ "siteIntroduce": "圳美站位于光侨路与圳美大道交叉口以南、沿光侨路南北布置，该站为地下站",
+ "siteName": "圳美站",
+ "siteNameen": "Zhenmei",
+ "workDay": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:05",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ]
+}

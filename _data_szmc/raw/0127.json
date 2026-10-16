@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M241、高峰专线32、B630、M488（原B888）、M400、M470、M377、M382、高峰专线168、宝安假日专线1",
+     "busName": "西乡地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M241、高峰专线32、718、M488（原B888）、M400、M470、宝安假日专线1",
+     "busName": "西乡地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:11",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M241、Peak line 32、B630、M488（formerly B888）、M400、M470、M377、M382、Peak line 168、Bao'an Holiday Express Line 1",
+     "busName": "Xixiang Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M241、Peak line 32、718、M488（formerly B888）、M400、M470、Bao'an Holiday Express Line 1",
+     "busName": "Xixiang Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:11",
+   "mobanchexia": "00:57",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "新湖路北侧（东）、西乡大道西侧（北）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "新湖路北侧（西）、盐田村"
+  },
+  {
+   "outt": "              C出入口",
+   "textt": "新湖路南侧（西）、悦和路、深圳市海湾中学、深圳西湾小学、西乡体育中心、深圳市宝安区中心医院永丰社区健康服务站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "新湖路南侧（东）、西乡大道西侧（南）"
+  }
+ ],
+ "siteCode": "0127",
+ "siteIntroduce": "西乡站位于深圳市宝安区新湖路与悦和路交汇处。该站为地下站。",
+ "siteName": "西乡站",
+ "siteNameen": "Xixiang",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:11",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:30",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

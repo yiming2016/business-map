@@ -1,0 +1,179 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B676、云海专线C、大鹏假日专线6",
+     "busName": "盐田路地铁站（东侧）"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68、M205、358、M125、B676、M380、云海专线C、大鹏假日专线6",
+     "busName": "东海丽景花园（南侧）"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B676、云海专线C、大鹏假日专线6、盐港夜市接驳线",
+     "busName": "盐田路地铁站（西侧）"
+    }
+   ],
+   "chukou": "G出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68、358、M125、B676、M380、M205",
+     "busName": "盐田医院盐田院区（南侧）"
+    }
+   ],
+   "chukou": "F出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:12",
+   "mobanchexia": "00:14",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B676、Yunhai shuttle C、Dapeng holiday express6",
+     "busName": "Yantianlu Dietiezhan（E）"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68、M205、358、M125、B676、M380、YunHai shuttle C、DaPeng holiday express6",
+     "busName": "Donghai Lijing Garden(S)"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B676、Yunhai shuttle C、Dapeng holiday express6Dameisha holiday express1、Yunhai shuttle C、Dapeng holiday express6、Yangang Night Market line",
+     "busName": "Yantianlu Dietiezhan(W)"
+    }
+   ],
+   "chukou": "Exit G"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68、358、M125、B676、M380、M205",
+     "busName": "Yantian Branch of Yantian Hospital(S)"
+    }
+   ],
+   "chukou": "Exit F"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:12",
+   "mobanchexia": "01:14",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B1出入口",
+   "textt": "明珠大道北侧、东海四街、山海学校"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "明珠大道北侧、东海四街、山海学校"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "南方明珠幼儿园、盐田路南侧（东）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "东海道西侧（南）"
+  },
+  {
+   "outt": "E1出入口",
+   "textt": "盐田路东侧（北）、盐田双拥公园、东海丽景花园"
+  },
+  {
+   "outt": "E2出入口",
+   "textt": "盐田路北侧（东）、山海四季城、金水湾御园"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "盐田路北侧（东）、深圳市盐田区乐群实验小学、明珠社区公园、深圳市盐田区人民医院（集团）盐田院区"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "盐田路西侧（南）"
+  },
+  {
+   "outt": "H1出入口",
+   "textt": "明珠人口文化公园、盐田人口文化大舞台、盐田街道办、明珠社区居委会、东海四街南侧（西）"
+  },
+  {
+   "outt": "H2出入口",
+   "textt": "明珠人口文化公园、盐田人口文化大舞台、盐田街道办、明珠社区居委会、东海四街南侧（西）"
+  }
+ ],
+ "siteCode": "0807",
+ "siteIntroduce": "盐田路站位于盐田路与东海道交口处、车站沿盐田路东北-西南向布置、西南接深外高中站。该站为地下站。",
+ "siteName": "盐田路站",
+ "siteNameen": "Yantian Rd",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒/5分36秒",
+   "gaofenjiangeen": "2m48s/5m36s",
+   "mobanche": "23:12",
+   "mobanchexia": "00:14",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:57",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

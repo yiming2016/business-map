@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、915、939、964、M279、M479、M480、M143、M575、E17",
+     "busName": "坪山中心小学"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、915、939、964、M279、M479、M480、M575、M143、E17",
+     "busName": "坪山中心小学"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "915、964、M143、M279、M575、M479",
+     "busName": "坪环地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:12",
+   "mobanchexia": "23:53",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、 915、939、964、M279、M479、M480、M143、M575、E17",
+     "busName": "Pingshan Central Primary School"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、915、939、964、M279、M479、M480、M575、M143、E17",
+     "busName": "Pingshan Central Primary School"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "915、964、M143、M279、M575",
+     "busName": "Pinghuan Metro Stationl"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:12",
+   "mobanchexia": "00:53",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "东纵路南侧（西）、同富路、大万世居、坪山中心小学公交站、万顺苑"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "东纵路北侧（西）、中兴路、坪山派出所、坪山中心小学公交站、坪山中心小学、中兴东小区、中兴西小区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "东纵路北侧（东）、坪环社区工作站、坪环地铁站公交站、坪山中学、深圳市坪山区第二外国语学校、坪山消防文化主题公园、东门小学、鹤湖浪村、坪环统建楼"
+  }
+ ],
+ "siteCode": "1626",
+ "siteIntroduce": "坪环站位于坪山区东纵路与中兴路交叉口处、车站主体沿东纵路呈东西走向布置，该站为地下站。",
+ "siteName": "坪环站",
+ "siteNameen": "Pinghuan",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:12",
+   "mobanchexia": "23:53",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

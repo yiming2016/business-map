@@ -1,0 +1,171 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M518、M250、M245、M246、M259、M560、高峰专线95、603、615、M382、C73",
+     "busName": "上川地铁站"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、615、718、M245、M246、M250、M382、M518、M560、高峰专线95",
+     "busName": "上川地铁站"
+    }
+   ],
+   "chukou": "H出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线95、615、718、M197、M245、M379、M518、603、629、704、M250、高峰专线121",
+     "busName": "诺铂广场"
+    }
+   ],
+   "chukou": "J出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、615、M245、M246、M376、M382、M560、高峰专线95",
+     "busName": "流塘旧村"
+    }
+   ],
+   "chukou": "F2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:56",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:17",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M518、M250、M245、M246、M259、M560、Peak Hour Special Line 95、603、615、M382、C73",
+     "busName": "Shangchuan Subway Station"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、615、718、M245、M246、M250、M382、M518、M560、Peak Hour Special Line 95",
+     "busName": "Shangchuan Subway Station"
+    }
+   ],
+   "chukou": "Exit H"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Hour Special Line 95、615、718、M197、M245、M379、M518、603、629、704、M250、Peak Hour Special Line 121",
+     "busName": "Nobo Plaza"
+    }
+   ],
+   "chukou": "Exit J"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、615、M245、M246、M376、M382、M560、Peak Hour Special Line 95",
+     "busName": "Liutang Jiucun"
+    }
+   ],
+   "chukou": "Exit F2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:56",
+   "mobanchexia": "00:30",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:17",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B出入口",
+   "textt": "前进一路东侧、上合小学"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "前进一路东侧、上川派出所"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "前进一路东侧"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "新安四路南侧、宝安75区"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "新安四路南侧、前进一路西侧"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "前进一路西侧"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "前进一路西侧、文汇学校"
+  },
+  {
+   "outt": "J出入口",
+   "textt": "上川路南侧、深圳市规划和自然资源局宝安管理局"
+  }
+ ],
+ "siteCode": "1215",
+ "siteIntroduce": "上川站位于宝安前进一路与同和路交叉处、沿着前进一路南北方向敷设。该站为地下站。",
+ "siteName": "上川站",
+ "siteNameen": "Shangchuan",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:56",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:17",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

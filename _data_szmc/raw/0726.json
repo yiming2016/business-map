@@ -1,0 +1,141 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "18路、63路、69路、303路、322路、323路、366路、371路、381路",
+     "busName": "笋岗街道办"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "18路、63路、69路、303路、322路、323路、366路、371路、381路",
+     "busName": "笋岗街道办"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "18路、57路、381路、M482路",
+     "busName": "笋岗村牌坊"
+    }
+   ],
+   "chukou": "C2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:06",
+   "mobanchexia": "23:55",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "18、63、69、303、322、323、366、371、381",
+     "busName": "Sungang Street Office"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "18、63、69、303、322、323、366、371、381",
+     "busName": "Sungang Street Office"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "18、57、381、M482",
+     "busName": "Sungang village memorial archway"
+    }
+   ],
+   "chukou": "Exit C2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:06",
+   "mobanchexia": "00:55",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "梅园路南侧(（西）、宝安北路东侧（南）、泰银路、华海达国际服装交易中心、万象食家、深圳市地质局、深圳市安全教育基地"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "梅园路南侧（东）、宝岗路西侧（南）、笋岗街道办公交站"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "梅园路北侧（东）、宝岗路西侧（北）、田心村、笋岗小学、笋岗村、深圳市罗湖区笋岗街道办事处、笋岗街道工作委员会、笋岗村牌坊公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "梅园路北侧（西）、梅岗街、笋岗大厦、笋岗街道办公交站"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "梅园路北侧（西）、宝安北路东侧（北）、罗湖区人才服务中心、罗湖宝能环球汇购物中心"
+  }
+ ],
+ "siteCode": "0726",
+ "siteIntroduce": "笋岗站位于罗湖区梅园路、处于宝安北路与宝岗路之间。该站为地下站。",
+ "siteName": "笋岗站",
+ "siteNameen": "Sungang",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:06",
+   "mobanchexia": "23:55",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:18",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

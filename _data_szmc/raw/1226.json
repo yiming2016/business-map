@@ -1,0 +1,177 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M159路、M334路",
+     "busName": "怀德地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615路、M251路、M310路、M514路、M530路、M334路",
+     "busName": "万福广场站"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615路、M251路、M310路、M514路、M530路",
+     "busName": "怀德社区站"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615路、M251路、M310路、M514路、M530路",
+     "busName": "怀德社区站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M159路、M334路",
+     "busName": "怀德地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:31",
+   "mobanchexia": "23:54",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M159、M334",
+     "busName": "Huaide Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615、M251、M310、M514、M530、M334",
+     "busName": "Wanfu Square Station"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615、M251、M310、M514、M530",
+     "busName": "Huaide Community Station"
+    }
+   ],
+   "chukou": "Exit B2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615、M251、M310、M514、M530",
+     "busName": "Huaide Community Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M159、M334",
+     "busName": "Huaide Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:31",
+   "mobanchexia": "00:54",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "怀德南路东侧、翠岗公园、福永群众文化艺术馆、福永街道党群服务中心、怀德地铁站公交站"
+  },
+  {
+   "outt": "B1出入口",
+   "textt": "福永大道南侧、万福广场、福永会堂"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "福永大道北侧、福永街道办事处、深圳市宝安区福永人民医院、望牛亭公园、深圳市宝安区福永小学、深圳市福永中学"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "福永大道南侧、深圳市宝安区福永街道怀德社区残疾人协会、深圳大学附属中学宝安学校、西门公园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "怀德南路西侧、怀德市场、宝安图书馆福永分馆、怀德地铁站公交站"
+  }
+ ],
+ "siteCode": "1226",
+ "siteIntroduce": "怀德站位于怀德南路与怀德北路中间处。该站为地下站。",
+ "siteName": "怀德站",
+ "siteNameen": "Huaide",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒/6分36秒、晚3分48秒/7分37秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:31",
+   "mobanchexia": "23:54",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "莞747路，莞747路区间线",
+     "busName": "深理工地铁站"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "莞747路，莞747路区间线",
+     "busName": "深理工地铁站"
+    }
+   ],
+   "chukou": "C1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:01",
+   "mobanchexia": "--",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "--",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Dongguan Bus Route 747，Dongguan Bus Route 747 Short-Trip Service",
+     "busName": "SUAT Metro Station"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Dongguan Bus Route 747，Dongguan Bus Route 747 Short-Trip Service",
+     "busName": "SUAT Metro Station"
+    }
+   ],
+   "chukou": "Exit C1"
+  }
+ ],
+ "enoutAndText": [
+  {
+   "outt": "Exit A1",
+   "textt": "East side of Gongchang Rd (S), Shenzhen University of Technology (Main Campus)"
+  },
+  {
+   "outt": "Exit A2",
+   "textt": " East side of Gongchang Rd (N)"
+  },
+  {
+   "outt": "Exit C1",
+   "textt": "West side of Gongchang Rd (S), Qiangxia 1st Road, Sun Yat-sen University Shenzhen Campus"
+  },
+  {
+   "outt": "Exit C2",
+   "textt": " West side of Gongchang Rd (N)"
+  }
+ ],
+ "holidays": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "00:01",
+   "mobanchexia": "--",
+   "pingjunjiange": "8-16分钟",
+   "pingjunjiangeen": "8-16m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "--",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "公常路东侧（南） 、深圳理工大学(主校区)"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "公常路东侧（北）"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "公常路西侧（南）、羌下一路、中山大学深圳校区"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "公常路西侧（北）"
+  }
+ ],
+ "siteCode": "6607",
+ "siteIntroduce": "深理工站位于公常路和羌下一路交叉口东侧，沿公常路南北向跨路口布置，该站位地下站。",
+ "siteName": "深理工站",
+ "siteNameen": "SUAT",
+ "workDay": [
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:01",
+   "mobanchexia": "--",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "--",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ]
+}

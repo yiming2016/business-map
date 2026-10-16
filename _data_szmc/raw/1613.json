@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M230、M317、M361、M446、M458、M556",
+     "busName": "招商依山郡"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M317、M361、M446、M458、M556",
+     "busName": "愉园地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M230、M681、M317、M361、M446、M458、M556",
+     "busName": "爱地花园"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M317、M361、M446、M458、M556",
+     "busName": "愉园地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:40",
+   "mobanchexia": "23:25",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M230、M317、M361、M446、M458、M556",
+     "busName": "China Merchants Noblehill Station"
+    }
+   ],
+   "chukou": "Entrance A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M317、M361、M446、M458、M556",
+     "busName": "Yuyuan Metro Station"
+    }
+   ],
+   "chukou": "Entrance B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M230、M681、M317、M361、M446、M458、M556",
+     "busName": "Aidi Garden Station"
+    }
+   ],
+   "chukou": "Entrance C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M317、M361、M446、M458、M556",
+     "busName": "Yuyuan Metro Station"
+    }
+   ],
+   "chukou": "Entrance D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:40",
+   "mobanchexia": "00:25",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙平西路南侧（西）、招商依山郡公交站、平安里学校、龙光·君悦龙庭、新秀社区公园、水蓝湾、吉祥里豪庭"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙平西路南侧（东）、深圳市龙岗区人民医院、龙岗区卫生健康局、深圳市龙岗区疾病预防控制中心、深圳市龙岗区中心血站、愉园地铁站公交站、爱地花园、东方沁园、美利达新村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙平西路北侧（东）、龙岗儿童公园、爱地花园公交站、安居回龙雅苑"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙平西路北侧（西）愉园地铁站公交站、深圳中学龙岗学校（集团）依山郡小学、麓园、壹锦园、招商依山郡"
+  }
+ ],
+ "siteCode": "1613",
+ "siteIntroduce": "愉园站位于龙平西路与愉龙路交叉口、沿龙平西路呈东西向布置，该站为地下站。",
+ "siteName": "愉园站",
+ "siteNameen": "Yuyuan",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:40",
+   "mobanchexia": "23:25",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

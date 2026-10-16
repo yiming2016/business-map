@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "650",
+     "busName": "大富科技东"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B894",
+     "busName": "西沙蚝乡路口"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "650、M253",
+     "busName": "锦程蚝乡路口"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:10",
+   "mobanchexia": "00:15",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Route 650",
+     "busName": "Dafu Technology East"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Route B894",
+     "busName": "Xisha Haoxiang Intersection"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "650、M253",
+     "busName": "Jincheng Haoxiang Intersection"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:10",
+   "mobanchexia": "01:15",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "西沙路西侧、大富科技"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "蚝乡路南侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "蚝乡路北侧、深圳市深科技工学校"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "蚝乡路北侧"
+  }
+ ],
+ "siteCode": "1234",
+ "siteIntroduce": "蚝乡站位于西沙路与蚝乡路交汇处，该站为地下站。",
+ "siteName": "蚝乡站",
+ "siteNameen": "HaoXiang",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒/6分36秒、晚3分48秒/7分45秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:10",
+   "mobanchexia": "00:15",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

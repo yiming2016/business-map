@@ -1,0 +1,97 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M140、M482、M388",
+     "busName": "腾邦大厦"
+    }
+   ],
+   "chukou": "H出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:47",
+   "mobanchexia": "23:37",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:27",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M140、M482、M388",
+     "busName": "Tempus Building"
+    }
+   ],
+   "chukou": "Exit H"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:47",
+   "mobanchexia": "00:37",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:27",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "F出入口",
+   "textt": "清水河二路南侧、中海慧智大厦"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "清水河五路西侧（北）"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "清水河五路西侧（南）、深圳市罗湖区人民医院清水河院区、罗湖教科院附属学校、腾邦大厦、罗湖投资控股大厦、罗湖车管所"
+  }
+ ],
+ "siteCode": "1403",
+ "siteIntroduce": "罗湖北站位于罗湖区清水河五路与清水河一路交叉口。该站为地下站。",
+ "siteName": "罗湖北站",
+ "siteNameen": "Luohu  North",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:48",
+   "mobanchexia": "23:37",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:18",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

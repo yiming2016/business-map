@@ -1,0 +1,131 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M112、M383、M207、M262、M500、高峰专线59、高峰专线23",
+     "busName": "中级法院"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "216、M134、M207、M262、M500、M383、高峰专线16、高峰专线23、高峰专线59",
+     "busName": "中级法院"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:44",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M112、M383、 M207、 M262、 M500、 Peak Special Line 59、 Peak Special Line 23",
+     "busName": "Intermediate People's Court"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "216、M134、 M207、 M262、 M500、M383、 Peak Special Line 16、 Peak Special Line 23、 Peak Special Line 59",
+     "busName": "Intermediate People's Court"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:44",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "彩田路东侧（北）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "莲科三路西侧、深圳市不动产登记中心、北京市京师（深圳）律师事务所"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "彩翠路东侧、彩天怡色、民宁园、长城盛世家园二期"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "彩田路西侧（北）、公交大厦、深圳市公安局交通警察局"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "彩田路东侧（南）、深业上城"
+  },
+  {
+   "outt": "                                                                     F出入口",
+   "textt": "彩田路辅路西侧（南）、 深圳市中级人民法院"
+  },
+  {
+   "outt": "                                                                  G出入口",
+   "textt": "彩田路辅路西侧（北）、彩田路西侧（南）"
+  }
+ ],
+ "siteCode": "1006",
+ "siteIntroduce": "冬瓜岭站位于深圳市福田区彩田路。该站为地下站。",
+ "siteName": "冬瓜岭站",
+ "siteNameen": "Donggualing",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:43",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

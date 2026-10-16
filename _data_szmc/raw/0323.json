@@ -1,0 +1,109 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "351、366、M239、M266、M295、M309、M570B出入口",
+     "busName": "横岗地铁站①"
+    },
+    {
+     "busInfo": "M229、M359、M208、M563",
+     "busName": "横岗地铁站②"
+    }
+   ],
+   "chukou": "A出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:35",
+   "mobanchexia": "23:54",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "暂无",
+     "busName": ""
+    },
+    {
+     "busInfo": "M359、M208、M229、M563",
+     "busName": "Henggang metro station ②"
+    }
+   ],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:18",
+   "mobanchexia": "00:53",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙岗大道南侧（西）、横岗人民公园、横岗大厦、深圳龙翔医院"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙岗大道南侧（东）、深圳市龙岗区第三人民医院、信义御城"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道北侧（东）、独竹村、旱塘村、荣德国际"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙岗大道北侧（西）、四联路、志健广场"
+  }
+ ],
+ "siteCode": "0323",
+ "siteIntroduce": "横岗站属于高架站、位于龙岗大道及保康路交叉处的西南方。该站为高架站。",
+ "siteName": "横岗站",
+ "siteNameen": "Henggang",
+ "workDay": [
+  {
+   "gaofenjiange": "平均3分",
+   "gaofenjiangeen": "平均3m",
+   "mobanche": "23:35",
+   "mobanchexia": "23:54",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

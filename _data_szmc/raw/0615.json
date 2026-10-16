@@ -1,0 +1,177 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B926路、M368路、M416路、M147路、M218路、M335路、M356路、M365路",
+     "busName": "长圳地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B973路、B979路、316路、高快巴士31",
+     "busName": "凤凰英荟城"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B971路、M416路、高快巴士31",
+     "busName": "长圳地铁站"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B971路、M416路",
+     "busName": "凤凰英荟城"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B926路、B958路、B971路、B973路、B979路、M365路、M147路、M218路、、M356路、M368路 、M335路、高快巴士31、316路",
+     "busName": "长圳地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:32",
+   "mobanchexia": "23:43",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:28",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B926、M368、M416、M147、M218、M335、M356、M365",
+     "busName": "Changzhen Metro station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B973、B979、316、High speed bus31",
+     "busName": "Fenghuang Yinghuicheng"
+    }
+   ],
+   "chukou": "Exit B2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B971、M416、High speed bus31",
+     "busName": "Changzhen Metro station"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B971、M416",
+     "busName": "Fenghuang Yinghuicheng"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B926、B958、B971、B973、B979、M365、M147、M218、M356、M368 、M335、High speed bus31、316",
+     "busName": "Changzhen Metro station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "01:01",
+   "mobanchexia": "00:41",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "科裕路东侧(北) 、光侨路北侧（东）、凤凰英荟城、鹤祥宫（长圳店）"
+  },
+  {
+   "outt": "B1出入口",
+   "textt": "科裕路东侧(南)、凤凰英荟城、凤凰城实验学校"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "凤凰英荟城"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "科裕路西侧(北) 、深铁瑞城、深圳地铁长圳车辆段"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "科裕路西侧(南) 光侨路北侧(西) 、深圳地铁长圳车辆段、黔晓晓贵州酸汤火锅、愿者上钩（长圳店）"
+  }
+ ],
+ "siteCode": "0615",
+ "siteIntroduce": "长圳站位于光明新区科裕路与光侨路交叉口以北呈南北向铺设，该站为高架站。",
+ "siteName": "长圳站",
+ "siteNameen": "Changzhen",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:32",
+   "mobanchexia": "23:43",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

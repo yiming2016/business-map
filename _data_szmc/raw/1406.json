@@ -1,0 +1,141 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8路、61路、979路、M190路",
+     "busName": "六约北地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229路、M266路、M324路",
+     "busName": "六约新村东站"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8路、61路、979路、M190路",
+     "busName": "六约北地铁站"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:36",
+   "mobanchexia": "23:48",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8、61、979、M190",
+     "busName": "Liuyue North Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M266、M324",
+     "busName": "Liuyue Xincun East Station"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8、61、979、M190",
+     "busName": "Liuyue North Metro Station"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:36",
+   "mobanchexia": "00:48",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "红棉路南侧（西）、横岗街道退役军人服务站"
+  },
+  {
+   "outt": "                                                                    B出入口",
+   "textt": "深峰路西侧"
+  },
+  {
+   "outt": "                            C出入口",
+   "textt": "红棉路南侧（东）、横岗街道中心幼儿园、红棉社区公园、振业城"
+  },
+  {
+   "outt": "            D出入口",
+   "textt": "深峰路东侧、横岗街道大山地幼儿园（分园）、中海大山地、正大时代华庭、横岗外国语学校"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "红棉路北侧、六约新村"
+  }
+ ],
+ "siteCode": "1406",
+ "siteIntroduce": "六约北站位于龙岗区红棉路与深峰路交叉口。该站为地下站。",
+ "siteName": "六约北站",
+ "siteNameen": "Liuyue North",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:37",
+   "mobanchexia": "23:48",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

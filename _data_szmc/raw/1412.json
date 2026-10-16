@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M220、M308、M317、M322、M357、M458、M369、M542、M221、963、高峰专线69",
+     "busName": "宝龙地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M220、M308、M317、M322、M357、M458、M542、M221",
+     "busName": "龙岗智慧家园"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M220、M308、M317、M322、M357、M458、M369、M542、M221、963、高峰专线69",
+     "busName": "宝龙地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:18",
+   "mobanchexia": "00:06",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:36",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M220、M308、M317、M322、M357、M458、M369、M542、M221、963、Peak-hour Express 69",
+     "busName": "Baolong Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M220、M308、M317、M322、M357、M458、M542、M221",
+     "busName": "Longgang Wisdon Home"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M220、M308、M317、M322、M357、M458、M369、M542、M221、963、Peak-hour Express 69",
+     "busName": "Baolong Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:18",
+   "mobanchexia": "01:06",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:36",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "宝龙大道南侧（西）、宝龙四路西侧（南）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "宝龙大道南侧（东）、宝龙四路东侧（南）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "宝龙大道北侧（东）、宝龙四路东侧（北）、智慧家园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "宝龙大道北侧（西）、宝龙四路西侧（北）"
+  }
+ ],
+ "siteCode": "1412",
+ "siteIntroduce": "宝龙站位于龙岗区宝龙大道与宝龙四路交叉口处。该站为地下站。",
+ "siteName": "宝龙站",
+ "siteNameen": "Baolong",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:18",
+   "mobanchexia": "00:07",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

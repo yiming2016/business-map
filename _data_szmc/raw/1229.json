@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M159路、M331路",
+     "busName": "①莱尔德电子"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M252路、M237路；②双金惠工业区",
+     "busName": "①福海和平中心"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M236路、M237路、M252路、M515路；②福海西站",
+     "busName": "①和平市场"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M159路、M331路",
+     "busName": "①秀西路口"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:23",
+   "mobanchexia": "00:02",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M159、M331",
+     "busName": "① Laird Electronics"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M252、M237；② Shuangjinhui Industrial Zone",
+     "busName": "①Fuhai Heping Center"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M236、M237、M252、M515；② Fuhai West Station",
+     "busName": "① Heping Market"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M159、M331",
+     "busName": "① Xiuxi intersection"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:23",
+   "mobanchexia": "01:02",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "桥和路南侧（西）、福永法庭"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "桥和路南侧（东）、深圳市滨海高级中学"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "桥和路北侧（东）、穗深城际、宝安图书馆福海分馆"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "桥和路北侧（西）"
+  }
+ ],
+ "siteCode": "1229",
+ "siteIntroduce": "福海西站位于松福大道与桥和路交叉路口、沿桥和路东西向敷设。该站为地下站。",
+ "siteName": "福海西站",
+ "siteNameen": "Fuhai West",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒/6分36秒、晚3分48秒/7分40秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:23",
+   "mobanchexia": "00:02",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

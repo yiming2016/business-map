@@ -1,0 +1,199 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、923、M139、M315、M318、M386、高快巴士56",
+     "busName": "陂头背新村"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、923、M139、M315、M318、M386、高快巴士56",
+     "busName": "陂头背新村"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M360、M446",
+     "busName": "大运中心体育馆"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M360、M446",
+     "busName": "大运中心体育馆"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、E27、E6、M139、M315、M386、M446、M447、高快巴士81号",
+     "busName": "大运中心"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、E27、E6、M139、M315、M386、M446、M447、高快巴士81号",
+     "busName": "大运中心"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:47",
+   "mobanchexia": "23:19",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Pitoubei Xincun",
+     "busName": ""
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Pitoubei Xincun: 802、 923、  M139、 M315、 M318、 M386、Express Bus 56",
+     "busName": ""
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、  M360、 M446",
+     "busName": "Gymnasium of Universiade Center"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、 M317、 M360、 M446",
+     "busName": "Gymnasium of Universiade Center"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、 E27、 E6、 M139、 M315、 M386、 M446、 M447、 High-Speed Bus No.81",
+     "busName": "Universiade Center"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、 E27、 E6、 M139、 M315、 M386、 M446、 M447、High-Speed Bus No.81",
+     "busName": "Universiade Center"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:47",
+   "mobanchexia": "00:19",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "龙翔大道南侧(东)、建新村、星河时代、台中工业区、维也纳国际酒店、陂头背新村公交站"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "龙翔大道北侧(东)、陂头背新村公交站、爱联建新村院区式管理小区、金顺创业园、星知航大厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "黄阁路东侧（北）、深圳市龙岗区外国语学校（集团）、欣悦幼儿中心、绿景大公馆、大运中心体育馆公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "黄阁路西侧(北)、大运中心、深圳▪大运天地、大运中心体育馆公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "黄阁路西侧(南)、大运中心、香港中文大学（深圳）、深圳▪大运天地、大运中心公交站"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "龙翔大道南侧(西)、深圳信息职业技术学院、华南师范大学附属龙岗大运学校、大运中心公交站"
+  }
+ ],
+ "siteCode": "1610",
+ "siteIntroduce": "大运中心站位于黄阁路与龙翔大道交叉口西北侧、沿黄阁路东南-西北向布置，该站为地下站。",
+ "siteName": "大运中心站",
+ "siteNameen": "Universiade Center",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:47",
+   "mobanchexia": "23:19",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:47",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

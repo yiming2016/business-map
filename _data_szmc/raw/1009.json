@@ -1,0 +1,141 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M566、M521、高峰专线22、328、612、621、982、M263、M491、M282、M300、M383、M385、M448",
+     "busName": "星光之约"
+    },
+    {
+     "busInfo": "M521、M363",
+     "busName": "南坑地铁站A口"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M491、328、 612、 621、982、M566、高峰专线22、M448、M282、M300、M263、B613",
+     "busName": "南坑地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "328、612、621、982、M363、M282、M448、M491、M566、高峰专线22",
+     "busName": "南坑地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:35",
+   "mobanchexia": "23:20",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M566、M521、Peak Line 22、328、612、621、982、M263、M491、M282、M300、 M383、 M385、 M448",
+     "busName": "Xingguang Zhiyue"
+    },
+    {
+     "busInfo": "M521、M363",
+     "busName": "A Exit to Nankeng Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M491、328、 612、 621、982、M566、Peak Line 22、M448、M282、M300、M263、B613",
+     "busName": "Nankeng Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "328、612、621、982、M363、M282、M448、M491、M566、Peak Line 22",
+     "busName": "Nankeng Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:35",
+   "mobanchexia": "00:20",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "环城南路、南坑地铁站A口公交站、红音苑、天景山庄、麒麟山东园、星景苑、星光之约花园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "五和大道东侧（北）、南坑路南侧、南坑地铁站公交站、家和花园、南坑村、南坑市场"
+  },
+  {
+   "outt": "                            C出入口",
+   "textt": "五和大道西侧、南坑地铁站公交站、龙岸花园"
+  }
+ ],
+ "siteCode": "1009",
+ "siteIntroduce": "南坑站位于深圳市龙岗区五和南路与民乐路与环城南路交汇处。该站为地下站。",
+ "siteName": "南坑站",
+ "siteNameen": "Nankeng",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:34",
+   "mobanchexia": "23:20",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

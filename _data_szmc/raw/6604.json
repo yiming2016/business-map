@@ -1,0 +1,184 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线177、高快巴士23",
+     "busName": "深圳科学技术馆"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线177、高快巴士23",
+     "busName": "深圳科学技术馆"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:21",
+   "mobanchexia": "23:53",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  },
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:08",
+   "mobanchexia": "23:12",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:34",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 177、Express Bus No.23",
+     "busName": "Shenzhen Science&Technology Museum"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 177、Express Bus No.23",
+     "busName": "Shenzhen Science&Technology Museum"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [
+  {
+   "outt": "Exit A",
+   "textt": "Guanghui Blvd（E）、East Side of Guangming Blvd（S）、Xinjianxing Science and Technology Park、Cuihu Park"
+  },
+  {
+   "outt": "Exit B",
+   "textt": "East Side of Guangming Blvd（N）、Shenzhen NO.2 Vocational and Technical School"
+  },
+  {
+   "outt": "Exit C",
+   "textt": "West Side of Guangming Blvd（N）、Shenzhen Science&Technology Museum（North Gate）、Science Park"
+  },
+  {
+   "outt": "Exit D",
+   "textt": "West Side of Guangming Blvd（S）、Guanghui Blvd（W）、Shenzhen Science&Technology Museum（South Gate）"
+  }
+ ],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:51",
+   "mobanchexia": "00:51",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:41",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  },
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "00:08",
+   "mobanchexia": "00:12",
+   "pingjunjiange": "8-16分钟",
+   "pingjunjiangeen": "8-16m钟",
+   "shoubanche": "06:34",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "光辉大道（东）、光明大道东侧（南）新健兴科技工业园、翠湖公园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "光明大道东侧（北）、深圳市第二职业技术学校"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "光明大道西侧（北）、深圳科学技术馆（北门）、科学公园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "光明大道西侧（南）、光辉大道（西）、深圳科学技术馆（南门）"
+  }
+ ],
+ "siteCode": "6604",
+ "siteIntroduce": "光明站位于光明新区光辉大道与光明大道北段交叉路口以北，该站为6支、6号线换乘站。该站为高架站。",
+ "siteName": "光明站",
+ "siteNameen": "Guangming",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:21",
+   "mobanchexia": "23:53",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  },
+  {
+   "gaofenjiange": "7分43秒",
+   "gaofenjiangeen": "7m43s",
+   "mobanche": "23:08",
+   "mobanchexia": "23:12",
+   "pingjunjiange": "8-12分钟",
+   "pingjunjiangeen": "8-12m钟",
+   "shoubanche": "06:34",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "6号线支线",
+   "suoshuluxianen": "Shenzhen Metro 6th Line Extension",
+   "xinshifangxiang": "光明城",
+   "xinshifangxiangen": "Guangmingcheng",
+   "xinshifangxiangxia": "深理工",
+   "xinshifangxiangxiaen": "SIAT"
+  }
+ ]
+}

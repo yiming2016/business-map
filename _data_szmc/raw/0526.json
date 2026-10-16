@@ -1,0 +1,93 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M105、M267、M271、M272、303、307、308、312、381、980、M414、M415、M138",
+     "busName": "上水径"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:09",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:51",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M105、M267、M271、M272、303、307、308、312、381、980、M414、M415、M138",
+     "busName": "Shangshuijing"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:09",
+   "mobanchexia": "01:16",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:51",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "C出入口",
+   "textt": "吉华路西侧、水径学校、丽湖花园（前行1公里）、中海怡翠（前行1公里）、吉华街道综合行政执法办公室（综合行政执法队）、中海怡翠社区"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "万科麓城"
+  }
+ ],
+ "siteCode": "0526",
+ "siteIntroduce": "上水径站位于布吉吉华路、在联络道与嘉兴北路东侧。该站为地下站。",
+ "siteName": "上水径站",
+ "siteNameen": "Shangshuijing",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:09",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:50",
+   "shoubanchexia": "05:49",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

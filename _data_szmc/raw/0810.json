@@ -1,0 +1,209 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M196、M362",
+     "busName": "大梅沙海滨公园"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M196、M362",
+     "busName": "海滨公园隧道口"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M196、M191、308、M362、M380、坪梅假日快线",
+     "busName": "海滨公园隧道口"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、M191、M362、M380、坪梅假日快线",
+     "busName": "大梅沙奥特莱斯"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、M196、M362、M380、坪梅假日快线",
+     "busName": "梅沙街道办"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "茶溪谷专线",
+     "busName": "大梅沙地铁站D口"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M191 、M196、M362",
+     "busName": "海滨浴场站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:03",
+   "mobanchexia": "00:23",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M196、M362",
+     "busName": "Dameisha Coastal Park"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M196、M362",
+     "busName": "Haibin Park Tunnel Entrance"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M196、M191、308、M362、M380、Pingmei Holiday Express Line",
+     "busName": "Haibin Park Tunnel Entrance"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、M191、M362、M380、Pingmei Holiday Express Line",
+     "busName": "Dameisha Outlets"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、M196、M362、M380、Pingmei Holiday Express Line",
+     "busName": "Meisha Sub-district Office"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Chaxigu Dedicated Line",
+     "busName": "Dameisha Subway Station Exit D"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M191、M196、M362",
+     "busName": "Bathing Beach"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:03",
+   "mobanchexia": "01:23",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "盐梅路东侧（南）、大梅沙海滨公园、大梅沙海滨公园停车场"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "盐梅路东侧（北）、大梅沙海滨公园、太阳广场、大梅沙国际水上运动中心"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "梅沙街道办事处、盐梅路西侧（北）、大梅沙京基海湾大酒店"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "盐梅路西侧（南）、海世界"
+  }
+ ],
+ "siteCode": "0810",
+ "siteIntroduce": "大梅沙站位于大梅沙海景酒店南侧盐梅路下方、车站主体沿盐梅路呈东西向布置。西接盐田墟站、东接小梅沙站。该站为地下站。",
+ "siteName": "大梅沙站",
+ "siteNameen": "Dameisha",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒/5分36秒",
+   "gaofenjiangeen": "2m48s/5m36s",
+   "mobanche": "23:03",
+   "mobanchexia": "00:23",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

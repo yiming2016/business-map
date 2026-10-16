@@ -1,0 +1,123 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "2、18、27、303、307、308、312、321、369、M403、M408、323、371、376、E8、M183、M192、M240、M404、M406、M476、高峰专线201、322、377、977、M224、M358、M588、357、366、M190、M203、M239、M283、M402、836、B680、M485、M267、956",
+     "busName": "草埔地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、M183、322、M203、高快巴士48、371、M192、M224、M588、308、312、376、M406、977、303、321、M476、377、357、366、M283、836、M485、956、M403、M408、M404、M190、M239、M402、M267、E8、M240、高峰专线201、2、18、27、307、323、M358",
+     "busName": "草埔地铁站"
+    }
+   ],
+   "chukou": "D2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:55",
+   "mobanchexia": "23:34",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "2、18、27、303、307、308、312、321、369、M403、M408、323、371、376、E8、M183、M192、M240、M404、M406、M476、高峰专线201、322、377、977、M224、M358、M588、357、366、M190、M203、M239、M283、M402、836、B680、M485、M267、956",
+     "busName": "Caopu Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、M183、322、M203、高快巴士48、371、M192、M224、M588、308、312、376、M406、977、303、321、M476、377、357、366、M283、836、M485、956、M403、M408、M404、M190、M239、M402、M267、E8、M240、高峰专线201、2、18、27、307、323、M358",
+     "busName": "Caopu Metro Station"
+    }
+   ],
+   "chukou": "Exit D2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:39",
+   "mobanchexia": "00:34",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙岗大道东侧（南）、草埔村、吓围村、东晓派出所、金稻田路、福安购物广场、草埔大厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙岗大道东侧（北）、文锦北路、草埔村、吓围村、东晓派出所、金稻田路、马山新村"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "龙岗大道西侧、天乐大厦"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "草埔地铁站（公交站）"
+  },
+  {
+   "outt": "D3出入口",
+   "textt": "清水河村、罗湖投资控股大厦"
+  }
+ ],
+ "siteCode": "0316",
+ "siteIntroduce": "草埔站位于草埔地铁站公交总站的南侧，龙岗大道中央分隔带上，西侧为广深铁路，该站为高架站。",
+ "siteName": "草埔站",
+ "siteNameen": "Caopu",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:55",
+   "mobanchexia": "23:34",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

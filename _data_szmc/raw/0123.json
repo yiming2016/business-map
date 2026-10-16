@@ -1,0 +1,177 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "704、718、M206、M235、M246、M473",
+     "busName": "凯旋城"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M246、704、M131、M157、M206、M473",
+     "busName": "南医大深圳医院"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M157、M235、M371",
+     "busName": "新安地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M157、M235、M371",
+     "busName": "新安地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M157、M131、M206、M473",
+     "busName": "南医大深圳医院"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:19",
+   "mobanchexia": "23:49",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:34",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "704、718、M206、M235、M246、M473",
+     "busName": "Kaixuan Town"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M246、704、M131、M157、M206、M473",
+     "busName": "Shenzhen Hospital of Southern Medical University"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M157、M235、M371",
+     "busName": "Xinan Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M157、M235、M371",
+     "busName": "Xinan Station"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M157、M131、206、M473",
+     "busName": "Shenzhen Hospital of Southern Medical University"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:19",
+   "mobanchexia": "00:49",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:34",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "新湖路北侧（东）、新安一路东侧、深圳市宝安实验学校"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "新安一路西侧、新湖路北侧（西）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "甲岸路（北）、西岸观邸、西岸茶城"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "新湖路南侧（西）、甲岸路（南）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "新湖路南侧（东）、新安一路、深圳市宝安区中心血站、南方医科大学深圳医院、深圳宝安区疾病预防控制中心"
+  }
+ ],
+ "siteCode": "0123",
+ "siteIntroduce": "新安站位于深圳市宝安区新湖路与新安一路交汇处。该站为地下站。",
+ "siteName": "新安站",
+ "siteNameen": "Xin'an",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:19",
+   "mobanchexia": "23:49",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

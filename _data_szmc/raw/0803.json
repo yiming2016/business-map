@@ -1,0 +1,191 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、M191、M199、M205、M437、M520",
+     "busName": "沙头角地铁站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B662",
+     "busName": "沙头角地铁站A1出入口（招呼站）"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B619",
+     "busName": "沙头角地铁站A出口（招呼站）"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、M191、M199、M205、M437、M520",
+     "busName": "沙头角地铁站"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B662、B662区间线、B619",
+     "busName": "沙头角地铁站C口（招呼车）"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68、B662",
+     "busName": "元墩头村"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:22",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、M191、M199、M205、M437、M520",
+     "busName": "Shatoujiao Station"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B662",
+     "busName": "Shatoujiao Station Exit A1（Request Bus Stop）"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B619",
+     "busName": "Shatoujiao Station Exit A（Request Bus Stop）"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "308、M191、M199、M205、M437、M520",
+     "busName": "Shatoujiao Station"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B662、B662 Interval Line、B619",
+     "busName": "Shatoujiao Station Exit C（Request Bus Stop）"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "68、B662",
+     "busName": "Yuanduntoucun"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:22",
+   "mobanchexia": "01:04",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "深盐路南侧（西）、盐田区福利中心、盐田区老人颐养院"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "深盐路北侧（西）、沙头角社区居委会、沙头角社康"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深盐路南侧（东）、沙头角街道文化站、沙头角行政服务大厅、沙头角派出所、田心社区居委会、沙头角海关、蓝郡公馆、沙深路（北）-中英街"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深盐路北侧（东）、园林路东侧"
+  }
+ ],
+ "siteCode": "0803",
+ "siteIntroduce": "沙头角站位于盐田区深盐路和沙深路、园林路交叉口处。该站为地下站。",
+ "siteName": "沙头角站",
+ "siteNameen": "Shatoujiao",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒/5分36秒",
+   "gaofenjiangeen": "2m48s/5m36s",
+   "mobanche": "23:22",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

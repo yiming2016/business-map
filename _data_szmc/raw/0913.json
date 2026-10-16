@@ -1,0 +1,141 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "229、339、 M105、M106、M463、滨海休闲观光假日专线",
+     "busName": "深圳湾公园地铁站"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E37、M561、R27",
+     "busName": "港大医院总站"
+    }
+   ],
+   "chukou": "D1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "229、339路、M106、M463",
+     "busName": "深圳湾公园地铁站"
+    }
+   ],
+   "chukou": "D2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:43",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Route 229、Route 339、Route M105、Route M106、Route M46、Route Coastal Leisure and Sightseeing Holiday Special Line",
+     "busName": "Shenzhen Bay Park Metro Station"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Route E37、 Route M561、Route R27",
+     "busName": "The University of Hong Kong-Shenzhen Hospital Bus Terminal"
+    }
+   ],
+   "chukou": "Exit D1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Route 229、Route 339、Route M106、Route M463",
+     "busName": "Shenzhen Bay Park Metro Station"
+    }
+   ],
+   "chukou": "Exit D2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:43",
+   "mobanchexia": "00:26",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "滨海大道南侧（西）、深圳湾公园、站前町商业街(A区）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深圳湾公园"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "海园一路、港大医院"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "滨海大道南侧（东）、深圳湾公园 "
+  },
+  {
+   "outt": "E出入口",
+   "textt": "滨海大道北侧、海园二路、华侨城湿地、曲水湾"
+  }
+ ],
+ "siteCode": "0913",
+ "siteIntroduce": "深圳湾公园站位于海园二路与滨海大道交界口处。该站为地下站。",
+ "siteName": "深圳湾公园站",
+ "siteNameen": "Shenzhen Bay Park",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:43",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "05:59",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1路、376路、M213路",
+     "busName": "太宁路西"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "2路、62路、83路、203路、376路",
+     "busName": "田贝地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "2路、57路、62路、83路、203路、977路、M482路",
+     "busName": "田贝地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "57路、M482路、M213路、M329路",
+     "busName": "翠北实验小学"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  },
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:02",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:18",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、376、M213",
+     "busName": "Taining Road West"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "2、62、83、203、376",
+     "busName": "Tianbei metro station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "2、57、62、83、203、977、M482",
+     "busName": "Tianbei metro station"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "57、M482、M213、M329",
+     "busName": "Cuibei Experimental Primary School"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:44",
+   "mobanchexia": "00:29",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  },
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:02",
+   "mobanchexia": "01:00",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:18",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "翠竹路东侧(南）、太宁路南侧（西）、康宁医院、翠竹公园、太宁路西公交站、罗湖区委宿舍"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "翠竹路东侧(北）、太宁路北侧（西）、太安路、深圳市供电局水贝大院、南方电网深圳供电局有限公司水贝基地、田贝地铁站公交站、太宁路西公交站、百仕达花园、翠竹大厦"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "田贝四路北侧(东）、翠竹路西侧(北）、水贝一路、化工大厦、中国南海工程有限公司大院"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "翠竹路西侧(南)、田贝二路、田贝三路、深圳供电局有限公司罗湖供电局、广东省盐业集团深圳有限公司、田贝地铁站公交站、华盐大厦、翠珠小区、马古岭小区、燃气小区"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "田贝四路南侧、贝丽南路、深圳市翠北实验小学、翠北实验小学公交站"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "田贝四路北侧（西）、贝丽北路、水田二街、深圳市罗湖区教育局、深圳市水田小学、翠北实验小学公交站、翠景大厦、贝丽花园、阳光天地家园"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "田贝四路北侧(东）、翠竹路西侧(北）、水贝一路"
+  }
+ ],
+ "siteCode": "0728",
+ "siteIntroduce": "田贝站位于翠竹路与田贝四路交汇处，该站为3、7号线换乘站。该站为地下站。",
+ "siteName": "田贝站",
+ "siteNameen": "Tianbei",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:02",
+   "mobanchexia": "23:59",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

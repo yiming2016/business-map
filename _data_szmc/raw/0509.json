@@ -1,0 +1,93 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "深圳观光巴士橙线",
+     "busName": "欢乐港湾"
+    }
+   ],
+   "chukou": "B2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:55",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Shenzhen sightseeing bus Orange Line",
+     "busName": "Oh Bay"
+    }
+   ],
+   "chukou": "Exit B2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:55",
+   "mobanchexia": "00:30",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "熙龙湾、甲岸路北侧、海天路西侧、深圳市宝安中学（集团）海天学校"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "海府路、欢乐港湾、滨海文化公园"
+  }
+ ],
+ "siteCode": "0509",
+ "siteIntroduce": "临海站位于宝安中心区甲岸路和海府路、丁字路口北侧。该站为地下站。",
+ "siteName": "临海站",
+ "siteNameen": "Linhai",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:55",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:55",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

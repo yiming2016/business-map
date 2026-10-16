@@ -1,0 +1,191 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M219",
+     "busName": "坪西地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811、M219",
+     "busName": "坪西社区"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811、M219",
+     "busName": "坪西社区"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811",
+     "busName": "九里香"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811",
+     "busName": "九里香"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M219",
+     "busName": "坪西地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-6分",
+   "gaofenjiangeen": "3m-6m",
+   "mobanche": "23:08",
+   "mobanchexia": "00:21",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M219",
+     "busName": "pingxi Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811、M219",
+     "busName": "Pingxi Community"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811、M219",
+     "busName": "Pingxi Community"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811",
+     "busName": "Rosemary"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811",
+     "busName": "Rosemary"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M219",
+     "busName": "pingxi Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:08",
+   "mobanchexia": "01:20",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坪西南路东侧（南）、 坪西社区、坪西社区公园、料龙新村、鸿宇工业园、迈腾工业园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坪西中路东侧（北）、吉祥一路、坪西萧氏炮楼"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "麟阁世居、荣利昌工业园 "
+  },
+  {
+   "outt": "D出入口",
+   "textt": "坪西南路西侧（南）、澳头居民小组、龙城高级中学(教育集团)东兴外国语学校、香林世纪华府"
+  }
+ ],
+ "siteCode": "0334",
+ "siteIntroduce": "坪西站位于规划坪西路与花园路交叉路口。该站为地下站。坪西站是深圳地铁3号线全线唯一一座装配式车站。",
+ "siteName": "坪西站",
+ "siteNameen": "Pingxi",
+ "workDay": [
+  {
+   "gaofenjiange": "4～7分",
+   "gaofenjiangeen": "4～7m",
+   "mobanche": "23:08",
+   "mobanchexia": "00:21",
+   "pingjunjiange": "7分钟/14分钟",
+   "pingjunjiangeen": "7m钟/14m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

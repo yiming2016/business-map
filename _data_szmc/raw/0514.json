@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "606、610、629、B829、M182、M245、M246、M313、M378、M393、高峰56",
+     "busName": "洪浪北地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "610、615、629、B829、M182、M313、M376、M378、M379、M382、M393、M206、B904",
+     "busName": "新安税务"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "605、M246、M259、M376、M379、M382",
+     "busName": "新安交警中队"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "629、M245、M246、M313、M378、B829",
+     "busName": "洪浪北地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:46",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "606、 610、 629、 B829、 M182、 M245、 M246、 M313、  M378、 M393、 Peak Special Line 56",
+     "busName": "Honglang North Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "610、 615、 629、 B829、 M182、 M313、 M376、  M378、 M379、 M382、 M393、  M206、  B904",
+     "busName": "Xin'an Tax Bureau"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "605、 M246、 M259、 M376、 M379、 M382",
+     "busName": "Xin'an Traffic Police Squadron"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "629、 M245、 M246、 M313、 M378 、B829",
+     "busName": "Honglang North Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:46",
+   "mobanchexia": "00:40",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "创业二路南侧(西)、新安二路、洪浪北路、灵芝小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "创业二路南侧(东)、大宝路南侧、大浪社区健康服务中心、丰华苑、宝雅花园、海关大厦、东联工业区、新安税务公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "新安三路北侧、上合社区居委会、新丰小学"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "创业二路北侧、冠华育才学校、华联城市全景、仟里食家、洪浪北地铁站公交站、大浪社区居委会"
+  }
+ ],
+ "siteCode": "0514",
+ "siteIntroduce": "洪浪北站位于创业二路和新安三路交汇处。该站为地下站。",
+ "siteName": "洪浪北站",
+ "siteNameen": "Honglang North",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:46",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:49",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

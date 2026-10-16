@@ -1,0 +1,235 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M205路大站快车、M182路、M205、E17路",
+     "busName": "春风万家"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "381路、5路、14路、69路、83路、229路",
+     "busName": "罗湖医院春风院区"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M205路大站快车、M182路、M205、E17路、M172路",
+     "busName": "春风万家"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "381路、5路、14路、69路、83路、229路",
+     "busName": "罗湖医院春风院区"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369路、229路、381路、83路、M205路",
+     "busName": "丽都酒店①"
+    }
+   ],
+   "chukou": "D1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14路、97路、369路",
+     "busName": "丽都酒店①"
+    }
+   ],
+   "chukou": "D1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "5路、14路、69路、97路",
+     "busName": "丽都酒店②"
+    }
+   ],
+   "chukou": "D1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "5路、69路、83路、381路、229路、M205路",
+     "busName": "丽都酒店②"
+    }
+   ],
+   "chukou": "D1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:01",
+   "mobanchexia": "00:07",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M205 Large Station Express、M182、M205、E17",
+     "busName": "Chunfeng Wanjia"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "381、5、14、69、83、229",
+     "busName": "Luohu Hospital Chunfeng Branch"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M205 Large Station Express、M182、M205、E17、M172",
+     "busName": "Chunfeng Wanjia"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "381、5、14、69、83、229",
+     "busName": "Luohu Hospital Chunfeng Branch"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、229、381、83、M205",
+     "busName": "Lidu Hotel①"
+    }
+   ],
+   "chukou": "Exit D1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14、97、369",
+     "busName": "Lidu Hotel①"
+    }
+   ],
+   "chukou": "Exit D1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "5、14、69、97",
+     "busName": "Lidu Hotel②"
+    }
+   ],
+   "chukou": "Exit D1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "5、69、83、381、229、M205",
+     "busName": "Lidu Hotel②"
+    }
+   ],
+   "chukou": "Exit D1"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:01",
+   "mobanchexia": "01:07",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "东门南路北侧（东）、潮汕大厦、惠州大厦、中国海关、文锦渡口岸大楼"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "春风路东侧（南）、南方科技大学附属罗湖中学、广西大厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "凯悦华庭、云景豪园、深圳市向西小学、春风路东侧（北）、罗湖医院春风院区、文锦渡海关"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "春风路西侧（北）、向西花园、金色都汇"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "宝丰大厦、东门南路北侧（西）"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "广发大厦、深圳市罗湖区人民医院、深圳市南湖小学、春风路西侧（南）"
+  }
+ ],
+ "siteCode": "0931",
+ "siteIntroduce": "向西村站位于春风路与东门南路交叉路口。为地下站。",
+ "siteName": "向西村站",
+ "siteNameen": "Xiangxicun",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:01",
+   "mobanchexia": "00:07",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

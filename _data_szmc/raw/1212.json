@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M245路、M249路",
+     "busName": "前进临华路口"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M245路、M249路",
+     "busName": "同乐南地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:03",
+   "mobanchexia": "23:23",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M245、M249",
+     "busName": "Qianjin‑Linhua Intersection"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M245、M249",
+     "busName": "Tongle South Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:03",
+   "mobanchexia": "00:23",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前进路北侧、南山家禽批发市场"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "前进路北侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "前进路南侧、深圳海关缉私局执法办案管理中心、南头海关缉私分局、深圳市宝安区财政局"
+  },
+  {
+   "outt": "       D出入口",
+   "textt": "前进路南侧、南联社区党群服务中心、南山农产品批发市场、南山实验教育集团园丁学校、同乐南地铁站公交站"
+  }
+ ],
+ "siteCode": "1212",
+ "siteIntroduce": "同乐南站位于南山区的前进路与南坪快速路的交叉口、沿前进路呈东西向布置。该站为地下站。",
+ "siteName": "同乐南站",
+ "siteNameen": "Tongle South",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:03",
+   "mobanchexia": "23:23",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

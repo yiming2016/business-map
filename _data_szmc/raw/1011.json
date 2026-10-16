@@ -1,0 +1,239 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "328、612、M263、M383、M491、M137、M271、M521、M156、M346",
+     "busName": "四季花城①"
+    },
+    {
+     "busInfo": "M448、M346",
+     "busName": "四季花城②"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M156",
+     "busName": "四季花城①"
+    },
+    {
+     "busInfo": "M271、M385、M461、612、E22、M263、M383、M448、M491、M521、M137、B686、高峰专线96、328",
+     "busName": "四季花城②"
+    }
+   ],
+   "chukou": "H出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "612、M263、M271、M346、M383、M461、M491、M521、982、M137、M342、M566、M282、B858、M398、M448",
+     "busName": "五和地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M282、M383、M448、M461、M491、M521、612、982、M137、M263、M271、M342、M566、B858、B866、M346、M398，五和地铁站北",
+     "busName": "五和地铁站"
+    }
+   ],
+   "chukou": "D1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:16",
+   "mobanchexia": "00:09",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:31",
+   "mobanchexia": "23:24",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "328、 612、 M263、 M383、 M491、 M137、 M271、 M521、M156、M346",
+     "busName": "Wanderland Garden ①"
+    },
+    {
+     "busInfo": "M448、M346",
+     "busName": "Wanderland Garden ②"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M156",
+     "busName": "Wanderland Garden ①"
+    },
+    {
+     "busInfo": "M271、 M385、 M461、 612、 E22、 M263、M383、 M448、 M491、 M521、 M137、 、B686、高峰专线96、328",
+     "busName": "Wanderland Garden②"
+    }
+   ],
+   "chukou": "Exit H"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "612、 M263、 M271、 M346、 M383、 M461、 M491、 M521、 982、 M137、 M342、M566、M282、B858、M398、M448",
+     "busName": "Wuhe Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M282、M383、M448、M461、M491、M521、612、982、M137、M263、M271、M342、M566、B858、B866、M346、M398",
+     "busName": "Wuhe Metro Station"
+    },
+    {
+     "busInfo": "B866、M415",
+     "busName": "Wuhe Metro Station North"
+    }
+   ],
+   "chukou": "Exit D1"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:16",
+   "mobanchexia": "01:09",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:31",
+   "mobanchexia": "00:24",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "五和大道西侧(南)、四季花城"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "布龙路南侧（东）、五和大道东侧(南)、深圳市社会管理保险基金管理局坂田管理站、鹤祥宫 (坂田五和店)"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "五和大道东侧（北）、布龙路北侧（东）、长坑小区"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "五和大道西侧（北）、布龙路北侧（西）、中影星美巨幕影城（佳华店）"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "五和大道东侧(南)、和磡村"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "五和大道西侧(南)、四季花城"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "五和大道西侧(南)、四季花城"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "五和大道东侧(南)、和磡村"
+  }
+ ],
+ "siteCode": "1011",
+ "siteIntroduce": "五和站位于五和大道与布龙路交汇处，该站为5、10号线换乘站。该站为地下站。",
+ "siteName": "五和站",
+ "siteNameen": "Wuhe",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:16",
+   "mobanchexia": "00:09",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:49",
+   "shoubanchexia": "05:53",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:30",
+   "mobanchexia": "23:24",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

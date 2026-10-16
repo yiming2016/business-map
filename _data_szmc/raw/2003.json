@@ -1,0 +1,181 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615、781、国际会展接驳专线1、国际会展商圈公交接驳专线",
+     "busName": "国展地铁站①"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615",
+     "busName": "国展地铁站①"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "国际会展接驳专线1、M515、国际会展商圈公交接驳专线",
+     "busName": "国展地铁站②"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "22:37",
+   "mobanchexia": "22:23",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:05",
+   "shoubanchexia": "07:07",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  },
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "22:37",
+   "mobanchexia": "22:23",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:05",
+   "shoubanchexia": "07:07",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615、781、International exhibition connection line 1、International exhibition business area bus shuttle line",
+     "busName": "Shenzhen World Metro Station①"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "615",
+     "busName": "Shenzhen World Metro Station①"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "International exhibition connection line 1、M515、International exhibition business area bus shuttle line",
+     "busName": "Shenzhen World Metro Station②"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "22:37",
+   "mobanchexia": "22:23",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:05",
+   "shoubanchexia": "07:07",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  },
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "22:37",
+   "mobanchexia": "22:23",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:05",
+   "shoubanchexia": "07:07",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "展城路东侧、展丰路西侧、展景路西侧、国展地铁站①公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "展城路西侧（北）、深圳国际会展中心南登陆大厅"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "展城路西侧（南）、深圳国际会展中心1-8号展馆、国展地铁站①公交站、国展地铁站②公交站"
+  }
+ ],
+ "siteCode": "2003",
+ "siteIntroduce": "国展站位于展城路，为12、20号线换乘站。该站为地下站。",
+ "siteName": "国展站",
+ "siteNameen": "Shenzhen World",
+ "workDay": [
+  {
+   "gaofenjiange": "10分40秒",
+   "gaofenjiangeen": "10m40s",
+   "mobanche": "22:37",
+   "mobanchexia": "22:23",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:05",
+   "shoubanchexia": "06:59",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  },
+  {
+   "gaofenjiange": "10分40秒",
+   "gaofenjiangeen": "10m40s",
+   "mobanche": "22:37",
+   "mobanchexia": "22:23",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:05",
+   "shoubanchexia": "06:59",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ]
+}

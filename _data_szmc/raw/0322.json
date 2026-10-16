@@ -1,0 +1,101 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M295、M266、M359、M239、M570、351、M190、366、357、M208、M309、M380、M547、M563、B660",
+     "busName": "塘坑地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:38",
+   "mobanchexia": "23:51",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M295、M266、M359、M239、M570、351、M190、366、357、M208、M309、M380、M547、M563、B660",
+     "busName": "Tangkeng Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:22",
+   "mobanchexia": "00:50",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "05:58",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "六和路、六约派出所、深圳宝兴医院、六约邮政支局"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "塘坑路、怡豪花园、岭南工业园、深圳市携创高级技工学校、塘坑商业大厦、深圳市塘坑学校"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道南侧（东）、康乐路、信义湛宝大厦、横岗街道、八达产业园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙岗大道南侧（西）、六约学校、六约社区健康服务中心、塘坑地铁公交站"
+  }
+ ],
+ "siteCode": "0322",
+ "siteIntroduce": "塘坑站位于龙岗大道与平盐铁路交叉口西南角。该站为半地下车站。",
+ "siteName": "塘坑站",
+ "siteNameen": "Tangkeng",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:38",
+   "mobanchexia": "23:51",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

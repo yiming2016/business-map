@@ -1,0 +1,187 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10、M182、M191、高峰转线191、M205、M205大站快车、E26、M191、P772、T40B",
+     "busName": "黄贝岭地铁站①"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "27、69、85、111、223、312、381、E17、E26、M133",
+     "busName": "黄贝岭地铁站②"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10、27、69、85、111、381、M133、M182、T40B、T40C、223",
+     "busName": "黄贝岭地铁站④"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "NA1、312、M205、M205大站快车、M191、E26、E17、P772、PJ55、M445",
+     "busName": "黄贝岭地铁站②"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:38",
+   "mobanchexia": "23:48",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "22:50",
+   "mobanchexia": "00:35",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:38",
+   "mobanchexia": "00:48",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:50",
+   "mobanchexia": "01:35",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深南东路北侧（东）、凤凰路、黄贝岭公园、黄贝岭牌坊、黄贝岭村"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南东路北侧（西）、深圳市罗湖区人民政府、深圳市罗湖区便民服务站、深圳市罗湖区信访局"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深南东路南侧（西）、北斗路、文华社区健康服务中心、深圳市行知职业技术学校"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "深南东路南侧（东）、海富花园、文华花园、丹枫白露"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "集浩大厦"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "清平路、福德花园、冶金大厦"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "新天地名居"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "文华大厦"
+  }
+ ],
+ "siteCode": "0534",
+ "siteIntroduce": "黄贝岭站位于北斗路与深南东路交汇处，为2、5号线的换乘站。该站为地下站。",
+ "siteName": "黄贝岭站",
+ "siteNameen": "Huangbeiling",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:38",
+   "mobanchexia": "23:48",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "22:50",
+   "mobanchexia": "00:35",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

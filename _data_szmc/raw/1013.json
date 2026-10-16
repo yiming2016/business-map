@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M383、M567、M578、321、328、334、M137、M198、高峰专线221",
+     "busName": "中海日辉台"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、328、334、E27、M383、M567、M578、M137、M309、339、M288",
+     "busName": "贝尔路地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "339、M309、M288",
+     "busName": "贝尔路地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、328、334、M383、M547、M567、M578、高峰专线221、M137、M198",
+     "busName": "中海日辉台"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:27",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M383、M567、M578、321、328、334、M317、M198、Peak-line221",
+     "busName": "COLI Rihuitai"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、328、334、E27、M383、M567、M578、M137、M309、339、M288",
+     "busName": "Bei'er Rd Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "339、M309、M288",
+     "busName": "Bei'er Rd Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、328、334、M383、M547、M567、M578、Peak-line221、M137、M198",
+     "busName": "COLI Rihuitai"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:27",
+   "mobanchexia": "00:28",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坂雪岗大道东侧（南）、贝尔路南侧（东）、 中海日辉台公交站、坂田商务大厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坂雪岗大道东侧（北）、贝尔路北侧（东）、毕加索大道、肖邦路、贝尔路地铁站公交站、万科城"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "坂雪岗大道西侧（北）、贝尔路北侧（西）、居里夫人大道、贝尔路地铁站公交站、神舟电脑大厦、百瑞达工坊"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "坂雪岗大道西侧（南）、贝尔路南侧（西）、冲之大道、 中海日辉台公交站、坂兴路、山花烂漫公园"
+  }
+ ],
+ "siteCode": "1013",
+ "siteIntroduce": "贝尔路站位于深圳市龙岗区坂雪岗大道和贝尔路交叉口。该站为地下站。",
+ "siteName": "贝尔路站",
+ "siteNameen": "Bei'er Rd",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:26",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、779、M331、M351",
+     "busName": "民主社区"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:13",
+   "mobanchexia": "00:12",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、779、M331、M351",
+     "busName": "Minzhu community"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:13",
+   "mobanchexia": "01:12",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "丰民路东侧、深圳市第七高级中学南门"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "丰民路西侧、民主幼儿园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "丰民路西侧、海上田园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "丰民路西侧"
+  }
+ ],
+ "siteCode": "1233",
+ "siteIntroduce": "海上田园东站位于民主大道、沿民主民丰路敷设。该站为地下站。",
+ "siteName": "海上田园东站",
+ "siteNameen": "Waterlands Resort East",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒/6分36秒、晚3分48秒/7分44秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:13",
+   "mobanchexia": "00:12",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

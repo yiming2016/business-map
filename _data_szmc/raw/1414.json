@@ -1,0 +1,249 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、833、M277、M295、M325、M326、M439",
+     "busName": "坪山大道东纵路口"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "941、963、978、E22、E34、M295、M361、M439、M564、坪梅假日快线",
+     "busName": "坪山围地铁站①"
+    },
+    {
+     "busInfo": "366、833、915、M479、M575",
+     "busName": "坪山围地铁站②"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "941、963、E22、E28、E34、M295、M361、M439、M564、坪梅假日快线",
+     "busName": "坪山围地铁站①"
+    },
+    {
+     "busInfo": "366、833、915、M479、M575",
+     "busName": "坪山围地铁站②"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "941、963、964、978、M277、M361、M564",
+     "busName": "坪山围"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "941、963、964、978、M277、M326、M361、M564",
+     "busName": "坪山围"
+    }
+   ],
+   "chukou": "F出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:11",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:43",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  },
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:14",
+   "mobanchexia": "23:51",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:32",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、833、M277、M295、M325、M326、M439",
+     "busName": "Pingshan Blvd Dongzong Rd Crossing"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "941、963、978、E22、E34、M295、M361、M439、M564、Pingmei Holiday Express Line",
+     "busName": "Pingshanwei Metro Station 1"
+    },
+    {
+     "busInfo": "366、833、915、M479、M575",
+     "busName": "Pingshanwei Metro Station 2"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "941、963、E22、E28、E34、M295、M361、M439、M564、Pingmei Holiday Express Line",
+     "busName": "Pingshanwei Metro Station 1"
+    },
+    {
+     "busInfo": "366、833、915、M479、M575",
+     "busName": "Pingshanwei Metro Station 2"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "941、963、964、978、M277、M361、M564",
+     "busName": "Pingshanwei"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "941、963、964、978、M277、M326、M361、M564",
+     "busName": "Pingshanwei"
+    }
+   ],
+   "chukou": "Exit F"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:11",
+   "mobanchexia": "01:13",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:43",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  },
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:14",
+   "mobanchexia": "00:51",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:32",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坪山大道东侧（南）、坪山区市场监管局坪山所、坪山派出所、坪山公园、坪山汽车总站、坪山中心小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坪山大道东侧（北）、建设路北侧、坪山街道办事处"
+  },
+  {
+   "outt": "C出入口（城服管理）",
+   "textt": "坪山大道西侧（北）、深城投中诚花园"
+  },
+  {
+   "outt": "D出入口（城服管理）",
+   "textt": "坪山大道西侧（南）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "深汕路南侧（东）"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "深汕路南侧（东）"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "深汕路南侧（西）、坪山六联小学、六和城"
+  }
+ ],
+ "siteCode": "1414",
+ "siteIntroduce": "坪山围站位于坪山区坪山大道与深汕路交叉口处，为14、16号线换乘站。该站为地下站。",
+ "siteName": "坪山围站",
+ "siteNameen": "Pingshanwei",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:11",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:44",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  },
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:14",
+   "mobanchexia": "23:51",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

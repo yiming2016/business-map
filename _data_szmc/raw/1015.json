@@ -1,0 +1,199 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M198、M309、M568、M288、高峰专线221",
+     "busName": "象角塘西"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M267、M272、M346、M164、M572、M309、高峰专线48",
+     "busName": "城市山海云汇"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334、624、882、M198、M267、M543、M545、M572、M584、高峰专线126、M272、M346、M383、M461、M491、M137、M164、M477、高峰专线221、高快巴士81",
+     "busName": "坂田交警中队"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334、624、882、M137、M164、M198、M267、M543、M545、M572、M584、M272、M346、M383、M461、M491、M477、高峰专线221、高快巴士81",
+     "busName": "坂田交警中队"
+    }
+   ],
+   "chukou": "C2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M198、M309、M288、高峰专线221、M568、A7",
+     "busName": "岗头地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M198、M309、M568、M288、高峰专线221",
+     "busName": "象角塘西"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:23",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M198、M309、M568、M288、Peak-Line221",
+     "busName": "Xiang Kok West"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M267、 M272、 M346、 M164、 M572、M309、Peak-Line48",
+     "busName": "Urban Mountains、 Sea and Clouds"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334、624、882、M198、M267、M543、M545、M572、M584、Peak-Line126、M272、M346、M383、M461、M491、M137、M164、M477、Peak-line221、High Speed Bus81",
+     "busName": "Bantian Traffic Police Squadron"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334、624、882、M137、M164、M198、M267、M543、M545、M572、M584、M272、M346、M383、M461、M491、M477、Peak-Line221、High Speed Bus81",
+     "busName": "Bantian Traffic Police Squadron"
+    }
+   ],
+   "chukou": "Exit C2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M198、M309、M288、Peak-Line221、M568、A7",
+     "busName": "Gangtou MTR Station"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M198、M309、M568、M288、Peak-Line221",
+     "busName": "Xiang Kok West"
+    }
+   ],
+   "chukou": "ExitE"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:23",
+   "mobanchexia": "00:32",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坂雪岗大道东侧、象角塘西公交站"
+  },
+  {
+   "outt": "                  B出入口",
+   "textt": "环城北路南侧（东）、城市山海云汇公交站"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "环城北路北侧、深圳市龙岗区行政服务大厅天安云谷分中心、中国·深圳人力资源服务智慧广场、龙岗区图书馆天安云谷分馆、佳兆业城市广场公交站、坂田交警中队公交站"
+  },
+  {
+   "outt": "                                   C2出入口",
+   "textt": "环城北路南侧（西）、坂田交警中队公交站"
+  },
+  {
+   "outt": "                   D出入口",
+   "textt": "坂雪岗大道西侧（北）、深圳市公安局交通警察支队坂田中队、宝岗派出所、岗头地铁站公交站"
+  },
+  {
+   "outt": "                      E出入口",
+   "textt": "坂雪岗大道西侧（南）、象角塘西公交站"
+  }
+ ],
+ "siteCode": "1015",
+ "siteIntroduce": "岗头站位于深圳市龙岗区坂雪岗大道下方。该站为地下站。",
+ "siteName": "岗头站",
+ "siteNameen": "Gangtou",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:22",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "05:48",
+   "shoubanchexia": "06:37",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

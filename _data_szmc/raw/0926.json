@@ -1,0 +1,191 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "23路、5路、222路、85路、M105路、M213路、M329路、M453路",
+     "busName": "市检察院②"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303路、E25路、M138路、M463路、23路、M105路",
+     "busName": "市检察院①"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11路、111路、M207路、222路",
+     "busName": "园岭新村"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11路、13路、111路、M213路、M207路",
+     "busName": "罗湖税务局②"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M453路、5路、M329路",
+     "busName": "园岭地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M453路、5路、M329路",
+     "busName": "园岭地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:11",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "23、 5、 222、 85、 M105、M213、M329、M453",
+     "busName": "Municipal Procuratorate ②"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "303、 E25、 M138、 M463、23、M105",
+     "busName": "Municipal Procuratorate ①"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、 111、  M207、222",
+     "busName": "Yuanling Xincun"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、13、111、 M213、 M207",
+     "busName": "Luohu Taxation Bureau ②"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M453、5、M329",
+     "busName": "Yuanling Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M453、5、M329",
+     "busName": "Yuanling Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:11",
+   "mobanchexia": "00:57",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "八卦一路、八卦岭邮政综合楼、旭飞花园、鹏盛年华、银泉大厦、装饰大厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "笋岗西路、红岭中路、园岭东路、深圳红岭中学、园岭实验小学、园岭新村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "松园北街、深圳红岭小学、建设集团、百汇大厦、长虹大厦、鸿翔花园、洪涛大厦、北京大厦"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "笋岗东路、深圳市人民检察院、深圳市残疾人联合会、物资置地大厦、万通大厦、中民时代广场"
+  }
+ ],
+ "siteCode": "0926",
+ "siteIntroduce": "园岭站位于红岭北路与笋岗路交界处。该站为地下站。",
+ "siteName": "园岭站",
+ "siteNameen": "Yuanling",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:11",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

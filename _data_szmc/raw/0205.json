@@ -1,0 +1,115 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "22、37、M106、M177、M241、M484、M519",
+     "busName": "南山妇幼保健院"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "22、37、M177、M241、M484、M519、N73",
+     "busName": "南山妇幼保健院"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:33",
+   "mobanchexia": "22:53",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:42",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "22、37、M106、M177、M241、M484、M519",
+     "busName": "Nanshan Maternity&Child Healthcare Hospital"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "22、37、M177、M241、M484、M519、N73",
+     "busName": "Nanshan Maternity&Child Healthcare Hospital"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:33",
+   "mobanchexia": "23:53",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:42",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "南水步行街、湾厦路西侧（南）、蛇口渔二村、蛇口菜市场"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "金世纪路西侧、蛇口新街南侧、蛇口广场"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "湾厦路西侧（北）、深圳市南山区妇幼保健院、深圳市南山区蛇口学校"
+  }
+ ],
+ "siteCode": "0205",
+ "siteIntroduce": "东角头站位于蛇口新街与湾厦路十字交叉路口、蛇口新街下跨十字路口。该站为地下站。",
+ "siteName": "东角头站",
+ "siteNameen": "Dongjiaotou",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:33",
+   "mobanchexia": "22:53",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:42",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

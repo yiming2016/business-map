@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M222、B611、C48",
+     "busName": "侨香地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M398、M312",
+     "busName": "香域中央花园"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、B611、M126、M222、M312、M398",
+     "busName": "翠海花园"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:06",
+   "mobanchexia": "23:20",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:26",
+   "shoubanchexia": "05:55",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M222、B611、C48",
+     "busName": "Qiaoxiang Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M398、M312",
+     "busName": "Xiangyu Center Garden"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、B611、M126、M222、M312、M398",
+     "busName": "Cuihai Garden"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:06",
+   "mobanchexia": "00:20",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:26",
+   "shoubanchexia": "05:55",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "侨香路南侧、侨香地铁站公交站、深圳市公安局经济犯罪侦查局、鸿运阁、中旅国际公馆、国华大厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "农园路南侧、香域中央花园公交站、深圳市眼科医院、 深圳高级中学(集团)中心校区、荔园外国语小学(香蜜湖)、香域中央花园"
+  },
+  {
+   "outt": "C出入口（临时关闭）",
+   "textt": "侨香路北侧、翠海花园公交站、深圳市住房公积金管理中心、深圳市福田区实验教育集团侨香学校 、翠海花园、香格丽苑、侨香村、金地香蜜山"
+  }
+ ],
+ "siteCode": "0216",
+ "siteIntroduce": "侨香站位于侨香路与农园路的交叉路口。该站为地下站。",
+ "siteName": "侨香站",
+ "siteNameen": "Qiaoxiang",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:06",
+   "mobanchexia": "23:20",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:24",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

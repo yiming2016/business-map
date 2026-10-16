@@ -1,0 +1,219 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3路、10路、12路、223路、104路、113路、203路、85路、64路、29路、M152路、M191路、M192路、M133路",
+     "busName": "人民桥"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10路、29路、85路、104路、223路、113路、M133路、M191路、M190路",
+     "busName": "门诊部①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M482路",
+     "busName": "深圳戏院"
+    }
+   ],
+   "chukou": "F出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "381路",
+     "busName": "桂园街道办"
+    }
+   ],
+   "chukou": "G出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:05",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "00:07",
+   "mobanchexia": "23:22",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、10、12、223、104、113、203、85、64、29、M152、M191、M192、M133",
+     "busName": "People's bridge"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10、29、85、104、223、113、M133、M191、M190",
+     "busName": "outpatient department ①"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M482",
+     "busName": "Shenzhen Theater"
+    }
+   ],
+   "chukou": "Exit F"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "381",
+     "busName": "Guiyuan Sub-district Office"
+    }
+   ],
+   "chukou": "Exit G"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "01:05",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:49",
+   "mobanchexia": "00:23",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "汇食街、南庆街、东门步行街"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "建设路东侧（南）、和平路、深圳供电局有限公司、邮政大厦"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深南东路北侧、布艺街、电信大厦、深圳粤海酒店"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "东门老街、东门永新街、1234商场"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "东门永新路南侧、1234商场"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "新园路北侧、深圳迎宾馆、深圳戏院"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "人民公园路东侧、深圳市中医院第一门诊部、红桂中学、人民公园、深圳市工人文化宫、迎宾花园广场、港岛银座大厦、鸿隆世纪广场"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "建设路东侧（北）、1234商场"
+  }
+ ],
+ "siteCode": "0311",
+ "siteIntroduce": "老街站位于罗湖区解放路与建设路交汇处，为1、3号线换乘站。该站为地下站。",
+ "siteName": "老街站",
+ "siteNameen": "Laojie",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "00:05",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "00:07",
+   "mobanchexia": "23:22",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "4路、8路、363路、385路、393路、M132路、M389路、N17路",
+     "busName": "市健研中心"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "4路、8路、363路、385路、393路、M132路、M389路、N17路、M460",
+     "busName": "市健研中心"
+    }
+   ],
+   "chukou": "A3出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11路、79路、102路、107路、111路、213路、M207路、320路、323路、333路、357路、E5路、E11路、E20路、M165路、M203路、M329路、M401路、M414路、高快巴士12",
+     "busName": "体育馆"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "00:11",
+   "mobanchexia": "23:03",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "4、8、363、385、393、M132、M389、N17",
+     "busName": "Shenzhen Health Development Research and Data"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "4、8、363、385、393、M132、M389、N17、M460",
+     "busName": "Shenzhen Health Development Research and Data"
+    }
+   ],
+   "chukou": "Exit A3"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、79、102、107、111、213、M207、320、323、333、357、E5、E11、E20、M165、M203、M329、M401、M414、 high speed bus 12",
+     "busName": "Gymnasium"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "01:38",
+   "mobanchexia": "00:03",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "上步中路东侧(南)、红荔社区居委会、园岭外国语小学、园岭实验小学、园岭新村"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "上步中路西侧(南)、深圳艺术学校、园岭街道办"
+  },
+  {
+   "outt": "A3出入口",
+   "textt": "上步中路西侧(南)、深圳艺术学校、园岭街道办"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "笋岗西路南侧(西)、深圳市体育中心、体育南社区公园"
+  }
+ ],
+ "siteCode": "0603",
+ "siteIntroduce": "体育中心站位于上步北路和笋岗路交叉口、沿上步北路呈南北向布置。该站为地下站。",
+ "siteName": "体育中心站",
+ "siteNameen": "Sports Center",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒",
+   "gaofenjiangeen": "2m20s-3m12s",
+   "mobanche": "00:11",
+   "mobanchexia": "23:03",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

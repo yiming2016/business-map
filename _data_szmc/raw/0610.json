@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M422路、M301路、M415路、M420路、高峰专线92",
+     "busName": "上芬地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M264路、M301路、M415路、M420路、高峰专线16、高峰专线92",
+     "busName": "上芬地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:50",
+   "mobanchexia": "23:24",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M422、M301、M415、M420、High Speed Bus No. 92",
+     "busName": "Shangfen Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M264、M301、M415、M420、High Speed Bus No. 16、High Speed Bus No. 92",
+     "busName": "Shangfen Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "01:18",
+   "mobanchexia": "00:24",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "布龙路东侧（南）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "布龙路东侧（北）、西头新村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "布龙路西侧（北）、华东师范大学附属深圳龙华学校"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "布龙路西侧（南）"
+  }
+ ],
+ "siteCode": "0610",
+ "siteIntroduce": "上芬站位于布龙路与建设路交叉口以南、沿布龙路路中呈南北向敷设。该站为高架站。",
+ "siteName": "上芬站",
+ "siteNameen": "Shangfen",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒",
+   "gaofenjiangeen": "2m20s-3m12s",
+   "mobanche": "23:50",
+   "mobanchexia": "23:24",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

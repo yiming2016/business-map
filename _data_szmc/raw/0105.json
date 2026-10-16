@@ -1,0 +1,247 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "4、8、12、357、M102、M202、M584",
+     "busName": "市总工会公交站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、223、377、M102、M112、M133、NA1、高快巴士60",
+     "busName": "兴华宾馆东公交站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、223、377、M112、M133、NA1、高快巴士60",
+     "busName": "兴华宾馆东公交站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "357、M112、M112大站快车、M202",
+     "busName": "科学馆地铁站公交接驳站"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "4、357、M112、M112大站快车、M202",
+     "busName": "科学馆地铁站公交站"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14、23、29、62、377、B930",
+     "busName": "新城市广场公交站"
+    }
+   ],
+   "chukou": "F出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "4、8、12、357、M102、M202、M584",
+     "busName": "Shenzhen Municipal Federation of Trade Unions"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、223、377、M102、M112、M133、NA1、Express Bus 60",
+     "busName": "Xinghua Hotel East"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、223、377、M112、M133、NA1、Express Bus 60",
+     "busName": "Xinghua Hotel East"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "357、M112、M112Express Vehicle、M202",
+     "busName": "Science Museum Station Bus Transfer Station"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "4、357、M112、M112Express Vehicle、M202",
+     "busName": "Science Museum bus station"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14、23、29、62、377、B930",
+     "busName": "New city square bus station"
+    }
+   ],
+   "chukou": "Exit F"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "01:00",
+   "mobanchexia": "00:08",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "01:00",
+   "mobanchexia": "00:08",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深南中路北侧(东)、上步中路、深圳市总工会、深圳博物馆、深圳市科学馆"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南中路北侧(西) 、燕南路、振兴路、深圳市住房和建设局"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深南中路南侧(西)、松岭路、上步中学、南园派出所"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "深南中路南侧(东) 、上步南路、滨河路、东园路、上步小学"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "上步南路西侧、南园路北侧(西)"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "上步南路东侧、南园路北侧(东)"
+  }
+ ],
+ "siteCode": "0105",
+ "siteIntroduce": "科学馆站位于福田区上步路与松岭路之间的深南中路，为1、6号线的换乘站。该站为地下站。",
+ "siteName": "科学馆站",
+ "siteNameen": "Science Museum",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:28",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:28",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

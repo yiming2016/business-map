@@ -1,0 +1,150 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "978、B923、M175",
+     "busName": "坪山区委区政府"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、978、B923、E34、M175、M297、M325、M361、M478",
+     "busName": "坪山中心地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、978、B923、E34、M175、M297、M325、M361、M478",
+     "busName": "坪山中心地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "978、B923、M175",
+     "busName": "坪山区委区政府"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:07",
+   "mobanchexia": "00:17",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:47",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "978、B923、M175",
+     "busName": "Pingshan Committee & District Government"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、978、B923、E34、M175、M297、M325、M361、M478",
+     "busName": "Pingshan Centre Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、978、B923、E34、M175、M297、M325、M361、M478",
+     "busName": "Pingshan Centre Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:07",
+   "mobanchexia": "01:17",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:47",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坪山大道东侧（南）、兰竹西路南侧、深圳平乐骨伤科医院"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坪山大道东侧（北）、兰竹西路北侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "坪山大道西侧（北）、深圳市坪山区人民政府、深圳市大工业区体育中心、深圳市坪山区中心公园、坪山中心站（云巴站）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "坪山大道西侧（南）、深圳市坪山区发展和改革局、深圳市坪山区退役军人事务局、深圳市坪山区司法局"
+  }
+ ],
+ "siteCode": "1416",
+ "siteIntroduce": "坪山中心站位于坪山区坪山大道和兰竹西路交叉口处。该站为地下站。",
+ "siteName": "坪山中心站",
+ "siteNameen": "Pingshan Center",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:07",
+   "mobanchexia": "00:17",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:48",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

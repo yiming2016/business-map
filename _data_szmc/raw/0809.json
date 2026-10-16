@@ -1,0 +1,115 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M125、M465、海滨栈道专线",
+     "busName": "盐田墟地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M125、M205、M348、祈福专线、云海专线A、云海专线C",
+     "busName": "盐田墟地铁站C口"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:08",
+   "mobanchexia": "00:18",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M125、M465、 Seaside Boardwalk Special Line",
+     "busName": "Yantianxu Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M125、M205、M348、Qifu Special Line, Yunhai Special Line A, Yunhai Special Line C",
+     "busName": "Exit C of Yantianxu Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:08",
+   "mobanchexia": "01:18",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "盐梅路南侧（西）、海滨假日、沿港社区、深圳市盐田区人民医院盐田社区健康服务中心、渔民新村、春天海图书馆"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "盐梅路南侧（东）、盐田金色海岸码头、蔚蓝假日雅苑、盐法大楼、金海雅居、沙头村、盐田海鲜食街"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "盐梅路北侧（西）、深大书香文苑、沿港社区公园、应急消防科普教育基地"
+  }
+ ],
+ "siteCode": "0809",
+ "siteIntroduce": "盐田墟站位于北山道与盐梅路三岔路口处、车站主体沿北山道呈东西向布置。西接鸿安围站、东接大梅沙站。该站为地下站。",
+ "siteName": "盐田墟站",
+ "siteNameen": "Yantianxu",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒/5分36秒",
+   "gaofenjiangeen": "2m48s/5m36s",
+   "mobanche": "23:08",
+   "mobanchexia": "00:18",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:52",
+   "shoubanchexia": "05:59",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

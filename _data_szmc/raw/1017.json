@@ -1,0 +1,151 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、M224、M273、M324、M346、M363、M403",
+     "busName": "凉帽村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、M224、M273、M324、M346、M363、M269",
+     "busName": "甘坑地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、M224、M273、M324、M346、M363、M269",
+     "busName": "甘坑地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、M224、M273、M324、M346、M363、M403",
+     "busName": "凉帽村"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:17",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:46",
+   "shoubanchexia": "06:47",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、 M224、 M273、 M324、 M346、 M363、M403",
+     "busName": "Liangmao Village"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、M224、M273、M324、M346、M363、M269",
+     "busName": "Gankeng  Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、M224、M273、M324、M346、M363、M269",
+     "busName": "Gankeng Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、M224、M273、M324、M346、M363、M403",
+     "busName": "Liangmao Village"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:17",
+   "mobanchexia": "00:38",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:46",
+   "shoubanchexia": "06:47",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "甘李路西侧、秀峰工业城"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "甘李路东侧、甘李二路西侧、凉帽社区公园、凉帽小区"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "秀城街东侧"
+  }
+ ],
+ "siteCode": "1017",
+ "siteIntroduce": "甘坑站位于深圳市龙岗区秀峰路下方。该站为地下站。",
+ "siteName": "甘坑站",
+ "siteNameen": "Gankeng",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:16",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "05:42",
+   "shoubanchexia": "06:43",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

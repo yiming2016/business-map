@@ -1,0 +1,151 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、64、337、339、M103、M520、369、E37、M182、M194、M463、高快巴士14、高快巴16、高铁巴士66（原E6）",
+     "busName": "上沙"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "229、236、E13、M105、M106、M133",
+     "busName": "下沙"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "236、369、高快巴士66、E37、M105、M106、M133、M194、高快巴士16、高快巴士70、高快巴士14、观光巴士城市中心线",
+     "busName": "下沙①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "229、337、E13、M182、M463、M520、64",
+     "busName": "下沙②"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:39",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "05:58",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、64、337、339、M103、M520、369、E37、M182、M194、M463、Express Bus 14、Express Bus 16、Express Bus 66（Original E6）",
+     "busName": "Shangsha"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "229、236、E13、M106、M133",
+     "busName": "Xiasha"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "236、369、Express Bus 66、E37、M105、M106、M133、M194、Express Bus 16、Express Bus 70、Express Bus 14、Sightseeing Bus City Center Line",
+     "busName": "Xiasha①"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "229、337、E13、M182、M463、M520、64",
+     "busName": "Xiasha②"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:39",
+   "mobanchexia": "00:30",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B出入口",
+   "textt": "东涌路、滨河大道南侧、下沙文化广场、下沙小学、泰然广场"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "泰然九路、滨河大道北侧（东）、海松大厦、盛唐大厦"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "泰然十一路、滨河大道北侧（西）、水松大厦、云松大厦"
+  }
+ ],
+ "siteCode": "0914",
+ "siteIntroduce": "下沙站位于深圳市福田区滨河大道旁。该站为地下站。",
+ "siteName": "下沙站",
+ "siteNameen": "Xiasha",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:38",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

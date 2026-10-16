@@ -1,0 +1,105 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M495、东莞216、东莞285、东莞209、219",
+     "busName": "碧头地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "23:36",
+   "mobanchexia": "--",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "--",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M495、Dongguan 216、Dongguan 285、Dongguan 219、Dongguan 209",
+     "busName": "Bitou Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:36",
+   "mobanchexia": "--",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "--",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "朗碧路西侧、松岗车辆段"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "朗碧路西侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "松福大道北侧、朗碧路东侧、满京华云著、优扬科技园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "朗碧路东侧、高速达集团、万彩文化产业园、TOWO上品酒店"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "朗碧路东侧、洋涌工业路南侧、沙浦围创业工业区"
+  }
+ ],
+ "siteCode": "1122",
+ "siteIntroduce": "碧头站位于郎碧路与松福大道交界处、沿郎碧路呈南北走向。该站为地下站。",
+ "siteName": "碧头站",
+ "siteNameen": "Bitou",
+ "workDay": [
+  {
+   "gaofenjiange": "早4分30秒至9分、晚3分07秒。",
+   "gaofenjiangeen": "3m07s",
+   "mobanche": "23:36",
+   "mobanchexia": "--",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "06:00",
+   "shoubanchexia": "--",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ]
+}

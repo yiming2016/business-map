@@ -1,0 +1,141 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M377、718、M249、M246",
+     "busName": "新安公园地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M377、M246、M206、M249",
+     "busName": "新安公园地铁站"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M550、M206、605、M246、M377、M469、606",
+     "busName": "宝安1990站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "23:25",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M377、718、M249、M246",
+     "busName": "Xin'an Park Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M377、M246、M206、 M249",
+     "busName": "Xin'an Park Metro Station"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "718、M550、M206、605、M246、M377、M469、606",
+     "busName": "Bao'an 1990 Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:00",
+   "mobanchexia": "00:25",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前进一路北侧、新安二路西侧、深圳市宝安区人民医院、宝安区老干部活动中心、宝安中学外国语学校（集团）、宝安中学外国语学校（集团）宝城小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "前进一路北侧、新安公园、宝民小学、新安公园地铁站公交站"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "前进一路南侧、海雅缤纷城、新安公园地铁站公交站"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "前进一路南侧、宝安区公共就业服务大楼"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "前进一路南侧、新安二路西侧、宝安区公共物业管理局"
+  }
+ ],
+ "siteCode": "1213",
+ "siteIntroduce": "新安公园站位于前进一路和新安二路的交叉口处、沿前进一路南北向敷设。该站为地下站。",
+ "siteName": "新安公园站",
+ "siteNameen": "Xin'an Park",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:25",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

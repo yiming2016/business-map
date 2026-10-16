@@ -1,0 +1,105 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "204、M400",
+     "busName": "太子湾地铁站西"
+    }
+   ],
+   "chukou": "A出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:24",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:38",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "204、M400",
+     "busName": "Taiziwan Metro Station West"
+    }
+   ],
+   "chukou": "Exit A"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:24",
+   "mobanchexia": "00:02",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:38",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "邮轮大道、蛇口邮轮母港"
+  },
+  {
+   "outt": "B1出入口",
+   "textt": "商海路东侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "商海路东侧"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "汇海路北侧"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "汇海路南侧"
+  }
+ ],
+ "siteCode": "1202",
+ "siteIntroduce": "太子湾站车站主体位于汇海路上、位于汇海路和邮轮大道路叉口东侧、沿汇海路呈东西向布置。该站为地下站。",
+ "siteName": "太子湾站",
+ "siteNameen": "Taiziwan",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:24",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:38",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

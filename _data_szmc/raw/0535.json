@@ -1,0 +1,219 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10、29、64、85、223、M133、M192、M373、M399、M404、NA1（Line 2）",
+     "busName": "湖贝地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "17、104",
+     "busName": "湖贝中路"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10、17、29、64、85、104、223、M133、M192、M373、M399、M404、高峰专线73（Line 2）",
+     "busName": "湖贝地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、3、11、113、307、M403、（Line 5）",
+     "busName": "东门①"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "306、82、M508（Line 5）",
+     "busName": "东门②"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、17、306、82、M239、M373、M508（Line 5）",
+     "busName": "金城大厦②"
+    }
+   ],
+   "chukou": "F出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "307、369、M403、M404、M407、351、M402（Line 5）",
+     "busName": "金城大厦①"
+    }
+   ],
+   "chukou": "F出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "10、223、29、M133、M191、NA1、M190、M192、104、113、85（Line 5）",
+     "busName": "门诊部①"
+    }
+   ],
+   "chukou": "F出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:40",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "22:48",
+   "mobanchexia": "00:37",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:40",
+   "mobanchexia": "00:45",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:48",
+   "mobanchexia": "01:37",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "春风路、南湖街道办、罗湖美术馆、广深大厦（2号线）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "湖贝路、深南东路北侧、乐园路、罗湖区委、罗湖交警大队、罗湖文化公园、深圳市罗湖区湖贝小学、罗湖商务中心、湖臻大厦、东门市场、深圳市螺岭外国语实验学校（湖贝校区）、湖润大厦（2号线）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深南东路北侧（西）、东门步行街、振华大厦、盛华大厦（2号线）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "深南东路南侧（西）、向西路、向西村、中国农业银行、中建大厦、金城大厦（2号线）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "深南东路北侧（西）、东门中路、东门社区公园（5号线）"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "深南东路南侧（西）、东门南路、中建大厦、金城大厦、广州银行、中国银行（5号线）"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "深南东路南侧（东）、向西路、远东妇产科医院、罗湖轨道交通派出所、农业银行（5号线）"
+  }
+ ],
+ "siteCode": "0535",
+ "siteIntroduce": "5号线湖贝站位于深南东路与东门中路交汇处。该站为地下站。\n2号线湖贝站位于深南东路与东门南路交叉路口的东侧。该站为地下站。",
+ "siteName": "湖贝站",
+ "siteNameen": "Hubei",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:40",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "22:48",
+   "mobanchexia": "00:37",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

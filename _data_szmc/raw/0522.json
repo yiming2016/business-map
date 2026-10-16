@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "620、 E7、 M112、 M152、  M193、 M225、324、 M262、 M282、 M302、 M500、 M577、 M392",
+     "busName": "民治地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "620、 B917A、 M112 、 M152、M156、 M453、 M193、 M225、 324、 M262、 M282、 M302、 M392、 M500、 M577、 E7",
+     "busName": "民治地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324、 334、 339、 621、 B917B、 M156、 M391、 M398、 M453、 M537、 高快巴士42号",
+     "busName": "沙元埔"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:19",
+   "mobanchexia": "00:06",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "05:48",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "620、 E7、 M112、 M152、  M193、 M225、324、 M262、 M282、 M302、 M500、 M577、 M392",
+     "busName": "Minzhi Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "620、 B917A、 M112 、 M152、M156、 M453、 M193、 M225、 324、 M262、 M282、 M302、 M392、 M500、 M577、 E7",
+     "busName": "Minzhi Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324、 334、 339、 621、 B917B、 M156、 M391、 M398、 M453、 M537、 Express Bus No.42",
+     "busName": "Shayuanpu"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:19",
+   "mobanchexia": "01:06",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "05:48",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "民治大道西侧（南）、民德路南侧（西）、民康路西侧、民治地铁站公交站、樟坑一区"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "民治大道东侧、民德路南侧（东）、民康路东侧、民新社区工作站、深圳市儿童医院龙华院区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "民治大道西侧（北）、民德路北侧、民治小学、沙元埔村、东边商务大楼"
+  }
+ ],
+ "siteCode": "0522",
+ "siteIntroduce": "民治站位于民治大道与平南铁路交叉口东侧。该站为地下站。",
+ "siteName": "民治站",
+ "siteNameen": "Minzhi",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:19",
+   "mobanchexia": "00:06",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:53",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

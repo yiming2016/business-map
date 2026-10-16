@@ -1,0 +1,430 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高快巴士31、101、303、M392、M448",
+     "busName": "招商银行大厦①"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324、326、M447、N4、M413、高快巴士60、高快巴士47",
+     "busName": "招商银行大厦②"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "222、高峰专线221、高峰专线18",
+     "busName": "招商银行大厦③"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M447、N4、M448、M213、113、21、101、222、223、303、M102、B955、高峰专线119、高峰专线62",
+     "busName": "招商银行大厦①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M413、M447、M448、324、326、328、E38、M191、M392、高峰专线18、高快巴士31、高快巴士47、高快巴士60",
+     "busName": "深南香蜜立交①"
+    }
+   ],
+   "chukou": "J1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、101、113、215、222、223、M213、N4、高峰专线3、高峰专线49、高峰专线62、高峰专线119、高峰专线221",
+     "busName": "深南香蜜立交②"
+    }
+   ],
+   "chukou": "J1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M191、M392、M413、M447、324、326、328、E38、M448、高峰专线16、高峰专线18、高快巴士31",
+     "busName": "深南香蜜立交①"
+    }
+   ],
+   "chukou": "J2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、101、113、215、222、223、M213、N4、高峰专线3、高峰专线49、高峰专线62、高峰专线119、高峰专线221",
+     "busName": "深南香蜜立交②"
+    }
+   ],
+   "chukou": "J2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E1、高快巴士16、71、高快巴士70、E6、高快巴士14、M500、E37、M102、M555、M559、M169、215",
+     "busName": "天安数码城"
+    }
+   ],
+   "chukou": "F出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E1、高快巴士16、71、高快巴士70、E6、高快巴士14、M500、E37、M102、64、303、M169、215",
+     "busName": "天安数码城"
+    }
+   ],
+   "chukou": "G出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:47",
+   "mobanchexia": "23:21",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:35",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:35",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:33",
+   "shoubanchexia": "05:51",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  },
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:37",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "00:33",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324、326、M447、N4、M413、Express Bus 60、Express Bus 47",
+     "busName": "China Merchants Bank Building ②"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "222、221 peak line、18 peak line",
+     "busName": "China Merchants Bank Building ③"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M447、N4、M448、M213、113、21、101、222、223、303、M102、B955、119 peak line、62 peak line",
+     "busName": "China merchants bank building"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M413、M447、M448、324、326、328、E38、M191、M392、peak line 18、Express Bus 31、Express Bus 47、Express Bus 60",
+     "busName": "Shennan honey interchange (1)"
+    }
+   ],
+   "chukou": "Exit J1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、101、113、215、222、223、M213、N4、peak line 3、peak line 49、peak line 62、peak line 119、peak line 221",
+     "busName": "Shennan honey interchange(2)"
+    }
+   ],
+   "chukou": "Exit J1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M191、M392、M413、M447、324、326、328、E38、M448、peak line16、peak line18、Express Bus31",
+     "busName": "Shennan honey interchange (1)"
+    }
+   ],
+   "chukou": "Exit J2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、101、113、215、222、223、M213、N4、peak line 3、peak line 49、peak line 62、peak line 119、peak line 221",
+     "busName": "Shennan honey interchange (2)"
+    }
+   ],
+   "chukou": "Exit J2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E1、Express Bus 16、71、Express Bus 70、E6、Express Bus 14、M500、E37、M102、M555、M559、M169、215",
+     "busName": "Tianan Cyber Park"
+    }
+   ],
+   "chukou": "Exit F"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E1、Express Bus 16、71、Express Bus 70、E6、Express Bus 14、M500、E37、M102、64、303、M169、215",
+     "busName": "Tianan Cyber Park"
+    }
+   ],
+   "chukou": "Exit G"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:47",
+   "mobanchexia": "00:21",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:35",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:35",
+   "mobanchexia": "00:26",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "05:51",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:37",
+   "mobanchexia": "00:32",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "01:31",
+   "mobanchexia": "00:32",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "香林路南侧（东）、深圳外国语小学、财富广场、万科富春东方大厦、阳光高尔夫大厦、东海花园二期、香蜜湖路西侧（北）、香轩路南侧(东)、深南大道北侧（西）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "农园路东侧、香林路南侧（西）、深圳市高级中学（初中部）、招商银行大厦、工商物价大厦、深圳市市场监督管理局、天主教深圳圣安多尼堂、深圳东海朗廷酒店、深南大道南侧（西）、招商银行大厦①公交站、招商银行大厦②公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "泰然九路东侧、创建大厦、泰然工业区、深圳希玛林顺潮眼科医院、丰盛町商业步行街BCD区、深南大道南侧（东）、招商银行大厦①公交站、招商银行大厦②公交站"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "本元大厦、中国有色大厦、丰盛町商业步行街BCD区"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "泰然二路北侧、泰然公寓区、丰盛町商业步行街BCD区"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "深铁置业大厦、深圳地铁TOD未来生活馆、深铁汇坊（车公庙）"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "香蜜湖路西侧(南)、泰然四路北侧（西）、泰然文化广场、苍松大厦、天安数码城公交站"
+  },
+  {
+   "outt": "G1出入口（临时关闭）",
+   "textt": "创新科技广场、天安高尔夫花园、天安派出所、劲松大厦、深圳天安数码城、天祥大厦、天安数码城公交站"
+  },
+  {
+   "outt": "G2出入口（临时关闭）",
+   "textt": "泰然四路南侧（东）"
+  },
+  {
+   "outt": "H出入口（临时关闭）",
+   "textt": "香蜜湖路东侧（南）"
+  },
+  {
+   "outt": "J1出入口",
+   "textt": "深南大道南侧（东）、香蜜湖路东侧（北）、中联大厦、安徽大厦创展中心、绿景·NEO、华商银行、深南香蜜立交①公交站、深南香蜜立交②公交站"
+  },
+  {
+   "outt": "J2出入口",
+   "textt": "深南大道北侧(东）、香蜜湖路东侧（北）、香蜜湖立交、深南香蜜立交①公交站、深南香蜜立交②公交站"
+  }
+ ],
+ "siteCode": "0712",
+ "siteIntroduce": "车公庙站位于深南大道与香蜜湖立交桥交叉口西侧，为1、7、9、11号线换乘站。该站为地下站。",
+ "siteName": "车公庙站",
+ "siteNameen": "Chegongmiao",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:47",
+   "mobanchexia": "23:21",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:35",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:30",
+   "shoubanchexia": "05:42",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  },
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:36",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "早2分15秒、晚3分07秒。",
+   "gaofenjiangeen": "早2m15s、晚3m07s。",
+   "mobanche": "00:33",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ]
+}

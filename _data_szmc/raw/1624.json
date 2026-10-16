@@ -1,0 +1,131 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、939、964、978、E34、M277、M279、M361、M480",
+     "busName": "六和地铁站"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、939、964、978、E34、M277、M279、M361、M480",
+     "busName": "六和地铁站"
+    }
+   ],
+   "chukou": "A3出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、939、941、963、M279、M326、M480、M564",
+     "busName": "六和城"
+    }
+   ],
+   "chukou": "B1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:16",
+   "mobanchexia": "23:49",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、939、964、978、E34、M277、M279、M361、M480",
+     "busName": "Exit A2｜Liuhe Metro Station"
+    },
+    {
+     "busInfo": "818、939、964、978、E34、M277、M279、M361、M480",
+     "busName": "Exit A3｜Liuhe Metro Station"
+    },
+    {
+     "busInfo": "818、939、941、963、M279、M326、M480、M564",
+     "busName": "Exit B1 ｜Liuhecheng"
+    }
+   ],
+   "chukou": ""
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:16",
+   "mobanchexia": "00:49",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "坪山宝山第二工业区"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": " 深汕路北侧（西）、志远培训学校、六和地铁站公交站、深圳市宝山技工学校"
+  },
+  {
+   "outt": "A3出入口",
+   "textt": "深汕路南侧（西）、 福昌小区、六和地铁站公交站"
+  },
+  {
+   "outt": "B1出入口",
+   "textt": "深汕路南侧（东）、坪山广场、坪山六联小学、六和城公交站"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "深汕路北侧（东）、飞西村、深圳广播电视大学坪山学院、恒大成、东北师范大学深圳坪山实验学校"
+  }
+ ],
+ "siteCode": "1624",
+ "siteIntroduce": "六和站位于深汕公路与东纵路交叉口东北侧地块内、车站呈南北向布置，该站为地下站。",
+ "siteName": "六和站",
+ "siteNameen": "Liuhe",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:16",
+   "mobanchexia": "23:49",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

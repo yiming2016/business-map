@@ -1,0 +1,173 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M336",
+     "busName": "冰雪世界南公交首末站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "深中快线T519线",
+     "busName": "深圳前海冰雪世界"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M336、J12、PJ59、PJ60、国际会展接驳专线1号",
+     "busName": "前海冰雪世界南"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M336、J12、国际会展接驳专线1号",
+     "busName": "沙福毓秀路口"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "冰雪世界专线1号、冰雪世界专线2号、冰雪世界专线3号、冰雪世界专线4号、冰雪世界专线5号、冰雪世界专线6号、冰雪世界专线7号、冰雪世界专线8号、国际会展接驳专线1号",
+     "busName": "前海冰雪世界"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "22:32",
+   "mobanchexia": "--",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:00",
+   "shoubanchexia": "--",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M336",
+     "busName": "Qianhai Snow World  Bus Terminal"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Shenzhong Express Line T519",
+     "busName": "Shenzhen Qianhai Snow World"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M336、J12、PJ59、PJ60、International exhibition connection line 1",
+     "busName": "Qianhai Snow World South"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M336、J12、International exhibition connection line 1",
+     "busName": "Shafu Yuxiu Rd Crossing Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Snow World Special Line 1、Snow World Special Line 2、 Snow World Special Line 3、Snow World Special Line 4、   Snow World Special Line 5、 Snow World Special Line 6、 Snow World Special Line 7、 Snow World Special Line 8、International exhibition connection line 1",
+     "busName": "Qianhai Snow World"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "22:32",
+   "mobanchexia": "--",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:00",
+   "shoubanchexia": "--",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "滨江大道东侧（南）、和汇路南侧（西）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "（临时关闭）和汇路南侧（东）、景从路西侧（南）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "和汇路北侧（东）、景从路西侧（北）、前海冰雪世界（东）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "（临时关闭）滨江大道东侧（北）、和汇路北侧(西）、前海冰雪世界（西）"
+  }
+ ],
+ "siteCode": "2005",
+ "siteIntroduce": "会展城站位于和汇路与景从路交叉口西侧。该站为地下站。",
+ "siteName": "会展城站",
+ "siteNameen": "Convention &Exhibition City",
+ "workDay": [
+  {
+   "gaofenjiange": "10分40秒",
+   "gaofenjiangeen": "10m40s",
+   "mobanche": "22:32",
+   "mobanchexia": "--",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:00",
+   "shoubanchexia": "--",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ]
+}

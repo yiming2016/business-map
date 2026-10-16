@@ -1,0 +1,129 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "m105路、236路",
+     "busName": "莲花山西①"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "38、60、71、111、M390",
+     "busName": "莲花山西②"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73、236、324、M105、M499",
+     "busName": "华强职校"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:57",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "m105、236",
+     "busName": "Lianhuashan West ①"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "38、60、71、111、M390",
+     "busName": "Lianhuashan West②"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73、236、324、M105、M499",
+     "busName": "Huaqiang Vocational Technical school"
+    }
+   ],
+   "chukou": "ExitB"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:57",
+   "mobanchexia": "00:28",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "新洲路东侧（北）、福中一路北侧、红荔路、儿童医院、莲花山公园、香蜜三村、天健名苑 、华茂欣园、鲁班大厦"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "新洲路、福中一路、华强职业技术学校、黄埔雅苑、福田科技中学附属幼儿园、北京大学附属中学深圳学校（集团）黄埔学校"
+  }
+ ],
+ "siteCode": "0220",
+ "siteIntroduce": "莲花西站位于新洲路与红荔路交叉路口。该站为地下站。",
+ "siteName": "莲花西站",
+ "siteNameen": "Lianhua West",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:57",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:15",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

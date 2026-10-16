@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、26、223、369、M48、B665",
+     "busName": "侨城东地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、26、223、369、M487",
+     "busName": "侨城东地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、M487、M222、M561、M312",
+     "busName": "金海燕花园"
+    }
+   ],
+   "chukou": "C1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:42",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、26、223、369、M487、B665",
+     "busName": "Qiaocheng East Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、26、223、369、M487",
+     "busName": "Qiaocheng East Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、M487、M222、M561、M312",
+     "busName": "Jinhaiyan Garden"
+    }
+   ],
+   "chukou": "Exit C1"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:42",
+   "mobanchexia": "00:26",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深南大道北侧、深圳市公安局警察训练学校、深圳国际园林花卉博览园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南大道南侧（东）"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "侨城东路（东）、深圳地铁竹子林车辆段、深圳地铁侨城东车辆段、红树林自然保护区、香港大学深圳医院"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "深南大道南侧（西）、侨城东路（东南）"
+  }
+ ],
+ "siteCode": "0113",
+ "siteIntroduce": "侨城东站位于侨城东路和深南大道交汇处。该站为地下站。",
+ "siteName": "侨城东站",
+ "siteNameen": "Qiaocheng East",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:42",
+   "mobanchexia": "23:26",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

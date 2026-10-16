@@ -1,0 +1,159 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线46路、60路、201路、324路、334路、M312路",
+     "busName": "梅林三村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60路、324路、M312路",
+     "busName": "梅林三村东"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201路、334路、M312路、M581路、高峰专线46路",
+     "busName": "梅林阁"
+    }
+   ],
+   "chukou": "C2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线46路、60路、201路、324路、334路、M312路",
+     "busName": "梅林三村"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:25",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Line No.46、 60、 201、 324、 334、 M312",
+     "busName": "Meilin Sancun"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、 324、M312",
+     "busName": "Meilin Sancun East"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201、334、M312、M581、Peak Line No.46",
+     "busName": "Meilinge"
+    }
+   ],
+   "chukou": "Exit C2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Line No.46、60、201、324、334、M312",
+     "busName": "Meilin Sancun"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:25",
+   "mobanchexia": "00:44",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "梅林路南侧（西）、上梅林文体公园、深圳市福田区外国语学校（梅红）、荔园阁二期、梅林荔园阁"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "梅村路西侧、梅林三村"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "梅林路南侧（东）、梅村路东侧、梅林阁公交站、梅林四村、梅林阁"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "梅林路北侧（东）、公安街、深圳市公安局轨道分局、中康生活区"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "梅林路北侧（西）、梅林三村公交站"
+  }
+ ],
+ "siteCode": "0920",
+ "siteIntroduce": "梅村站位于梅林路与梅村路交叉处西侧。该站为地下站。",
+ "siteName": "梅村站",
+ "siteNameen": "Meicun",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:24",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

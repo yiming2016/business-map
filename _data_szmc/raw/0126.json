@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320、M131、M330、M350、M377、M382、M470、M488、M507、M523",
+     "busName": "坪洲地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320、M131、M330、M350、M377、M382、M470、M488、M507、M523",
+     "busName": "坪洲地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B633、M483、M560",
+     "busName": "坪洲地铁站①"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:13",
+   "mobanchexia": "23:55",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:28",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320、M131、M330、M350、M377、M382、M470、M488、M507、M523",
+     "busName": "Pingzhou Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320、M131、M330、M350、M377、M382、M470、M488、M507、M523",
+     "busName": "Pingzhou Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B633、M483、M560",
+     "busName": "Pingzhou Station ①"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:13",
+   "mobanchexia": "00:55",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:28",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "新湖路北侧（东）、码头路（北）、河东路、径贝村、径贝小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "新湖路北侧（西）、麻布新村、劳动路口、麻布居委会、永丰社区"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "新湖路南侧（西）、海城路、海城新村、宝源新村、劳动二队"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "新湖路南侧（东）、西乡派出所、坪洲小学、海滨新村、渔业新村"
+  }
+ ],
+ "siteCode": "0126",
+ "siteIntroduce": "坪洲站位于深圳市宝安区新湖路与海城路交汇处。该站为地下站。",
+ "siteName": "坪洲站",
+ "siteNameen": "Pingzhou",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:13",
+   "mobanchexia": "23:55",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

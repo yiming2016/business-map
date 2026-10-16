@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M198、M300、M385、M568、M572、B686、M156、M584、高峰专线221路、高快巴士32路、高峰专线96路",
+     "busName": "富豪花园"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "312、321、982、E22、E27、E7、M233、M300、M301、M385、M415、M447、M524、M572、B688、M584、高峰专线47路、高快巴士32路",
+     "busName": "坂田地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M288、321、M233、M505、M547、M568、312、M198、M309、M453、高峰专线33路",
+     "busName": "扬马市场"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "982、E7、M301、M415、M447、M156、高峰专线47路",
+     "busName": "坂田医院"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:14",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M198、  M300、M385、 M568、M572、 B686、M156、M584、Peak Special Line 221、Express bus 32、Peak Special Line 96",
+     "busName": "Regal Garden"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "312、 321、 982、 E22、 E27、 E7、 M233、 M300、 M301、 M385、M415、 M447、 M524、 M572、B688、M584、Peak Special Line 47、Express bus 32",
+     "busName": "Bantian Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M288、321、M233、M505、 M547、 M568、 312、M198、M309、M453、Peak Special Line 33",
+     "busName": "Yangma Market"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "982、 E7、 M301、 M415、 M447、M156、Peak Special Line 47",
+     "busName": "Bantian Hospital"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:14",
+   "mobanchexia": "01:11",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "布龙路南侧、坂雪岗大道西侧（南）、富豪花园、十二橡树庄园、和磡村、旭景佳园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "河背村、布龙路南侧、坂雪岗大道南侧、新河街、侨联西村、马安堂、马安堂社康中心、禾塘光新村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "杨美村、金州嘉丽园、扬美实验学校、布龙路北侧、坂雪岗大道东侧（北）、扬马社区、河背新村、扬马市场、扬美社区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "坂田医院、坂田小学、坂雪岗大道北侧、坂田社区、长发新村、坂田万科广场"
+  }
+ ],
+ "siteCode": "0524",
+ "siteIntroduce": "坂田站位于布龙路和坂雪岗大道交叉路口。该站为地下站。",
+ "siteName": "坂田站",
+ "siteNameen": "Bantian",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:14",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:55",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

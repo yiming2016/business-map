@@ -1,0 +1,158 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "216路",
+     "busName": "福田农批市场总站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11路、21路、M169",
+     "busName": "紫薇阁总站"
+    },
+    {
+     "busInfo": "58路、67路、201路、334路、M203路、M222路、M240路、M358路、M358路区间4、M364路、M398路、M526路、E8、高峰专线21号、高峰专线22路、高峰专线46路、高快巴士28路、高快巴士32号线、M148路、高快巴士18号、P364路、P320路、机场快线布吉线T308、D66线",
+     "busName": "广中医深圳医院"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "216路、福田农批市场",
+     "busName": "福田农批市场总站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58路、67路、201路、334路、M203路、M222路、M240路、M358路、M364路、M398路、M526路、E8、高峰专线21号、高峰专线22号、高峰专线46号、高快巴士28号、高快巴士32号、高快巴士18号、D66路、M358路区间4、M148路",
+     "busName": "广中医深圳医院"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:29",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "216",
+     "busName": "Futian Agricultural Wholesale Market Bus Terminal"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、21、M169",
+     "busName": "Ziweige Bus Terminal"
+    },
+    {
+     "busInfo": "58、67、201、334、M203、M222、M240、M358、M364、M398、M526、E8、Peak Special Line 21、Peak Special Line 22、Peak Special Line 46、Express Bus28、Express Bus32、M148、Express Bus18、P364、P320、Airport Express-Buji Line T308、D66",
+     "busName": "Shenzhen Hospital of GuangZhou University of Chinese Medicine"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、67、201、334、M203、M222、M240、M358、M364、M398、M526、E8、Peak Special Line 21、Peak Special Line 22、Peak Special Line 46、Express Bus28、Express Bus32、Express Bus18、D66、M148",
+     "busName": "Shenzhen Hospital of GuangZhou University of Chinese Medicine"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:29",
+   "mobanchexia": "00:40",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "北环大道北侧（东）、梅林路东侧、美景瑜伽˙普拉提（绿景虹湾店）"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "北环大道南侧、景田路、广州中医药大学深圳医院深圳、中审大厦、开元大厦、深圳石油大厦、紫薇阁"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "梅林路西侧（北）、下梅林一街、福田农批市场、尚书苑"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "北环大道北侧（西）、梅林路西侧（南）、碧云天、梅林苑"
+  }
+ ],
+ "siteCode": "0918",
+ "siteIntroduce": "梅景站位于北环大道至下梅林一街之间的梅林路。该站为地下站。",
+ "siteName": "梅景站",
+ "siteNameen": "Meijing",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:28",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

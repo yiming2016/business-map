@@ -1,0 +1,97 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M409",
+     "busName": "前海湾花园"
+    }
+   ],
+   "chukou": "A出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:06",
+   "mobanchexia": "23:19",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M409",
+     "busName": "Qianhaiwan Garden"
+    }
+   ],
+   "chukou": "Exit A"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "01:06",
+   "mobanchexia": "00:19",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "八号路、振海路北侧(东)、妈湾一路北侧（南）、妈湾社区服务中心、前海湾花园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "振海路南侧、兴海大道东侧（北）、 博世路西侧（南）、 怡海大道南侧（东）、蛇口海关、海城街"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "兴海大道东侧（南）、招商领玺花园"
+  }
+ ],
+ "siteCode": "0504",
+ "siteIntroduce": "妈湾站位于规划五号路、横穿规划梦海大道、延至规划四号路下方。该站为地下站。",
+ "siteName": "妈湾站",
+ "siteNameen": "Mawan",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒/4-5分16秒",
+   "gaofenjiangeen": "2-2m38s/4-5m16s",
+   "mobanche": "00:06",
+   "mobanchexia": "23:19",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

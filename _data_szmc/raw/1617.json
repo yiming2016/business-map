@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M277、M308、M556",
+     "busName": "龙园路口"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、M556",
+     "busName": "龙园公园"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、810、M276、M304、M386",
+     "busName": "龙园地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:32",
+   "mobanchexia": "23:33",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M277、M308、M556",
+     "busName": "Longyuan Road Crossing Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、M556",
+     "busName": "Longyuan Park Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、810、M276、M304、M386",
+     "busName": "Longyuan Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:32",
+   "mobanchexia": "00:33",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B出入口",
+   "textt": "龙平东路南侧（东）、龙园路口公交站、锦盛苑、新龙商务大厦、君盛百货"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙平东路北侧（东）、龙岗派出所、龙园公园公交站、平岗中学、福宁小区、上圩小区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙平东路北侧（西）、龙园公园、龙园地铁站公交站、九州家园"
+  }
+ ],
+ "siteCode": "1617",
+ "siteIntroduce": "龙园站位于龙平东路与龙园路交叉口、沿龙平东路东西向跨路口布置，该站为地下站。",
+ "siteName": "龙园站",
+ "siteNameen": "Longyuan",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:32",
+   "mobanchexia": "23:33",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

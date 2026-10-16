@@ -1,0 +1,2548 @@
+{
+ "_说明": "站名 → 官网该站下所有编号（`codes`）。换乘站每条线路都有一个编号，★ 不同编号返回的**完整度不一样**，下游 import 工具会按 score 挑最全那份；编号本身可重复，原始返回全部按编号留档在 raw/ 下",
+ "_抓取时间": "2026-09-24 09:09:17",
+ "_数据源": {
+  "清单": "https://www.szmc.net/styles/index/zdWeb/js/xlurlList.js",
+  "详情": "https://www.szmc.net/zdxx (POST StieCode=<编号>)"
+ },
+ "已命中": {
+  "上塘": {
+   "codes": [
+    "0412"
+   ],
+   "nameen": "Shangtang",
+   "line": "04"
+  },
+  "上屋": {
+   "codes": [
+    "0614",
+    "1315"
+   ],
+   "nameen": "Shangwu",
+   "line": "06"
+  },
+  "上川": {
+   "codes": [
+    "1215"
+   ],
+   "nameen": "Shangchuan",
+   "line": "12"
+  },
+  "上李朗": {
+   "codes": [
+    "1019"
+   ],
+   "nameen": "Shanglilang",
+   "line": "10"
+  },
+  "上村": {
+   "codes": [
+    "1324"
+   ],
+   "nameen": "Shangcun",
+   "line": "13"
+  },
+  "上梅林": {
+   "codes": [
+    "0407",
+    "0921"
+   ],
+   "nameen": "Shangmeilin",
+   "line": "04"
+  },
+  "上水径": {
+   "codes": [
+    "0526"
+   ],
+   "nameen": "Shangshuijing",
+   "line": "05"
+  },
+  "上沙": {
+   "codes": [
+    "0713"
+   ],
+   "nameen": "Shangsha",
+   "line": "07"
+  },
+  "上芬": {
+   "codes": [
+    "0610"
+   ],
+   "nameen": "Shangfen",
+   "line": "06"
+  },
+  "下村": {
+   "codes": [
+    "1325"
+   ],
+   "nameen": "Xiacun",
+   "line": "13"
+  },
+  "下梅林": {
+   "codes": [
+    "0919"
+   ],
+   "nameen": "Xiameilin",
+   "line": "09"
+  },
+  "下水径": {
+   "codes": [
+    "0527"
+   ],
+   "nameen": "Xiashuijing",
+   "line": "05"
+  },
+  "下沙": {
+   "codes": [
+    "0914"
+   ],
+   "nameen": "Xiasha",
+   "line": "09"
+  },
+  "世界之窗": {
+   "codes": [
+    "0115",
+    "0212"
+   ],
+   "nameen": "Window of the World",
+   "line": "01"
+  },
+  "东纵纪念馆": {
+   "codes": [
+    "1627"
+   ],
+   "nameen": "Dongjiang Column Memorial",
+   "line": "16"
+  },
+  "东角头": {
+   "codes": [
+    "0205"
+   ],
+   "nameen": "Dongjiaotou",
+   "line": "02"
+  },
+  "中大": {
+   "codes": [
+    "6606"
+   ],
+   "nameen": "Sun Yat-sen University Station",
+   "line": "6支"
+  },
+  "中山公园": {
+   "codes": [
+    "1211"
+   ],
+   "nameen": "Zhongshan Park",
+   "line": "12"
+  },
+  "临海": {
+   "codes": [
+    "0509"
+   ],
+   "nameen": "Linhai",
+   "line": "05"
+  },
+  "丹竹头": {
+   "codes": [
+    "0320"
+   ],
+   "nameen": "Danzhutou",
+   "line": "03"
+  },
+  "五和": {
+   "codes": [
+    "0523",
+    "1011"
+   ],
+   "nameen": "Wuhe",
+   "line": "05"
+  },
+  "人才公园": {
+   "codes": [
+    "1302"
+   ],
+   "nameen": "Rencaigongyuan",
+   "line": "13"
+  },
+  "人民南": {
+   "codes": [
+    "0930"
+   ],
+   "nameen": "Renmin South",
+   "line": "09"
+  },
+  "仙湖路": {
+   "codes": [
+    "0231"
+   ],
+   "nameen": "Xianhu Rd",
+   "line": "02"
+  },
+  "会展中心": {
+   "codes": [
+    "0108",
+    "0403"
+   ],
+   "nameen": "Convention & Exhibition Center",
+   "line": "01"
+  },
+  "会展城": {
+   "codes": [
+    "2005"
+   ],
+   "nameen": "Convention & Exhibition City",
+   "line": "20"
+  },
+  "低碳城": {
+   "codes": [
+    "0335"
+   ],
+   "nameen": "Low-carbon City",
+   "line": "03"
+  },
+  "体育中心": {
+   "codes": [
+    "0603"
+   ],
+   "nameen": "Sports Center",
+   "line": "06"
+  },
+  "侨城东": {
+   "codes": [
+    "0113"
+   ],
+   "nameen": "Qiaocheng East",
+   "line": "01"
+  },
+  "侨城北": {
+   "codes": [
+    "0213"
+   ],
+   "nameen": "Qiaocheng North",
+   "line": "02"
+  },
+  "侨香": {
+   "codes": [
+    "0216"
+   ],
+   "nameen": "Qiaoxiang",
+   "line": "02"
+  },
+  "元芬": {
+   "codes": [
+    "0611"
+   ],
+   "nameen": "Yuanfen",
+   "line": "06"
+  },
+  "光明": {
+   "codes": [
+    "0618",
+    "6604"
+   ],
+   "nameen": "Guangming",
+   "line": "06"
+  },
+  "光明城": {
+   "codes": [
+    "6601",
+    "1317"
+   ],
+   "nameen": "Guangmingcheng",
+   "line": "6支"
+  },
+  "光明大街": {
+   "codes": [
+    "0617"
+   ],
+   "nameen": "Guangming St",
+   "line": "06"
+  },
+  "光雅园": {
+   "codes": [
+    "1010"
+   ],
+   "nameen": "Guangyayuan",
+   "line": "10"
+  },
+  "八卦岭": {
+   "codes": [
+    "0604",
+    "0724"
+   ],
+   "nameen": "Bagualing",
+   "line": "06"
+  },
+  "公明广场": {
+   "codes": [
+    "0622",
+    "1323"
+   ],
+   "nameen": "Gongming Square",
+   "line": "06"
+  },
+  "六和": {
+   "codes": [
+    "1624"
+   ],
+   "nameen": "Liuhe",
+   "line": "16"
+  },
+  "六约": {
+   "codes": [
+    "0321"
+   ],
+   "nameen": "Liuyue",
+   "line": "03"
+  },
+  "六约北": {
+   "codes": [
+    "1406"
+   ],
+   "nameen": "Liuyue North",
+   "line": "14"
+  },
+  "兴东": {
+   "codes": [
+    "0515"
+   ],
+   "nameen": "Xingdong",
+   "line": "05"
+  },
+  "兴围": {
+   "codes": [
+    "1223"
+   ],
+   "nameen": "Xingwei",
+   "line": "12"
+  },
+  "农林": {
+   "codes": [
+    "0711"
+   ],
+   "nameen": "Nonglin",
+   "line": "07"
+  },
+  "冬瓜岭": {
+   "codes": [
+    "1006"
+   ],
+   "nameen": "Donggualing",
+   "line": "10"
+  },
+  "凉帽山": {
+   "codes": [
+    "1018"
+   ],
+   "nameen": "Liangmao Hill",
+   "line": "10"
+  },
+  "凤凰城": {
+   "codes": [
+    "0616",
+    "1319"
+   ],
+   "nameen": "Fenghuang Town",
+   "line": "06"
+  },
+  "前海湾": {
+   "codes": [
+    "0122",
+    "0508",
+    "1110"
+   ],
+   "nameen": "Qianhaiwan",
+   "line": "01"
+  },
+  "前湾": {
+   "codes": [
+    "0506",
+    "0901"
+   ],
+   "nameen": "Qianwan",
+   "line": "05"
+  },
+  "前湾公园": {
+   "codes": [
+    "0505"
+   ],
+   "nameen": "Qianwan Park",
+   "line": "05"
+  },
+  "北大": {
+   "codes": [
+    "0702"
+   ],
+   "nameen": "Peking University",
+   "line": "07"
+  },
+  "华为": {
+   "codes": [
+    "1014"
+   ],
+   "nameen": "Huawei",
+   "line": "10"
+  },
+  "华侨城": {
+   "codes": [
+    "0114"
+   ],
+   "nameen": "OCT",
+   "line": "01"
+  },
+  "华南城": {
+   "codes": [
+    "1021"
+   ],
+   "nameen": "Huanancheng",
+   "line": "10"
+  },
+  "华强北": {
+   "codes": [
+    "0224",
+    "0721"
+   ],
+   "nameen": "Huaqiang North",
+   "line": "02"
+  },
+  "华强南": {
+   "codes": [
+    "0720",
+    "1102"
+   ],
+   "nameen": "Huaqiang South",
+   "line": "07"
+  },
+  "华强路": {
+   "codes": [
+    "0106"
+   ],
+   "nameen": "Huaqiang Rd",
+   "line": "01"
+  },
+  "华新": {
+   "codes": [
+    "0308",
+    "0722"
+   ],
+   "nameen": "Huaxin",
+   "line": "03"
+  },
+  "南光": {
+   "codes": [
+    "1207"
+   ],
+   "nameen": "Nanguang",
+   "line": "12"
+  },
+  "南坑": {
+   "codes": [
+    "1009"
+   ],
+   "nameen": "Nankeng",
+   "line": "10"
+  },
+  "南头古城": {
+   "codes": [
+    "1210"
+   ],
+   "nameen": "Nantou Ancient City",
+   "line": "12"
+  },
+  "南山": {
+   "codes": [
+    "1109",
+    "1208"
+   ],
+   "nameen": "Nanshan",
+   "line": "11"
+  },
+  "南山书城": {
+   "codes": [
+    "0907"
+   ],
+   "nameen": "Nanshan Book Mall",
+   "line": "09"
+  },
+  "南油": {
+   "codes": [
+    "0906",
+    "1206"
+   ],
+   "nameen": "Nanyou",
+   "line": "09"
+  },
+  "南油西": {
+   "codes": [
+    "0905"
+   ],
+   "nameen": "Nanyou West",
+   "line": "09"
+  },
+  "南约": {
+   "codes": [
+    "1411"
+   ],
+   "nameen": "Nanyue",
+   "line": "14"
+  },
+  "南联": {
+   "codes": [
+    "0330"
+   ],
+   "nameen": "Nanlian",
+   "line": "03"
+  },
+  "双拥街": {
+   "codes": [
+    "1024"
+   ],
+   "nameen": "Shuangyong St",
+   "line": "10"
+  },
+  "双龙": {
+   "codes": [
+    "0331",
+    "1618"
+   ],
+   "nameen": "Shuanglong",
+   "line": "03"
+  },
+  "合水口": {
+   "codes": [
+    "0623"
+   ],
+   "nameen": "Heshuikou",
+   "line": "06"
+  },
+  "吉溪": {
+   "codes": [
+    "1607"
+   ],
+   "nameen": "Jixi",
+   "line": "16"
+  },
+  "吉祥": {
+   "codes": [
+    "0328"
+   ],
+   "nameen": "Jixiang",
+   "line": "03"
+  },
+  "同乐南": {
+   "codes": [
+    "1212"
+   ],
+   "nameen": "Tongle South",
+   "line": "12"
+  },
+  "后亭": {
+   "codes": [
+    "1120"
+   ],
+   "nameen": "Houting",
+   "line": "11"
+  },
+  "后海": {
+   "codes": [
+    "0209",
+    "1108",
+    "1303"
+   ],
+   "nameen": "Houhai",
+   "line": "02"
+  },
+  "后瑞": {
+   "codes": [
+    "0129"
+   ],
+   "nameen": "Hourui",
+   "line": "01"
+  },
+  "向西村": {
+   "codes": [
+    "0931"
+   ],
+   "nameen": "Xiangxicun",
+   "line": "09"
+  },
+  "四海": {
+   "codes": [
+    "1205"
+   ],
+   "nameen": "Sihai",
+   "line": "12"
+  },
+  "四联": {
+   "codes": [
+    "1407"
+   ],
+   "nameen": "四联",
+   "line": "14"
+  },
+  "回龙埔": {
+   "codes": [
+    "1614"
+   ],
+   "nameen": "Huilongpu",
+   "line": "16"
+  },
+  "园山": {
+   "codes": [
+    "1605"
+   ],
+   "nameen": "Yuanshan",
+   "line": "16"
+  },
+  "园山西坑": {
+   "codes": [
+    "1601"
+   ],
+   "nameen": "Yuanshan Xikeng",
+   "line": "16"
+  },
+  "园岭": {
+   "codes": [
+    "0926"
+   ],
+   "nameen": "Yuanling",
+   "line": "09"
+  },
+  "固戍": {
+   "codes": [
+    "0128"
+   ],
+   "nameen": "Gushu",
+   "line": "01"
+  },
+  "国展": {
+   "codes": [
+    "1230",
+    "2003"
+   ],
+   "nameen": "Shenzhen World",
+   "line": "12"
+  },
+  "国展北": {
+   "codes": [
+    "1231",
+    "2004"
+   ],
+   "nameen": "Shenzhen World North",
+   "line": "12"
+  },
+  "国展南": {
+   "codes": [
+    "2002"
+   ],
+   "nameen": "Shenzhen World South",
+   "line": "20"
+  },
+  "国贸": {
+   "codes": [
+    "0102"
+   ],
+   "nameen": "Guomao",
+   "line": "01"
+  },
+  "圳美": {
+   "codes": [
+    "6605"
+   ],
+   "nameen": "Zhenmei",
+   "line": "6支"
+  },
+  "坂田": {
+   "codes": [
+    "0524"
+   ],
+   "nameen": "Bantian",
+   "line": "05"
+  },
+  "坂田北": {
+   "codes": [
+    "1012"
+   ],
+   "nameen": "Bantian North",
+   "line": "10"
+  },
+  "坑梓": {
+   "codes": [
+    "1417"
+   ],
+   "nameen": "Kengzi",
+   "line": "14"
+  },
+  "坪地六联": {
+   "codes": [
+    "0338"
+   ],
+   "nameen": "Pingdi Liulian",
+   "line": "03"
+  },
+  "坪山": {
+   "codes": [
+    "1622"
+   ],
+   "nameen": "Pingshan",
+   "line": "16"
+  },
+  "坪山中心": {
+   "codes": [
+    "1416"
+   ],
+   "nameen": "Pingshan Center",
+   "line": "14"
+  },
+  "坪山围": {
+   "codes": [
+    "1414",
+    "1625"
+   ],
+   "nameen": "Pingshanwei",
+   "line": "14"
+  },
+  "坪山广场": {
+   "codes": [
+    "1415"
+   ],
+   "nameen": "Pingshan Square",
+   "line": "14"
+  },
+  "坪洲": {
+   "codes": [
+    "0126"
+   ],
+   "nameen": "Pingzhou",
+   "line": "01"
+  },
+  "坪环": {
+   "codes": [
+    "1626"
+   ],
+   "nameen": "Pinghuan",
+   "line": "16"
+  },
+  "坪西": {
+   "codes": [
+    "0334"
+   ],
+   "nameen": "Pingxi",
+   "line": "03"
+  },
+  "坳背": {
+   "codes": [
+    "1408"
+   ],
+   "nameen": "Aobei",
+   "line": "14"
+  },
+  "塘坑": {
+   "codes": [
+    "0322"
+   ],
+   "nameen": "Tangkeng",
+   "line": "03"
+  },
+  "塘尾": {
+   "codes": [
+    "1117"
+   ],
+   "nameen": "Tangwei",
+   "line": "11"
+  },
+  "塘朗": {
+   "codes": [
+    "0519"
+   ],
+   "nameen": "Tanglang",
+   "line": "05"
+  },
+  "大剧院": {
+   "codes": [
+    "0104",
+    "0226",
+    "0537"
+   ],
+   "nameen": "Grand Theater",
+   "line": "01"
+  },
+  "大学城": {
+   "codes": [
+    "0518"
+   ],
+   "nameen": "University Town",
+   "line": "05"
+  },
+  "大安": {
+   "codes": [
+    "1606"
+   ],
+   "nameen": "Da'an",
+   "line": "16"
+  },
+  "大康": {
+   "codes": [
+    "1604"
+   ],
+   "nameen": "DaKang",
+   "line": "16"
+  },
+  "大新": {
+   "codes": [
+    "0120"
+   ],
+   "nameen": "Daxin",
+   "line": "01"
+  },
+  "大梅沙": {
+   "codes": [
+    "0810"
+   ],
+   "nameen": "Dameisha",
+   "line": "08"
+  },
+  "大芬": {
+   "codes": [
+    "0319"
+   ],
+   "nameen": "Dafen",
+   "line": "03"
+  },
+  "大运": {
+   "codes": [
+    "0326",
+    "1409",
+    "1609"
+   ],
+   "nameen": "Universiade",
+   "line": "03"
+  },
+  "大运中心": {
+   "codes": [
+    "1610"
+   ],
+   "nameen": "Universiade Center",
+   "line": "16"
+  },
+  "太子湾": {
+   "codes": [
+    "1202"
+   ],
+   "nameen": "Taiziwan",
+   "line": "12"
+  },
+  "太安": {
+   "codes": [
+    "0532",
+    "0729"
+   ],
+   "nameen": "Tai'an",
+   "line": "05"
+  },
+  "妈湾": {
+   "codes": [
+    "0504"
+   ],
+   "nameen": "Mawan",
+   "line": "05"
+  },
+  "孖岭": {
+   "codes": [
+    "0922",
+    "1007"
+   ],
+   "nameen": "Maling",
+   "line": "09"
+  },
+  "安托山": {
+   "codes": [
+    "0215",
+    "0710"
+   ],
+   "nameen": "Antuo Hill",
+   "line": "02"
+  },
+  "安良": {
+   "codes": [
+    "1602"
+   ],
+   "nameen": "Anliang",
+   "line": "16"
+  },
+  "官田": {
+   "codes": [
+    "0613"
+   ],
+   "nameen": "Guantian",
+   "line": "06"
+  },
+  "宝体": {
+   "codes": [
+    "0125"
+   ],
+   "nameen": "Bao'an Stadium",
+   "line": "01"
+  },
+  "宝华": {
+   "codes": [
+    "0510"
+   ],
+   "nameen": "Baohua",
+   "line": "05"
+  },
+  "宝安": {
+   "codes": [
+    "1111"
+   ],
+   "nameen": "Bao'an",
+   "line": "11"
+  },
+  "宝安中心": {
+   "codes": [
+    "0124",
+    "0511"
+   ],
+   "nameen": "Bao'an Center",
+   "line": "01"
+  },
+  "宝安客运站": {
+   "codes": [
+    "1217"
+   ],
+   "nameen": "Bao'an Passenger Transport Terminal",
+   "line": "12"
+  },
+  "宝田一路": {
+   "codes": [
+    "1218"
+   ],
+   "nameen": "Baotian 1st Road",
+   "line": "12"
+  },
+  "宝龙": {
+   "codes": [
+    "1412"
+   ],
+   "nameen": "Baolong",
+   "line": "14"
+  },
+  "宝龙同乐": {
+   "codes": [
+    "1621"
+   ],
+   "nameen": "Baolongtongle",
+   "line": "16"
+  },
+  "富坪": {
+   "codes": [
+    "0337"
+   ],
+   "nameen": "Fuping",
+   "line": "03"
+  },
+  "将围": {
+   "codes": [
+    "1321"
+   ],
+   "nameen": "Jiangwei",
+   "line": "13"
+  },
+  "小梅沙": {
+   "codes": [
+    "0811"
+   ],
+   "nameen": "Xiaomeisha",
+   "line": "08"
+  },
+  "少年宫": {
+   "codes": [
+    "0306",
+    "0405"
+   ],
+   "nameen": "Children's Palace",
+   "line": "03"
+  },
+  "尚景": {
+   "codes": [
+    "1615"
+   ],
+   "nameen": "Shangjing",
+   "line": "16"
+  },
+  "岗厦": {
+   "codes": [
+    "0107",
+    "1003"
+   ],
+   "nameen": "Gangxia",
+   "line": "01"
+  },
+  "岗厦北": {
+   "codes": [
+    "0223",
+    "1004",
+    "1104",
+    "1401"
+   ],
+   "nameen": "Gangxia North",
+   "line": "02"
+  },
+  "岗头": {
+   "codes": [
+    "1015"
+   ],
+   "nameen": "Gangtou",
+   "line": "10"
+  },
+  "左炮台东": {
+   "codes": [
+    "1201"
+   ],
+   "nameen": "Zuopaotai East",
+   "line": "12"
+  },
+  "市民中心": {
+   "codes": [
+    "0222",
+    "0404"
+   ],
+   "nameen": "Civic Center",
+   "line": "02"
+  },
+  "布吉": {
+   "codes": [
+    "0317",
+    "0529",
+    "1404"
+   ],
+   "nameen": "Buji",
+   "line": "03"
+  },
+  "布心": {
+   "codes": [
+    "0531"
+   ],
+   "nameen": "Buxin",
+   "line": "05"
+  },
+  "平峦山": {
+   "codes": [
+    "1219"
+   ],
+   "nameen": "Pingluan Hill",
+   "line": "12"
+  },
+  "平湖": {
+   "codes": [
+    "1023"
+   ],
+   "nameen": "Pinghu",
+   "line": "10"
+  },
+  "应人石": {
+   "codes": [
+    "1312"
+   ],
+   "nameen": "yingrenshi",
+   "line": "13"
+  },
+  "德雅路": {
+   "codes": [
+    "1318"
+   ],
+   "nameen": "Deya Rd",
+   "line": "13"
+  },
+  "怀德": {
+   "codes": [
+    "1226"
+   ],
+   "nameen": "Huaide",
+   "line": "12"
+  },
+  "怡景": {
+   "codes": [
+    "0533"
+   ],
+   "nameen": "Yijing",
+   "line": "05"
+  },
+  "怡海": {
+   "codes": [
+    "0903"
+   ],
+   "nameen": "Yihai",
+   "line": "09"
+  },
+  "愉园": {
+   "codes": [
+    "1613"
+   ],
+   "nameen": "Yuyuan",
+   "line": "16"
+  },
+  "技术大学": {
+   "codes": [
+    "1631"
+   ],
+   "nameen": "Technology University",
+   "line": "16"
+  },
+  "文锦": {
+   "codes": [
+    "0932"
+   ],
+   "nameen": "Wenjin",
+   "line": "09"
+  },
+  "新和": {
+   "codes": [
+    "1623"
+   ],
+   "nameen": "Xinhe",
+   "line": "16"
+  },
+  "新塘围": {
+   "codes": [
+    "1619"
+   ],
+   "nameen": "Xintangwei",
+   "line": "16"
+  },
+  "新安": {
+   "codes": [
+    "0123"
+   ],
+   "nameen": "Xin'an",
+   "line": "01"
+  },
+  "新安公园": {
+   "codes": [
+    "1213"
+   ],
+   "nameen": "Xin'an Park",
+   "line": "12"
+  },
+  "新庄": {
+   "codes": [
+    "1322"
+   ],
+   "nameen": "Xinzhuang",
+   "line": "13"
+  },
+  "新生": {
+   "codes": [
+    "0333"
+   ],
+   "nameen": "Xinsheng",
+   "line": "03"
+  },
+  "新秀": {
+   "codes": [
+    "0229"
+   ],
+   "nameen": "Xinxiu",
+   "line": "02"
+  },
+  "晒布": {
+   "codes": [
+    "0312"
+   ],
+   "nameen": "Shaibu",
+   "line": "03"
+  },
+  "景田": {
+   "codes": [
+    "0219",
+    "0917"
+   ],
+   "nameen": "Jingtian",
+   "line": "02"
+  },
+  "月亮路": {
+   "codes": [
+    "1320"
+   ],
+   "nameen": "Yueliang Rd",
+   "line": "13"
+  },
+  "朗下": {
+   "codes": [
+    "1238"
+   ],
+   "nameen": "Langxia",
+   "line": "12"
+  },
+  "木古": {
+   "codes": [
+    "1020"
+   ],
+   "nameen": "Mugu",
+   "line": "10"
+  },
+  "木棉湾": {
+   "codes": [
+    "0318"
+   ],
+   "nameen": "Mumianwan",
+   "line": "03"
+  },
+  "机场东": {
+   "codes": [
+    "0130",
+    "1224"
+   ],
+   "nameen": "Airport East",
+   "line": "01"
+  },
+  "机场北": {
+   "codes": [
+    "1114",
+    "2001"
+   ],
+   "nameen": "Airport North",
+   "line": "11"
+  },
+  "李松蓢": {
+   "codes": [
+    "1326"
+   ],
+   "nameen": "Lisonglang",
+   "line": "13"
+  },
+  "杨美": {
+   "codes": [
+    "0525"
+   ],
+   "nameen": "Yangmei",
+   "line": "05"
+  },
+  "松元厦": {
+   "codes": [
+    "0421"
+   ],
+   "nameen": "Songyuanxia",
+   "line": "04"
+  },
+  "松岗": {
+   "codes": [
+    "0627",
+    "1121",
+    "1239"
+   ],
+   "nameen": "Songgang",
+   "line": "06"
+  },
+  "松岗公园": {
+   "codes": [
+    "0625"
+   ],
+   "nameen": "Songgang Park",
+   "line": "06"
+  },
+  "桂湾": {
+   "codes": [
+    "0507"
+   ],
+   "nameen": "Guiwan",
+   "line": "05"
+  },
+  "桃园": {
+   "codes": [
+    "0119",
+    "1209"
+   ],
+   "nameen": "Taoyuan",
+   "line": "01"
+  },
+  "桃源村": {
+   "codes": [
+    "0708"
+   ],
+   "nameen": "Taoyuancun",
+   "line": "07"
+  },
+  "桥头": {
+   "codes": [
+    "1116"
+   ],
+   "nameen": "Qiaotou",
+   "line": "11"
+  },
+  "桥头西": {
+   "codes": [
+    "1228"
+   ],
+   "nameen": "Qiaotou West",
+   "line": "12"
+  },
+  "梅景": {
+   "codes": [
+    "0918"
+   ],
+   "nameen": "Meijing",
+   "line": "09"
+  },
+  "梅村": {
+   "codes": [
+    "0920"
+   ],
+   "nameen": "Meicun",
+   "line": "09"
+  },
+  "梅林关": {
+   "codes": [
+    "0607"
+   ],
+   "nameen": "Meilinguan",
+   "line": "06"
+  },
+  "梦海": {
+   "codes": [
+    "0902"
+   ],
+   "nameen": "Menghai",
+   "line": "09"
+  },
+  "梧桐山南": {
+   "codes": [
+    "0802"
+   ],
+   "nameen": "Wutong Mountain South",
+   "line": "08"
+  },
+  "梨园": {
+   "codes": [
+    "0332"
+   ],
+   "nameen": "Liyuan",
+   "line": "03"
+  },
+  "楼村": {
+   "codes": [
+    "0620"
+   ],
+   "nameen": "Loucun",
+   "line": "06"
+  },
+  "横岗": {
+   "codes": [
+    "0323"
+   ],
+   "nameen": "Henggang",
+   "line": "03"
+  },
+  "步涌": {
+   "codes": [
+    "1237"
+   ],
+   "nameen": "Buchong",
+   "line": "12"
+  },
+  "民乐": {
+   "codes": [
+    "0408"
+   ],
+   "nameen": "Minle",
+   "line": "04"
+  },
+  "民治": {
+   "codes": [
+    "0522"
+   ],
+   "nameen": "Minzhi",
+   "line": "05"
+  },
+  "水湾": {
+   "codes": [
+    "0204"
+   ],
+   "nameen": "Shuiwan",
+   "line": "02"
+  },
+  "水贝": {
+   "codes": [
+    "0315"
+   ],
+   "nameen": "Shuibei",
+   "line": "03"
+  },
+  "永湖": {
+   "codes": [
+    "0324"
+   ],
+   "nameen": "Yonghu",
+   "line": "03"
+  },
+  "沙井": {
+   "codes": [
+    "1119"
+   ],
+   "nameen": "Shajing",
+   "line": "11"
+  },
+  "沙井古墟": {
+   "codes": [
+    "1236"
+   ],
+   "nameen": "Shajing Ancient Market",
+   "line": "12"
+  },
+  "沙壆": {
+   "codes": [
+    "1628"
+   ],
+   "nameen": "Shabo",
+   "line": "16"
+  },
+  "沙头角": {
+   "codes": [
+    "0803"
+   ],
+   "nameen": "Shatoujiao",
+   "line": "08"
+  },
+  "沙尾": {
+   "codes": [
+    "0714"
+   ],
+   "nameen": "Shawei",
+   "line": "07"
+  },
+  "沙田": {
+   "codes": [
+    "1418"
+   ],
+   "nameen": "ShaTian",
+   "line": "14"
+  },
+  "沙蚝": {
+   "codes": [
+    "1235"
+   ],
+   "nameen": "Shahao",
+   "line": "12"
+  },
+  "泥岗": {
+   "codes": [
+    "0924"
+   ],
+   "nameen": "Nigang",
+   "line": "09"
+  },
+  "洪浪北": {
+   "codes": [
+    "0514"
+   ],
+   "nameen": "Honglang North",
+   "line": "05"
+  },
+  "洪湖": {
+   "codes": [
+    "0727"
+   ],
+   "nameen": "Honghu",
+   "line": "07"
+  },
+  "流塘": {
+   "codes": [
+    "1216"
+   ],
+   "nameen": "Liutang",
+   "line": "12"
+  },
+  "海上世界": {
+   "codes": [
+    "0203",
+    "1203"
+   ],
+   "nameen": "Sea World",
+   "line": "02"
+  },
+  "海上田园东": {
+   "codes": [
+    "1233"
+   ],
+   "nameen": "Waterlands Resort East",
+   "line": "12"
+  },
+  "海上田园南": {
+   "codes": [
+    "1232"
+   ],
+   "nameen": "Waterlands Resort South",
+   "line": "12"
+  },
+  "海山": {
+   "codes": [
+    "0804"
+   ],
+   "nameen": "Haishan",
+   "line": "08"
+  },
+  "海月": {
+   "codes": [
+    "0207"
+   ],
+   "nameen": "Haiyue",
+   "line": "02"
+  },
+  "深云": {
+   "codes": [
+    "0709"
+   ],
+   "nameen": "Shenyun",
+   "line": "07"
+  },
+  "深圳北": {
+   "codes": [
+    "0410",
+    "0521",
+    "0608"
+   ],
+   "nameen": "Shenzhen North Station",
+   "line": "04"
+  },
+  "深圳湾公园": {
+   "codes": [
+    "0913"
+   ],
+   "nameen": "Shenzhen Bay Park",
+   "line": "09"
+  },
+  "深圳湾口岸": {
+   "codes": [
+    "1301"
+   ],
+   "nameen": "Shenzhenwankouan",
+   "line": "13"
+  },
+  "深外高中": {
+   "codes": [
+    "0806"
+   ],
+   "nameen": "Shenwai Senior Campus",
+   "line": "08"
+  },
+  "深大": {
+   "codes": [
+    "0118",
+    "1306"
+   ],
+   "nameen": "Shenzhen University",
+   "line": "01"
+  },
+  "深大丽湖": {
+   "codes": [
+    "0701"
+   ],
+   "nameen": "SZU Lihu Campus",
+   "line": "07"
+  },
+  "深大南": {
+   "codes": [
+    "0908"
+   ],
+   "nameen": "Shenzhen University South",
+   "line": "09"
+  },
+  "深康": {
+   "codes": [
+    "0214"
+   ],
+   "nameen": "Shenkang",
+   "line": "02"
+  },
+  "深湾": {
+   "codes": [
+    "0912"
+   ],
+   "nameen": "Shenwan",
+   "line": "09"
+  },
+  "深理工": {
+   "codes": [
+    "6607"
+   ],
+   "nameen": "SUAT",
+   "line": "6支"
+  },
+  "清湖": {
+   "codes": [
+    "0415"
+   ],
+   "nameen": "Qinghu",
+   "line": "04"
+  },
+  "清湖北": {
+   "codes": [
+    "0416"
+   ],
+   "nameen": "Qinghu North",
+   "line": "04"
+  },
+  "湖贝": {
+   "codes": [
+    "0227",
+    "0535"
+   ],
+   "nameen": "Hubei",
+   "line": "02"
+  },
+  "湾厦": {
+   "codes": [
+    "0206"
+   ],
+   "nameen": "Wanxia",
+   "line": "02"
+  },
+  "溪头": {
+   "codes": [
+    "0626"
+   ],
+   "nameen": "Xitou",
+   "line": "06"
+  },
+  "溪涌": {
+   "codes": [
+    "0812"
+   ],
+   "nameen": "Xichong",
+   "line": "08"
+  },
+  "灵芝": {
+   "codes": [
+    "0513",
+    "1214"
+   ],
+   "nameen": "Lingzhi",
+   "line": "05"
+  },
+  "燕南": {
+   "codes": [
+    "0225"
+   ],
+   "nameen": "Yannan",
+   "line": "02"
+  },
+  "燕子湖": {
+   "codes": [
+    "1629"
+   ],
+   "nameen": "Yanzihu",
+   "line": "16"
+  },
+  "爱联": {
+   "codes": [
+    "0327"
+   ],
+   "nameen": "Ailian",
+   "line": "03"
+  },
+  "牛湖": {
+   "codes": [
+    "0423"
+   ],
+   "nameen": "Niuhu",
+   "line": "04"
+  },
+  "珠光": {
+   "codes": [
+    "0706"
+   ],
+   "nameen": "Zhuguang",
+   "line": "07"
+  },
+  "甘坑": {
+   "codes": [
+    "1017"
+   ],
+   "nameen": "Gankeng",
+   "line": "10"
+  },
+  "田心": {
+   "codes": [
+    "1632"
+   ],
+   "nameen": "Tianxin",
+   "line": "16"
+  },
+  "田贝": {
+   "codes": [
+    "0314",
+    "0728"
+   ],
+   "nameen": "Tianbei",
+   "line": "03"
+  },
+  "留仙洞": {
+   "codes": [
+    "0516",
+    "1310"
+   ],
+   "nameen": "Liuxiandong",
+   "line": "05"
+  },
+  "登良": {
+   "codes": [
+    "0208"
+   ],
+   "nameen": "Dengliang",
+   "line": "02"
+  },
+  "白石塘": {
+   "codes": [
+    "0336"
+   ],
+   "nameen": "Baishitang",
+   "line": "03"
+  },
+  "白石洲": {
+   "codes": [
+    "0116"
+   ],
+   "nameen": "Baishizhou",
+   "line": "01"
+  },
+  "白石龙": {
+   "codes": [
+    "0409"
+   ],
+   "nameen": "Baishilong",
+   "line": "04"
+  },
+  "百旺": {
+   "codes": [
+    "1311"
+   ],
+   "nameen": "Baiwang-HKU",
+   "line": "13"
+  },
+  "百鸽笼": {
+   "codes": [
+    "0530"
+   ],
+   "nameen": "Baigelong",
+   "line": "05"
+  },
+  "皇岗口岸": {
+   "codes": [
+    "0718"
+   ],
+   "nameen": "Huanggang Checkpoint",
+   "line": "07"
+  },
+  "皇岗村": {
+   "codes": [
+    "0716"
+   ],
+   "nameen": "Huanggangcun",
+   "line": "07"
+  },
+  "益田": {
+   "codes": [
+    "0302"
+   ],
+   "nameen": "Yitian",
+   "line": "03"
+  },
+  "盐田墟": {
+   "codes": [
+    "0809"
+   ],
+   "nameen": "Yantianxu",
+   "line": "08"
+  },
+  "盐田港西": {
+   "codes": [
+    "0805"
+   ],
+   "nameen": "Yantian Port West",
+   "line": "08"
+  },
+  "盐田路": {
+   "codes": [
+    "0807"
+   ],
+   "nameen": "Yantian Rd",
+   "line": "08"
+  },
+  "盛平": {
+   "codes": [
+    "1616"
+   ],
+   "nameen": "Shengping",
+   "line": "16"
+  },
+  "石井": {
+   "codes": [
+    "1630"
+   ],
+   "nameen": "Shijing",
+   "line": "16"
+  },
+  "石厦": {
+   "codes": [
+    "0303",
+    "0715"
+   ],
+   "nameen": "Shixia",
+   "line": "03"
+  },
+  "石岩": {
+   "codes": [
+    "1314"
+   ],
+   "nameen": "Shiyan",
+   "line": "13"
+  },
+  "石芽岭": {
+   "codes": [
+    "1405"
+   ],
+   "nameen": "Shiyaling",
+   "line": "14"
+  },
+  "石鼓": {
+   "codes": [
+    "1309"
+   ],
+   "nameen": "Shigu",
+   "line": "13"
+  },
+  "碧头": {
+   "codes": [
+    "1122"
+   ],
+   "nameen": "Bitou",
+   "line": "11"
+  },
+  "碧海湾": {
+   "codes": [
+    "1112"
+   ],
+   "nameen": "Bihaiwan",
+   "line": "11"
+  },
+  "碧眼": {
+   "codes": [
+    "6603"
+   ],
+   "nameen": "BiYan",
+   "line": "6支"
+  },
+  "福保": {
+   "codes": [
+    "0301"
+   ],
+   "nameen": "Futian Bonded Area",
+   "line": "03"
+  },
+  "福围": {
+   "codes": [
+    "1225"
+   ],
+   "nameen": "Fuwei",
+   "line": "12"
+  },
+  "福坑": {
+   "codes": [
+    "1603"
+   ],
+   "nameen": "Fukeng",
+   "line": "16"
+  },
+  "福民": {
+   "codes": [
+    "0402",
+    "0717",
+    "1002"
+   ],
+   "nameen": "Fumin",
+   "line": "04"
+  },
+  "福永": {
+   "codes": [
+    "1115",
+    "1227"
+   ],
+   "nameen": "Fuyong",
+   "line": "11"
+  },
+  "福海西": {
+   "codes": [
+    "1229"
+   ],
+   "nameen": "Fuhai West",
+   "line": "12"
+  },
+  "福田": {
+   "codes": [
+    "0221",
+    "0305",
+    "1105"
+   ],
+   "nameen": "Futian",
+   "line": "02"
+  },
+  "福田口岸": {
+   "codes": [
+    "0401",
+    "1001"
+   ],
+   "nameen": "Futian Checkpoint",
+   "line": "04"
+  },
+  "禾花": {
+   "codes": [
+    "1022"
+   ],
+   "nameen": "Hehua",
+   "line": "10"
+  },
+  "科学公园": {
+   "codes": [
+    "0619"
+   ],
+   "nameen": "Science Park",
+   "line": "06"
+  },
+  "科学馆": {
+   "codes": [
+    "0105",
+    "0601"
+   ],
+   "nameen": "Science Museum",
+   "line": "01"
+  },
+  "科苑": {
+   "codes": [
+    "0210",
+    "1304"
+   ],
+   "nameen": "Keyuan",
+   "line": "02"
+  },
+  "竹子林": {
+   "codes": [
+    "0112"
+   ],
+   "nameen": "Zhuzilin",
+   "line": "01"
+  },
+  "竹村": {
+   "codes": [
+    "0417"
+   ],
+   "nameen": "Zhucun",
+   "line": "04"
+  },
+  "笋岗": {
+   "codes": [
+    "0726"
+   ],
+   "nameen": "Sungang",
+   "line": "07"
+  },
+  "粤海门": {
+   "codes": [
+    "0909",
+    "1305"
+   ],
+   "nameen": "Yuehaimen",
+   "line": "09"
+  },
+  "红坳公园": {
+   "codes": [
+    "1316"
+   ],
+   "nameen": "Hongao Park",
+   "line": "13"
+  },
+  "红山": {
+   "codes": [
+    "0411",
+    "0609"
+   ],
+   "nameen": "Hongshan",
+   "line": "04"
+  },
+  "红岭": {
+   "codes": [
+    "0310",
+    "0927"
+   ],
+   "nameen": "Hongling",
+   "line": "03"
+  },
+  "红岭北": {
+   "codes": [
+    "0725",
+    "0925"
+   ],
+   "nameen": "Hongling North",
+   "line": "07"
+  },
+  "红岭南": {
+   "codes": [
+    "0928",
+    "1101"
+   ],
+   "nameen": "Hongling South",
+   "line": "09"
+  },
+  "红树湾": {
+   "codes": [
+    "0211"
+   ],
+   "nameen": "Hongshuwan",
+   "line": "02"
+  },
+  "红树湾南": {
+   "codes": [
+    "0911",
+    "1107"
+   ],
+   "nameen": "Hongshuwan South",
+   "line": "09"
+  },
+  "红花山": {
+   "codes": [
+    "0621"
+   ],
+   "nameen": "Honghuashan",
+   "line": "06"
+  },
+  "罗湖": {
+   "codes": [
+    "0101"
+   ],
+   "nameen": "Luohu",
+   "line": "01"
+  },
+  "罗湖北": {
+   "codes": [
+    "1403"
+   ],
+   "nameen": "Luohu  North",
+   "line": "14"
+  },
+  "罗租": {
+   "codes": [
+    "1313"
+   ],
+   "nameen": "luozu",
+   "line": "13"
+  },
+  "翠竹": {
+   "codes": [
+    "0313"
+   ],
+   "nameen": "Cuizhu",
+   "line": "03"
+  },
+  "翰岭": {
+   "codes": [
+    "0606"
+   ],
+   "nameen": "Hanling",
+   "line": "06"
+  },
+  "翻身": {
+   "codes": [
+    "0512"
+   ],
+   "nameen": "Fanshen",
+   "line": "05"
+  },
+  "老街": {
+   "codes": [
+    "0103",
+    "0311"
+   ],
+   "nameen": "Laojie",
+   "line": "01"
+  },
+  "花果山": {
+   "codes": [
+    "1204"
+   ],
+   "nameen": "Huaguoshan",
+   "line": "12"
+  },
+  "茜坑": {
+   "codes": [
+    "0418"
+   ],
+   "nameen": "Xikeng",
+   "line": "04"
+  },
+  "茶光": {
+   "codes": [
+    "0705"
+   ],
+   "nameen": "Chaguang",
+   "line": "07"
+  },
+  "草埔": {
+   "codes": [
+    "0316"
+   ],
+   "nameen": "Caopu",
+   "line": "03"
+  },
+  "荔林": {
+   "codes": [
+    "0904"
+   ],
+   "nameen": "Litchi Orchards",
+   "line": "09"
+  },
+  "荔湾": {
+   "codes": [
+    "0502"
+   ],
+   "nameen": "Liwan",
+   "line": "05"
+  },
+  "荷坳": {
+   "codes": [
+    "0325"
+   ],
+   "nameen": "He'ao",
+   "line": "03"
+  },
+  "莲塘": {
+   "codes": [
+    "0232"
+   ],
+   "nameen": "Liantang",
+   "line": "02"
+  },
+  "莲塘口岸": {
+   "codes": [
+    "0230"
+   ],
+   "nameen": "Liantang Checkpoint",
+   "line": "02"
+  },
+  "莲花北": {
+   "codes": [
+    "0406"
+   ],
+   "nameen": "Lianhua North",
+   "line": "04"
+  },
+  "莲花村": {
+   "codes": [
+    "0307",
+    "1005"
+   ],
+   "nameen": "Lianhuacun",
+   "line": "03"
+  },
+  "莲花西": {
+   "codes": [
+    "0220"
+   ],
+   "nameen": "Lianhua West",
+   "line": "02"
+  },
+  "薯田埔": {
+   "codes": [
+    "0624"
+   ],
+   "nameen": "Shutianpu",
+   "line": "06"
+  },
+  "虹桥公园": {
+   "codes": [
+    "6602"
+   ],
+   "nameen": "Hongqiao Park",
+   "line": "6支"
+  },
+  "蚝乡": {
+   "codes": [
+    "1234"
+   ],
+   "nameen": "HaoXiang",
+   "line": "12"
+  },
+  "蛇口港": {
+   "codes": [
+    "0202"
+   ],
+   "nameen": "Shekou Port",
+   "line": "02"
+  },
+  "西丽": {
+   "codes": [
+    "0517",
+    "0704"
+   ],
+   "nameen": "Xili",
+   "line": "05"
+  },
+  "西丽湖": {
+   "codes": [
+    "0703"
+   ],
+   "nameen": "Xili Lake",
+   "line": "07"
+  },
+  "西乡": {
+   "codes": [
+    "0127"
+   ],
+   "nameen": "Xixiang",
+   "line": "01"
+  },
+  "西乡桃源": {
+   "codes": [
+    "1220"
+   ],
+   "nameen": "Xixiang Taoyuan",
+   "line": "12"
+  },
+  "观澜": {
+   "codes": [
+    "0420"
+   ],
+   "nameen": "Guanlan",
+   "line": "04"
+  },
+  "贝尔路": {
+   "codes": [
+    "1013"
+   ],
+   "nameen": "Bei'er Rd",
+   "line": "10"
+  },
+  "购物公园": {
+   "codes": [
+    "0109",
+    "0304"
+   ],
+   "nameen": "Shopping Park",
+   "line": "01"
+  },
+  "赤尾": {
+   "codes": [
+    "0719"
+   ],
+   "nameen": "Chiwei",
+   "line": "07"
+  },
+  "赤湾": {
+   "codes": [
+    "0201",
+    "0501"
+   ],
+   "nameen": "Chiwan",
+   "line": "02"
+  },
+  "车公庙": {
+   "codes": [
+    "0111",
+    "0712",
+    "0915",
+    "1106"
+   ],
+   "nameen": "Chegongmiao",
+   "line": "01"
+  },
+  "通新岭": {
+   "codes": [
+    "0309",
+    "0602"
+   ],
+   "nameen": "Tongxinling",
+   "line": "03"
+  },
+  "金源": {
+   "codes": [
+    "1608"
+   ],
+   "nameen": "JinYuan",
+   "line": "16"
+  },
+  "钟屋南": {
+   "codes": [
+    "1221"
+   ],
+   "nameen": "Zhongwu South",
+   "line": "12"
+  },
+  "铁路公园": {
+   "codes": [
+    "0503"
+   ],
+   "nameen": "Railway Park",
+   "line": "05"
+  },
+  "银湖": {
+   "codes": [
+    "0605",
+    "0923"
+   ],
+   "nameen": "Yinhu",
+   "line": "06"
+  },
+  "锦龙": {
+   "codes": [
+    "1413"
+   ],
+   "nameen": "Jinlong",
+   "line": "14"
+  },
+  "长圳": {
+   "codes": [
+    "0615"
+   ],
+   "nameen": "Changzhen",
+   "line": "06"
+  },
+  "长岭陂": {
+   "codes": [
+    "0520"
+   ],
+   "nameen": "Changlingpi",
+   "line": "05"
+  },
+  "长湖": {
+   "codes": [
+    "0419"
+   ],
+   "nameen": "Changhu",
+   "line": "04"
+  },
+  "长龙": {
+   "codes": [
+    "0528"
+   ],
+   "nameen": "Changlong",
+   "line": "05"
+  },
+  "阳台山东": {
+   "codes": [
+    "0612"
+   ],
+   "nameen": "Yangtai Mountain East",
+   "line": "06"
+  },
+  "雅宝": {
+   "codes": [
+    "1008"
+   ],
+   "nameen": "Yabao",
+   "line": "10"
+  },
+  "雪象": {
+   "codes": [
+    "1016"
+   ],
+   "nameen": "Xuexiang",
+   "line": "10"
+  },
+  "香梅": {
+   "codes": [
+    "0916"
+   ],
+   "nameen": "Xiangmei",
+   "line": "09"
+  },
+  "香梅北": {
+   "codes": [
+    "0218"
+   ],
+   "nameen": "Xiangmei North",
+   "line": "02"
+  },
+  "香蜜": {
+   "codes": [
+    "0217"
+   ],
+   "nameen": "Xiangmi",
+   "line": "02"
+  },
+  "香蜜湖": {
+   "codes": [
+    "0110"
+   ],
+   "nameen": "Xiangmihu",
+   "line": "01"
+  },
+  "马安山": {
+   "codes": [
+    "1118"
+   ],
+   "nameen": "Ma'anshan",
+   "line": "11"
+  },
+  "高新中": {
+   "codes": [
+    "1307"
+   ],
+   "nameen": "Gaoxinzhong",
+   "line": "13"
+  },
+  "高新北": {
+   "codes": [
+    "1308"
+   ],
+   "nameen": "Gaoxin North",
+   "line": "13"
+  },
+  "高新南": {
+   "codes": [
+    "0910"
+   ],
+   "nameen": "High-tech South",
+   "line": "09"
+  },
+  "高新园": {
+   "codes": [
+    "0117"
+   ],
+   "nameen": "Hi-Tech Park",
+   "line": "01"
+  },
+  "鲤鱼门": {
+   "codes": [
+    "0121"
+   ],
+   "nameen": "Liyumen",
+   "line": "01"
+  },
+  "鸿安围": {
+   "codes": [
+    "0808"
+   ],
+   "nameen": "Honganwei",
+   "line": "08"
+  },
+  "鹿丹村": {
+   "codes": [
+    "0929"
+   ],
+   "nameen": "Ludancun",
+   "line": "09"
+  },
+  "黄木岗": {
+   "codes": [
+    "0723",
+    "1402"
+   ],
+   "nameen": "Huangmugang",
+   "line": "07"
+  },
+  "黄田": {
+   "codes": [
+    "1222"
+   ],
+   "nameen": "Huangtian",
+   "line": "12"
+  },
+  "黄贝岭": {
+   "codes": [
+    "0228",
+    "0534"
+   ],
+   "nameen": "Huangbeiling",
+   "line": "02"
+  },
+  "黄阁坑": {
+   "codes": [
+    "1612"
+   ],
+   "nameen": "Huanggekeng",
+   "line": "16"
+  },
+  "龙东": {
+   "codes": [
+    "1620"
+   ],
+   "nameen": "Longdong",
+   "line": "16"
+  },
+  "龙井": {
+   "codes": [
+    "0707"
+   ],
+   "nameen": "Longjing",
+   "line": "07"
+  },
+  "龙华": {
+   "codes": [
+    "0414"
+   ],
+   "nameen": "Longhua",
+   "line": "04"
+  },
+  "龙园": {
+   "codes": [
+    "1617"
+   ],
+   "nameen": "Longyuan",
+   "line": "16"
+  },
+  "龙城公园": {
+   "codes": [
+    "1611"
+   ],
+   "nameen": "Longcheng Park",
+   "line": "16"
+  },
+  "龙城广场": {
+   "codes": [
+    "0329"
+   ],
+   "nameen": "Longcheng Square",
+   "line": "03"
+  },
+  "龙胜": {
+   "codes": [
+    "0413"
+   ],
+   "nameen": "Longsheng",
+   "line": "04"
+  }
+ },
+ "查不到": [
+  "下围",
+  "世纪广场",
+  "东庵",
+  "中芯国际",
+  "坪山高铁站",
+  "大和",
+  "大布头",
+  "幛背",
+  "文化聚落",
+  "文澜",
+  "新澜",
+  "未来城",
+  "梅龙北",
+  "歌剧院",
+  "比亚迪北",
+  "河东",
+  "河西",
+  "清湖学校",
+  "清龙",
+  "潮汐公园",
+  "燕子岭",
+  "石角头",
+  "碧澜",
+  "站前路东",
+  "综合保税区",
+  "自然博物馆西",
+  "观城",
+  "观澜湖",
+  "锦鲤",
+  "高新区",
+  "高新区东",
+  "高新区西",
+  "龙背"
+ ]
+}

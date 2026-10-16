@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、M380、M396、M161、M160、高峰专线194",
+     "busName": "安良六村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、M380、M396、M161、M160、高峰专线194",
+     "busName": "安良市场"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、M380、M396、M161、M160、高峰专线194",
+     "busName": "安良路口"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "00:04",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:09",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、M380、M396、M161、M160、Peak Line194",
+     "busName": "Anliang Liucun"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、M380、M396、M161、M160、Peak Line194",
+     "busName": "Anliang Market"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358、M380、M396、M161、M160、Peak Line194",
+     "busName": "Anliang Rd Crossing"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "01:04",
+   "mobanchexia": "00:02",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "惠盐路东侧（南）、安良六村、安良七村"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "惠盐路东侧（北）、梧桐派出所、安良学校、安居园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "惠盐路西侧（北）、梧桐山河生态湿地公园、安良社区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "惠盐路西侧（南）"
+  }
+ ],
+ "siteCode": "1602",
+ "siteIntroduce": "安良站位于惠盐中路东侧。沿惠盐中路南北向设置。该站为地下站。",
+ "siteName": "安良站",
+ "siteNameen": "Anliang",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:04",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "05:44",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

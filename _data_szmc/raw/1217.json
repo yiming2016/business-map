@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、718、M131、M209、M235、M250、高峰专线95B出入口",
+     "busName": "丽景城（南行）"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、718、M131、M209、M235、高峰专线95",
+     "busName": "丽景城（北行）"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:52",
+   "mobanchexia": "23:34",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、718、M131、M209、M235、M250、Peak Express Bus95Exit B",
+     "busName": "Lijingcheng（Southbound）"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "603、718、M131、M209、M235、Peak Express Bus95",
+     "busName": "Lijing cheng（Northbound）"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:52",
+   "mobanchexia": "00:34",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前进二路东侧"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "西乡大道北侧"
+  },
+  {
+   "outt": "                                                           C出入口",
+   "textt": "西乡大道北侧、前进路月畔湾公园、金碧实验学校"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "前进二路西侧"
+  }
+ ],
+ "siteCode": "1217",
+ "siteIntroduce": "宝安客运站位于前进二路和西乡大道交叉口、沿前进二路布置。该站为地下站。",
+ "siteName": "宝安客运站",
+ "siteNameen": "Bao'an Passenger Transport Terminal",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:52",
+   "mobanchexia": "23:34",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

@@ -1,0 +1,324 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M347、B657、204",
+     "busName": "向南东村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E3",
+     "busName": "南山派出所"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "74、369、E3、M105、M241、M483、N4、M506",
+     "busName": "南山地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、337、M105、M182、M347、M463、M483、M562",
+     "busName": "荔园大厦"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M562、337、M347、M182、M105、58、M463、M483",
+     "busName": "荔园大厦"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、74、337、369、E3、M182、M241、M372、M463、M483、M506、M562、N4",
+     "busName": "南航公司"
+    }
+   ],
+   "chukou": "F出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、74、369、E3、M182、M241、M372、M483、M562、N4、337、M506、M463",
+     "busName": "南航公司"
+    }
+   ],
+   "chukou": "G出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M347、204、B657",
+     "busName": "向南东村"
+    }
+   ],
+   "chukou": "H出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "00:21",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:11",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M347、B657、204",
+     "busName": "Xiangnan East Village"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E3",
+     "busName": "Nanshan Police Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "74、369、E3、M105、M241、M483、N4、M506",
+     "busName": "Nanshan Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、337、M105、M182、M347、M463、M483、M562",
+     "busName": "Liyuan Building"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M562、337、M347、M182、M105、58、M463、M483",
+     "busName": "Liyuan Building"
+    }
+   ],
+   "chukou": "Exit E1、E2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、74、337、369、E3、M182、M241、M372、M463、M483、M506、M562、N4",
+     "busName": "China Southern Airlines"
+    }
+   ],
+   "chukou": "Exit F"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、74、369、E3、M182、M241、M372、M483、M562、N4、337、M506、M463",
+     "busName": "China Southern Airlines"
+    }
+   ],
+   "chukou": "Exit G"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "204、M347、B657",
+     "busName": "Xiangnan East Village"
+    }
+   ],
+   "chukou": "Exit H"
+  }
+ ],
+ "enoutAndText": [
+  {
+   "outt": "Exit A",
+   "textt": "West of Nanshan Avenue、South of Guimiao Road、Xiangnan east Village、Nanyuan Village"
+  },
+  {
+   "outt": "Exit B",
+   "textt": "West of Nanshan Avenue、South of Guimiao Road"
+  },
+  {
+   "outt": "Exit C",
+   "textt": "East of Nanshan Avenue、South of Guimiao Road"
+  },
+  {
+   "outt": "Exit D",
+   "textt": "East of Nanshan Avenue、South of Guimiao Road"
+  },
+  {
+   "outt": "Exit E",
+   "textt": "East of Nanshan Avenue、North of Guimiao Road、Guimiao New Village"
+  },
+  {
+   "outt": "Exit F",
+   "textt": "East of Nanshan Avenue、North of Guimiao Road、Shenzhen Haibin Experimental Primary School"
+  },
+  {
+   "outt": "Exit G",
+   "textt": "West of Nanshan Avenue、North of Guimiao Road、Yilida Village"
+  },
+  {
+   "outt": "Exit H",
+   "textt": "West of Nanshan Avenue、North of Guimiao Road、Nanshan Market"
+  }
+ ],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "01:20",
+   "mobanchexia": "00:44",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:11",
+   "mobanchexia": "00:15",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "南山大道西侧、桂庙路南侧、向南东村、南园村"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "南山大道西侧、桂庙路南侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "南山大道东侧、桂庙路南侧"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "南山大道东侧、桂庙路南侧"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "南山大道东侧、桂庙路北侧、桂庙新村"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "南山大道东侧、桂庙路北侧、深圳市海滨实验小学"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "南山大道西侧、桂庙路北侧、亿利达村"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "南山大道西侧、桂庙路北侧、南山市场"
+  }
+ ],
+ "siteCode": "1109",
+ "siteIntroduce": "南山站位于南山大道与桂庙路交汇处，为11、12 号线换乘车站。该站为地下站。",
+ "siteName": "南山站",
+ "siteNameen": "Nanshan",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分15秒、晚3分07秒。",
+   "gaofenjiangeen": "早2m15s、晚3m07s。",
+   "mobanche": "00:21",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:11",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

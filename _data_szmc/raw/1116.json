@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "338、M291、M310、M514",
+     "busName": "桥头地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M387",
+     "busName": "桥头地铁站①站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M387",
+     "busName": "桥头地铁站①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M291、M310、M514、M587、B985、M153、338、M515",
+     "busName": "桥头地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "23:52",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M291、M310、M514、338",
+     "busName": "Qiaotou Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M387",
+     "busName": "Qiaotou Station①"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M387",
+     "busName": "Qiaotou Station ①"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M291、M310、M514、M587、B985、M153、338、M515",
+     "busName": "Qiaotou Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:52",
+   "mobanchexia": "01:10",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "宝安大道西侧（北）、福源工业区、汉光大楼、桥头地铁站公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "宝安大道西侧（南）、桥和路、桥头村、福海街道办、桥头地铁站①公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "宝安大道东侧（南）、福永水厂、桥头地铁站①公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "宝安大道东侧（北）、桥头地铁站公交站"
+  }
+ ],
+ "siteCode": "1116",
+ "siteIntroduce": "桥头站位于宝安大道与桥和路交叉口北侧、沿宝安大道路中南北向布置。该站为高架站。",
+ "siteName": "桥头站",
+ "siteNameen": "Qiaotou",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分15秒至4分30秒、晚3分07秒。",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:52",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ]
+}

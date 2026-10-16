@@ -1,0 +1,393 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、12、58、216、222、323、M112、M202、M207、M401、M454",
+     "busName": "市二医院①"
+    }
+   ],
+   "chukou": "1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、111、M202、M213、M112、M588、M401、M417、12",
+     "busName": "市二医院②"
+    }
+   ],
+   "chukou": "1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "12、111、M112、M202、M137、M224",
+     "busName": "黄木岗地铁站"
+    }
+   ],
+   "chukou": "1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "12、111、M112、M202、M137、M224",
+     "busName": "黄木岗地铁站"
+    }
+   ],
+   "chukou": "2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M401、M203、111、216、323、222、M207、M417、11",
+     "busName": "深圳游泳跳水馆"
+    }
+   ],
+   "chukou": "4出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M401、M203、111、216、323、222、M207、M417、11",
+     "busName": "深圳游泳跳水馆"
+    }
+   ],
+   "chukou": "8b出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M454、M224、M137",
+     "busName": "中成体育大厦"
+    }
+   ],
+   "chukou": "11出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M194、M203、M476、M588、M454、M224",
+     "busName": "体育西"
+    }
+   ],
+   "chukou": "11出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M194、M203、M476、M588、M454、M224",
+     "busName": "体育西"
+    }
+   ],
+   "chukou": "12a出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、12、58、216、222、323、M112、M202、M207、M401、M454",
+     "busName": "市二医院①"
+    }
+   ],
+   "chukou": "13出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、111、M202、M213、M112、M588、M401、M417、12",
+     "busName": "市二医院②"
+    }
+   ],
+   "chukou": "13出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:12",
+   "mobanchexia": "23:49",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:28",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:52",
+   "mobanchexia": "23:33",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、12、58、216、222、323、M112、M202、M207、M401、M454",
+     "busName": "City Second Hospital①"
+    }
+   ],
+   "chukou": "Exit 1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、111、M202、M213、M112、M588、M401、M417、12",
+     "busName": "City Second Hospital②"
+    }
+   ],
+   "chukou": "Exit 1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "12、111、M112、M202、M137、M224",
+     "busName": "Huangmugang Metro Station"
+    }
+   ],
+   "chukou": "Exit 1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "12、111、M112、M202、M137、M224",
+     "busName": "Huangmugang Metro Station"
+    }
+   ],
+   "chukou": "Exit 2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M401、M203、111、216、323、222、M207、M417、11",
+     "busName": "Shenzhen Swimming and Diving Hall"
+    }
+   ],
+   "chukou": "Exit 4"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M401、M203、111、216、323、222、M207、M417、11",
+     "busName": "Shenzhen Swimming and Diving Hall"
+    }
+   ],
+   "chukou": "Exit 8b"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M454、M224、M137",
+     "busName": "Zhongcheng Sports Building"
+    }
+   ],
+   "chukou": "Exit 11"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M194、M203、M476、M588、M454、M224",
+     "busName": "Sports West"
+    }
+   ],
+   "chukou": "Exit 11"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M194、M203、M476、M588、M454、M224",
+     "busName": "Sports West"
+    }
+   ],
+   "chukou": "Exit 12a"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "11、12、58、216、222、323、M112、M202、M207、M401、M454",
+     "busName": "Shenzhen Second Hospital①"
+    }
+   ],
+   "chukou": "Exit 13"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "323、111、M202、M213、M112、M588、M401、M417、12",
+     "busName": "Shenzhen Second Hospital②"
+    }
+   ],
+   "chukou": "Exit 13"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:12",
+   "mobanchexia": "00:49",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:28",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:52",
+   "mobanchexia": "00:33",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "1号出入口",
+   "textt": "华富路西侧（北）、市政设计大厦、华富村、华富实验学校、园岭税务所"
+  },
+  {
+   "outt": "2号出入口",
+   "textt": "华富路东侧（北）、海馨苑、深圳实验学校、百花小学"
+  },
+  {
+   "outt": "3号出入口",
+   "textt": "笋岗西路（东）、深圳实验学校、百花小学、长城花园"
+  },
+  {
+   "outt": "4号出入口",
+   "textt": "笋岗西路（东）、深圳实验学校、百花小学、长城花园"
+  },
+  {
+   "outt": "5号出入口",
+   "textt": "笋岗西路（东）、长城花园"
+  },
+  {
+   "outt": "6A号出入口",
+   "textt": "笋岗西路（东）、长城花园、长乐花园、百花小学、荔园小学"
+  },
+  {
+   "outt": "6B号出入口",
+   "textt": "笋岗西路（东）、长乐花园、长安花园、南天一花园、荔园小学、深圳艺术学校"
+  },
+  {
+   "outt": "7号出入口",
+   "textt": "笋岗西路（东）、深圳市体育中心"
+  },
+  {
+   "outt": "        8A号出入口",
+   "textt": "笋岗西路（东）、深圳市体育中心"
+  },
+  {
+   "outt": "8B号出入口",
+   "textt": "笋岗西路（东）、深圳市体育中心"
+  },
+  {
+   "outt": "9A号出入口",
+   "textt": "笋岗西路（东）、深圳市体育中心、深圳市体育馆"
+  },
+  {
+   "outt": "9B号出入口",
+   "textt": "笋岗西路（东）、深圳市体育中心、深圳市体育馆、体育大厦"
+  },
+  {
+   "outt": "10号出入口",
+   "textt": "笋岗西路（东）、体育大厦"
+  },
+  {
+   "outt": "11号出入口",
+   "textt": "泥岗西路南侧（东）、体育大厦"
+  },
+  {
+   "outt": "12A号出入口",
+   "textt": "泥岗西路南侧（西）、华富派出所、笔架山公园"
+  },
+  {
+   "outt": "12B号出入口",
+   "textt": "泥岗西路南侧（西）、深圳市第二人民医院、笔架山公园"
+  },
+  {
+   "outt": "13号出入口",
+   "textt": "笋岗西路（西）、深圳市第二人民医院"
+  },
+  {
+   "outt": "14号出入口",
+   "textt": "笋岗西路（西）、笔架山公园"
+  },
+  {
+   "outt": "15号出入口",
+   "textt": "笋岗西路（西）、华富中学、华新小学、笔架山公园"
+  },
+  {
+   "outt": "16号出入口",
+   "textt": "笋岗西路（西）、中心公园E1区"
+  }
+ ],
+ "siteCode": "1402",
+ "siteIntroduce": "黄木岗站位于笋岗西路、泥岗西路、华富路交接处，为7、14号线换乘站。该站为地下站。",
+ "siteName": "黄木岗站",
+ "siteNameen": "Huangmugang",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:12",
+   "mobanchexia": "23:49",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:24",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  },
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:53",
+   "mobanchexia": "23:33",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

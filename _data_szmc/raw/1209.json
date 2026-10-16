@@ -1,0 +1,247 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "223、M475、226、74、M242、M432",
+     "busName": "南山区委"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、223、226、M176、M182、M241、M242、M492、M562、N4、M432",
+     "busName": "深圳市南山区人民医院"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、223、226、M176、M182、M241、M242、M492、M562、N4、南山跨境消费季专享巴士A线、M432",
+     "busName": "深圳市南山区人民医院"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M241、M372、M463、M562、N4、58、74、337、369、E3、M182",
+     "busName": "深圳市南山区人民医院东"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M241、M372、M463、M562、N4、58、74、337、369、E3、M182",
+     "busName": "深圳市南山区人民医院东"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、74、M182、337、M372、M562、M463、M241、E3、58、N4",
+     "busName": "深圳市南山区人民医院东"
+    }
+   ],
+   "chukou": "F出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:28",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:09",
+   "mobanchexia": "23:17",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "223、M475、226、74、M242、M432",
+     "busName": "Nanshan District Committee"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、223、226、 M176、M182、M241、M242、M492、M562、N4、M432",
+     "busName": "Shenzhen Nanshan People's Hospital"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、223、226、M176、M182、M241、M242、M492、M562、N4、Nanshan cross-border consumption season exclusive bus line A、M432",
+     "busName": "Shenzhen Nanshan People's Hospital"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M241、M372、M463、M562、N4、58、74、337、369、E3、M182",
+     "busName": "Shenzhen Nanshan People's Hospital East"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M241、M372、M463、M562、N4、58、74、337、369、E3、M182",
+     "busName": "Shenzhen Nanshan People's Hospital East"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、74、M182、337、M372、M562、M463、M241、E3、58、N4",
+     "busName": "Shenzhen Nanshan People's Hospital East"
+    }
+   ],
+   "chukou": "Exit F"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:28",
+   "mobanchexia": "00:40",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:09",
+   "mobanchexia": "00:17",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "桃园路北侧（东）、南光路、南海大道、深圳市南山区人民政府、深圳市南山区人民检察院、中共深圳市南山区委员会、深圳大学、深圳市南山实验教育集团南头小学、荔香公园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "桃园路北侧（西）、南山区图书馆、南山博物馆、南山文体中心"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "桃园路南侧"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "南山大道东侧、学府路"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "南山大道东侧"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "南山大道西侧、深圳市南山区人民医院"
+  }
+ ],
+ "siteCode": "1209",
+ "siteIntroduce": "桃园站位于深圳市南山区南山大道与桃园路交叉路口，为1、12号线的换乘站。该站为地下站。",
+ "siteName": "桃园站",
+ "siteNameen": "Taoyuan",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:28",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:51",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:09",
+   "mobanchexia": "23:17",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

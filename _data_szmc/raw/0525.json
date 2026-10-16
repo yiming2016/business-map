@@ -1,0 +1,114 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E22、M385、M415、M417、高峰专线47、高快巴士32、321、B865、E7、E27、M233、M301",
+     "busName": "杨美地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、B865、E7、E27、M233、M301、E22、M385、M415、M524、M572、高峰专线27、高峰专线47、高峰专线230、高快巴士32",
+     "busName": "杨美地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:12",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "05:49",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、B865、E7、E27、M233、M301、E22、M385、M415、M524、M572、Peak Special Line27、Peak Special Line47、Peak Special Line230、High speed bus 32",
+     "busName": "Yangmei Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:12",
+   "mobanchexia": "01:13",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "05:49",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "布龙路南侧（西）、环城东路西侧（南）、顺兴工业区"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "布龙路南侧（东）、环城东路东侧（南）、杨美地铁站公交站、侨联东村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "布龙路北侧（东）、环城东路东侧（北）、杨美村、杨美地铁站公交站、宏扬学校"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "布龙路北侧(西)、环城东路西侧（北）、杨美村"
+  }
+ ],
+ "siteCode": "0525",
+ "siteIntroduce": "杨美站位于深圳市龙岗区布龙路与环城路交叉口、该站为地下站。",
+ "siteName": "杨美站",
+ "siteNameen": "Yangmei",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:12",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:53",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

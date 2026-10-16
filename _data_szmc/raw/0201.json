@@ -1,0 +1,149 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B946、B945",
+     "busName": "赤湾地铁站"
+    }
+   ],
+   "chukou": "C、B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "--",
+   "mobanchexia": "22:44",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "05:47",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "--",
+   "mobanchexia": "23:13",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B946、B945",
+     "busName": "Chiwan Station"
+    }
+   ],
+   "chukou": "Exit C、B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "--",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "05:47",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "--",
+   "mobanchexia": "00:13",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B出入口",
+   "textt": "左炮台路北侧、赤湾六路北侧（东）、港航路北侧（西）、文天祥纪念公园、赤湾地铁站公交站、北京师范大学南山附属高级中学、港机大楼、山海津"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "兴海大道西侧（南）、港航路北侧（东）、赤湾天后宫、赤湾地铁站公交站、赤湾村"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "赤湾六路北侧（西）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "赤湾六路北侧（西）、深圳市南山区第二外国语学校（集团）赤湾学校、深圳市南山区半山港幼儿园、山语海苑"
+  }
+ ],
+ "siteCode": "0201",
+ "siteIntroduce": "赤湾站位于南山区赤湾六路和港航路北侧，为2、5号线的换乘站。该站为地下站。",
+ "siteName": "赤湾站",
+ "siteNameen": "Chiwan",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "--",
+   "mobanchexia": "22:44",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "--",
+   "shoubanchexia": "05:53",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "2-2分38秒/4-5分16秒",
+   "gaofenjiangeen": "2-2m38s/4-5m16s",
+   "mobanche": "--",
+   "mobanchexia": "23:13",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "--",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

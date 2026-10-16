@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E17、M151、M294",
+     "busName": "石井社区"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E17、M151、M294",
+     "busName": "石井社区"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:05",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E17、M151、M294",
+     "busName": "Shijing Community"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E17、M151、M294",
+     "busName": "Shijing Community"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:05",
+   "mobanchexia": "01:00",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:48",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "金田路南侧（西）、石井社区警务室、石井社区公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "金田路南侧（东）、石井社区公园、石井地铁站公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "金田路北侧（东）、深圳中学坪山创新学校、石井地铁站公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "金田路北侧（西）、石井社区党群服务中心、坪山区医疗健康集团石井社区健康服务中心、坪山石井幼儿园、石井社区公交站"
+  }
+ ],
+ "siteCode": "1630",
+ "siteIntroduce": "石井站位于金田路与绿茵南路（规划路）交叉口西侧、车站沿金田路呈东西向布置，该站为地下站。",
+ "siteName": "石井站",
+ "siteNameen": "Shijing",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:05",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:44",
+   "shoubanchexia": "06:32",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

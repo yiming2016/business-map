@@ -1,0 +1,146 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811、E25、M315、M361、M556B出入口",
+     "busName": "龙城广场地铁站①"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E25、M315、M361、M556",
+     "busName": "龙城广场地铁站①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358快线、811、818、862、E7、E23、E27、E34、M139、M239、M220、M266、M275、M303、M396",
+     "busName": "龙城广场地铁站②"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:20",
+   "mobanchexia": "00:09",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "811、E25、M315、M361、M556",
+     "busName": "Longcheng square Metro Station①"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358Express、818、862、E7、E23、E27、E34、M139、M220、M239、M266、M275、M303、M396、（Gaokui66删除）",
+     "busName": "Longcheng square Metro Station②"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E25、M315、M361、M556、Gaokui66删除",
+     "busName": "Longcheng Square Metro Station①"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358Express、811、818、862、E7、E23、E27、E34、M139、M220、M239、M266、M275、M303、M396",
+     "busName": "Longcheng Square Metro Station②"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:04",
+   "mobanchexia": "01:07",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:17",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙岗大道南侧（西）、向前路、龙城广场地铁站①公交站、向前村、草根创业园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙岗大道南侧（东）、向银路、龙城广场地铁站②公交站、上岗丘屋村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道北侧（东）、龙河路、龙城广场地铁站①/②公交站、黄龙陂、万汇大厦"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙岗大道北侧（西）、龙岗区政府、深圳市公安局龙岗分局、龙城广场、龙岗文化中心、珠江广场"
+  }
+ ],
+ "siteCode": "0329",
+ "siteIntroduce": "龙城广场站位于龙岗大道与龙城大道交汇处，该站为高架站。",
+ "siteName": "龙城广场站",
+ "siteNameen": "Longcheng Square",
+ "workDay": [
+  {
+   "gaofenjiange": "平均3分",
+   "gaofenjiangeen": "平均3m",
+   "mobanche": "23:20",
+   "mobanchexia": "00:09",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

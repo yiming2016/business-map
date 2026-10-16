@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、M279、M294、M574",
+     "busName": "马峦派出所"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、M279、M294、M426、M574",
+     "busName": "燕子湖地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、M279、M294、M426、M574",
+     "busName": "燕子湖地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M151、M294、M574",
+     "busName": "马峦派出所"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:07",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、M279、M294、M574",
+     "busName": "Maluan Police Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、M279、M294、M426、M574",
+     "busName": "Yanzihu Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "818、M151、M279、M294、M426、M574",
+     "busName": "Yanzihu Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M151、M294、M574",
+     "busName": "Maluan Police Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:07",
+   "mobanchexia": "00:58",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "东纵路南侧（西）、马峦派出所、瑞景公园、马峦派出所公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "东纵路南侧（东）、燕子湖地铁站公交站、深圳市坪山区坪山第二小学、石井市场"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "东纵路北侧（东）、坪山区医疗健康集团石井社区健康服务中心、坪山河湿地公园、燕子湖地铁站公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "东纵路北侧（西）、坪山燕子湖国际会展中心、马峦派出所公交站、中共深圳市坪山区委党校"
+  }
+ ],
+ "siteCode": "1629",
+ "siteIntroduce": "燕子湖站位于东纵路与荔景南路交叉口西侧，沿东纵路呈东西向布置，该站为地下站。",
+ "siteName": "燕子湖站",
+ "siteNameen": "Yanzihu",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:07",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:46",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

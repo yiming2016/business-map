@@ -1,0 +1,135 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、12、17、82、83、97、306、E13、E17、M152、M205、M401、M508",
+     "busName": "火车站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "18、321、73、8、M373、61、M453",
+     "busName": "火车站西广场"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、12、17、82、83、97、306、E13、E17、M152、M205、M401、M508",
+     "busName": "Railway Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "18、321、73、8、M373、61、M453",
+     "busName": "West Square of Railway Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "--",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "罗湖汽车站"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "罗湖商业城、罗湖口岸、海关大楼"
+  },
+  {
+   "outt": "A3出入口",
+   "textt": "罗湖口岸"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "人民南路（南）、沿河南路、公共汽车、出租汽车、罗湖村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "建设路（南）、和平路、火车站、火车站西广场"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "无"
+  },
+  {
+   "outt": "E1出入口",
+   "textt": "火车站下沉广场"
+  },
+  {
+   "outt": "E2出入口",
+   "textt": "人民南路（北）、建设路（北）、中国边检"
+  }
+ ],
+ "siteCode": "0101",
+ "siteIntroduce": "罗湖站位于罗湖口岸及火车站广场内。该站为地下站。",
+ "siteName": "罗湖站",
+ "siteNameen": "Luohu",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "--",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

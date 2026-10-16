@@ -1,0 +1,159 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、M103、M364、M437、M205、M199、M468、218、111、113、57、69、308、85、27、M103",
+     "busName": "罗湖公安分局"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M133、M364、113、85",
+     "busName": "莲塘梧桐苑总站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M191、M520、M205、M207、M555、M468、M437、M364、M199、M133、111、308、113、57、85、27、69",
+     "busName": "梧桐山南地铁站"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M191、M205、M437、M555、M364、M199、M520、M133、M468、M207、F486、113、111、57、308、85、27、69",
+     "busName": "梧桐山南地铁站"
+    }
+   ],
+   "chukou": "C2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:26",
+   "mobanchexia": "23:59",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:47",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、M103、M364、M437、M205、M199、M468、218、111、113、57、69、308、85、27、M103",
+     "busName": "Luohu Public Security Bureau"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M133、M364、113、85",
+     "busName": "Liantang Wutong Terminal"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M191、M520、M205、M207、M555、M468、M437、M364、M199、M133、111、308、113、57、85、27、69",
+     "busName": "Wutong Mountain South Station"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M191、M205、M437、M555、M364、M199、M520、M133、M468、M207、F486、113、111、57、308、85、27、69",
+     "busName": "Wutong Mountain South Station"
+    }
+   ],
+   "chukou": "Exit C2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:26",
+   "mobanchexia": "00:59",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:47",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "罗沙路北侧（东）、深圳市公安局罗湖分局、深圳市罗湖外语初中学校（东校区）、东方风雅台"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "七号路西侧（北）、梧桐苑、蕙兰雅居"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "罗沙路北侧（东）、梧桐山管理大楼、深圳市仙桐实验小学、鸿景翠峰、玉雅居、航天晴山月、东方尊峪"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "罗沙路南侧（东）、长岭村、惠名花园、长岭花园、京基御景天栾府、罗沙路南侧（东）、长岭村、惠名花园、长岭花园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "梧桐山南路东侧（北）、仙桐体育公园、梧桐山风景名胜区"
+  }
+ ],
+ "siteCode": "0802",
+ "siteIntroduce": "梧桐山南站位于罗湖区罗沙路北侧。该站为地下站。",
+ "siteName": "梧桐山南站",
+ "siteNameen": "Wutong Mountain South",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒/5分36秒",
+   "gaofenjiangeen": "2m48s/5m36s",
+   "mobanche": "23:26",
+   "mobanchexia": "23:59",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

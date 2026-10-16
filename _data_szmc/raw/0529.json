@@ -1,0 +1,355 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M295、222、M139、M311、M244、M589、梧桐山假日专线2",
+     "busName": "深圳东站"
+    }
+   ],
+   "chukou": "（3号线）B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8、321、322、357、371、376、977、M183、M192、M203、M224、 M239、 M265、M271、M283、M329、 M358、 M358区间4、M404、 M406、 M408、 M415 M485、M329路区间、H219、D10",
+     "busName": "深圳东站"
+    }
+   ],
+   "chukou": "（3号线）A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "222、M139、M244、M295、M311、M589、梧桐山假日专线2路",
+     "busName": "深圳东站东广场公交站"
+    }
+   ],
+   "chukou": "（5号线）东3出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、322、357、371、376、8、977、M183、M192、M203、M224、M239、M271、M265、M283、M329、M358、M404、M406、M408、M415、M485、M588",
+     "busName": "深圳东站"
+    }
+   ],
+   "chukou": "（5号线）东1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "85、980、M273",
+     "busName": "深圳东站西广场公交站"
+    }
+   ],
+   "chukou": "（5号线）西广场出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8、321、322、357、366、371、376、977、M172、M183、M192、M203、M224、M239、M588",
+     "busName": "深圳东站①"
+    },
+    {
+     "busInfo": "M265、M271、M283、M329、M358、M404、M406、M408、M415、M485",
+     "busName": "深圳东站②"
+    }
+   ],
+   "chukou": "（5号线）东2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8、321、322、357、366、371、376、977、M172、M183、M192、M203、M224、M239、M588",
+     "busName": "深圳东站①"
+    }
+   ],
+   "chukou": "（14号线）D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M265、M271、M283、M329路、M358、M404、M408、M415、M485、深惠3A线、M406",
+     "busName": "深圳东站②"
+    }
+   ],
+   "chukou": "（14号线）E2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M139、M244、M295、M311、M589、梧桐山假日专线2、E24",
+     "busName": "深圳东站东广场"
+    }
+   ],
+   "chukou": "（14号线）C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、M541、M273、85",
+     "busName": "深圳东站西广场"
+    }
+   ],
+   "chukou": "（14号线）C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:52",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:03",
+   "mobanchexia": "00:22",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:44",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M295、222、M139、M311、M244、M589、Wutong Mountain Holiday Special Line 2",
+     "busName": "Shenzhen East Station East Square"
+    }
+   ],
+   "chukou": "（line 3）Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8、321、322、357、371、376、977、M183、M192、M203、M224、 M239、 M265、 M271、 M283、 M329、 M358、 M358Intervai Line4、M404、 M406、 M408、 M415、 M485、M329 Intervai Line 、H219、 D10 （line 5）Eastern 3rd Exit",
+     "busName": "Shenzhen East Railway"
+    }
+   ],
+   "chukou": "（line 3）Exit A"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "85、 980、 M273、M541（line 5）Eastern 2rd Exit",
+     "busName": "Shenzhen East Station East Square Bus Stop"
+    }
+   ],
+   "chukou": "（line 5）Western Square Exit"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M265、M271、M283、M329、M358、M404、M408、M415、M485、Shenhui Line 3A、M406",
+     "busName": "Shenzhen East Station ②"
+    }
+   ],
+   "chukou": "（line 14）Exit E2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M139、M244、M295、M311、M589、 Wutong Mountain Holiday Line 2、E24",
+     "busName": "East Square of Shenzhen East Railway Station"
+    }
+   ],
+   "chukou": "（line 14）Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "980、M541、M273、85",
+     "busName": "West Square of Shenzhen East Railway Station"
+    }
+   ],
+   "chukou": "（line 14）Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:35",
+   "mobanchexia": "00:37",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:03",
+   "mobanchexia": "01:22",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:44",
+   "mobanchexia": "00:40",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙岗大道 、铁东路"
+  },
+  {
+   "outt": "A1出入口",
+   "textt": "深圳东站东广场、深圳东站东公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深圳东站"
+  },
+  {
+   "outt": "东1出入口",
+   "textt": "龙岗大道北侧（东）、深圳东站公交站"
+  },
+  {
+   "outt": "东2出入口",
+   "textt": "龙岗大道北侧（东）、铁东路西侧（北）龙岗龙珠花园（商城）、布吉天虹、京南工业区、华美工业区、吉政路、吉达花园"
+  },
+  {
+   "outt": "东3出入口",
+   "textt": "深圳东站、深圳东站东广场公交站、深圳东站东广场"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道北侧（西）、深圳东站东广场、深圳东站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙岗大道南侧（西）、百鸽路东侧、百合星城一期、满庭芳花园、京南华庭、格伦菲尔口腔·布吉院区"
+  },
+  {
+   "outt": "E1出入口",
+   "textt": "龙岗大道南侧（东）、龙威花园"
+  },
+  {
+   "outt": "E2出入口",
+   "textt": "龙岗大道南侧（东）、龙珠花园、佳兆业大都汇"
+  }
+ ],
+ "siteCode": "0529",
+ "siteIntroduce": "布吉站位于深圳市龙岗区布吉铁东路与龙岗大道交汇处、沿龙岗大道方向设置，为3、5、14号线换乘站。该站为高架站。",
+ "siteName": "布吉站",
+ "siteNameen": "Buji",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:52",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  },
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:03",
+   "mobanchexia": "00:22",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:50",
+   "shoubanchexia": "05:45",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:45",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

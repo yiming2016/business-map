@@ -1,0 +1,163 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "339、M272、M164",
+     "busName": "华为地铁站东"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M309、M568、A7、D2",
+     "busName": "华为地铁站①"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M568、328、A7、E27、M578、321、334、M137、M282、M383、M567、M164",
+     "busName": "华为单身公寓北"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M383、M309、M137、M567、M282、321、334、328、E27",
+     "busName": "华为地铁站"
+    }
+   ],
+   "chukou": "F出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:25",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:39",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "339、M272、M164",
+     "busName": "Huawei Metro Station East"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M309、M568、A7、D2",
+     "busName": "Huawei Metro Station ①"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M568、328、A7、E27、M578、321、334、M137、M282、M383、M567、M164",
+     "busName": "Huawei Singles Apartment North"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M383、M309、M137、M567、M282、321、334、328、E27",
+     "busName": "Huawei Metro Station"
+    }
+   ],
+   "chukou": "Exit F"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:25",
+   "mobanchexia": "00:30",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:39",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坂雪岗大道东侧（南）、万科城幼儿园、华为地铁站东公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坂雪岗大道东侧（北）、华为地铁站①公交站、象角塘村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "坂雪岗大道西侧（北）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "稼先路北侧、居里夫人大道东侧（北）、马蹄山村、华为单身公寓北公交站、深圳华为坂田园区-J区、国大互联教育集团"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "稼先路南侧、居里夫人大道东侧（南）、深圳华为坂田园区-K区"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "坂雪岗大道西侧（南）、华为地铁站公交站"
+  }
+ ],
+ "siteCode": "1014",
+ "siteIntroduce": "华为站位于深圳市龙岗区坂雪岗大道和稼先路交叉口。该站为地下站。",
+ "siteName": "华为站",
+ "siteNameen": "Huawei",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:24",
+   "mobanchexia": "23:30",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:35",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

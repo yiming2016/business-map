@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8路、73路、229路、337路、366路、M401路、M482",
+     "busName": "鹿丹村站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73路、229路、337路、366路、M182路、M401路、8路",
+     "busName": "鹿丹村站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73路、229路、337路、366路、M182路、M401路、8路",
+     "busName": "鹿丹村站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:06",
+   "mobanchexia": "00:03",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8、73、229、337、366、M401、M482",
+     "busName": "Ludancun Station"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73、229、337、366、M182、M401、8",
+     "busName": "Ludancun Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73、229、337、366、M182、M401、8",
+     "busName": "Ludancun Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:06",
+   "mobanchexia": "01:03",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "滨河大道南侧、深城投中心、中海鹿丹名苑"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "滨苑铁路新村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "木棉花街、华瑞大厦、幸福里"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "金塘街、深圳市罗湖高级中学、滨苑住宅小区、深圳市滨河小学"
+  }
+ ],
+ "siteCode": "0929",
+ "siteIntroduce": "鹿丹村站位于罗湖区滨河大道旁。为地下站。",
+ "siteName": "鹿丹村站",
+ "siteNameen": "Ludancun",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:05",
+   "mobanchexia": "00:03",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

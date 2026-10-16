@@ -1,0 +1,235 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "306路、82路、M508路",
+     "busName": "东门②"
+    },
+    {
+     "busInfo": "369路、M190路、M239路、M402路、211路",
+     "busName": "东门③"
+    },
+    {
+     "busInfo": "211路大站快车",
+     "busName": "东门④"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369路、M508路、M403路",
+     "busName": "东门①"
+    },
+    {
+     "busInfo": "5路、203路、M199路、69路",
+     "busName": "东门⑥"
+    }
+   ],
+   "chukou": "A3出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "306路、M403路、M508路、369路、11路、3路",
+     "busName": "东门中①"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3路、、369路、M403路、306路、M508路、1路大站快车、马峦山公园假日专线1号",
+     "busName": "东门中①"
+    },
+    {
+     "busInfo": "M199路、203路、5路、M407路",
+     "busName": "东门⑥"
+    }
+   ],
+   "chukou": "东门中②：113路、211路、307路、M555路、82路C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M399路大站快车",
+     "busName": "东门⑤"
+    }
+   ],
+   "chukou": "D1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "211路、M402路、M239路、M190路、369路",
+     "busName": "东门③"
+    }
+   ],
+   "chukou": "D3出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "00:05",
+   "mobanchexia": "23:24",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "306 Road、82Road、M508Road",
+     "busName": "East gate②"
+    },
+    {
+     "busInfo": "369Road、M190Road、M239Road、M402Road、211Road",
+     "busName": "East gate③"
+    },
+    {
+     "busInfo": "211 Bus Station Express",
+     "busName": "East gate ④"
+    }
+   ],
+   "chukou": "A1 Exit"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369Road、M508Road、M403Road",
+     "busName": "East gate ①"
+    },
+    {
+     "busInfo": "5Road、203Road、M199Road、69Road",
+     "busName": "The East Gate ⑥"
+    }
+   ],
+   "chukou": "A3 Exit"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "113Road、211Road、307Road、M555Road、82Road",
+     "busName": "East gate middle ① : 306Road、M403Road、M508Road、369Road、11Road、3Road. East gate middle ②"
+    }
+   ],
+   "chukou": "B Exit"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3Road、369Road、M403Road、306Road、M508Road、1Bus Station Express、Maluan Mountain Park Holiday Line 1",
+     "busName": "East gate middle①"
+    },
+    {
+     "busInfo": "M199Road、203Road、5Road、M407Road",
+     "busName": "The East Gate ⑥"
+    }
+   ],
+   "chukou": "C Exit"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M399 Bus Station Express",
+     "busName": "East gate ⑤"
+    }
+   ],
+   "chukou": "D1 Exit and entrance"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "211Road、M402Road、M239Road、M190Road、369Road",
+     "busName": "East gate ③"
+    }
+   ],
+   "chukou": "D3 Exit and entrance"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:51",
+   "mobanchexia": "00:21",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "东门中路东侧（南）、湖贝路、兴湖路（南）、东门步行街(东)、东门市场、城东社区、东门金融大厦"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "东门中心城"
+  },
+  {
+   "outt": "A3出入口",
+   "textt": "东门中路、东门中心城（西）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "东门中路北侧(东)、兴湖路北侧、中兴路、东升街"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "东门中路北侧(西)、童乐路、深圳儿童公园、华盛君荟名庭"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "晒布路、立新路、深圳市红十字会、人民公园、深圳中学、人民小学、东门天地"
+  },
+  {
+   "outt": "D3出入口",
+   "textt": "东门中路南侧（西）、东门步行街(西)、立新路、新园路、罗湖医院集团东门社康中心、新园路、深圳小学、南海中心"
+  }
+ ],
+ "siteCode": "0312",
+ "siteIntroduce": "晒布站位于东门中路与晒布路交汇处。该站为地下站。",
+ "siteName": "晒布站",
+ "siteNameen": "Shaibu",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "00:05",
+   "mobanchexia": "23:24",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

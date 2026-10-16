@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M166、高快巴士33、高快巴士23、M368、M387、M206、M525、M532、M596、高峰专线148、虹桥公园假日专线1",
+     "busName": "光明大街地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M368、M532、M525、M596、M206、B972、B963",
+     "busName": "光明中心站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720、B953",
+     "busName": "光明中心站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720、B949、B963、B953、B972、E15、M596、高峰专线148、高快巴士33、高快巴士23、虹桥公园假日专线1",
+     "busName": "光明大街地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:23",
+   "mobanchexia": "23:51",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M166、High speed bus33、speed bus23、M368、M387、M206、M525、M532、M596、Peak-hour Special Line148、Hongqiao Park Hoilday Line1",
+     "busName": "Guangming St Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M368、M532、M525、M596、M206、B972、B963",
+     "busName": "Guangming center Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720、B953",
+     "busName": "Guangming center Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "720、B949、B963、B953、B972、E15、M596、Peak-hour Special Line148、High speed bus33、speed bus23、Hongqiao Park Hoilday Line1",
+     "busName": "Guangming St Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:53",
+   "mobanchexia": "00:49",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:43",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "光明大道东侧（南）、河心北路(东）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "光明大道东侧（北）、光明大街（东）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "光明大道西侧（北）、光明大街（西）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "光明大道西侧（南）、河心北路(西）"
+  }
+ ],
+ "siteCode": "0617",
+ "siteIntroduce": "光明大街站位于光明大道与光明大街交叉路口以南、沿光明大道中呈南北向布置。该站为高架站。",
+ "siteName": "光明大街站",
+ "siteNameen": "Guangming St",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:23",
+   "mobanchexia": "23:51",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

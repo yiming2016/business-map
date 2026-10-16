@@ -1,0 +1,123 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324路、60路、M312路、M581路、216路、高峰专列46、334路、201路、67路",
+     "busName": "梅林一村"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324路、60路、M312路、M581路、216路、高峰专列46、334路、201路、67路",
+     "busName": "梅林一村"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:27",
+   "mobanchexia": "23:42",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:01",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324、60、M312、M581、216、Peak Special Line 46、334、201、67",
+     "busName": "Meilin Yicun"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "324、60、M312、M581、216、Peak Special Line 46、334、201、67",
+     "busName": "Meilin Yicun"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:27",
+   "mobanchexia": "00:42",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:31",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "河背村、梅丽路南侧、梅华路、梅林路南侧（西）、富盛花园"
+  },
+  {
+   "outt": "B1出入口",
+   "textt": "梅林路南侧（东）、星林巷"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "金梅花园、深圳市梅林小学、宏安花园、梅林二村、碧荔花园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "梅林路北侧（东）、梅亭路、深圳市福田区第二人民医院、下梅林文体公园、深圳中学梅香学校、润裕花园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "梅林一村、梅林路北侧（西）、梅丽路北侧、梅林水库"
+  }
+ ],
+ "siteCode": "0919",
+ "siteIntroduce": "下梅林站位于梅丽路与梅林路交汇路口以东的梅林路。该站为地下站。",
+ "siteName": "下梅林站",
+ "siteNameen": "Xiameilin",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:27",
+   "mobanchexia": "23:42",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

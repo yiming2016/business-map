@@ -1,0 +1,115 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "43、74、81、M217、M566、高峰专线46、高峰专线55、高峰专线59、高峰专线93、高峰专线119、高快巴士23",
+     "busName": "长岭陂地铁站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "43、74、81、M217、M566、高峰专线46、高峰专线55、高峰专线59、高峰专线93、高峰专线119、高快巴士23",
+     "busName": "长岭陂地铁站"
+    }
+   ],
+   "chukou": "A2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:26",
+   "mobanchexia": "23:59",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "05:49",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "43、 74、 81、 M217、M566、 Peak Special Line 46、Peak Special Line 55、Peak Special Line 59、Peak Special Line 93、Peak Special Line 119、、Express Bus No.23",
+     "busName": "Changlingpi Metro Station"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "43、 74、 81、 M217、M566、 Peak Special Line 46、Peak Special Line 55、Peak Special Line 59、Peak Special Line 93、Peak Special Line 119、、Express Bus No.23",
+     "busName": "Changlingpi Metro Station"
+    }
+   ],
+   "chukou": "Exit A2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:26",
+   "mobanchexia": "00:59",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "05:49",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "京基御景峰、留仙大道东侧、长源居委会"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "留仙大道西侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "长岭陂水库、留仙大道北侧"
+  }
+ ],
+ "siteCode": "0520",
+ "siteIntroduce": "长岭陂站位于深圳市南山区、延留仙大道呈东西走向布设。该站为高架站。",
+ "siteName": "长岭陂站",
+ "siteNameen": "Changlingpi",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:26",
+   "mobanchexia": "23:59",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:51",
+   "shoubanchexia": "05:48",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

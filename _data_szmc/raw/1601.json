@@ -1,0 +1,141 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M160",
+     "busName": "西坑市场"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M160",
+     "busName": "西坑学校"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M160、C50、高峰专线194",
+     "busName": "西坑工业园"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "--",
+   "shoubanchexia": "05:51",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M160",
+     "busName": "Xikeng Market"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M160",
+     "busName": "Xikeng Primary School"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M160、C50、Peak Line194",
+     "busName": "Xikeng Industrial Park"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "--",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "05:49",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": " 教育路东侧（南）、白鸡斗公园、白鸡斗、西坑3区、西坑市场公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "教育路东侧（北）、西坑社区党群服务中心、龙岗区第三人民医院西坑社区健康服务中心、西湖公园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "教育路西侧（北）、西坑学校公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "教育路西侧（中）、西坑小学公园、西坑学校、西坑幼儿园"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "教育路西侧（南）、西坑工业园公交站"
+  }
+ ],
+ "siteCode": "1601",
+ "siteIntroduce": "园山西坑站位于教育路与梧桐路交叉口处北侧。沿教育路南北向设置。该站为地下站。",
+ "siteName": "园山西坑站",
+ "siteNameen": "Yuanshan Xikeng",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "05:42",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

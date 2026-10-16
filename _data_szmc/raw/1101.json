@@ -1,0 +1,207 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M401路、M463路、M559路、8路、29路、63路、E25路、14路、M482路（9号线）",
+     "busName": "红岭南地铁站1"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14路、M401路（9号线）",
+     "busName": "红岭南地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "29路、85路、104路、M106路、M133路（9号线）",
+     "busName": "深圳书城"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8路、E25路、63路、M463路、M559（11号线）",
+     "busName": "红岭南地铁站"
+    }
+   ],
+   "chukou": "G出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:07",
+   "mobanchexia": "00:01",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "--",
+   "mobanchexia": "23:19",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M401、M463、M559、8、29、63、E25、14、M482（Line 9）",
+     "busName": "Hongling South Station 1"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14、M401（Line 9）",
+     "busName": "Hongling South Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "29、85、104、M106、M133（Line 9）",
+     "busName": "Shenzhen Book Mall"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "8、E25、63、M463、M559（Line 11）",
+     "busName": "Hongling South Station"
+    }
+   ],
+   "chukou": "Exit G"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:07",
+   "mobanchexia": "01:01",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:27",
+   "shoubanchexia": "06:17",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "--",
+   "mobanchexia": "00:19",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "红岭南路、深南中路、红岭中路、邓小平画像、荔枝公园、红岭大厦、万德大厦、新闻大厦（9号线）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "金华街、深圳平乐骨伤科医院、晶都大厦（9号线）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "金塘街、深南东路、书城路、金融中心大厦、深业中心（9号线）"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "金塘街、书城路、丽晶大厦（11号线）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "红岭南路、埔尾路、滨河小学公交站（11号线）"
+  }
+ ],
+ "siteCode": "1101",
+ "siteIntroduce": "红岭南站位于深南东路与红岭南路交叉路口的东南侧。需出站换乘11号线红岭南站。该站为地下站。\n11号线红岭南站位于红岭南路与金华街的“十”字交叉路口东侧。需出站换乘9号线红岭南站。该站为地下站。",
+ "siteName": "红岭南站",
+ "siteNameen": "Hongling South",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:07",
+   "mobanchexia": "00:01",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "早2分15秒、晚3分07秒。",
+   "gaofenjiangeen": "早2m15s、晚3m07s。",
+   "mobanche": "--",
+   "mobanchexia": "23:19",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "--",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ]
+}

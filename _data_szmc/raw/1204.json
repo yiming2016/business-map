@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M409",
+     "busName": "南玻大厦"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M113、M241、M409、M527",
+     "busName": "花果山地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M113、M241、M409、M527",
+     "busName": "花果山地铁站"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M113、M241、M409、M527",
+     "busName": "花果山地铁站"
+    }
+   ],
+   "chukou": "C2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:19",
+   "mobanchexia": "23:06",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M409",
+     "busName": "CSG Holding Bldg"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M113、M241、M409、M527",
+     "busName": "Huaguoshan Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M113、M241、M409、M527",
+     "busName": "Huaguoshan Metro Station"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M113、M241、M409、M527",
+     "busName": "Huaguoshan Metro Station"
+    }
+   ],
+   "chukou": "Exit C2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:19",
+   "mobanchexia": "00:06",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "南海大道东侧、工业六路北侧、深圳市育才一中"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "南海大道东侧、深圳市前海蛇口自贸区医院、国家税务总局深圳市蛇口税务局、蛇口体育中心、四海公园"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "南海大道西侧"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "南海大道西侧、悠然公园、南山公园"
+  }
+ ],
+ "siteCode": "1204",
+ "siteIntroduce": "花果山站位于位于工业六路与南海大道交叉口附近、车站沿南海大道南北向布置。该站为地下站。",
+ "siteName": "花果山站",
+ "siteNameen": "Huaguoshan",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:19",
+   "mobanchexia": "23:06",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

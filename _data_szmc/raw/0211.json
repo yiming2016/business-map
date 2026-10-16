@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M486、49、M355、M530",
+     "busName": "红树湾地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "49、M355、M530",
+     "busName": "深湾汇云中心公交首末站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "49、58、M486",
+     "busName": "深湾一路中"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:18",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "05:44",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M486、49、M355、M530",
+     "busName": "Hongshuwan Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "49、M355、M530",
+     "busName": "Shenwan Huiyun Centre bus terminal"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "49、58、M486",
+     "busName": "Middle of Shenwan 1st Road"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:18",
+   "mobanchexia": "00:08",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "05:44",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "白石三道南侧（西）、深湾一路东侧（南）、白石四道北侧、深湾汇云中心公交首末站、深圳市南山实验教育集团深湾小学、红树西岸、睿印"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "白石三道南侧（东）、深湾睿云中心、瑧湾汇"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "白石三道北侧、深湾一路东侧（北）、深湾一路中、深圳市南山实验教育集团华侨城高级中学、中信红树湾、南山京基百纳广场"
+  }
+ ],
+ "siteCode": "0211",
+ "siteIntroduce": "红树湾站位于南山区白石三道与深湾一路交汇处。该站为地下站。",
+ "siteName": "红树湾站",
+ "siteNameen": "Hongshuwan",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:18",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:27",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

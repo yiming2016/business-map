@@ -1,0 +1,163 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M106路、M137路、M192路、高峰专线96号线、高快巴士60号线",
+     "busName": "华强路地铁站公交站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3路、13路、62路、104路、M190路、M405路、M102路、223路、377路、M112路",
+     "busName": "上海宾馆公交站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3路、13路、62路、104路、223路、337路、M102路、M112路、M190路、高快巴士6号线、高峰专线57号",
+     "busName": "上海宾馆公交站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M106路、M133路、M137路、M192路、E26路、M383路、M405路、高峰专线96号、高快巴士60号",
+     "busName": "华强路地铁站公交站"
+    },
+    {
+     "busInfo": "高快巴士6路、M137路、M405路、E26路",
+     "busName": "华强路地铁公交接驳"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:58",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M106、M137、M192、Peak Line 96、Express Bus number 60",
+     "busName": "Huaqiang Road Metro Station Bus Stop"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、13、62、104、M190、M405、M102、223、377、M112",
+     "busName": "Shanghai Hotel Bus Stop"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "3、13、62、104、223、337、M102、M112、M190、Express bus number 6、Peak Line 57",
+     "busName": "Shanghai Hotel Bus Stop"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M106、M133、M137、M192、E26、M383、M405、Peak Line 96、Express Bus number 60",
+     "busName": "Huaqiang Road Metro Station Bus Stop"
+    },
+    {
+     "busInfo": "Express Bus number 6、M137、M405、E26",
+     "busName": "Huaqiang Road Metro Shuttle Bus Stop"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:58",
+   "mobanchexia": "00:10",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深南大道北侧（东）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南大道北侧（西）、中航路、深圳中心公园、田面新村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深南大道南侧（西）、福虹路、中山大学附属第八医院、深圳市福田中学"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "深南大道南侧（东）、深圳市中医院、华强南路"
+  }
+ ],
+ "siteCode": "0106",
+ "siteIntroduce": "华强路站位于深圳市福田区华富路与华强路之间的深南中路交汇处。该站为地下站。",
+ "siteName": "华强路站",
+ "siteNameen": "Huaqiang Rd",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:58",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

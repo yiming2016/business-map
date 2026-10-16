@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线121",
+     "busName": "合水口地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M218、M411、M495、M234、M410、M548",
+     "busName": "合水口地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M337、M411、M548、M410、M495、高峰专线121",
+     "busName": "合水口地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M337、M411、M410、M495、M548、高峰专线121",
+     "busName": "合水口地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:09",
+   "mobanchexia": "00:05",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 121",
+     "busName": "heshuikou station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M218、M411、M495、M234、M410、M548",
+     "busName": "heshuikou station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M337、M411、M548、M410、M495、Peak Special Line 121",
+     "busName": "heshuikou station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M337、M411、M410、M495、M548、Peak Special Line 121",
+     "busName": "heshuikou station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:39",
+   "mobanchexia": "01:03",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:17",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "松白路北侧（东）、合水口村、合水口图书馆、合水口文化广场"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "松白路北侧（西）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "松白路南侧（西）、马田小学"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "松白路南侧（东）、马山头社区健康服务中心"
+  }
+ ],
+ "siteCode": "0623",
+ "siteIntroduce": "合水口站位于光明区松白路与马田路交叉路口东侧，该站为高架站。",
+ "siteName": "合水口站",
+ "siteNameen": "Heshuikou",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:09",
+   "mobanchexia": "00:05",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:29",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

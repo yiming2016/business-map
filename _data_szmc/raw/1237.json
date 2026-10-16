@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M184、652；才华学校",
+     "busName": "步涌新村站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M254",
+     "busName": "汇百川站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M184、652",
+     "busName": "步涌新村站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:04",
+   "mobanchexia": "00:21",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M184、652；Talent School",
+     "busName": "Buyong New Village Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M254",
+     "busName": "Huibaichuan Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M184、652",
+     "busName": "Buyong New Village Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:04",
+   "mobanchexia": "01:21",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "新和大道南侧（东）、沙井路东侧、深圳市步涌幼儿园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "沙井路东侧、新和大道北侧、步涌体育公园、深圳市才华学校"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "沙井路西侧、新和大道北侧"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "新和大道南侧（西）、沙井路西侧"
+  }
+ ],
+ "siteCode": "1237",
+ "siteIntroduce": "步涌站位于新和大道与沙井路交汇处、沿沙井路敷设。该站为地下站",
+ "siteName": "步涌站",
+ "siteNameen": "Buchong",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒/6分36秒、晚3分48秒/7分48秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:04",
+   "mobanchexia": "00:21",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

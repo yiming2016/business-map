@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、939、963",
+     "busName": "坪山地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、939、963、E28、M427、M440、M426、M478、M479、M489、M564",
+     "busName": "坪山地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:20",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、939、963",
+     "busName": "Ping Shan Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、939、963、E28、M427、M440、M426、M478、M479、M489、M564",
+     "busName": "Ping Shan Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:20",
+   "mobanchexia": "00:45",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "站前路南侧（西）、坪山地铁站公交站、坪山高铁站（云巴站）、奋斗广场"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "站前路南侧（东）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "站前路北侧（东）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "站前路北侧（西）、深圳坪山站（高铁）、坪山地铁站（公交站）"
+  }
+ ],
+ "siteCode": "1622",
+ "siteIntroduce": "坪山站位于高铁坪山站南侧站前路下、呈东西向布置。坪山站位于高铁坪山站南侧站前路下、沿站前路呈东西向布置，该站为地下站。",
+ "siteName": "坪山站",
+ "siteNameen": "Pingshan",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:20",
+   "mobanchexia": "23:45",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

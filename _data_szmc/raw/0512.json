@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E15、E36、M131、M375、M376、M377、M379、M483、高快巴士33、高峰专线187（原B687）",
+     "busName": "翻身地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M197",
+     "busName": "翻身地铁站①"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M375、M376、M377、M379、M483、高快巴士33、B932、E15、E36、M131",
+     "busName": "翻身地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:50",
+   "mobanchexia": "23:35",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E15、 E36、 M131、 M375、 M376、 M377、 M379、 M483、 Express Bus 33、Peak Express Line187（ B687）",
+     "busName": "Fanshen Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M197",
+     "busName": "Fanshen Metro Station ①"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M375、 M376、 M377、 M379、 M483、 Express Bus 33、B932、E15、E36、M131",
+     "busName": "Fanshen Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:50",
+   "mobanchexia": "00:35",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "宝安大道东侧、创业一路南侧（西）、西城上筑"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "创业一路南侧（东）、翻身路西侧（南）、安乐小学、海滨中学"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "创业一路北侧、翻身路西侧（北）、洪福雅苑、海天花园、海滨城广场   、深圳宝安区翻身实验学校（东校区）、裕安一路"
+  }
+ ],
+ "siteCode": "0512",
+ "siteIntroduce": "翻身站位于宝安区翻身村创业一路与翻身路交叉口西侧。该站为地下站。",
+ "siteName": "翻身站",
+ "siteNameen": "Fanshen",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:50",
+   "mobanchexia": "23:35",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1路、M559",
+     "busName": "田贝新村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M404、M183",
+     "busName": "田贝③"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "357、377、M190、M213",
+     "busName": "洪湖二街东"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M192、M203、M239、M329、M402、M403、27、82、307、312、369、M437、M526",
+     "busName": "田贝①"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M239、M329、M402、M403、M404、303、307、357、369、377",
+     "busName": "田贝②"
+    }
+   ],
+   "chukou": "C2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M190、M192、M203、M213、M437、M526、82、27、312、977",
+     "busName": "田贝①"
+    }
+   ],
+   "chukou": "C2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、371、377、M183、M203、M403、M404、303、307、312、357、366",
+     "busName": "洪湖公园①"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M239、M402、M437、M526、27、82、977、M190、M192",
+     "busName": "洪湖公园②"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:04",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、M559",
+     "busName": "Tianbei New Village"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M183、M404",
+     "busName": "TianBei③"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "357、377、M190、M213",
+     "busName": "Honghu 2nd St East"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M192、M203、M239、M329、M402、M403、27、82、307、312、369、M437、M526",
+     "busName": "TianBe①"
+    }
+   ],
+   "chukou": "Exit C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M239、M329、M402、M403、M404、303、307、357、369、377",
+     "busName": "Tian Bei ②"
+    }
+   ],
+   "chukou": "Exit C2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M190、M192、M203、M213、M437、M526、82、27、312、977",
+     "busName": "Tian Bei ①"
+    }
+   ],
+   "chukou": "Exit C2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "369、371、377、M183、M203、M403、M404、303、307、312、357、366",
+     "busName": "Honghu Park ①"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:04",
+   "mobanchexia": "00:58",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "洪湖路东侧、田贝四路南侧（西）、田贝村、田贝花园、美景大厦、美景花园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "文锦北路西侧（北）、田贝四路北侧（西）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "文锦北路（南）、田贝四路南侧、田贝村、田贝花园、田苑小区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "文锦北路东侧（北）、田贝四路北侧（东）、洪湖公园、水田一街、KK TIME全生活购物中心"
+  }
+ ],
+ "siteCode": "0727",
+ "siteIntroduce": "洪湖站位于田贝四路与文锦北路路口处的西北侧、与田贝四路平行布置。该站为地下站。",
+ "siteName": "洪湖站",
+ "siteNameen": "Honghu",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:04",
+   "mobanchexia": "23:58",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B991",
+     "busName": "铁路公园地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "81、B991、M409、M430",
+     "busName": "信利康大厦"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:08",
+   "mobanchexia": "23:18",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B991",
+     "busName": "Railway Park Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "81、B991、M409、M430",
+     "busName": "Qianhai Sinlikon Center"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "01:08",
+   "mobanchexia": "00:18",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "自贸大街东侧（南）、颐湾府、深国际前海颐都大厦、铁路公园地铁站公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "自贸大街东侧（北）、怡海大道南侧（东）、中欧国际工商学院（深圳校区）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "怡海大道南侧（西）、自贸大街西侧（北）、港城街北侧"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "自贸西街、港城街南侧、前海自贸大厦"
+  }
+ ],
+ "siteCode": "0503",
+ "siteIntroduce": "铁路公园站位于南山区怡海大道与港城街路口、横跨怡海大道、该站为地下站。",
+ "siteName": "铁路公园站",
+ "siteNameen": "Railway Park",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒/4-5分16秒",
+   "gaofenjiangeen": "2-2m38s/4-5m16s",
+   "mobanche": "00:08",
+   "mobanchexia": "23:18",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

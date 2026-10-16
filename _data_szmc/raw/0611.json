@@ -1,0 +1,123 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M193、M340、M301、M415",
+     "busName": "元芬地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M193、M340、M301、M415",
+     "busName": "元芬地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:46",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M193、 M340、 M301、 M415",
+     "busName": "Yuanfen Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M193、 M340、 M301、 M415",
+     "busName": "Yuanfen Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "01:15",
+   "mobanchexia": "00:27",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "布龙路东侧(南)、上早新村"
+  },
+  {
+   "outt": " B出入口",
+   "textt": "布龙路东侧(北)、鹊山二村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "布龙路西侧(北) 、鹊山新二村西区"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "布龙路西侧(南)"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "布龙路西侧"
+  }
+ ],
+ "siteCode": "0611",
+ "siteIntroduce": "元芬站位于布龙路与元芬路交叉口以北、沿布龙路路中呈南北向铺设。该站为高架站",
+ "siteName": "元芬站",
+ "siteNameen": "Yuanfen",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒",
+   "gaofenjiangeen": "2m20s-3m12s",
+   "mobanche": "23:46",
+   "mobanchexia": "23:28",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

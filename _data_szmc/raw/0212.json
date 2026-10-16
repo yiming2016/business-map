@@ -1,0 +1,213 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、26、42、101、223、M113、M191、M312、M486、M487、N4",
+     "busName": "世界之窗公交站台①"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M194、M413、323、324、369",
+     "busName": "世界之窗公交站台②"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "392、66、43、M535、M435、320、395、高峰专线36",
+     "busName": "世界之窗地铁公交接驳站"
+    }
+   ],
+   "chukou": "C、H出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、26、42、101、223、323、369、M191、M312、M486、M487、N4、观光巴士城市中心线、观光巴士魅力湾区线、观光巴士蔚蓝海岸线",
+     "busName": "世界之窗公交站台①"
+    }
+   ],
+   "chukou": "H1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M113、M194、M413",
+     "busName": "世界之窗公交站台②"
+    }
+   ],
+   "chukou": "H1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:15",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "05:47",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:15",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "05:47",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、26、42、101、223、M113、M191、M312、M486、M487、N4",
+     "busName": "Exit A丨Window of the World Bus Stop 1"
+    },
+    {
+     "busInfo": "M194、M413、323、324、369",
+     "busName": "Exit C1丨Window of the World Bus Stop 2"
+    },
+    {
+     "busInfo": "392、66、43、M535、M435、320、395、Peak Line36",
+     "busName": "Exit C、H丨Window of the world Metro-Bus Transfer"
+    },
+    {
+     "busInfo": "21、26、42、101、223、323、369、M191、M312、M486、M487、N4、Urban Central Line Sightseeing Bus、Charming Bay Area Line Sightseeing Bus、Azure Coast Sightseeing Bus",
+     "busName": "Exit H1丨Window of the World Bus Stop 1"
+    },
+    {
+     "busInfo": "M113、M194、M413",
+     "busName": "Exit H1丨Window of the World Bus Stop 2"
+    }
+   ],
+   "chukou": ""
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:15",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "05:47",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:15",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "05:47",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深南大道北侧（东）、南山、宝安方向、侨城西街、世界之窗公交总站、欢乐谷、益田假日广场、世界之窗公交站台①"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南大道北侧、沙河大厦、益田假日广场"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "金河路、深圳沙河医院、深圳市南山外国语学校（集团）沙河小学、白石洲、 益田假日广场、趣WAY商业街（北）、世界之窗地铁公交接驳站、世界之窗公交站台②"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "罗湖、福田方向、深南大道南侧（西）、梅拉尼亚小镇·阿尔卑斯冰雪世界、趣WAY商业街（南）、世界之窗地铁公交接驳站、世界之窗公交站台①、世界之窗公交站台②"
+  },
+  {
+   "outt": "I出入口",
+   "textt": "罗湖、福田方向、深南大道南侧（东）、梅拉尼亚小镇·阿尔卑斯冰雪世界"
+  },
+  {
+   "outt": "J出入口",
+   "textt": "世界之窗（金字塔）"
+  },
+  {
+   "outt": "K出入口",
+   "textt": "临时关闭"
+  }
+ ],
+ "siteCode": "0212",
+ "siteIntroduce": "世界之窗站位于深南大道，为1、2号线的换乘站。该站为地下站。",
+ "siteName": "世界之窗站",
+ "siteNameen": "Window of the World",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:15",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:25",
+   "shoubanchexia": "05:49",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:15",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:25",
+   "shoubanchexia": "05:49",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

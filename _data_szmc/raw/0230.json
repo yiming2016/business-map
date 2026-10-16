@@ -1,0 +1,154 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "27、57、69、85、308、381、M348、M364、M437、M520、M526",
+     "busName": "莲塘口岸①"
+    }
+   ],
+   "chukou": "A3出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "111、113、218、312、E17、M102、M133、M146、M182、M199、M205",
+     "busName": "莲塘口岸②"
+    }
+   ],
+   "chukou": "A3出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "27、57、69、85、218、308、381、M348、M364、M437、M526、M520",
+     "busName": "莲塘口岸①"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "111、M102、M205、M133、M182、M199、M207、113、M146、M468、E17",
+     "busName": "莲塘口岸②"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "113、308、M348、E11、E26、M468、大鹏假日专线4",
+     "busName": "广岭"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E11、113、308、M468、E26、M348、大鹏假日专线4",
+     "busName": "广岭"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:34",
+   "mobanchexia": "23:52",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E11、113、308、M468、E26、M348、Dapeng Holiday Line 4",
+     "busName": "Guangling"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:34",
+   "mobanchexia": "00:52",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:54",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "罗沙路南侧（东）、西岭花园（东北门）、罗湖区委党校、深圳广播电视大学罗湖分校、曦龙山庄"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "兰亭国际名园、莲塘口岸旅检大楼"
+  },
+  {
+   "outt": "A3出入口",
+   "textt": "新世界四季御园、莲塘口岸旅检大楼"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "罗沙路北侧（东）、广岭家园、萃峰阁"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "延芳路西侧（北）、深圳市公安局罗湖分局巡警大队、东湖公园、罗湖体育馆、罗湖区行政服务大厅、罗湖体育公园、中建花园、华清园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "罗沙路南侧（西）、龙景花园芳庭苑"
+  }
+ ],
+ "siteCode": "0230",
+ "siteIntroduce": "莲塘口岸站位于深圳市罗湖区罗芳路与延芳路交叉口、车站主体呈南北走向。该站为地下站。",
+ "siteName": "莲塘口岸站",
+ "siteNameen": "Liantang Checkpoint",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:34",
+   "mobanchexia": "23:52",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

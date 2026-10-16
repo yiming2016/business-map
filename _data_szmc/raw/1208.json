@@ -1,0 +1,332 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "204、B657、M347、高峰专线120",
+     "busName": "向南东村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "74、204、369、E3、M105、M241、M506、N4",
+     "busName": "南山地铁站"
+    }
+   ],
+   "chukou": "B1、B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "74、369、E3、M105、M241、M483、N4、M506",
+     "busName": "南山地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、337、M105、M182、M347、M463、M483、M562、高峰专线120",
+     "busName": "荔园大厦"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、337、M105、M182、M347、M463、M562、高峰专线120",
+     "busName": "荔园大厦"
+    }
+   ],
+   "chukou": "E1、E2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、74、337、369、E3、M182、M241、M372、M463、M483、M506、M562、N4",
+     "busName": "南航公司"
+    }
+   ],
+   "chukou": "F出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、74、369、E3、M182、M241、M372、M483、M562、N4、337、M506、M463",
+     "busName": "南航公司"
+    }
+   ],
+   "chukou": "G出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M347、204、高峰专线120",
+     "busName": "向南东村"
+    }
+   ],
+   "chukou": "H出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "00:21",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:11",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "204、B657、M347、Peak Special Line120",
+     "busName": "Xiangnan East Village"
+    },
+    {
+     "busInfo": "暂无",
+     "busName": ""
+    }
+   ],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "74、204、369、E3、M105、M241、M506、N4",
+     "busName": "Nanshan Metro Station"
+    },
+    {
+     "busInfo": "暂无",
+     "busName": ""
+    }
+   ],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "74、369、E3、M105、M241、M483、N4、M506",
+     "busName": "Nanshan Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、337、M105、M182、M347、M463、M483、M562、Peak Special Line120",
+     "busName": "Liyuan Building"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、337、M105、M182、M347、M463、M562、Peak Special Line120",
+     "busName": "Liyuan Building"
+    }
+   ],
+   "chukou": "Exit E1、E2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、74、337、369、E3、M182、M241、M372、M463、M483、M506、M562、N4",
+     "busName": "China Southern Airlines"
+    }
+   ],
+   "chukou": "Exit F"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、74、369、E3、M182、M241、M372、M483、M562、N4、337、M506、M463",
+     "busName": "China Southern Airlines"
+    }
+   ],
+   "chukou": "Exit G"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M347、204、Peak Special Line120",
+     "busName": "Xiangnan East Village"
+    }
+   ],
+   "chukou": "Exit H"
+  }
+ ],
+ "enoutAndText": [
+  {
+   "outt": "Exit A",
+   "textt": "South Side of Guimiao Road、Xiangnandongcun、Xiangnandongcun Bus Stop、Xiangnan Community Service Center"
+  },
+  {
+   "outt": "Exit B",
+   "textt": "West Side of Nanshan Blvd、Maiya Dental·Nanshan Branch、Nnanshan Metro Station Bus Stop"
+  },
+  {
+   "outt": "Exit C",
+   "textt": "East Side of Nanshan Blvd、South Side of Guimiao Rd"
+  },
+  {
+   "outt": "Exit D",
+   "textt": "South Side of Guimiao Road、Glorious New Century、Hongrui Garden"
+  },
+  {
+   "outt": "Exit E",
+   "textt": "North Slde of Guimiao Road、Liyuan Bldg Bus Stop、Liyuan Building、Glorious New World"
+  },
+  {
+   "outt": "Exit F",
+   "textt": "East Side of Nanshan Blvd、North Side of Guimiao Rd、Shenzhen Haibin Experimental Primary School、Shenzhen Nanshan Huaxia Eye Hospital、Wilson Dental、China Southern Airlines Bus Sto"
+  },
+  {
+   "outt": "Exit G",
+   "textt": "West Side of Nanshan Blvd、China Southern Airlines Bus Stop"
+  },
+  {
+   "outt": "Exit H",
+   "textt": "North Side of Guimiao Road、Xiangnandongcun Bus Stop、Nanshan Market、Shuntian Buiding"
+  }
+ ],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "01:20",
+   "mobanchexia": "00:44",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:11",
+   "mobanchexia": "00:15",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "桂庙路南侧、向南东村、向南东村公交站、向南社区党群服务中心"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "南山大道西侧、麦芽口腔·南山机构、南山地铁站公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "南山大道东侧、桂庙路南侧"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "桂庙路南侧、光彩新世纪、鸿瑞花园"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "桂庙路北侧、荔园大厦公交站、荔园大厦、光彩新天地"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "南山大道东侧、桂庙路北侧、深圳市海滨实验小学、深圳南山华夏眼科医院、明森口腔、南航公司公交站"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "南山大道西侧、南航公司公交站"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "桂庙路北侧、向南东村公交站、南山市场、顺天大厦"
+  }
+ ],
+ "siteCode": "1208",
+ "siteIntroduce": "南山站位于南山大道与桂庙路交汇处，为11、12 号线换乘车站。该站为地下站。",
+ "siteName": "南山站",
+ "siteNameen": "Nanshan",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分15秒、晚3分07秒。",
+   "gaofenjiangeen": "早2m15s、晚3m07s。",
+   "mobanche": "00:21",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "05:55",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:11",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:25",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

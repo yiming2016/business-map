@@ -1,0 +1,251 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M202、M555、高峰专线29",
+     "busName": "振华路中"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、高峰专线57、高峰专线29",
+     "busName": "华强路口"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M202、M555",
+     "busName": "航苑大厦"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、M202、高峰专线29",
+     "busName": "振华路中"
+    }
+   ],
+   "chukou": "E1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、M202、高峰专线29",
+     "busName": "振华路中"
+    }
+   ],
+   "chukou": "E2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M133、223、377、M112、M191、3、M193、M193路区间",
+     "busName": "赛格广场"
+    }
+   ],
+   "chukou": "D1口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:48",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:16",
+   "mobanchexia": "23:46",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M202、M555、Peak Special Line29",
+     "busName": "Zhenhua Road(Middle)"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、Peak Special Line57、Peak Special Line29",
+     "busName": "Huaqiang Crossing"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "、M202、M555",
+     "busName": "Hangyuan Building"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、M202、Peak Special Line29",
+     "busName": "Zhenhua road"
+    }
+   ],
+   "chukou": "Exit E1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M555、M202、Peak Special Line29",
+     "busName": "Zhenhua road"
+    }
+   ],
+   "chukou": "Exit E2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M133、223、377、M112、M191、3、M193、B930",
+     "busName": "SEG Plaza"
+    }
+   ],
+   "chukou": "D1"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:48",
+   "mobanchexia": "00:38",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:16",
+   "mobanchexia": "00:46",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:32",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "振华路南侧"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "华强北捐血站、深纺大厦、远望数码商城、茂业天地、深铁汇坊（华强北）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深圳中心公园、中航北苑、中航城君尚购物中心"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "华强北路东侧（南）、宝华大厦、振中路南侧、赛格广场、华强北地铁商业街、华强电子世界、深圳LED国际交易中心"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "振中路南侧、赛格广场、京华大厦、华强北地铁商业街、深圳LED国际交易中心"
+  },
+  {
+   "outt": "E1出入口",
+   "textt": "华强北路东侧（北）、振中路北侧、华强北步行街、现代之窗大厦、华联发大厦、华强健康电子智能家居国际交易中心、华强广场酒店、广发银行"
+  },
+  {
+   "outt": "E2出入口",
+   "textt": "现代之窗大厦、华联发大厦、华强北地铁商业街、华强健康电子智能家居国际交易中心、华强广场酒店、广发银行、华强电子世界"
+  }
+ ],
+ "siteCode": "0721",
+ "siteIntroduce": "2号线华强北站位于深圳市福田区振华路，7号线华强北站位于华强北路与振中路交汇处，为2、7号线的换乘站，换乘方式为通道换乘。该站为地下站。",
+ "siteName": "华强北站",
+ "siteNameen": "Huaqiang North",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:48",
+   "mobanchexia": "23:38",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:16",
+   "mobanchexia": "23:46",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

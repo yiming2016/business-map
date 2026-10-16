@@ -1,0 +1,211 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、204、M105、M242、M467、M506、B964",
+     "busName": "南油地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "204、226、M105、M106、M113、M242 、M467、M506、M527",
+     "busName": "南油地铁站"
+    }
+   ],
+   "chukou": "F1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "204、M106、M113、M467、M506 、M527",
+     "busName": "南海创业路口"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B964",
+     "busName": "南油地铁站B出口（招呼站）"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:09",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:15",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:30",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、204、M105、M242、M467、M506、B964",
+     "busName": "Nanyou Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "204、226、M105、M106、M113、M242 、M467、M506、M527",
+     "busName": "Nanyou Metro Station"
+    }
+   ],
+   "chukou": "Exit F1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "204、M106、M113、M467、M506 、M527",
+     "busName": "Nanhai Chuangye Rd Crossing"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B964",
+     "busName": "Exit B of Nanyou Metro Station（Hello Station）"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "01:00",
+   "mobanchexia": "00:09",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:29",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:15",
+   "mobanchexia": "00:10",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:30",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "南海大道东侧（南）、南油地铁站公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "南海大道东侧（北）、登良路南侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深铁汇坊（南油店）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "南海大道西侧（北）、登良路北侧"
+  },
+  {
+   "outt": "F1出入口",
+   "textt": "南海大道西侧（南）、粤海路、南油地铁站公交站"
+  },
+  {
+   "outt": "F2出入口",
+   "textt": "华年路、南山区慢性病防治院、南山区精神卫生中心、南油小学"
+  }
+ ],
+ "siteCode": "1206",
+ "siteIntroduce": "南油站位于深圳市南山区南海大道与登良路交叉口，为9、12号线的换乘站。该站为地下站。",
+ "siteName": "南油站",
+ "siteNameen": "Nanyou",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "00:00",
+   "mobanchexia": "23:09",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:15",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:30",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

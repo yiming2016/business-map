@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14路、69路、83路、97路、229路、381路、M172路、M205路、M182路、5路",
+     "busName": "翠园文锦中学"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14路",
+     "busName": "北斗小学"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M182路、M445路、2路、69路、83路、97路、381路、M205路、M205大站快车、M172路",
+     "busName": "文锦地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M182路、2路、69路、83路、97路、381路、M205路、M205大站快车、M172路",
+     "busName": "文锦地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:00",
+   "shoubanchexia": "--",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14、69、83、97、229、381、M172、M205、M182、5",
+     "busName": "Cuiyuan Wenjin Middle School"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "14",
+     "busName": "Beidou Primary Schoold"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M182、 M445、2、69、83、97、381、M205、M205 Large Station Express、M172",
+     "busName": "Wenjin Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M182、2、69、83、97、381、M205、M205 Large Station Express、M172",
+     "busName": "Wenjin Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:20",
+   "shoubanchexia": "--",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "春风路南侧（西）、文锦南路西侧（南）、 深圳市翠园文锦中学、湖贝小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "文锦南路东侧（南）、春风路南侧（东）、朗钜御风庭、联城联合大厦、文锦渡口岸、锦星花园、罗湖妇儿大厦、深圳市罗湖区妇女儿童活动中心、深圳市螺岭教育集团螺岭锦星学校、深圳联城酒店"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "文锦南路东侧（北）、文锦大厦、金安大厦、文锦花园、长安大厦、春风路北侧（东）、深圳市北斗小学"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "春风路北侧（西）、文锦南路西侧(北)、高嘉花园"
+  }
+ ],
+ "siteCode": "0932",
+ "siteIntroduce": "文锦站位于罗湖区春风路与文锦南路交汇处。为地下站。",
+ "siteName": "文锦站",
+ "siteNameen": "Wenjin",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:00",
+   "mobanchexia": "--",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "--",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

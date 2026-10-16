@@ -1,0 +1,184 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "381、M207、B625、M468",
+     "busName": "畔山路"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "113、M468",
+     "busName": "梧桐山新居"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "27、57、113、M146、M468",
+     "busName": "莲塘街道办"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "27、57、M146",
+     "busName": "莲塘地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:29",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:29",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "381、M207、B625、M468",
+     "busName": "Exit A丨Panshan Road"
+    },
+    {
+     "busInfo": "113、M468",
+     "busName": "Exit A丨Wutong Mountain Xinju"
+    },
+    {
+     "busInfo": "27、57、113、M146、M468",
+     "busName": "Exit D丨Liantang Sub-district Office"
+    },
+    {
+     "busInfo": "27、57、M146",
+     "busName": "Exit C丨Liantang Metro Station"
+    }
+   ],
+   "chukou": ""
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:29",
+   "mobanchexia": "00:57",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:29",
+   "mobanchexia": "00:57",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "国威路南侧（东）、罗沙路北侧、畔山路、深圳市罗湖区中医院、小梧桐登山处、莲南小学（莲馨校区）、御庭轩北区、华景园、深圳市罗湖外语高中学校"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "国威路北侧（东）、深圳市罗湖外语初中学校（西校区）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "粤港路东侧、国威路北侧（西）、莲塘小学、罗湖外语小学、莲馨园、天越翔园、罗湖区高新技术产业第一园区、国威电子商务大厦"
+  }
+ ],
+ "siteCode": "0232",
+ "siteIntroduce": "莲塘站位于莲塘片区国威路下。该站为地下站。",
+ "siteName": "莲塘站",
+ "siteNameen": "Liantang",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:29",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "23:29",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

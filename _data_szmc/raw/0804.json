@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M205、358、308、M199、E26、E28、M191、M437、M444、M520",
+     "busName": "A1出入口｜盐田区政府（B站台）"
+    },
+    {
+     "busInfo": "E26、M191、E28、M205、M199、M437、M444、308、358、M520",
+     "busName": "A2出入口｜盐田区政府（A站台）"
+    },
+    {
+     "busInfo": "云海专线A",
+     "busName": "B出入口｜壹海城"
+    },
+    {
+     "busInfo": "68、P670",
+     "busName": "C出入口｜盐田区政府东（B站台）"
+    },
+    {
+     "busInfo": "68、P670",
+     "busName": "C出入口｜盐田区政府东（A站台）"
+    }
+   ],
+   "chukou": ""
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:19",
+   "mobanchexia": "00:06",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M205、358、308、M199、E26、E28、M191、M437、M444、M520",
+     "busName": "Exit A1｜Yantian District Government（Station B）"
+    },
+    {
+     "busInfo": "E26、M191、E28、M205、M199、M437、M444、308、358、M520",
+     "busName": "Exit A2｜Yantian District Government（Station A）"
+    },
+    {
+     "busInfo": "Yunhai Express Line A",
+     "busName": "Exit B｜One city"
+    },
+    {
+     "busInfo": "68、P670",
+     "busName": "Exit C｜Yantian District Government East（Station B）"
+    },
+    {
+     "busInfo": "68、P670",
+     "busName": "Exit C｜Yantian District Government East（Station A）"
+    }
+   ],
+   "chukou": ""
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:19",
+   "mobanchexia": "01:06",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:50",
+   "shoubanchexia": "06:25",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "深盐路南侧（西）、盐田区政府公交站、鹏湾社区工作站、盐田产业服务中心、东和社区党群服务中心、深圳市盐田区妇幼保健院、深圳市田东中学、深圳盐田区田心小学、盐田中央公园"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "深盐路北侧(西)、盐田区政府公交站、深圳市盐田区人民政府、梧桐社区工作站、深圳市盐田区人民医院（集团）、盐田图书馆"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深盐路南侧(东)、壹海城公交站、海山公园公交站、盐田税务局、海滨栈道、灯塔图书馆、深圳市盐田区外国语小学、沙头角保税区"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深盐路北侧(东)、盐田区政府公交站、海山街道办、深圳市盐田区人民政府、深圳市盐田区人民法院、田东社区工作站、深圳市盐田区田东小学、梧桐山风景名胜区、海山公园、恩上水库"
+  }
+ ],
+ "siteCode": "0804",
+ "siteIntroduce": "海山站位于深盐路与海山路交叉口西侧。该站为地下站。",
+ "siteName": "海山站",
+ "siteNameen": "Haishan",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒/5分36秒",
+   "gaofenjiangeen": "2m48s/5m36s",
+   "mobanche": "23:19",
+   "mobanchexia": "00:06",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:26",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

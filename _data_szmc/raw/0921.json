@@ -1,0 +1,221 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线201号、201、B821、M312",
+     "busName": "上梅林公交总站"
+    }
+   ],
+   "chukou": "G出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "216、201、218、324、60、M312",
+     "busName": "福田二医院"
+    }
+   ],
+   "chukou": "G出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M460、334、B821、201、M312",
+     "busName": "中康公园"
+    }
+   ],
+   "chukou": "G出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M460、216、218、324、334、60",
+     "busName": "万科大厦"
+    }
+   ],
+   "chukou": "G出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "216、218、324、334、60、B821、M460、高峰专线201号",
+     "busName": "万科大厦"
+    }
+   ],
+   "chukou": "J1出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:43",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:23",
+   "mobanchexia": "23:46",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Line No.201、201、B821、M312",
+     "busName": "Shangmeilin Bus Terminal"
+    }
+   ],
+   "chukou": "Exit G"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "216、201、218、324、60、M312",
+     "busName": "Futian 2nd People's Hospital"
+    }
+   ],
+   "chukou": "Exit G"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M460、334、B821、201、M312",
+     "busName": "Zhongkang Park"
+    }
+   ],
+   "chukou": "Exit G"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M460、216、218、324、334、60",
+     "busName": "Vanke Bldg"
+    }
+   ],
+   "chukou": "Exit G"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "216、218、324、334、60、B821、M460、Peak Line No.201",
+     "busName": "Vanke Bldg"
+    }
+   ],
+   "chukou": "Exit J1"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:43",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:23",
+   "mobanchexia": "00:46",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:35",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "E出入口",
+   "textt": "中康路东侧（北）、深圳市中医肛肠医院、福贸花园"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "中康路东侧（南）、梅林路南侧（西）、深圳市福田区第二人民医院、怡景大厦"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "梅林路南侧（东）、安得街、海康大厦"
+  },
+  {
+   "outt": "J1出入口",
+   "textt": "梅林路北侧、梅康路、深圳市公安局梅林智能服务区、深圳档案中心、深圳方志馆、深圳党史馆、理想公馆、理想城"
+  }
+ ],
+ "siteCode": "0921",
+ "siteIntroduce": "上梅林站位于梅林路与中康路交叉口东侧的梅林路，为4、9号线换乘站。该站为地下站。",
+ "siteName": "上梅林站",
+ "siteNameen": "Shangmeilin",
+ "workDay": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:43",
+   "mobanchexia": "23:11",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:26",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:22",
+   "mobanchexia": "23:46",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

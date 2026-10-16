@@ -1,0 +1,173 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、371、376、M183、M203、M224、M244、梧桐山假日专2、M265、M271、M281、M329、M404、M406、M476",
+     "busName": "木棉湾地铁站①"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "977、M172、M239、M273、M283、M295、M358、M408、M415、M588、M589",
+     "busName": "木棉湾地铁站②"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、371、822、836、M203、M406、M476、高峰专线73、高快巴士48、梧桐山假日专线2、M224、M244、M265、M271、M281、M329、M404、M502",
+     "busName": "木棉湾地铁站①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "376、977、M172、M183、M194、M239、M273、M283、M295、M358、M408、M415、M485、M588、M589",
+     "busName": "木棉湾地铁站②"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "306、M565",
+     "busName": "木棉湾地铁站③"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:49",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、371、376、M183、M203、M224、M244、Wutong Moutain Holiday Line 2、M265、M271、M281、M329、M404、M406、M476",
+     "busName": "Mumianwan  Metro Station ①"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "977、M172、M239、M273、M283、M295、M358、M408、M415、M588、M589",
+     "busName": "Mumianwan  Metro Station ②"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "321、371、822、836、M203、M406、M476、Peak Special Line 73、Express Peak Bus 48、Wutong Moutain Holiday Line 2、M224、M244、M265、M271、M281、M329、M404、M502",
+     "busName": "Mumianwan Metro Station ①"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "376、977、M172、M183、M194、M239、M273、M283、M295、M358、M408、M415、M485、M588、M589",
+     "busName": "Mumianwan  Metro Station  ②"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "306、M565",
+     "busName": "Mumianwan  Metro Station ③"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:33",
+   "mobanchexia": "00:39",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "05:59",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B1出入口",
+   "textt": "龙岗大道南侧（西）、木棉路、木棉湾地铁站①公交站、木棉湾地铁站②公交站、佳兆业广场"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "龙岗大道南侧（东）、布沙路（东）、联美新天地华府、中国海关（布吉）、大芬油画村、联美新天地华府、蔡兴大厦"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道北侧（东）、政清路、布吉广场路、布龙路、布吉街道办、布吉派出所、布吉文体中心、木棉湾地铁站①公交站、木棉湾地铁站②公交站、布吉中心花园、灏景明苑、鸿景豪苑"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙岗大道北侧（西）、吉政路、中兴路、国家税务总局深圳市龙岗区税务局布吉税务所、深圳市不动产登记中心布吉登记所、木棉湾地铁站③公交站、文景小学、诚信华庭、中安大厦"
+  }
+ ],
+ "siteCode": "0318",
+ "siteIntroduce": "木棉湾站位于布吉街道市政广场南侧、龙岗大道方向中央分隔带上、该站为高架站。",
+ "siteName": "木棉湾站",
+ "siteNameen": "Mumianwan",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:49",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

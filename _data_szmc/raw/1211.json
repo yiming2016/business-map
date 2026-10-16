@@ -1,0 +1,191 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、M298、B627",
+     "busName": "玉泉南山路口"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、22、37、M475",
+     "busName": "中山公园东门②"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201、226、324、B627、M506、M298、高峰专线62、M176、M492",
+     "busName": "中山公园东门"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、324、22、高峰专线62、M506、37、M492、M176、M298",
+     "busName": "中山公园东门"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B627",
+     "busName": "中山公园地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201、M176、高峰专线62",
+     "busName": "南山公安分局②"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:05",
+   "mobanchexia": "23:20",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、M298、B627",
+     "busName": "Yuquan-Nanshan Rd Crossing"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、22、37、M475",
+     "busName": "East Gate to Zhongshan Park②"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201、226、324、B627、M506、M298、Express Bus62、M176、M492",
+     "busName": "East Gate to Zhongshan Park"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、324、22、Express Bus62、M506、37、M492、M176、M298",
+     "busName": "East Gate to Zhongshan Park"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B627",
+     "busName": "Zhongshan Park Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201、M176、Express Bus62",
+     "busName": "Nanshan Public Transport Branch②"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:05",
+   "mobanchexia": "00:20",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "南山大道东侧、深圳市南山实验教育集团麒麟中学、深圳市南山实验教育集团麒麟小学、南山区税务局、马家龙街心公园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "南山大道东侧、南头派出所、南头城莲花广场"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "南山大道西侧、中山公园、中山公园地铁站公交站"
+  },
+  {
+   "outt": "   D出入口",
+   "textt": "南山大道西侧、深圳市南山区南头城学校、深圳市南山区南头古城幼儿园、天主教圣保禄堂"
+  }
+ ],
+ "siteCode": "1211",
+ "siteIntroduce": "中山公园站位于南山大道与玉泉路交叉口、沿南山大道呈南北向布置。车该站为地下站。",
+ "siteName": "中山公园站",
+ "siteNameen": "Zhongshan Park",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:05",
+   "mobanchexia": "23:20",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

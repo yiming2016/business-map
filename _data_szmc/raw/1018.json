@@ -1,0 +1,96 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M346、M403、M565",
+     "busName": "凉帽山地铁站"
+    }
+   ],
+   "chukou": "D1、D2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:13",
+   "mobanchexia": "23:41",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:21",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "00:13",
+   "mobanchexia": "00:41",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:21",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "甘李二路北侧（西）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "甘李二路北侧（东）、龙岗西轨道交通派出所、凉帽山社区公园"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "甘李三路北侧（西）"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "甘李三路北侧（东）"
+  }
+ ],
+ "siteCode": "1018",
+ "siteIntroduce": "凉帽山站位于深圳市龙岗区甘李二路与甘李一路交汇处。该站为地下站。",
+ "siteName": "凉帽山站",
+ "siteNameen": "Liangmao Hill",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:13",
+   "mobanchexia": "23:41",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M549",
+     "busName": "红花山地铁站"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M173、M193、M455、M550",
+     "busName": "雍景城东公交站"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M550、M455",
+     "busName": "红花山地铁站"
+    }
+   ],
+   "chukou": "E1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M550、M455",
+     "busName": "红花山地铁站"
+    }
+   ],
+   "chukou": "E2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:14",
+   "mobanchexia": "00:01",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M549",
+     "busName": "honghuashan station"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M173、M193、M455、M550",
+     "busName": "Yongjing city East bus station"
+    }
+   ],
+   "chukou": "Exit B2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M550、M455",
+     "busName": "honghuashan station"
+    }
+   ],
+   "chukou": "Exit E1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M550、M455",
+     "busName": "honghuashan station"
+    }
+   ],
+   "chukou": "Exit E2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:44",
+   "mobanchexia": "00:58",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:34",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "兴发路南侧（东）"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "别墅路北侧（东）"
+  },
+  {
+   "outt": "              B1出入口",
+   "textt": "别墅路北侧（西）"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "兴发路南侧（西）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "别墅路北侧（西)、红花山公园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "别墅路南侧（西）、安发路北侧（西）、红花山体育中心"
+  },
+  {
+   "outt": "E1出入口",
+   "textt": "别墅路南侧（东）"
+  },
+  {
+   "outt": " E2出入口",
+   "textt": "安发路北侧（东）"
+  }
+ ],
+ "siteCode": "0621",
+ "siteIntroduce": "红花山站位于光明区别墅路与兴发路与安发路交汇处。该站为地下站。",
+ "siteName": "红花山站",
+ "siteNameen": "Honghuashan",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:14",
+   "mobanchexia": "00:01",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

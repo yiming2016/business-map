@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466、358、358快、833、M161、M167、M229、M239、M266、M357、M360、M386、M394、M396",
+     "busName": "荷坳地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466、358、358快、833、M161、M167、M229、M239、M266、M357、M360、M386、M394、M396",
+     "busName": "荷坳地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M239、M266、M357、M360、M386、M394、M396、M466、358、833、358快、M161、M167",
+     "busName": "荷坳地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M239、M266、M357、M360、M386、M394、M396、M466、358、833、358快、M161、M167",
+     "busName": "荷坳地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:30",
+   "mobanchexia": "23:59",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466、358、358快、833、M161、M167、M229、M239、M266、M357、M360、M386、M394、M396",
+     "busName": "He'ao Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466、358、358快、833、M161、M167、M229、M239、M266、M357、M360、M386、M394、M396",
+     "busName": "He'ao Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M239、M266、M357、M360、M386、M394、M396、M466、358、833、358快、M161、M167",
+     "busName": "He'ao Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M229、M239、M266、M357、M360、M386、M394、M396、M466、358、833、358快、M161、M167",
+     "busName": "He'ao Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:14",
+   "mobanchexia": "00:58",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:20",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙岗大道东侧（南）、水晶之城、水晶城小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙岗大道东侧（北）、荷康路、横岗长途汽车站、龙岗区人民法院园山人民法庭、荷坳派出所、龙岗车管所、荷坳地铁站公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道西侧（北）、坳牌路、荷坳社区、荷坳新村、乐城、乐城公园、荷坳地铁站公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙岗大道西侧（南）、坳园路、龙岗乐城小学"
+  }
+ ],
+ "siteCode": "0325",
+ "siteIntroduce": "荷坳站位于龙岗大道及荷康路交叉处的西南方，该站为高架站。",
+ "siteName": "荷坳站",
+ "siteNameen": "He'ao",
+ "workDay": [
+  {
+   "gaofenjiange": "平均3分",
+   "gaofenjiangeen": "平均3m",
+   "mobanche": "23:30",
+   "mobanchexia": "23:59",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

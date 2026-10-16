@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M341",
+     "busName": "会展湾南岸广场公交场站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "国际会展接驳专线1、国际会展商圈公交接驳专线",
+     "busName": "重庆锦程路口"
+    }
+   ],
+   "chukou": "A出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "22:40",
+   "mobanchexia": "22:20",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:08",
+   "shoubanchexia": "07:04",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M341",
+     "busName": "Bus Stop of Exhibition Bay South Bank Square"
+    }
+   ],
+   "chukou": "ExitA"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "International exhibition connection line 1、International exhibition business area bus shuttle line",
+     "busName": "Chongqing Jincheng Rd Crossing"
+    }
+   ],
+   "chukou": "ExitA"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "22:40",
+   "mobanchexia": "22:20",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:08",
+   "shoubanchexia": "07:04",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "重庆路北侧（东）、锦程路西侧（北）、展城社区党群服务中心"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深圳国际会展中心皇冠假日酒店"
+  },
+  {
+   "outt": "D出入口(临时关闭）",
+   "textt": "重庆路北侧（西）、展云路东侧（北）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "重庆路南侧、展云路东侧（南）、锦程路西侧（南）"
+  }
+ ],
+ "siteCode": "2002",
+ "siteIntroduce": "国展南站位于重庆路。该站为地下站。",
+ "siteName": "国展南站",
+ "siteNameen": "Shenzhen World South",
+ "workDay": [
+  {
+   "gaofenjiange": "10分40秒",
+   "gaofenjiangeen": "10m40s",
+   "mobanche": "22:40",
+   "mobanchexia": "22:20",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "07:08",
+   "shoubanchexia": "06:57",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M313、M376",
+     "busName": "流塘地铁站南"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "606、718、M131、M376、M436",
+     "busName": "宝安日报社"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "606、718、M313、M131、M436、M250",
+     "busName": "流塘地铁站"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "606、M250、718、M131、M313、M436",
+     "busName": "流塘地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:54",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M313、M376",
+     "busName": "Liutang Metro Station South Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "606、718、M131、M376、M436",
+     "busName": "BAO'an Daily Newspaper Office Station"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "606、718、M313、M131、M436、M250",
+     "busName": "Liutang Metro Station"
+    }
+   ],
+   "chukou": "Exit B2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "606、M250、718、M131、M313、M436",
+     "busName": "Liutang Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:54",
+   "mobanchexia": "00:32",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前进二路东侧（南）、流塘公园、天骄小学、基督教堂宝安堂"
+  },
+  {
+   "outt": "B1出入口",
+   "textt": "流塘路北侧"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "前进二路东侧（北）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "前进二路西侧（北）"
+  },
+  {
+   "outt": "G1出入口",
+   "textt": "前进二路西侧（南）、流塘小学"
+  },
+  {
+   "outt": "G2出入口",
+   "textt": "前进二路西侧（南）"
+  }
+ ],
+ "siteCode": "1216",
+ "siteIntroduce": "流塘站位于前进二路与流塘路交叉口。该站为地下站、地下一层为站厅层、地下二层为站台层、预留了与15号线流塘站换乘接口。",
+ "siteName": "流塘站",
+ "siteNameen": "Liutang",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:54",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

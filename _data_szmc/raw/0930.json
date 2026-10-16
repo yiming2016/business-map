@@ -1,0 +1,177 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337路",
+     "busName": "火车站337总站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M205路、高峰专线73路、1路、17路、82路、83路、97路、306路、337路、M468路、M508路",
+     "busName": "人民南地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "211路、307路、351路、M399路",
+     "busName": "罗湖小学①"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1路、12路、M152路、M401路、P218路",
+     "busName": "罗湖小学②"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "211路、M399路、M402路、M403路、M404路",
+     "busName": "建设路总站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:04",
+   "mobanchexia": "00:05",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337",
+     "busName": "Bus337 Terminal of Luohu Railway Station"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M205、Peak Special Line 73、1、17、82、83、97、306、337、M468、M508",
+     "busName": "Renmin nan Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "211、307、351、M399",
+     "busName": "Luohu Primary School①"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、12、M152、M401、P218",
+     "busName": "Luohu Primary School②"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "211、M399、M402、M403、M404",
+     "busName": "Jianshe Road Terminal"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:04",
+   "mobanchexia": "01:05",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:24",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "敦信大厦、深圳火车站、罗湖口岸、罗湖汽车站"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "德兴大厦西侧、建设路东侧（南）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "人民南路西侧（南）、广东省银行大厦、罗湖村、华民大厦、房地产大厦、大中华环球金融中心"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "春风路、人民南路西侧（北）、罗湖小学、罗湖区人民医院、罗湖大厦、深圳嘉里中心"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "建设路东侧（北）、南方医科大学深圳口腔医院"
+  }
+ ],
+ "siteCode": "0930",
+ "siteIntroduce": "人民南站位于春风路与人民南路交叉路口。为地下站。",
+ "siteName": "人民南站",
+ "siteNameen": "Renmin South",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:03",
+   "mobanchexia": "00:05",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

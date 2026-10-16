@@ -1,0 +1,215 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M217、E11、M340、E7、M572、M567、M130、M532、M207、GF133",
+     "busName": "深圳北站交通枢纽公交场站"
+    }
+   ],
+   "chukou": "北端出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M405、M566、M579、B917（A线）、E22、M225、M339、M353",
+     "busName": "深圳北站"
+    }
+   ],
+   "chukou": "东端出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:33",
+   "mobanchexia": "23:33",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:50",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:22",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "05:53",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:56",
+   "mobanchexia": "23:18",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:35",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M217、E11、M340、E7、M572、M567、M130、M532、M207、GF133",
+     "busName": "Shenzhen North Transportation Hub"
+    }
+   ],
+   "chukou": "North Exit"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M405、M566、M579、B917（A线）、E22、M225、M339、M353",
+     "busName": "Shenzhen North station"
+    }
+   ],
+   "chukou": "East Exit"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:33",
+   "mobanchexia": "23:33",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:50",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:22",
+   "mobanchexia": "01:04",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "05:53",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "01:24",
+   "mobanchexia": "00:18",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:35",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "北端出入口（连接公交车站）",
+   "textt": "创业花园、留仙大道、深铁铂尔曼酒店、汇德大厦"
+  },
+  {
+   "outt": "东端出入口（连接缤果空间）",
+   "textt": "缤果空间、民塘路、梅龙路、樟坑村"
+  },
+  {
+   "outt": "南端出入口（连接出租车站）",
+   "textt": "新区大道、龙悦居、玉龙路、汇隆大厦"
+  },
+  {
+   "outt": "西端出入口（连接火车站）",
+   "textt": "东广场、社会停车场、坪山快捷线"
+  }
+ ],
+ "siteCode": "0521",
+ "siteIntroduce": "5号线深圳北站位于民塘路与留仙大道交汇处，5号线为地下站。4、6号线深圳北站位于致远中路，4、6号线为高架站。该站为4、5、6号线换乘站。",
+ "siteName": "深圳北站",
+ "siteNameen": "Shenzhen North Station",
+ "workDay": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:33",
+   "mobanchexia": "23:33",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:17",
+   "shoubanchexia": "06:50",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:22",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:51",
+   "shoubanchexia": "05:53",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  },
+  {
+   "gaofenjiange": "2分20秒-3分12秒",
+   "gaofenjiangeen": "2m20s-3m12s",
+   "mobanche": "23:56",
+   "mobanchexia": "23:18",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:28",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

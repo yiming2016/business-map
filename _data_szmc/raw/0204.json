@@ -1,0 +1,111 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、M105、M241、M400、M430",
+     "busName": "水湾地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、M105、M241、M400、M430",
+     "busName": "水湾地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:35",
+   "mobanchexia": "22:51",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:44",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、M105、M241、M400、M430",
+     "busName": "Shuiwan Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、M105、M241、M400、M430",
+     "busName": "Shuiwan Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:35",
+   "mobanchexia": "23:51",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:44",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "C出入口",
+   "textt": "太子路北侧(东)、水湾路西侧、蛇口电视台、水湾地铁站公交站、深圳市蛇口育才教育集团育才一小、深圳市蛇口育才教育集团育才中学、南水村、蛇口老街"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "太子路北侧（西）、荔园路东侧、水湾地铁站公交站、华府假日大厦、海滨花园"
+  }
+ ],
+ "siteCode": "0204",
+ "siteIntroduce": "水湾站位于太子路与水湾路交汇处。该站为地下站。",
+ "siteName": "水湾站",
+ "siteNameen": "Shuiwan",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:35",
+   "mobanchexia": "22:51",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:44",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

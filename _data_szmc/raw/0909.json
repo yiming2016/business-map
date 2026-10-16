@@ -1,0 +1,185 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334、M209",
+     "busName": "阳光粤海大厦"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "49、高峰专线21、高峰专线22、高峰专线92、334、E9、高快巴士42、高快巴士43、高快巴士53、高峰专线55、高峰专线120",
+     "busName": "深港产学研基地"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M209",
+     "busName": "白石科苑路口"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:53",
+   "mobanchexia": "23:16",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:55",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:38",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334、M209",
+     "busName": "Sunshine Yuehai Building"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "49、Peak Special Line 21、Peak Special Line22、Peak Special Line 92、334、E9、Express Bus 42、Express Bus 43、Express Bus53、Peak Special Line 55、Peak Special Line 120",
+     "busName": "PKU-HKUST Shenzhen-Hong Kong Institution"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M209",
+     "busName": "Baishi-Keyuan Road Crossing"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:53",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:14",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:55",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:38",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "白石路南侧、科苑南路西侧（南）、香港理工大学深圳研究院、香港中文大学深圳研究院、电信大厦、香港城市大学产学研大楼"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "白石路北侧（东）、深圳市数字技术园A区、德维森大厦、深圳软件园"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "科苑南路西侧（北）"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "白石路北侧（西）、深圳清华大学研究院、深港产学研基地"
+  }
+ ],
+ "siteCode": "0909",
+ "siteIntroduce": "粤海门站位于深圳市南山区科苑南路与白石路交叉路口处，为9、13号线换乘站。该站为地下站。",
+ "siteName": "粤海门站",
+ "siteNameen": "Yuehaimen",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:53",
+   "mobanchexia": "23:16",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:06",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  },
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "23:55",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:38",
+   "suoshuluxian": "13号线",
+   "suoshuluxianen": "13 Line",
+   "xinshifangxiang": "深圳湾口岸",
+   "xinshifangxiangen": "Shenzhenwan kouan",
+   "xinshifangxiangxia": "李松蓢",
+   "xinshifangxiangxiaen": "Gaoxinzhong"
+  }
+ ]
+}

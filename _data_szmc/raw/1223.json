@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M127、E40、M335、M350、M395、M413、M435、高峰专线35",
+     "busName": "兴围人行天桥2"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、362、629、高峰专线121",
+     "busName": "兴围地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、362、629、M127、高峰专线121",
+     "busName": "兴围地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M350、M395、M413、M435、337、362、M127、E40、M335、高峰专线35、高峰专线135",
+     "busName": "兴围人行天桥2"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:38",
+   "mobanchexia": "23:47",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M127、E40、M335、M350、M395、M413、M435、Peak Special Line35",
+     "busName": "Xingwei Footbridge 2"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、362、629、Peak Special Line121",
+     "busName": "Xingwei Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、362、629、M127、Peak Special Line121",
+     "busName": "Xingwei Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M350、M395、M413、M435、337、362、M127、E40、M335、Peak Special Line35、Peak Special Line135",
+     "busName": "Xingwei Footbridge 2"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:38",
+   "mobanchexia": "00:47",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "广深公路北侧、深圳地铁12号线机场东车辆段"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "广深公路北侧、深圳地铁12号线机场东车辆段"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "广深公路南侧"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "广深公路南侧、深圳市社会保险基金管理局福永管理站、深圳市宝安区税务局福永税务所"
+  }
+ ],
+ "siteCode": "1223",
+ "siteIntroduce": "兴围站位于兴华路与广深公路交叉路口的北侧处、车站为地下站、地下一层为站厅层、地下二层为站台层。",
+ "siteName": "兴围站",
+ "siteNameen": "Xingwei",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:38",
+   "mobanchexia": "23:47",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

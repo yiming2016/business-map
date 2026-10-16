@@ -1,0 +1,115 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "351、802、810、811、862、M139、M219、M239、M275、M276、M279、M280、M307、M308、M386、M396",
+     "busName": "龙岗中心医院"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "351、802、810、811、862、M139、M219、M239、M275、M279、M280、M307、M308、M386、M396",
+     "busName": "龙岗中心医院"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:13",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "351、802、810、811、862、M139、M219、M239、M275、M276、M279、M280、M307、M308、M386、M396",
+     "busName": "Longgang Central Hosptal Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "351、802、810、811、862、M139、M219、M239、M275、M279、M280、M307、M308、M386、M396",
+     "busName": "Longgang Central Hosptal Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:13",
+   "mobanchexia": "01:15",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B出入口",
+   "textt": "龙岗大道东侧（北）、深圳市龙岗中心医院、龙岗中心医院公交站、中心医院路口公交站、龙侨新村、利民农贸批发市场"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道西侧（北）、龙岗中心医院公交站、龙岗中学"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙岗大道西侧（南）"
+  }
+ ],
+ "siteCode": "0332",
+ "siteIntroduce": "梨园站位于龙岗大道与规划龙平东路交叉口。该站为高架站。",
+ "siteName": "梨园站",
+ "siteNameen": "Liyuan",
+ "workDay": [
+  {
+   "gaofenjiange": "平均3分",
+   "gaofenjiangeen": "平均3m",
+   "mobanche": "23:13",
+   "mobanchexia": "00:16",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

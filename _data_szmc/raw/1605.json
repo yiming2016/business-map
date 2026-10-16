@@ -1,0 +1,159 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M208、M162",
+     "busName": "大凤村"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M208、M162",
+     "busName": "大凤村"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M208、M162、907",
+     "busName": "大康市场"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M208、M162、907",
+     "busName": "大康市场"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:58",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M208、M162",
+     "busName": "Dafengcun"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M208、M162",
+     "busName": "Dafengcun"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M208、M162、907",
+     "busName": "Dakang Market"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M208、M162、907",
+     "busName": "Dakang Market"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:58",
+   "mobanchexia": "00:08",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "05:58",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "公园路东侧（南）、园山风景区、大凤新村"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "山子下路南侧（东）、大凤村公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "山子下路北侧（东）、大万公园、大凤村公交站、康兴幼儿园、大万村"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "山子下路北侧（西）、大康市场公交站、龙岗区大康小学、下中村"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "山子下路西侧（南）、大康市场公交站、龙村、大康综合市场"
+  }
+ ],
+ "siteCode": "1605",
+ "siteIntroduce": "园山站位于公园路与山子下路交叉口， 呈南北向布置。该站为地下站。",
+ "siteName": "园山站",
+ "siteNameen": "Yuanshan",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:58",
+   "mobanchexia": "23:08",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:58",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

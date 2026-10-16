@@ -1,0 +1,145 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "326、E38、M448、高峰专线18",
+     "busName": "香蜜湖地铁站②"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、223、N4",
+     "busName": "香蜜湖地铁站①"
+    }
+   ],
+   "chukou": "C1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "223、N4",
+     "busName": "香蜜湖地铁站①"
+    },
+    {
+     "busInfo": "高峰专线18、326、E38、M448",
+     "busName": "香蜜湖地铁站②"
+    }
+   ],
+   "chukou": "C2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:49",
+   "mobanchexia": "23:19",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "326、E38、M448、Peak Express Line18",
+     "busName": "Xiangmihu Metro Station ②"
+    }
+   ],
+   "chukou": "Exit  B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21、223、N4",
+     "busName": "Xiangmihu Metro Station  ①"
+    }
+   ],
+   "chukou": "Exit  C1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "223、N4",
+     "busName": "Xiangmihu Metro Station ①"
+    },
+    {
+     "busInfo": "Peak Express Line18、326、E38、M448",
+     "busName": "Xiangmihu Metro Station②"
+    }
+   ],
+   "chukou": "Exit  C2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:49",
+   "mobanchexia": "00:19",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深南大道北侧（东）、市政大厦、深圳市规划和自然资源局福田管理局"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南大道北侧（西）"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "深南大道北侧（东）、香梅路、新闻路"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "深南大道南侧"
+  }
+ ],
+ "siteCode": "0110",
+ "siteIntroduce": "香蜜湖站位于香梅路西侧、与深南大道大致平行。该站为地下站。",
+ "siteName": "香蜜湖站",
+ "siteNameen": "Xiangmihu",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:49",
+   "mobanchexia": "23:19",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:39",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M235、M379、M558",
+     "busName": "宝华地铁站①"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M379、M558",
+     "busName": "宝华地铁站①"
+    }
+   ],
+   "chukou": "B2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:54",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:17",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M235、 M379、 M558",
+     "busName": "Baohua Metro Station ①"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M379、 M558",
+     "busName": "Baohua Metro Station ①"
+    }
+   ],
+   "chukou": "Exit B2"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:54",
+   "mobanchexia": "00:32",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:17",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "宝华路南侧（西））"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "宝华路南侧（东）、龙光·世纪大厦、国际西岸商务大厦"
+  },
+  {
+   "outt": "B1出入口",
+   "textt": "宝华路北侧（西）"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "海秀路东侧（北）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "海秀路西侧（北）、海滨广场、深圳农商银行"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "海秀路西侧（南）、宝安区图书馆、宝安区城市规划展览馆、宝安青少年宫"
+  }
+ ],
+ "siteCode": "0510",
+ "siteIntroduce": "宝华站位于深圳市海秀路与宝华路的交叉口西侧上方、靠海秀路呈东西向布设。在站址周围有宝安区政府、海滨广场。该站为地下站。",
+ "siteName": "宝华站",
+ "siteNameen": "Baohua",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:54",
+   "mobanchexia": "23:32",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:53",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M304、M266、M305",
+     "busName": "新塘围地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、M304、E34、M361、M230、M266、M277、M279",
+     "busName": "龙东社区站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、818、E34、M230、M266、M277、 M279、M304、M361",
+     "busName": "龙东社区站"
+    }
+   ],
+   "chukou": "C出人口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M266、M304、M305",
+     "busName": "新塘围地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:28",
+   "mobanchexia": "23:37",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M304、 M266、 M305",
+     "busName": "Xintangwei Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、 818、M304、M361、 E34、M230、 M266、 M277、 M279",
+     "busName": "Longdong Community Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "802、 818、 E34、 M230、 M266、 M277、 M279、  M304、  M361",
+     "busName": "Longdong Community station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M266、 M304、 M305",
+     "busName": "Xintangwei Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:28",
+   "mobanchexia": "00:37",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深汕路南侧（西）、新塘围地铁站公交站、深圳市龙岗区才德学校、维也纳国际酒店"
+  },
+  {
+   "outt": " B出入口",
+   "textt": "深汕路南侧（东）、龙东社区公交站 、深圳市大广农贸综合批发市场"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深汕路北侧（东）、鸿基路、龙东社区公交站、 深圳市建文外国语学校、骏泰金汐府、中国石化 、深圳市富业商品批发城"
+  },
+  {
+   "outt": " D出入口",
+   "textt": "深汕路北侧（西）、兴东大街、深圳市交通运输局龙岗局坪地管理所、新塘围地铁站公交站、"
+  }
+ ],
+ "siteCode": "1619",
+ "siteIntroduce": "新塘围站位于龙岗区深汕路与兴东大街交叉口处、车站主体沿深汕路呈东西走向布置，该站为地下站。",
+ "siteName": "新塘围站",
+ "siteNameen": "Xintangwei",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:28",
+   "mobanchexia": "23:37",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:10",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线121、M234、M284、M411、M495、M548、629",
+     "busName": "薯田埔"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线121、M234、M284、M411、M495、M548、629",
+     "busName": "薯田埔地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线121、M234、M284、M411、M495、M548、629",
+     "busName": "薯田埔地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线121、M234、M284、M411、M495、M548、629",
+     "busName": "薯田埔地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:07",
+   "mobanchexia": "00:08",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 121、M234、M284、M411、M495、M548、629",
+     "busName": "Shutianpu"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 121、M234、M284、M411、M495、M548、629",
+     "busName": "Shutianpu Metro station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 121、M234、M284、M411、M495、M548、629",
+     "busName": "Shutianpu Metro station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 121、M234、M284、M411、M495、M548、629",
+     "busName": "Shutianpu Metro station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:37",
+   "mobanchexia": "01:06",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:27",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "松白路北侧（东） 、马田派出所"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "松白路北侧(西) 、田园路"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "松白路南侧(西) "
+  },
+  {
+   "outt": "D出入口",
+   "textt": "松白路南侧（东）、公明西环大道"
+  }
+ ],
+ "siteCode": "0624",
+ "siteIntroduce": "薯田埔站位于光明区松白路与科达一路交叉路口以西、沿松白路路中呈东西向敷设。该站为高架站。",
+ "siteName": "薯田埔站",
+ "siteNameen": "Shutianpu",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:07",
+   "mobanchexia": "00:08",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:27",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M184、M284、M387、M397、M336、B835、B777",
+     "busName": "马安山地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B777、M336、M284、M387",
+     "busName": "学府雅苑"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M336、B777、B835、M184、M284、M387、M397",
+     "busName": "学府雅苑"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M184、M284、M387、M397、B835、M336、B777",
+     "busName": "马安山地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "23:47",
+   "mobanchexia": "00:18",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M184、M284、M387、M397、M336、B835、B777",
+     "busName": "Ma'anshan Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B835、M184、M397、M284、M387",
+     "busName": "Xuefu Yayuan"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M336、B777、B835、M184、M284、M387、M397",
+     "busName": "Xuefu Yayuan"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M184、M284、M387、M397、M336、B777、NA9",
+     "busName": "Ma'anshan Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:47",
+   "mobanchexia": "01:16",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:18",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "宝安大道西侧（北）、岗厦路、崇光路、马安山花园"
+  },
+  {
+   "outt": "      B出入口",
+   "textt": "宝安大道西侧（南）、南环路北侧（西）、学府雅苑公交站、学府雅苑、怡居君悦公寓、华景汉方雾化生物科技（深圳）有限公司"
+  },
+  {
+   "outt": "    C出入口",
+   "textt": "宝安大道东侧（南）、南环路北侧（东）、春和雅苑、学府雅苑公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "宝安大道东侧（北）、荣泰园花园、裕盛华庭"
+  }
+ ],
+ "siteCode": "1118",
+ "siteIntroduce": "马安山站址位于宝安大道与沙井南环路交叉路口的北侧、沿宝安大道路中南北向布置。该站为高架站。",
+ "siteName": "马安山站",
+ "siteNameen": "Ma'anshan",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分15秒至4分30秒、晚3分07秒。",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:47",
+   "mobanchexia": "00:19",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "06:11",
+   "shoubanchexia": "06:14",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ]
+}

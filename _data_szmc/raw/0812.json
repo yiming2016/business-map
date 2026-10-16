@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E90、E91、E92、PJ61、PJ62、PJ63、溪涌夜间快线（定制巴士4842号）、D37（定制巴士4837号）",
+     "busName": "溪涌地铁站②"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E90、E91、E92、PJ61、PJ62、PJ63、溪涌夜间快线（定制巴士4842号）、高峰专线245号、D37（定制巴士4837号）",
+     "busName": "溪涌地铁站①"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "22:56",
+   "mobanchexia": "--",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "--",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E90、E91、E92、PJ61、PJ62、PJ63、Xichong Night Express Line（Custom Bus4842）、D37(Custom Bus4837)",
+     "busName": "Xichong Metro Station 2 Bus Stop"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E90、E91、E92、PJ61、PJ62、PJ63、M456、Xichong Night Express Line（Custom Bus4842）、Peak Express Line245、D37(Custom Bus4837)",
+     "busName": "Xichong Metro Station 1 Bus Stop"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "23:56",
+   "mobanchexia": "--",
+   "pingjunjiange": "6-9分钟",
+   "pingjunjiangeen": "6-9m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "--",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "溪海路北侧、深葵路北侧、溪涌地铁站②公交站、深圳北理莫斯科大学附属溪涌小学、溪涌度假村、溪涌车辆段"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "盐涌路东侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "盐涌路西侧（北）、溪涌地铁站①公交站、三科麓湾、盐村工业区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "盐涌路西侧（南）"
+  }
+ ],
+ "siteCode": "0812",
+ "siteIntroduce": "溪涌站位于深圳市大鹏新区溪涌片区溪涌立交E匝道北侧，该站为地下站。",
+ "siteName": "溪涌站",
+ "siteNameen": "Xichong",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒/5分36秒",
+   "gaofenjiangeen": "2m48s/5m36s",
+   "mobanche": "22:56",
+   "mobanchexia": "--",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "05:54",
+   "shoubanchexia": "--",
+   "suoshuluxian": "8号线",
+   "suoshuluxianen": "8 Line",
+   "xinshifangxiang": "梧桐山南",
+   "xinshifangxiangen": "Wutong Mountain South",
+   "xinshifangxiangxia": "溪涌",
+   "xinshifangxiangxiaen": "Yantian Rd"
+  }
+ ]
+}

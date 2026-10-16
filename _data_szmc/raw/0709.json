@@ -1,0 +1,151 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201路、38路、58路、M561路、M240路、M358路、M364路、高峰专线21号",
+     "busName": "深云村"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M358路、M364路、M240路、高峰专线21",
+     "busName": "深云村①"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B742路",
+     "busName": "深云地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201路、67路",
+     "busName": "侨城北公交综合车场(公交站）"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:44",
+   "mobanchexia": "23:17",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201、38、58、M561、M240、M358、M364、Peak Special Line 21",
+     "busName": "Shenyuncun"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M358、M364、M240、Peak Special Line 21",
+     "busName": "Shenyuncun 1"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B742",
+     "busName": "Shenyun subway station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "201、67",
+     "busName": "Qiaochengbei Bus Terminal(Bus stop)"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:44",
+   "mobanchexia": "00:17",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:33",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B出入口",
+   "textt": "北环大道、深云村、深圳市中级人民法院刑事审判区、安畅园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "北环大道北侧（东）、侨城北公交综合车场、深圳地铁深云车辆段、瓏樾山、深圳市蛇口育才教育集团育才中学"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "北环大道北侧（西）、香瑞园"
+  }
+ ],
+ "siteCode": "0709",
+ "siteIntroduce": "深云站位于北环大道和龙珠大道交汇处、北环大道及龙珠大道以北。。该站为地下站。",
+ "siteName": "深云站",
+ "siteNameen": "Shenyun",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:44",
+   "mobanchexia": "23:17",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

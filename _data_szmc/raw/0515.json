@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "605、M131、M182、M197、M206、M518、M560、M378、M379、M382、M395、高快巴士33号、B639",
+     "busName": "兴东地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M518、605、M131、M182、M197、M206、M338、M377、M378、M379、M382、M395、高快巴士33号",
+     "busName": "兴东地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M182、M197、M206、M376、M377、M378、M379、M382、M395、M518、M560",
+     "busName": "中粮创芯公园北"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:44",
+   "mobanchexia": "23:42",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "605、M131、M182、M197、M206、M518、M560、M378、M379、M382、M395、Express Bus No．33、B639",
+     "busName": "Xingdong Metro Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M518、605、M131、M182、M197、M206、M338、M377、M378、M379、M382、M395、Express Bus No．33",
+     "busName": "Xingdong Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M182、M197、M206、M376、M377、M378、M379、M382、M395、M518、M560",
+     "busName": "Zhongliang Chuangxin Park North"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:44",
+   "mobanchexia": "00:42",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:13",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "留仙二路西侧(南)、创业二路南侧（西）、69区中粮工业园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "创业二路南侧（东）、创业二路"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "创业二路北侧（东）、扬田路、扬田大厦、创业二村"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "创业二路北侧（西）、留仙二路西侧（北）、创业一村"
+  }
+ ],
+ "siteCode": "0515",
+ "siteIntroduce": "兴东站位于创业二路和留仙二路交汇处。该站为地下站。",
+ "siteName": "兴东站",
+ "siteNameen": "Xingdong",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:44",
+   "mobanchexia": "23:42",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:51",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

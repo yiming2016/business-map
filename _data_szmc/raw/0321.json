@@ -1,0 +1,115 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "351、357、366、M229、M266、M295、M309、M359、M547、M239、979、M190、M380",
+     "busName": "六约地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "61、351、357、366、M229、M266、M295、M309、M359、M547、M239、M324、M190、M380",
+     "busName": "六约地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:40",
+   "mobanchexia": "23:49",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:05",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "351、357、366、M229、M266、M295、 M309、M359、 M547、 M239、 979、M190、M380",
+     "busName": "Liuyue Metro  Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "61、 351、357、366、 M229、 M266、  M295、 M309、 M359、  M547、 M239、 M324、M190、M380",
+     "busName": "Liuyue Metro  Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:24",
+   "mobanchexia": "00:48",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深铁汇里、龙岗大道南侧（西）、横岗车辆段、地铁锦上花园"
+  },
+  {
+   "outt": "     B出入口",
+   "textt": "龙岗大道南侧（东）、深铁运营客运三分公司、深铁汇里、牛始埔路、横岗聚英小学、和悦居"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道北侧、振业城、梧桐花园、深圳梧桐学校、横岗高级中学、深竹小区、麟恒中心广场"
+  }
+ ],
+ "siteCode": "0321",
+ "siteIntroduce": "六约站位于深圳市龙岗区横岗街道龙岗大道中上方。该站为高架站。",
+ "siteName": "六约站",
+ "siteNameen": "Liuyue",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:40",
+   "mobanchexia": "23:49",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:01",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "650、652、M159、M184、M234、M833、M333、B777、B336",
+     "busName": "沙井地铁站"
+    }
+   ],
+   "chukou": "B1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B937、152、159、M336",
+     "busName": "沙井地铁公交接驳站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "650、652、M184、M234、M333、M159、B833、B777、152、159",
+     "busName": "沙井地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "23:44",
+   "mobanchexia": "00:21",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "650、652、M159、M184、M234、M833、M333、B777、B336",
+     "busName": "Shajing Station"
+    }
+   ],
+   "chukou": "Exit B1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B937、152、159、M336",
+     "busName": "Shajing subway bus feeder station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "650、652、M184、M234、M333、M159、B833、B777、152、159",
+     "busName": "Shajing Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:44",
+   "mobanchexia": "01:18",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "宝安大道西侧（北）、蚝乡路、沙井壆岗社区、海上田园旅游区"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "宝安大道西侧（南）、壆岗医院、壆岗荔枝公园、沙井地铁站公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "宝安大道东侧（南）、新沙路、沙井C口地铁公交接驳站、宝安图书馆新桥街道分馆"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "宝安大道东侧（北）"
+  }
+ ],
+ "siteCode": "1119",
+ "siteIntroduce": "沙井站位于宝安大道沙井街道鸿荣源禧园路段、宝安大道与新沙路交叉口北侧、沿宝安大道呈南北向布置。该站为高架站。",
+ "siteName": "沙井站",
+ "siteNameen": "Shajing",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分15秒至4分30秒、晚3分07秒。",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:44",
+   "mobanchexia": "00:21",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "06:08",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ]
+}

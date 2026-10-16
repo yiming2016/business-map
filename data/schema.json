@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "title": "站点信息数据 Schema v1.0 — 给 AI 识别程序看的接口文档",
+  "purpose": "AI 跑完图片识别后，把识别结果按本 schema 整理成 JSON，通过 tools/import_stations.py 导入即可新增/更新站点，主程序无需改动。",
+  "fields": {
+    "station_id": {
+      "type": "string",
+      "required": true,
+      "rule": "同一文件内不可重复；建议命名 线路ID_拼音首字母，例如 '5_HWC'（5 号线环中站）；如不知道拼音，纯中文名也行，但同线路下不能重名"
+    },
+    "station_name": {
+      "type": "string",
+      "required": true,
+      "rule": "站点中文名（站牌文字）"
+    },
+    "lines": {
+      "type": "array[string]",
+      "required": true,
+      "rule": "线路 ID 列表，例如 ['1', '5'] 表示 1 号线和 5 号线交会的换乘站"
+    },
+    "x": {"type": "number", "required": false, "rule": "底图坐标系中该站点圆点的 x 像素值（左上角为原点）；未知可省略，软件允许后续拖动微调"},
+    "y": {"type": "number", "required": false, "rule": "底图坐标系中该站点圆点的 y 像素值"},
+    "is_transfer": {"type": "boolean", "required": false, "rule": "是否换乘站"},
+    "open_date": {"type": "string", "required": false},
+    "description": {"type": "string", "required": false},
+    "exits": {"type": "string", "required": false},
+    "facilities": {"type": "string", "required": false},
+    "landmarks": {"type": "string", "required": false},
+    "notes": {"type": "string", "required": false},
+    "custom": {"type": "object", "required": false, "rule": "任何用户/AI 想塞的额外字段都往这里放，对主程序透明"}
+  },
+  "import_workflow": [
+    "1. AI 跑图片识别，得到 (线路图名, 站点列表)",
+    "2. 把识别结果按本 schema 写成一个 JSON 文件",
+    "3. 执行: python tools/import_stations.py --file <识别结果.json>",
+    "4. 重启桌面软件，新站点就出现在地图上"
+  ],
+  "example": {
+    "station_id": "1_GZS",
+    "station_name": "购物公园",
+    "lines": ["1", "3"],
+    "x": 752,
+    "y": 514,
+    "is_transfer": true,
+    "open_date": "2011-06-22",
+    "description": "位于福田中心区，是 1/3 号线换乘站，临近购物公园、COCO Park。",
+    "exits": "A 出口：购物公园；B 出口：COCO Park；C 出口：中心城。",
+    "facilities": "无障碍电梯、卫生间、母婴室。",
+    "landmarks": "购物公园、COCO Park、福田中心公园。",
+    "notes": ""
+  }
+}

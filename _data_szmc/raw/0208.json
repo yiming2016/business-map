@@ -1,0 +1,173 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E3、M430路",
+     "busName": "登良地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B964路",
+     "busName": "登良地铁站C出口（招呼站）"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B964路",
+     "busName": "蔚蓝海岸三期"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B964路",
+     "busName": "登良地铁站D出口（招呼站）"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E3、M430路",
+     "busName": "登良地铁站"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:26",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:34",
+   "shoubanchexia": "05:36",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E3、M430",
+     "busName": "Dengliang Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B964",
+     "busName": "Dengliang Metro Station Exit C Shuttle Bus Stop"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B964",
+     "busName": "Azure Coast Phase 3"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B964",
+     "busName": "Dengliang Metro Station Exit D Shuttle Bus Stop"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E3、M430",
+     "busName": "Dengliang Metro Station"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:26",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:34",
+   "shoubanchexia": "05:36",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "后海滨路东侧（南）、钢结构博物馆、东滨社区公园、登良地铁站公交站、江苏银行（深圳分行）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "后海滨路东侧（北）、登良路南侧（东）、登良地铁站C出口（招呼站）、海信南方大厦、中铁大厦、中建科工大厦、阿里中心、中海油大厦"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "后海滨路西侧（北）、登良路南侧（西）、登良地铁站D出口（招呼站）、蔚蓝海岸三期公交站、北京师范大学南山附属学校（小学部）、蔚蓝海岸、南油大厦"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "后海滨路西侧(南）、东滨路北侧、登良地铁站公交站、北京师范大学南山附属学校"
+  }
+ ],
+ "siteCode": "0208",
+ "siteIntroduce": "登良站位于后海滨路与登良路的交汇处。该站为地下站。",
+ "siteName": "登良站",
+ "siteNameen": "Dengliang",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:26",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:35",
+   "shoubanchexia": "05:54",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

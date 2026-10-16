@@ -1,0 +1,141 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M251",
+     "busName": "桥头西地铁站"
+    },
+    {
+     "busInfo": "暂无",
+     "busName": ""
+    }
+   ],
+   "chukou": "此站暂无数据"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M251、M351、M395",
+     "busName": "永威五金塑料厂"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M251",
+     "busName": "桥头西地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:25",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M251",
+     "busName": "Qiaotou West Metro Station"
+    },
+    {
+     "busInfo": "M331",
+     "busName": "Fuqiao Community Healthcare Center"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M251、M351、M395",
+     "busName": "Yongwei Hardware & Plastic Factory"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M251",
+     "busName": "Qiaotou West Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:25",
+   "mobanchexia": "01:00",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "同富路东侧、重庆路南侧、桥头西地铁站公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "重庆路北侧、同富路东侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "同富路西侧、重庆路北侧、桥头西地铁站公交站"
+  }
+ ],
+ "siteCode": "1228",
+ "siteIntroduce": "桥头西站位于重庆路和同富路交叉口、沿同富路呈南北方向敷设。该站为地下站。",
+ "siteName": "桥头西站",
+ "siteNameen": "Qiaotou West",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒/6分36秒、晚3分48秒/7分39秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:25",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:19",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

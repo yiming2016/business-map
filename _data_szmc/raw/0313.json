@@ -1,0 +1,135 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "83路、M555路、57路、13路、218路",
+     "busName": "木头龙"
+    },
+    {
+     "busInfo": "306路、M199路、M103路、M399路、M207路、M102路、64路、M508路、113路、3路、211路",
+     "busName": "留医部①"
+    },
+    {
+     "busInfo": "E11路、M526路、351路、M437路、M407路、M348路",
+     "busName": "留医部②"
+    }
+   ],
+   "chukou": "B2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "203路、M482路、57路、M348路、2路、62路、高峰专线33号",
+     "busName": "翠竹苑"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "00:02",
+   "mobanchexia": "23:27",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "83、M555、57、13、218",
+     "busName": "Mutoulong"
+    },
+    {
+     "busInfo": "306、M199、M103、M399、M207、M102、64、M508、113、3、211",
+     "busName": "Medical Department 1"
+    },
+    {
+     "busInfo": "E11、M526、 351、M437、 M407、M438",
+     "busName": "Medical Department 2"
+    }
+   ],
+   "chukou": "Exit B2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "No.203、 M482、57、M348、2、62、Gaofeng Line 33",
+     "busName": "Cuizhuyuan"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:46",
+   "mobanchexia": "00:26",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:12",
+   "shoubanchexia": "06:02",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B1出入口",
+   "textt": "东门北路南侧（西）、华丽路西侧、翠园中学高中部、深圳市螺岭外国语实验学校、华达小区、深圳市翠竹外国语实验学校（第一校区）"
+  },
+  {
+   "outt": "B2出入口",
+   "textt": "华丽路东侧、留医部1站公交站、留医部2公交站、木头龙公交站、鸿业苑、深圳市翠竹外国语实验学校（第二校区）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "东门北路北侧（东）、翠竹路、翠竹苑公交站、翠竹苑、华丽园住宅小区、金福大厦、翠都花园"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "东门北路北侧（西）、旺业豪苑、文锦广场、深圳市人民医院"
+  }
+ ],
+ "siteCode": "0313",
+ "siteIntroduce": "翠竹站位于罗湖区东门北路与翠竹路、华丽路相交汇处。该站为地下站。",
+ "siteName": "翠竹站",
+ "siteNameen": "Cuizhu",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "00:02",
+   "mobanchexia": "23:27",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、833、941、A5、B678、E17、E28、M143、M220、M294、M295、M325、M326、M369、M439、坪梅假日专线、M480、M546",
+     "busName": "锦龙地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M143、M220、M294、M295、M325、M369、M439、366、833、941、B678、E17、E28、M546、M480、坪梅假日专线",
+     "busName": "锦龙地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:14",
+   "mobanchexia": "00:10",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "366、833、941、A5、B678、E17、E28、M143、M220、M294、M295、M325、M326、M369、M439、Pingmei  Holiday  Line、M480、M546",
+     "busName": "Jinlong  Metro Station"
+    }
+   ],
+   "chukou": "ExitA"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M143、M220、M294、M295、M325、M369、M439、366、833、941、B678、E17、E28、M546、M480 、Pingmei  Holiday  Line",
+     "busName": "Jinlong  Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:14",
+   "mobanchexia": "01:10",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:40",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "坪山大道南侧（西）、坪山区中山中学、坪山区中山小学、京基·御景印象"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "坪山大道南侧（东）、深圳市坪山区人民法院、深圳市坪山区人民检察院、果园贝·鼎盛大厦、牛角龙小区"
+  },
+  {
+   "outt": "C1出入口",
+   "textt": "坪山大道北侧（东）、坪山城市候机楼、创新广场、潮商广场、世茂广场、城投芯时代大厦"
+  },
+  {
+   "outt": "C2出入口",
+   "textt": "坪山大道北侧（东）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "坪山大道北侧（西）、坪山高级中学、龙光·九云著"
+  }
+ ],
+ "siteCode": "1413",
+ "siteIntroduce": "锦龙站位于坪山区坪山大道与荣昌路、体育二路交叉口。该站为地下站。",
+ "siteName": "锦龙站",
+ "siteNameen": "Jinlong",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:14",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:09",
+   "shoubanchexia": "06:41",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

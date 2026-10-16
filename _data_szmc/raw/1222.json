@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、362、629、E16、E40、M246、M335、M350、M395、M413、M435、M435路大站快车、M531、高峰专线56、高峰专线121、高快巴士29",
+     "busName": "黄田站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B836、M511",
+     "busName": "黄田街道办站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、362、629、E16、E40、M246、M335、M350、M395、M413、M435、M435路大站快车、M511、M531、B836、高峰专线56、高峰专线121、高快巴士29",
+     "busName": "黄田站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:41",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、362、629、E16、E40、M246、M335、M350、M395、M413、M435、M435 Grand Station Express、M531、Peak  Special Line56、Peak  Special Line 121、Peak Express Bus 29",
+     "busName": "Huangtian Bus Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B836、M511",
+     "busName": "Hangcheng Street Office lnterchange Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、362、629、E16、E40、M246、M335、M350、M395、M413、M435、M435 Grand Station Express、M511、M531、B836、Peak Special Line56、Peak Special Line 121、Peak Express Bus 29",
+     "busName": "Huangtian Bus Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:41",
+   "mobanchexia": "00:44",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "广深公路北侧"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "广深公路北侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "广深公路南侧、宝安市场监督管理局黄田所、黄田公园、航城街道办事处、黄田小学、深圳市宝安区中心医院航城社区医院"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "广深公路南侧"
+  }
+ ],
+ "siteCode": "1222",
+ "siteIntroduce": "黄田站位于广深公路与凯成二路交叉口、沿广深公路敷设。车站为地下站、地下一层为站厅层、地下二层为站台层。",
+ "siteName": "黄田站",
+ "siteNameen": "Huangtian",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:41",
+   "mobanchexia": "23:44",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "05:56",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

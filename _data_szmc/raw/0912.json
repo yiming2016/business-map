@@ -1,0 +1,101 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M486",
+     "busName": "深湾地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:46",
+   "mobanchexia": "23:23",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "05:56",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M486",
+     "busName": "Shenwan Metro Station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:46",
+   "mobanchexia": "00:23",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:31",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "白石四道南侧（西）、深湾四路西侧（南）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "白石四道南侧（东）、深湾四路东侧（南）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深湾四路东侧（北）、白石四道北侧（东）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "深湾四路西侧（北）、白石四道北侧（西）、深湾地铁站公交站、瑞河耶纳"
+  }
+ ],
+ "siteCode": "0912",
+ "siteIntroduce": "深湾站位于白石四道与深湾四路交界处。该站为地下站。",
+ "siteName": "深湾站",
+ "siteNameen": "Shenwan",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:45",
+   "mobanchexia": "23:23",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:03",
+   "shoubanchexia": "06:11",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

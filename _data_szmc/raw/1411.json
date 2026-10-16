@@ -1,0 +1,159 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B860、M322、M357、M369、M542、云海专线D",
+     "busName": "南约地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M322、M357、M369、M542",
+     "busName": "南约地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M220、M303、M304、M308、M394、M466",
+     "busName": "炳坑西区站"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M303、M322、M357、M369、M394、M458",
+     "busName": "比亚迪学校"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:20",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B860、M322、M357、M369、M542  、Yunhai Special Line D",
+     "busName": "Nanyue Subway Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M322、M357、M369、M542",
+     "busName": "Nanyue Subway Station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M220、M303、M304、M308、M394、M466",
+     "busName": "West Area of Bingkeng Station"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M303、M322、M357、M369、M394、M458",
+     "busName": "BYD School  Station"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:20",
+   "mobanchexia": "01:04",
+   "pingjunjiange": "6分15秒",
+   "pingjunjiangeen": "6m15s",
+   "shoubanche": "06:10",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "宝坪路西侧、宝荷路南侧（西）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "宝坪路东侧、宝荷路南侧（东）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "宝荷路北侧（东）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "碧新路东侧、炳坑小区"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "碧新路西侧、宝荷路北侧（西））"
+  }
+ ],
+ "siteCode": "1411",
+ "siteIntroduce": "南约站位于龙岗区宝荷路与碧新路交汇处。该站为地下站。",
+ "siteName": "南约站",
+ "siteNameen": "Nanyue",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分20秒-2分50秒、晚3分10秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:20",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "14号线",
+   "suoshuluxianen": "14 Line",
+   "xinshifangxiang": "岗厦北",
+   "xinshifangxiangen": "Gangxia North",
+   "xinshifangxiangxia": "沙田",
+   "xinshifangxiangxiaen": "ShaTian"
+  }
+ ]
+}

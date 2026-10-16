@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M239、M229、M266、M295、M359、M394、M466",
+     "busName": "永湖地铁站①"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "351、358、366、906、M208、M396、M547、高峰专线194、358快线（原M314）",
+     "busName": "永湖地铁站②"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466、351、358、M239、M266、M295、M359、M394、358快线（原M314）、M229",
+     "busName": "永湖地铁站①"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:33",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:23",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M239、M229、M266、M295、M359、M394、M466",
+     "busName": "Yonghu Metro Station①"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "351、358、366、906、M208、M396、M547、高峰专线194、358快线（原M314）",
+     "busName": "Yonghu Metro Station②"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466、351、358、M239、M266、M295、M359、M394、358快线（原M314）、M229",
+     "busName": "Yonghu Metro Station①"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:16",
+   "mobanchexia": "00:55",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:23",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出口",
+   "textt": "龙岗大道东侧（南）、新坡塘村、名居山河里"
+  },
+  {
+   "outt": "A2出口",
+   "textt": "龙岗大道东侧（北）、鑫旺工业区、深圳市龙岗区第二职业技术学校、水浸围村、卓弘星辰、星河智荟"
+  },
+  {
+   "outt": "C出口",
+   "textt": "龙岗大道西侧、深圳北理莫斯科大学附属龙岗园山学校、保安社区工作站、窝肚村、星河盛境"
+  }
+ ],
+ "siteCode": "0324",
+ "siteIntroduce": "永湖站位于龙岗大道横坪立交以南及锦利路口、该站为高架站。",
+ "siteName": "永湖站",
+ "siteNameen": "Yonghu",
+ "workDay": [
+  {
+   "gaofenjiange": "平均3分",
+   "gaofenjiangeen": "平均3m",
+   "mobanche": "23:33",
+   "mobanchexia": "23:57",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:24",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

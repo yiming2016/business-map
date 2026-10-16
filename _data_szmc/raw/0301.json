@@ -1,0 +1,216 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B962、C18",
+     "busName": "长富金茂大厦"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、M138",
+     "busName": "绒花路口东①"
+    }
+   ],
+   "chukou": "E1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、B905、M120、M476",
+     "busName": "绒花路口东②"
+    }
+   ],
+   "chukou": "E2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、60、B905、B905、M120、M476",
+     "busName": "绒花路口西①"
+    }
+   ],
+   "chukou": "E4出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M138",
+     "busName": "绒花路口西②"
+    }
+   ],
+   "chukou": "F1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "C18定制巴士（早高峰）",
+     "busName": "福保地铁站F出口"
+    }
+   ],
+   "chukou": "F2出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B962、C18",
+     "busName": "Changfu Jinmao Building"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、M138",
+     "busName": "Ronghua Road(E)①"
+    }
+   ],
+   "chukou": "Exit E1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、B905、M120路、M476",
+     "busName": "Ronghua Road(E)②"
+    }
+   ],
+   "chukou": "Exit E2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、60、B905、B905、M120、M476",
+     "busName": "Ronghua Road(W)①"
+    }
+   ],
+   "chukou": "Exit E4"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M138",
+     "busName": "Ronghua Road(W)②"
+    }
+   ],
+   "chukou": "Exit F1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "C18 Custom Bus (Morning peak)",
+     "busName": "Futian Bonded Area Subway Station Exit F"
+    }
+   ],
+   "chukou": "Exit F2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "52、60、62、B905、M120、M476",
+     "busName": "Fuyuan Garden Phase II"
+    }
+   ],
+   "chukou": ""
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "--",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "--",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "红花路南侧（西）、槟榔道（南）、市花路（西）、海虹道（南）、金花路（西）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "红花路南侧（东）、长富金茂大厦、市花路（东）、金花路（东）、红棉道西侧（南）、紫荆道（南）、福年广场、长平商务大厦、河套壹号、河套深港职工服务中心"
+  },
+  {
+   "outt": "E1出入口",
+   "textt": "绒花路北侧（东）、益田路东侧、圆梦园、紫荆道（北）、南光紫荆苑、桂花路（东）、红棉道西侧（北）、深福保大厦、长宝大厦"
+  },
+  {
+   "outt": "E2出入口",
+   "textt": "绒花路北侧（东）、益田路东侧、圆梦园、紫荆道（北）、南光紫荆苑、桂花路（东）、红棉道西侧（北）、深福保大厦"
+  },
+  {
+   "outt": "E3出入口",
+   "textt": "绒花路北侧（东）、益田路西侧、兰花道东侧、桂花路（东）"
+  },
+  {
+   "outt": "E4出入口",
+   "textt": "绒花路北侧（东）、益田路西侧、兰花道东侧、桂花路（东）、帝港海湾豪园"
+  },
+  {
+   "outt": "F1出入口",
+   "textt": "绒花路北侧（西）、槟榔道（北）、东海苑、福保派出所、福源花园、海虹道（北）、福田区人民检察院派驻、桂花路（西）、桂花路都市公园"
+  },
+  {
+   "outt": "F2出入口",
+   "textt": "绒花路北侧（西）、槟榔道（北）、天健时尚名苑、福保派出所、福源花园、海虹道（北）、福田区人民检察院派驻、桂花路（西）、桂花路都市公园、红树绿洲"
+  }
+ ],
+ "siteCode": "0301",
+ "siteIntroduce": "福保站位于福田区益田路与绒花路、红花路交叉以西口，沿绒花路、红花路呈东西向布置，北接益田站。该站为地下站。",
+ "siteName": "福保站",
+ "siteNameen": "Futian Bonded Area",
+ "workDay": [
+  {
+   "gaofenjiange": "2～3分钟",
+   "gaofenjiangeen": "2～3m钟",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E36、M210、M250",
+     "busName": "西乡桃源地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "395、603、707、E23、E36、M210、M246、M250、M355、高快巴士47",
+     "busName": "宝安桃源居站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M470",
+     "busName": "桃源居中澳学校站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:46",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "E36、M210、M250",
+     "busName": "Xixiang Taoyuan Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "395、603、707、E23、E36、M210、M246、M250、M355、Peak Express Bus 47",
+     "busName": "Taoyuanju Bao'an station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M470",
+     "busName": "Taoyuanju Zhong'ao School"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:46",
+   "mobanchexia": "00:40",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "前进二路东南侧、深圳市桃源居中澳实验学校、深圳市宝安区西乡交通管理所、西乡桃源地铁站公交站"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "前进二路东北侧、桃源居森林体育公园、宝安图书馆西乡街道分馆"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "前进二路西侧、西乡桃源地铁站公交站"
+  }
+ ],
+ "siteCode": "1220",
+ "siteIntroduce": "西乡桃源站位于前进二路和航城大道交叉口、沿前进二路南北向布置。车站为地下站、地下一层为站厅层、地下二层为站台层。",
+ "siteName": "西乡桃源站",
+ "siteNameen": "Xixiang Taoyuan",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "23:46",
+   "mobanchexia": "23:40",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:27",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

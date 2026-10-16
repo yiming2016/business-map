@@ -1,0 +1,195 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "82、306、307、381、M205、M205大站快车、M403、M404、M407、M508",
+     "busName": "金光华广场"
+    },
+    {
+     "busInfo": "17、82、83、97、M205",
+     "busName": "深圳发展中心大厦"
+    },
+    {
+     "busInfo": "1、12、M152、M407",
+     "busName": "罗湖小学②"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、82、306、307、351、381、M199、M205、M205大站快车、M402、M403、M404、M407、M508",
+     "busName": "金光华广场"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、11、12",
+     "busName": "国贸①"
+    },
+    {
+     "busInfo": "生态人文线",
+     "busName": "国贸观光巴士"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、12、M152、M401",
+     "busName": "罗湖小学②"
+    },
+    {
+     "busInfo": "14、229、M239、M373、M453",
+     "busName": "海燕大厦"
+    },
+    {
+     "busInfo": "17、82、83、97、高峰专线73、M205",
+     "busName": "深圳发展中心大厦"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:06",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "82、306、307、381、M205、M205 Grand Station Express、M403、M404、M407、M508",
+     "busName": "King Glory Plaza"
+    },
+    {
+     "busInfo": "17、82、83、97、M205",
+     "busName": "Shenzhen Development Center Bldg"
+    },
+    {
+     "busInfo": "1、12、M152、M407",
+     "busName": "Luohu Primary School 2"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、82、306、307、351、381、M199、M205、M205 Grand Station Express、M402、M403、M404、M407、M508",
+     "busName": "King Glory Plaza"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、11、12",
+     "busName": "Guomao1"
+    },
+    {
+     "busInfo": "Ecology&Culture Line",
+     "busName": "Guomao Shenzhen Sightseeing Bus"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "1、12、M152、M401",
+     "busName": "Luohu Primary School2"
+    },
+    {
+     "busInfo": "14、229、M239、M373、M453",
+     "busName": "Haiyan Building"
+    },
+    {
+     "busInfo": "17、82、83、97、Peak Special Line 73、M205",
+     "busName": "Shenzhen Development Center Bldg"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "01:06",
+   "mobanchexia": "00:02",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:22",
+   "shoubanchexia": "06:16",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "人民南路东侧（南）、嘉宾路南侧（东）、南湖派出所、深圳市罗湖区人民医院、深圳市南湖小学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南东路"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "人民南路东侧（北）、东门步行街"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "人民南路西侧（南）、嘉宾路南侧（西）、建设路、迎春路、深圳市中医院第三门诊部、深圳市罗湖小学"
+  }
+ ],
+ "siteCode": "0102",
+ "siteIntroduce": "国贸站位于深圳市商业中心人民南路与嘉宾路交叉路口处。该站为地下站。",
+ "siteName": "国贸站",
+ "siteNameen": "Guomao",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "00:06",
+   "mobanchexia": "23:02",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:21",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

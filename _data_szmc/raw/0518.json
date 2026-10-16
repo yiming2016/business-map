@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线93（原M393）、高峰专线55、74、81、M217",
+     "busName": "红花岭站（东行）"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "高峰专线36、43、49、37、104",
+     "busName": "丽山路南站（北行）"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M217、高峰专线59（原M459）、43、74、81、37、104、高峰专线36、高峰专线93（原M393）、高峰专线46、高峰专线55",
+     "busName": "红花岭站(西行)"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:36",
+   "mobanchexia": "23:50",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line 93 (formerly M393)、Peak Special Line55、 74、 81、 M217",
+     "busName": "Honghualing（Eastbound）"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Peak Special Line36、 43、 49、 37、 104、",
+     "busName": "Lishan Road South（Northbound）"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M217、Peak Special Line59（ M459）、 43、 74、 81、 37、 104、Peak Special Line36、Peak Special Line 93 (formerly M393)、Peak Special Line46、Peak Special Line55",
+     "busName": "Honghualing(Westbound)"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:36",
+   "mobanchexia": "00:50",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "05:53",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B出入口",
+   "textt": "留仙大道南侧、红花北路北侧、深圳大学城创业园（B区）、众冠红花岭工业南区"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "丽山路东侧、留仙大道北侧（东）、哈尔滨工业大学（深圳）、平山村"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "留仙大道北侧（西）、丽山路西侧、益田•假日里购物中心"
+  }
+ ],
+ "siteCode": "0518",
+ "siteIntroduce": "大学城站位于南山区西丽镇留仙大道与丽山路丁字路口、留仙大道南侧主道。该站为地下站。",
+ "siteName": "大学城站",
+ "siteNameen": "University Town",
+ "workDay": [
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:36",
+   "mobanchexia": "23:50",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:52",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

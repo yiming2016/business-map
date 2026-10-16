@@ -1,0 +1,145 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320、323、324、338、369、395、M191、M194、M358、M372、M413、M435、M530、高峰专线55、高峰专线165、高快巴士32、高快巴士49",
+     "busName": "大冲①"
+    },
+    {
+     "busInfo": "19、21、42、101、204、223、N4、M113、M432、M586",
+     "busName": "大冲②"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "19、21、42、72、101、204、223、M109、M113、M432、N4；中科大厦",
+     "busName": "大冲②"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320、323、324、338、369、395、M191、M194、M358、M372、M413、M435、高峰专线55号、高快巴士32、高快巴士49号、C40",
+     "busName": "大冲①"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:34",
+   "mobanchexia": "23:34",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320、323、324、338、369、395、M191、M194、M358、M372、M413、M435、M530、Peak Special Line 55、Peak Special Line 165、Express 32、Express 49",
+     "busName": "Dachong ①"
+    },
+    {
+     "busInfo": "19、21、42、101、204、223、N4、M113、M432、M586",
+     "busName": "Dachong ②"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "19、21、42、72、101、204、223、M109、M113、M432、N4；Zhongke Building",
+     "busName": "Dachong ②"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "320、323、324、338、369、395、M191、M194、M358、M372、M413、M435、Peak Special Line 55、Express 32、Express 49、C40",
+     "busName": "Dachong ①"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:34",
+   "mobanchexia": "00:34",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:12",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "深南大道北侧（东）"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "深南大道北侧（西）、南山外国语学校大冲学校 "
+  },
+  {
+   "outt": "C出入口",
+   "textt": "深南大道南侧（西）"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "深南大道南侧（东）"
+  }
+ ],
+ "siteCode": "0117",
+ "siteIntroduce": "高新园站位于南山区铜鼓路与科技南十路与深南大道交汇处。该站为地下站。",
+ "siteName": "高新园站",
+ "siteNameen": "Hi-Tech Park",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:34",
+   "mobanchexia": "23:34",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:00",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  }
+ ]
+}

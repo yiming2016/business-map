@@ -1,0 +1,111 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M312、M148、M398、高快巴士28、M169",
+     "busName": "枫丹雅苑"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M312、高快巴士28、M169",
+     "busName": "枫丹雅苑"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:05",
+   "mobanchexia": "23:22",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:24",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M312、M148、M398、Express Bus 28、M169",
+     "busName": "Fengdan Yayuan"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "104、323、M312、Express Bus 28、M169",
+     "busName": "Fengdan Yayuan"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:05",
+   "mobanchexia": "00:22",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:24",
+   "shoubanchexia": "05:57",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B出入口",
+   "textt": "侨香路南侧、香蜜体育中心、香蜜湖豪庭、新天国际名苑、香荟雅苑、熙园、学苑大厦、深圳市委党校、九号大院、深圳明德实验学校（集团）香蜜校区"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "侨香路北侧、枫丹雅苑、嘉园、恒星园、香雅园、香蜜湖瀚城、豪峰园、深水集团梅林水厂、万科温馨家园、香蜜公园"
+  }
+ ],
+ "siteCode": "0217",
+ "siteIntroduce": "香蜜站位于深圳市福田区侨香路与香蜜湖路交叉路口的东侧。该站为地下站。",
+ "siteName": "香蜜站",
+ "siteNameen": "Xiangmi",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:05",
+   "mobanchexia": "23:22",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:22",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

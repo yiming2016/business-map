@@ -1,0 +1,201 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、B607、M105、M113、M400、M409、M430",
+     "busName": "海上世界地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、M496、M527",
+     "busName": "海上世界公交接驳站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、M105、M113、M400、M409、M430",
+     "busName": "海上世界地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:36",
+   "mobanchexia": "22:49",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:45",
+   "shoubanchexia": "05:53",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:21",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:36",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、B607、M105、M113、M400、M409、M430",
+     "busName": "SeaWordStaion"
+    }
+   ],
+   "chukou": "ExitB"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "37、M496、M527",
+     "busName": "SeaWordStaion"
+    }
+   ],
+   "chukou": "ExitB"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "226、M105、M113、M400、M409、M430",
+     "busName": "SeaWordStaion"
+    }
+   ],
+   "chukou": "ExitC"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:36",
+   "mobanchexia": "23:49",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:45",
+   "shoubanchexia": "05:53",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "01:21",
+   "mobanchexia": "00:04",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:36",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "太子路东侧（南）、海上世界广场、女娲滨海公园"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "太子路东侧（北）、海上世界地铁站公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "太子路西侧（北）、工业三路、海上世界地铁站公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "兴华路、太子路西侧（南）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "南海大道东侧（南）"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "南海大道东侧（北）、荔枝公园(南海大道)"
+  },
+  {
+   "outt": "G出入口",
+   "textt": "南海大道西侧（北）、深圳市南山区妇幼保健院（儿童保健科、健康体检科）"
+  },
+  {
+   "outt": "H出入口",
+   "textt": "南海大道西侧（南）"
+  }
+ ],
+ "siteCode": "1203",
+ "siteIntroduce": "海上世界站位于工业三路和南海大道的交叉口处、沿南海大道南北向布置，为2、12号线的换乘站。该站为地下站。",
+ "siteName": "海上世界站",
+ "siteNameen": "Sea World",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:36",
+   "mobanchexia": "22:49",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:46",
+   "shoubanchexia": "05:59",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  },
+  {
+   "gaofenjiange": "早3分18秒、晚3分48秒",
+   "gaofenjiangeen": "早3m18s、晚3m48s",
+   "mobanche": "00:21",
+   "mobanchexia": "23:04",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:36",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B980、M332、M260、B933",
+     "busName": "松岗公园地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B980、M332、M260、B933",
+     "busName": "松岗公园地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B980、M332、M260、B933",
+     "busName": "松岗公园地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B980、M332、M260、B933",
+     "busName": "松岗公园地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "23:04",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:24",
+   "shoubanchexia": "06:23",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B980、M332、M260、B933",
+     "busName": "Songgang Park Metro station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B980、M332、M260、B933",
+     "busName": "Songgang Park Metro station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B980、M332、M260、B933",
+     "busName": "Songgang Park Metro station"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B980、M332、M260、B933",
+     "busName": "Songgang Park Metro station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "00:34",
+   "mobanchexia": "01:09",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:24",
+   "shoubanchexia": "06:22",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "沙江路北侧（东）、集信名城"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "沙江路北侧（西）、麒麟山公园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "沙江路南侧（西）、东风路（西）、麒麟新村"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "沙江路南侧（东）、东风路（东）、深圳市宝安市场监督管理局燕罗所、深圳市宝安区公共卫生服务燕罗分中心"
+  }
+ ],
+ "siteCode": "0625",
+ "siteIntroduce": "松岗公园站位于宝安区沙江东路与东风路交叉路口处，该站为地下站。",
+ "siteName": "松岗公园站",
+ "siteNameen": "Songgang Park",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒/4分40秒-6分24秒",
+   "gaofenjiangeen": "/4m40",
+   "mobanche": "23:04",
+   "mobanchexia": "00:11",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:24",
+   "shoubanchexia": "06:21",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

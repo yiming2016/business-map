@@ -1,0 +1,239 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "C22、26、N68、M168、362、M499、M576、B905",
+     "busName": "福田口岸公交总站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M576",
+     "busName": "渔农村站"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "52、62、N68、M576",
+     "busName": "国花路口站"
+    }
+   ],
+   "chukou": "D1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "N68、M102、M103、M476",
+     "busName": "福民公安小区站"
+    }
+   ],
+   "chukou": "D2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、M103、M168、377、M476、M499",
+     "busName": "福田水围村站"
+    }
+   ],
+   "chukou": "D2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M576",
+     "busName": "福保海关宿舍站"
+    }
+   ],
+   "chukou": "E出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "--",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "C22、26、N68、M168、362、M499、M576、B905",
+     "busName": "Futian Checkpoint Bus Terminal"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M576",
+     "busName": "Yunongcun"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "52、62、N68、M576",
+     "busName": "Guihua Crossing"
+    }
+   ],
+   "chukou": "Exit D1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "N68、M102、M103、M476",
+     "busName": "Fumin Public Security Community"
+    }
+   ],
+   "chukou": "Exit D2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、M103、M168、377、M476、M499",
+     "busName": "Futian Shuiweicun"
+    }
+   ],
+   "chukou": "Exit D2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M576",
+     "busName": "Fubao Customs Dormitory"
+    }
+   ],
+   "chukou": "Exit E"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "--",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "4分40秒",
+   "gaofenjiangeen": "4m40s",
+   "mobanche": "--",
+   "mobanchexia": "00:00",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:08",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "C出入口",
+   "textt": "裕亨路西侧、桂花路东侧（南）、福田口岸出境大厅、福田口岸公交总站、海悦华城、裕亨花园、港城华庭、港田花园、天泽花园"
+  },
+  {
+   "outt": "D1出入口",
+   "textt": "桂花路东侧（北）"
+  },
+  {
+   "outt": "D2出入口",
+   "textt": "国花路南侧、菩提路东侧、福港路西侧、深圳机场福田口岸城市候机楼、金港豪庭、福民公安小区、福民小学"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "菩提路南侧、南光名仕苑、银泰苑、新桂花村、骏皇名居、居雅苑"
+  }
+ ],
+ "siteCode": "1001",
+ "siteIntroduce": "福田口岸站位于深圳市福田区桂花路南侧和福田口岸大楼西侧的下方，为10、4号线的换乘站（需出站换乘）。该站为地下站。",
+ "siteName": "福田口岸站",
+ "siteNameen": "Futian Checkpoint",
+ "workDay": [
+  {
+   "gaofenjiange": "--",
+   "gaofenjiangeen": "--",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "--",
+   "pingjunjiangeen": "--",
+   "shoubanche": "--",
+   "shoubanchexia": "06:34",
+   "suoshuluxian": "4号线",
+   "suoshuluxianen": "4 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "牛湖",
+   "xinshifangxiangxiaen": "Niuhu"
+  },
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "--",
+   "mobanchexia": "23:00",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "10号线",
+   "suoshuluxianen": "10 Line",
+   "xinshifangxiang": "福田口岸",
+   "xinshifangxiangen": "Futian Checkpoint",
+   "xinshifangxiangxia": "双拥街",
+   "xinshifangxiangxiaen": "Shuangyong St"
+  }
+ ]
+}

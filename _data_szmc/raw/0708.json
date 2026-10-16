@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58路、67路、72路、104路、201路、326路、344路、M203路、M561、高峰专线49路、高峰专线184、塘朗山公园登山专线T162",
+     "busName": "桃源村地铁站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26路、19路、38路、T429",
+     "busName": "桃源村总站"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58路、67路、72路、104路、201路、326路、344路、M203路、高峰专线49路、塘朗山公园登山专线T162",
+     "busName": "桃源村地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分50秒",
+   "gaofenjiangeen": "4m50s",
+   "mobanche": "23:46",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "6分20秒",
+   "pingjunjiangeen": "6m20s",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、67、72、104、201、326、334、M203、M561、Peak Express Line 49、Peak Express Line 184、Tanglang Mountain Hiking Special Line T162",
+     "busName": "Taoyuancun Metro Station"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "26、19、38、T429",
+     "busName": "Taoyuancun Bus Terminal"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "58、67、72、104、201、326、334、M203、Peak Express Line 49、Tanglang Mountain Hiking Special Line T162",
+     "busName": "Taoyuancun Metro Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:46",
+   "mobanchexia": "00:15",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙珠大道南侧（西）、桃源村、桃源中学、龙珠六路"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙珠大道南侧（东）、桃源村、卓雅小学、哈尔滨工业大学（深圳）实验学校、桃源村三期"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "香榭峰景苑、龙珠七路、龙珠大道北侧、天地峰景园、中爱花园、俊峰丽舍、龙福苑、深圳市养老护理院、梅州大厦、深圳南山外籍人员子女学校"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙珠大道北侧、郁金香家园、皇庭香格里花园、水木华庭、湖彬苑、桃源社区公园、龙珠学校、龙珠六路、十五峯、塘朗山公园、深圳水务集团水质监测站"
+  }
+ ],
+ "siteCode": "0708",
+ "siteIntroduce": "桃源村站位于龙珠大道与龙珠六路及龙珠七路交汇处路段之间、车站主体位于龙珠大道路面下、沿龙珠大道布置。该站为地下站。",
+ "siteName": "桃源村站",
+ "siteNameen": "Taoyuancun",
+ "workDay": [
+  {
+   "gaofenjiange": "3-4分钟",
+   "gaofenjiangeen": "3-4m钟",
+   "mobanche": "23:46",
+   "mobanchexia": "23:15",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:04",
+   "shoubanchexia": "06:28",
+   "suoshuluxian": "7号线",
+   "suoshuluxianen": "7 Line",
+   "xinshifangxiang": "深大丽湖",
+   "xinshifangxiangen": "SZU Lihu Campus",
+   "xinshifangxiangxia": "太安",
+   "xinshifangxiangxiaen": "Tai'an"
+  }
+ ]
+}

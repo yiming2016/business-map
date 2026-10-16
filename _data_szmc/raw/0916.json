@@ -1,0 +1,167 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21路、M441路",
+     "busName": "香蜜二村"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "73路、222路、M555路、222路大站快车",
+     "busName": "市政大厦②"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "21路、222路大站快车、M555路",
+     "busName": "市政大厦"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "328路、M392路、M441路、B666路",
+     "busName": "龙塘"
+    },
+    {
+     "busInfo": "222路、M555路",
+     "busName": "水榭花都"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分25秒",
+   "gaofenjiangeen": "4m25s",
+   "mobanche": "23:33",
+   "mobanchexia": "23:35",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:00",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Route 21、Route M441",
+     "busName": "Xiangmi 2nd Village"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Route 73、Route 222、Route M555、Route 222 Express",
+     "busName": "Municipal Administration Building ②"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Route 21、Route 222 Express、Route M555",
+     "busName": "Municipal Administration Building"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "Route 328、Route M392、Route M441、Route B666",
+     "busName": "Longtang"
+    },
+    {
+     "busInfo": "Route 222, Route M555",
+     "busName": "Water-Flowers"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:34",
+   "mobanchexia": "00:35",
+   "pingjunjiange": "5分55秒",
+   "pingjunjiangeen": "5m55s",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "红荔西路南侧（西）、香蜜南二街、规划大厦、深圳市海洋发展局、深圳市规划和自然资源局、深圳土地房产交易大厦、深圳市林业局"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "香梅路西侧（南）、香蜜南四街"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "红荔西路南侧（东）、新闻路、景田南街心公园、缇香名苑、香蜜二村、香逸名园、市政大厦②公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "红荔西路北侧（东）、景田西路、市政大厦、鲁班大厦、市政大院、香蜜新村、深圳景田医院、中国邮政"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "香梅路西侧（北）、深圳市福田区荔园外国语教育集团、香蜜湖水榭花都"
+  }
+ ],
+ "siteCode": "0916",
+ "siteIntroduce": "香梅站位于红荔西路与香梅路交叉口处，车站平行红荔西路东西向布置。该站为地下站。",
+ "siteName": "香梅站",
+ "siteNameen": "Xiangmei",
+ "workDay": [
+  {
+   "gaofenjiange": "3分50秒",
+   "gaofenjiangeen": "3m50s",
+   "mobanche": "23:33",
+   "mobanchexia": "23:35",
+   "pingjunjiange": "9分钟",
+   "pingjunjiangeen": "9m钟",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:09",
+   "suoshuluxian": "9号线",
+   "suoshuluxianen": "9 Line",
+   "xinshifangxiang": "前湾",
+   "xinshifangxiangen": "QianWan",
+   "xinshifangxiangxia": "文锦",
+   "xinshifangxiangxiaen": "Wenjin"
+  }
+ ]
+}

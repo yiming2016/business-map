@@ -1,0 +1,133 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334路、339路、M112路、M134路、M125路、M202路、M222路、M392路、M398路、M401路、M448路、高峰47路、高快27路、高峰专线96号、C7路",
+     "busName": "梅龙天桥站"
+    }
+   ],
+   "chukou": "A1出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334路、339路、M112路、M134路、M125路、M202路、M222路、M392路、M398路、M401路、M448路、高峰47路、高快27路、高峰专线96号、C7路",
+     "busName": "梅龙天桥站"
+    }
+   ],
+   "chukou": "A2出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60路、324路、M581线",
+     "busName": "翰岭院站"
+    }
+   ],
+   "chukou": "B出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒-5分钟",
+   "gaofenjiangeen": "4m30s-5m钟",
+   "mobanche": "00:04",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "5-10分钟",
+   "pingjunjiangeen": "5-10m钟",
+   "shoubanche": "06:15",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334、339、M112、M134、M125、M202、M222、M392、M398、M401、M448、High Speed Bus No. 47 、High Speed Bus No. 27 、High Speed Bus No. 96 、C7",
+     "busName": "Hanling Station"
+    }
+   ],
+   "chukou": "Exit A1"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "334、339、M112、M134、M125、M202、M222、M392、M398、M401、M448、High Speed Bus No. 47 、High Speed Bus No. 27 、High Speed Bus No. 96 、C7",
+     "busName": "Hanling Station"
+    }
+   ],
+   "chukou": "Exit A2"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "60、324、M581",
+     "busName": "HanlingYuan Station"
+    }
+   ],
+   "chukou": "Exit B"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "01:31",
+   "mobanchexia": "00:10",
+   "pingjunjiange": "5-8分钟",
+   "pingjunjiangeen": "5-8m钟",
+   "shoubanche": "06:16",
+   "shoubanchexia": "06:30",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A1出入口",
+   "textt": "翰岭院、半山御景"
+  },
+  {
+   "outt": "A2出入口",
+   "textt": "翰岭院、半山御景"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "翰岭实验学校、香港中文大学（深圳）附属明德高级中学、福田区看守所、武警深圳市支队福田区中队"
+  }
+ ],
+ "siteCode": "0606",
+ "siteIntroduce": "翰岭站位于深圳市龙华区梅观路南侧规划绿地和国有储备用地内、沿梅观路呈东西向布置；该站为地下站",
+ "siteName": "翰岭站",
+ "siteNameen": "Hanling",
+ "workDay": [
+  {
+   "gaofenjiange": "2分20秒-3分12秒",
+   "gaofenjiangeen": "2m20s-3m12s",
+   "mobanche": "00:04",
+   "mobanchexia": "23:10",
+   "pingjunjiange": "7分06秒",
+   "pingjunjiangeen": "7m06s",
+   "shoubanche": "06:07",
+   "shoubanchexia": "06:20",
+   "suoshuluxian": "6号线",
+   "suoshuluxianen": "6 Line",
+   "xinshifangxiang": "科学馆",
+   "xinshifangxiangen": "Science Museum",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Songgang"
+  }
+ ]
+}

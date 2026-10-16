@@ -1,0 +1,143 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "23:58",
+   "mobanchexia": "00:07",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "05:33",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "--",
+   "mobanchexia": "22:16",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "07:00",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [],
+   "chukou": "此站暂无数据"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "00:58",
+   "mobanchexia": "01:04",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "05:33",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "12分钟",
+   "gaofenjiangeen": "12m钟",
+   "mobanche": "--",
+   "mobanchexia": "22:16",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "07:00",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口（临时关闭）",
+   "textt": "本站周边暂无市政交通道路"
+  },
+  {
+   "outt": "B出入口（临时关闭）",
+   "textt": "本站周边暂无市政交通道路"
+  },
+  {
+   "outt": "C出入口（临时关闭）",
+   "textt": "本站周边暂无市政交通道路"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "本站周边暂无市政交通道路"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "本站周边暂无市政交通道路"
+  }
+ ],
+ "siteCode": "2001",
+ "siteIntroduce": "机场北站位于宝安区机场九道附近，为11、20号线换乘站。该站为地下站。",
+ "siteName": "机场北站",
+ "siteNameen": "Airport North",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分15秒、晚3分07秒。",
+   "gaofenjiangeen": "早2m15s、晚3m07s。",
+   "mobanche": "23:58",
+   "mobanchexia": "00:07",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "05:32",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  },
+  {
+   "gaofenjiange": "10分40秒",
+   "gaofenjiangeen": "10m40s",
+   "mobanche": "--",
+   "mobanchexia": "22:16",
+   "pingjunjiange": "16分钟",
+   "pingjunjiangeen": "16m钟",
+   "shoubanche": "--",
+   "shoubanchexia": "07:00",
+   "suoshuluxian": "20号线",
+   "suoshuluxianen": "20 Line",
+   "xinshifangxiang": "机场北站",
+   "xinshifangxiangen": "Airport North",
+   "xinshifangxiangxia": "会展城站",
+   "xinshifangxiangxiaen": "Convention & Exhibition City"
+  }
+ ]
+}

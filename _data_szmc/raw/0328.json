@@ -1,0 +1,137 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358快线、M266、M275、M320、M239、M501、惠州208",
+     "busName": "吉祥地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M266、M275、M320、358快线、M239",
+     "busName": "吉祥地铁站②"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M501、惠州208",
+     "busName": "吉祥地铁站①"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "3分-4分15秒",
+   "gaofenjiangeen": "3m-4m15s",
+   "mobanche": "23:22",
+   "mobanchexia": "00:07",
+   "pingjunjiange": "4分30秒-10分钟",
+   "pingjunjiangeen": "4m30s-10m钟",
+   "shoubanche": "06:12",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "358 快线、M266、M275、M320、M239、M501、惠州208",
+     "busName": "Jixiang subway station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M266、M275、M320、358快线、M239",
+     "busName": "Jixiang subway station②"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M501、Huizhou line 208",
+     "busName": "Jixiang subway station①"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "3分58秒",
+   "gaofenjiangeen": "3m58s",
+   "mobanche": "00:06",
+   "mobanchexia": "01:05",
+   "pingjunjiange": "4分9秒-7分30秒",
+   "pingjunjiangeen": "4m9s-7m30s",
+   "shoubanche": "06:12",
+   "shoubanchexia": "06:15",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "龙岗大道南侧（西）、吉祥南路"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "龙岗大道南侧（东）、吉祥地铁站公交站、湖广通创业大厦"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "龙岗大道北侧（东）、吉祥地铁站②公交站、风临域、万科天誉、鸿基幼儿园、西埔西街、深圳市龙岗区天誉实验学校"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "龙岗大道北侧（西）、吉祥地铁站①公交站、深圳机场龙岗候机楼、正中风临国际、龙城中学、鸿基花园、鸿进花园"
+  }
+ ],
+ "siteCode": "0328",
+ "siteIntroduce": "吉祥站位于龙岗大道与吉祥路交汇处，该站为高架站。",
+ "siteName": "吉祥站",
+ "siteNameen": "Jixiang",
+ "workDay": [
+  {
+   "gaofenjiange": "平均3分",
+   "gaofenjiangeen": "平均3m",
+   "mobanche": "23:22",
+   "mobanchexia": "00:07",
+   "pingjunjiange": "7分钟",
+   "pingjunjiangeen": "7m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "3号线",
+   "suoshuluxianen": "3 Line",
+   "xinshifangxiang": "福保",
+   "xinshifangxiangen": "Futian Bonded Area",
+   "xinshifangxiangxia": "坪地六联",
+   "xinshifangxiangxiaen": "Pingdi Liulian"
+  }
+ ]
+}

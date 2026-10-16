@@ -1,0 +1,151 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72、104、316、326、M561、高峰166、高峰专线119",
+     "busName": "华侨城医院"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M486",
+     "busName": "华侨城医院南"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72、104、316、326、M561、高峰专线119、高峰166",
+     "busName": "华侨城医院"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B661",
+     "busName": "侨城北地铁站"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "00:12",
+   "mobanchexia": "23:14",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:32",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72、104、316、326、M561、Peak Line 166、Peak Line 119",
+     "busName": "OCT Hospital"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M486",
+     "busName": "OCT Hospital South"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "72、104、316、326、M561、Peak Line 119、Peak Line 166",
+     "busName": "OCT Hospital"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B661",
+     "busName": "Qiaocheng North station"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分33秒",
+   "gaofenjiangeen": "4m33s",
+   "mobanche": "01:12",
+   "mobanchexia": "00:14",
+   "pingjunjiange": "6-8分钟",
+   "pingjunjiangeen": "6-8m钟",
+   "shoubanche": "06:32",
+   "shoubanchexia": "05:50",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "B出入口",
+   "textt": "侨香路南侧、香山东街北侧、深圳华侨城医院、华侨城医院公交站"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "侨香路北侧（东）、华侨城医院公交站"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "侨香路北侧（西）、侨城北地铁站公交站、香年广场"
+  }
+ ],
+ "siteCode": "0213",
+ "siteIntroduce": "侨城北站位于深圳市南山区侨香路。该站为地下站。",
+ "siteName": "侨城北站",
+ "siteNameen": "Qiaocheng North",
+ "workDay": [
+  {
+   "gaofenjiange": "2分48秒",
+   "gaofenjiangeen": "2m48s",
+   "mobanche": "00:12",
+   "mobanchexia": "23:14",
+   "pingjunjiange": "7分10秒",
+   "pingjunjiangeen": "7m10s",
+   "shoubanche": "06:31",
+   "shoubanchexia": "05:52",
+   "suoshuluxian": "2号线",
+   "suoshuluxianen": "2 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "莲塘",
+   "xinshifangxiangxiaen": "Liantang"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、M179",
+     "busName": "西环沙二新村"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、M179",
+     "busName": "西环沙二新村"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、M179",
+     "busName": "蚝三丰泽园"
+    }
+   ],
+   "chukou": "C出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、M179",
+     "busName": "蚝三丰泽园"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "23:08",
+   "mobanchexia": "00:17",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、M179",
+     "busName": "Xihuan Sha'er Xincun"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、M179",
+     "busName": "Xihuan Sha'er Xincun"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、M179",
+     "busName": "Haosan Fengzeyuan"
+    }
+   ],
+   "chukou": "Exit C"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "337、652、M179",
+     "busName": "Haosan Fengzeyuan"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "5分钟",
+   "gaofenjiangeen": "5m钟",
+   "mobanche": "00:08",
+   "mobanchexia": "01:17",
+   "pingjunjiange": "6-10分钟",
+   "pingjunjiangeen": "6-10m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "沙井西环路西侧、蚝乡路南侧、沙二西环新村"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "沙井西环路东侧、蚝乡路南侧"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "沙井西环路东侧、蚝乡路北侧"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "沙井西环路西侧、蚝乡路北侧、沙三西环新村"
+  }
+ ],
+ "siteCode": "1235",
+ "siteIntroduce": "沙蚝站位于西环路与蚝乡路交汇处，该站为地下站",
+ "siteName": "沙蚝站",
+ "siteNameen": "Shahao",
+ "workDay": [
+  {
+   "gaofenjiange": "早3分18秒/6分36秒、晚3分48秒/7分46秒",
+   "gaofenjiangeen": "s、晚3m",
+   "mobanche": "23:08",
+   "mobanchexia": "00:17",
+   "pingjunjiange": "5分钟",
+   "pingjunjiangeen": "5m钟",
+   "shoubanche": "06:13",
+   "shoubanchexia": "06:07",
+   "suoshuluxian": "12号线",
+   "suoshuluxianen": "12 Line",
+   "xinshifangxiang": "左炮台东",
+   "xinshifangxiangen": "Zuopaotai East",
+   "xinshifangxiangxia": "松岗",
+   "xinshifangxiangxiaen": "Waterlands Resort East"
+  }
+ ]
+}

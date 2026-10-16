@@ -1,0 +1,211 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M375、M376、M377、M379、M473",
+     "busName": "创业一路海旺路口站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B837、M157、M350、M375、M376、M377、M470、高快巴士33",
+     "busName": "宝安中心站"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M379、M473、宝安中心区欢乐环线",
+     "busName": "壹方中心北站"
+    }
+   ],
+   "chukou": "E出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B837、M157、M350、M470、摩天轮假日接驳线",
+     "busName": "宝安中心站"
+    }
+   ],
+   "chukou": "F出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分30秒",
+   "gaofenjiangeen": "4m30s",
+   "mobanche": "23:17",
+   "mobanchexia": "23:51",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "23:52",
+   "mobanchexia": "23:34",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M375、 M376、 M377、 M379、 M473",
+     "busName": "Haiwang Road Station、 Chuangye No.1 Road"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B837、 M157、 M350、 M375、 M376、 M377、 M470、 Express Bus 33",
+     "busName": "Baoan Central Station"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M379、 M473、 Happy Ring Road、 Baoan Central District",
+     "busName": "Yifang Center North Station"
+    }
+   ],
+   "chukou": "Exit E"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "B837、 M157、 M350、 M470、 Ferris wheel holiday connection line",
+     "busName": "Baoan Central Station"
+    }
+   ],
+   "chukou": "Exit F"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分12秒",
+   "gaofenjiangeen": "4m12s",
+   "mobanche": "00:17",
+   "mobanchexia": "00:51",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:33",
+   "shoubanchexia": "06:05",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "4分钟",
+   "gaofenjiangeen": "4m钟",
+   "mobanche": "00:52",
+   "mobanchexia": "00:34",
+   "pingjunjiange": "6分钟",
+   "pingjunjiangeen": "6m钟",
+   "shoubanche": "06:02",
+   "shoubanchexia": "06:19",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "新湖路北侧（东）、海旺中学"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "创业一路南侧（东）"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "创业一路北侧、滨海小学"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "新湖路北侧（西）"
+  },
+  {
+   "outt": "E出入口",
+   "textt": "新湖路南侧、中共深圳市宝安区委员会、深圳市宝安区人民政府、海滨广场"
+  },
+  {
+   "outt": "F出入口",
+   "textt": "新湖路西侧"
+  }
+ ],
+ "siteCode": "0511",
+ "siteIntroduce": "宝安中心站位于深圳市宝安区新湖路与创业一路交叉路口下方，为1、5号线的换乘站。该站为地下站。",
+ "siteName": "宝安中心站",
+ "siteNameen": "Bao'an Center",
+ "workDay": [
+  {
+   "gaofenjiange": "2分钟",
+   "gaofenjiangeen": "2m钟",
+   "mobanche": "23:17",
+   "mobanchexia": "23:51",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "06:31",
+   "shoubanchexia": "06:03",
+   "suoshuluxian": "1号线",
+   "suoshuluxianen": "1 Line",
+   "xinshifangxiang": "罗湖",
+   "xinshifangxiangen": "Luohu",
+   "xinshifangxiangxia": "机场东",
+   "xinshifangxiangxiaen": "Airport East"
+  },
+  {
+   "gaofenjiange": "2-2分38秒",
+   "gaofenjiangeen": "2-2m38s",
+   "mobanche": "23:52",
+   "mobanchexia": "23:34",
+   "pingjunjiange": "5分50秒",
+   "pingjunjiangeen": "5m50s",
+   "shoubanche": "05:52",
+   "shoubanchexia": "05:59",
+   "suoshuluxian": "5号线",
+   "suoshuluxianen": "5 Line",
+   "xinshifangxiang": "赤湾",
+   "xinshifangxiangen": "Chiwan",
+   "xinshifangxiangxia": "大剧院",
+   "xinshifangxiangxiaen": "Huangbeiling"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466",
+     "busName": "长江埔工业区"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466",
+     "busName": "长江埔工业区"
+    }
+   ],
+   "chukou": "D出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "7分50秒",
+   "gaofenjiangeen": "7m50s",
+   "mobanche": "23:51",
+   "mobanchexia": "23:14",
+   "pingjunjiange": "8分50秒",
+   "pingjunjiangeen": "8m50s",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:06",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466",
+     "busName": "Changjiangpu Industrial Area"
+    }
+   ],
+   "chukou": "ExitA"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M466",
+     "busName": "Changjiangpu Industrial Area"
+    }
+   ],
+   "chukou": "Exit D"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "00:51",
+   "mobanchexia": "00:14",
+   "pingjunjiange": "7-9分钟",
+   "pingjunjiangeen": "7-9m钟",
+   "shoubanche": "05:57",
+   "shoubanchexia": "06:04",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "信义创御广场"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "交警东部高速大队，森雅谷，横岗花半里▪雅筑，润筑园"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "荷坳派出所，横岗长途汽车站，水晶城小学，荷坳街心公园，龙岗区人民法院园山人民法庭"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "深圳市公安局交通警察支队龙岗车管所"
+  }
+ ],
+ "siteCode": "1608",
+ "siteIntroduce": "金源站位于长江埔路与长金路交叉口东西侧，沿长江埔路呈东西向敷设，该站为地下站。",
+ "siteName": "金源站",
+ "siteNameen": "JinYuan",
+ "workDay": [
+  {
+   "gaofenjiange": "6分钟",
+   "gaofenjiangeen": "6m钟",
+   "mobanche": "23:51",
+   "mobanchexia": "23:14",
+   "pingjunjiange": "10分钟",
+   "pingjunjiangeen": "10m钟",
+   "shoubanche": "05:52",
+   "shoubanchexia": "05:56",
+   "suoshuluxian": "16号线",
+   "suoshuluxianen": "16 Line",
+   "xinshifangxiang": "园山西坑",
+   "xinshifangxiangen": "Yuanshan Xikeng",
+   "xinshifangxiangxia": "田心",
+   "xinshifangxiangxiaen": "Tianxin"
+  }
+ ]
+}

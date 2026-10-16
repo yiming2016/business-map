@@ -1,0 +1,155 @@
+{
+ "busInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M131、M197、M200、M210、M376、M507、M157",
+     "busName": "西岸花园"
+    }
+   ],
+   "chukou": "A出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M131、M200、M210、M376、M507、M157",
+     "busName": "西岸花园"
+    }
+   ],
+   "chukou": "D出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M473、B932",
+     "busName": "宝安地铁站"
+    }
+   ],
+   "chukou": "B出入口"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M473、B932",
+     "busName": "宝安地铁站"
+    }
+   ],
+   "chukou": "C出入口"
+  }
+ ],
+ "dayoff": [
+  {
+   "gaofenjiange": "4分22秒",
+   "gaofenjiangeen": "4m22s",
+   "mobanche": "00:13",
+   "mobanchexia": "23:52",
+   "pingjunjiange": "6-13分钟",
+   "pingjunjiangeen": "6-13m钟",
+   "shoubanche": "05:48",
+   "shoubanchexia": "06:26",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "enbusInof": [
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M131、M197、M200、M210、M376、M507、M157",
+     "busName": "Xi'an Garden"
+    }
+   ],
+   "chukou": "Exit A"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M157、M507、M131、M200、M210、M376",
+     "busName": "Xi'an Garden"
+    }
+   ],
+   "chukou": "Exit D"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M473、B932",
+     "busName": "Bao'an Station"
+    }
+   ],
+   "chukou": "Exit B"
+  },
+  {
+   "busOutInfo": [
+    {
+     "busInfo": "M473、B932",
+     "busName": "Bao'an Station"
+    }
+   ],
+   "chukou": "Exit C"
+  }
+ ],
+ "enoutAndText": [],
+ "holidays": [
+  {
+   "gaofenjiange": "4分21秒",
+   "gaofenjiangeen": "4m21s",
+   "mobanche": "01:12",
+   "mobanchexia": "00:51",
+   "pingjunjiange": "6-12分钟",
+   "pingjunjiangeen": "6-12m钟",
+   "shoubanche": "05:47",
+   "shoubanchexia": "06:24",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ],
+ "outAndText": [
+  {
+   "outt": "A出入口",
+   "textt": "宝源南路南侧（西）、裕安一路（西）、新安中学高中部、第五大道高发西岸花园、深业新岸线、鹤祥宫（高发店)"
+  },
+  {
+   "outt": "B出入口",
+   "textt": "宝源南路南侧（东）、裕安一路南侧、创业一路、前海人寿金融中心、深圳农商银行"
+  },
+  {
+   "outt": "C出入口",
+   "textt": "宝源南路北侧（东）、裕安一路（东）、宝安区人民政府、壹方城购物中心"
+  },
+  {
+   "outt": "D出入口",
+   "textt": "宝源南路北侧（西）、裕安一路北侧、宝安体育场、宝安区青少年业余体育学校、福中福幸福海岸"
+  }
+ ],
+ "siteCode": "1111",
+ "siteIntroduce": "宝安站位于宝安创业一路与裕安一路交叉口处。该站为地下站。",
+ "siteName": "宝安站",
+ "siteNameen": "Bao'an",
+ "workDay": [
+  {
+   "gaofenjiange": "早2分15秒、晚3分07秒。",
+   "gaofenjiangeen": "早2m15s、晚3m07s。",
+   "mobanche": "00:13",
+   "mobanchexia": "23:52",
+   "pingjunjiange": "6分30秒",
+   "pingjunjiangeen": "6m30s",
+   "shoubanche": "05:46",
+   "shoubanchexia": "06:26",
+   "suoshuluxian": "11号线",
+   "suoshuluxianen": "11 Line",
+   "xinshifangxiang": "红岭南",
+   "xinshifangxiangen": "Huaqiang South",
+   "xinshifangxiangxia": "碧头",
+   "xinshifangxiangxiaen": "Bitou"
+  }
+ ]
+}
